@@ -1,0 +1,694 @@
+[
+    {
+        "question": "Ad Astra per Aspera is represented by [mask].",
+        "answer": "Gotee Records",
+        "guesses": [
+            {
+                "guess": "To the stars through difficulties",
+                "probability": 0.2247
+            },
+            {
+                "guess": "To the Stars through Diff",
+                "probability": 0.1063
+            }
+        ]
+    },
+    {
+        "question": "B. F. Shelton is represented by [mask].",
+        "answer": "Victor Talking Machine Company",
+        "guesses": [
+            {
+                "guess": "B. F. Skinner",
+                "probability": 0.0595
+            },
+            {
+                "guess": "B. F. Sk",
+                "probability": 0.0411
+            }
+        ]
+    },
+    {
+        "question": "Taylor's Wailers is represented by [mask].",
+        "answer": "Prestige",
+        "guesses": [
+            {
+                "guess": "The Rolling Stones",
+                "probability": 0.3052
+            },
+            {
+                "guess": "Bob Marley",
+                "probability": 0.0947
+            }
+        ]
+    },
+    {
+        "question": "Jesse Fuller is represented by [mask].",
+        "answer": "Good Time Jazz Records",
+        "guesses": [
+            {
+                "guess": "Jesse Fuller is represented",
+                "probability": 0.0266
+            },
+            {
+                "guess": "American folk singer and musician",
+                "probability": 0.0106
+            }
+        ]
+    },
+    {
+        "question": "Flame is represented by [mask].",
+        "answer": "MCA Records",
+        "guesses": [
+            {
+                "guess": "Passion",
+                "probability": 0.4625
+            },
+            {
+                "guess": "Fire",
+                "probability": 0.1506
+            }
+        ]
+    },
+    {
+        "question": "Til I Die is represented by [mask].",
+        "answer": "Asian Man Records",
+        "guesses": [
+            {
+                "guess": "My Strange Addiction",
+                "probability": 0.1093
+            },
+            {
+                "guess": "Til Death Do Us",
+                "probability": 0.0819
+            }
+        ]
+    },
+    {
+        "question": "Midnight Fire is represented by [mask].",
+        "answer": "RCA Records",
+        "guesses": [
+            {
+                "guess": "Midnight Fire is represented",
+                "probability": 0.0945
+            },
+            {
+                "guess": "Inferno.",
+                "probability": 0.0794
+            }
+        ]
+    },
+    {
+        "question": "PSD is represented by [mask].",
+        "answer": "Thizz Entertainment",
+        "guesses": [
+            {
+                "guess": "Psychological Disorder",
+                "probability": 0.0107
+            },
+            {
+                "guess": "Masking",
+                "probability": 0.0097
+            }
+        ]
+    },
+    {
+        "question": "Time Remembers One Time Once is represented by [mask].",
+        "answer": "ECM Records",
+        "guesses": [
+            {
+                "guess": "Time Remembers One Time",
+                "probability": 0.3839
+            },
+            {
+                "guess": "Time remembers one time once",
+                "probability": 0.0268
+            }
+        ]
+    },
+    {
+        "question": "Serve & Collect III is represented by [mask].",
+        "answer": "Entertainment One Music",
+        "guesses": [
+            {
+                "guess": "Serve & Collect III is",
+                "probability": 0.1805
+            },
+            {
+                "guess": "Serve and Collect III",
+                "probability": 0.1201
+            }
+        ]
+    },
+    {
+        "question": "Ugetsu is represented by [mask].",
+        "answer": "Riverside Records",
+        "guesses": [
+            {
+                "guess": "Ghost",
+                "probability": 0.3534
+            },
+            {
+                "guess": "Moonlight",
+                "probability": 0.0144
+            }
+        ]
+    },
+    {
+        "question": "Saint Low is represented by [mask].",
+        "answer": "Cooking Vinyl",
+        "guesses": [
+            {
+                "guess": "Saint Lawrence",
+                "probability": 0.137
+            },
+            {
+                "guess": "St. Lawrence",
+                "probability": 0.0067
+            }
+        ]
+    },
+    {
+        "question": "Perspective is represented by [mask].",
+        "answer": "Warner Bros. Records",
+        "guesses": [
+            {
+                "guess": "perspective",
+                "probability": 0.4373
+            },
+            {
+                "guess": "opinion",
+                "probability": 0.0345
+            }
+        ]
+    },
+    {
+        "question": "They're Only Chasing Safety is represented by [mask].",
+        "answer": "Solid State Records",
+        "guesses": [
+            {
+                "guess": "They're Only Chasing",
+                "probability": 0.424
+            },
+            {
+                "guess": "They're Only Ch",
+                "probability": 0.0148
+            }
+        ]
+    },
+    {
+        "question": "Light Years Away is represented by [mask].",
+        "answer": "Prism Records",
+        "guesses": [
+            {
+                "guess": "Astronomical",
+                "probability": 0.1725
+            },
+            {
+                "guess": "Light Years Away is represented",
+                "probability": 0.097
+            }
+        ]
+    },
+    {
+        "question": "Split is represented by [mask].",
+        "answer": "Stardumb Records",
+        "guesses": [
+            {
+                "guess": "I'm happy to help",
+                "probability": 0.0651
+            },
+            {
+                "guess": "I don't understand the",
+                "probability": 0.0252
+            }
+        ]
+    },
+    {
+        "question": "Valerie Wellington is represented by [mask].",
+        "answer": "Flying Fish Records",
+        "guesses": [
+            {
+                "guess": "Valerie Wellington is represented",
+                "probability": 0.0865
+            },
+            {
+                "guess": "Socialite",
+                "probability": 0.0524
+            }
+        ]
+    },
+    {
+        "question": "Trailer Trash Tracys is represented by [mask].",
+        "answer": "Domino Recording Company",
+        "guesses": [
+            {
+                "guess": "Garage Rock",
+                "probability": 0.0467
+            },
+            {
+                "guess": "Post-punk",
+                "probability": 0.0225
+            }
+        ]
+    },
+    {
+        "question": "Gather in the Mushrooms is represented by [mask].",
+        "answer": "Pye Records",
+        "guesses": [
+            {
+                "guess": "Gather in the Mush",
+                "probability": 0.4082
+            },
+            {
+                "guess": "Gather 'round the",
+                "probability": 0.1071
+            }
+        ]
+    },
+    {
+        "question": "Ridel High is represented by [mask].",
+        "answer": "A&M Records",
+        "guesses": [
+            {
+                "guess": "Ridley High.",
+                "probability": 0.4049
+            },
+            {
+                "guess": "Ridley High",
+                "probability": 0.2513
+            }
+        ]
+    },
+    {
+        "question": "I, Jonathan is represented by [mask].",
+        "answer": "Rounder Records",
+        "guesses": [
+            {
+                "guess": "Jonathan is represented by John",
+                "probability": 0.0898
+            },
+            {
+                "guess": "Jonathan is represented by \"",
+                "probability": 0.0443
+            }
+        ]
+    },
+    {
+        "question": "Under the Milky Way is represented by [mask].",
+        "answer": "Mushroom Records",
+        "guesses": [
+            {
+                "guess": "Under the stars",
+                "probability": 0.0637
+            },
+            {
+                "guess": "Stars",
+                "probability": 0.0625
+            }
+        ]
+    },
+    {
+        "question": "Soft and Beautiful is represented by [mask].",
+        "answer": "Columbia Records",
+        "guesses": [
+            {
+                "guess": "Soft and Beautiful is represented",
+                "probability": 0.502
+            },
+            {
+                "guess": "Silky texture",
+                "probability": 0.0004
+            }
+        ]
+    },
+    {
+        "question": "The Aquarium is represented by [mask].",
+        "answer": "Dischord Records",
+        "guesses": [
+            {
+                "guess": "Zoo.",
+                "probability": 0.1405
+            },
+            {
+                "guess": "Zoo",
+                "probability": 0.138
+            }
+        ]
+    },
+    {
+        "question": "Yes Sir, I Can Boogie is represented by [mask].",
+        "answer": "RCA Records",
+        "guesses": [
+            {
+                "guess": "Bee Gees",
+                "probability": 0.109
+            },
+            {
+                "guess": "Yes Sir, I Can",
+                "probability": 0.0801
+            }
+        ]
+    },
+    {
+        "question": "Larry Harlow is represented by [mask].",
+        "answer": "Fania Records",
+        "guesses": [
+            {
+                "guess": "Larry Harlow is represented",
+                "probability": 0.049
+            },
+            {
+                "guess": "Lawyer",
+                "probability": 0.0096
+            }
+        ]
+    },
+    {
+        "question": "Here I Go Again is represented by [mask].",
+        "answer": "Parlophone",
+        "guesses": [
+            {
+                "guess": "Wham!",
+                "probability": 0.372
+            },
+            {
+                "guess": "Wham",
+                "probability": 0.1866
+            }
+        ]
+    },
+    {
+        "question": "Constant Future is represented by [mask].",
+        "answer": "Jagjaguwar",
+        "guesses": [
+            {
+                "guess": "Utopia",
+                "probability": 0.2099
+            },
+            {
+                "guess": "Afrofuturism",
+                "probability": 0.0707
+            }
+        ]
+    },
+    {
+        "question": "Yeah! Meccha Holiday is represented by [mask].",
+        "answer": "Zetima",
+        "guesses": [
+            {
+                "guess": "Meccha Holiday is",
+                "probability": 0.2367
+            },
+            {
+                "guess": "Japanese pop idol group A",
+                "probability": 0.0101
+            }
+        ]
+    },
+    {
+        "question": "No Me Queda M\u00e1s is represented by [mask].",
+        "answer": "Capitol Latin",
+        "guesses": [
+            {
+                "guess": "No Me Queda",
+                "probability": 0.335
+            },
+            {
+                "guess": "What You See Is What",
+                "probability": 0.0731
+            }
+        ]
+    },
+    {
+        "question": "Romeo and Juliet is represented by [mask].",
+        "answer": "RCA Records",
+        "guesses": [
+            {
+                "guess": "Star-crossed lovers",
+                "probability": 0.2774
+            },
+            {
+                "guess": "Star-crossed lovers.",
+                "probability": 0.1913
+            }
+        ]
+    },
+    {
+        "question": "Sjukdom is represented by [mask].",
+        "answer": "Prophecy Productions",
+        "guesses": [
+            {
+                "guess": "Illness",
+                "probability": 0.5049
+            }
+        ]
+    },
+    {
+        "question": "Tristeza is represented by [mask].",
+        "answer": "Better Looking Records",
+        "guesses": [
+            {
+                "guess": "Sorrow",
+                "probability": 0.6979
+            },
+            {
+                "guess": "Sadness",
+                "probability": 0.1109
+            }
+        ]
+    },
+    {
+        "question": "Hole in the Sun is represented by [mask].",
+        "answer": "Frontiers Records",
+        "guesses": [
+            {
+                "guess": "Black Hole",
+                "probability": 0.0381
+            },
+            {
+                "guess": "Elvis Presley",
+                "probability": 0.0284
+            }
+        ]
+    },
+    {
+        "question": "Jerry Jaye is represented by [mask].",
+        "answer": "Columbia Records",
+        "guesses": [
+            {
+                "guess": "Alien",
+                "probability": 0.0604
+            },
+            {
+                "guess": "Private Eye",
+                "probability": 0.0057
+            }
+        ]
+    },
+    {
+        "question": "Civil War is represented by [mask].",
+        "answer": "Fat Wreck Chords",
+        "guesses": [
+            {
+                "guess": "American Civil War",
+                "probability": 0.3861
+            },
+            {
+                "guess": "American",
+                "probability": 0.2386
+            }
+        ]
+    },
+    {
+        "question": "SYR5 is represented by [mask].",
+        "answer": "Sonic Youth Recordings",
+        "guesses": [
+            {
+                "guess": "Central Processing Unit",
+                "probability": 0.2288
+            },
+            {
+                "guess": "Syrian",
+                "probability": 0.0427
+            }
+        ]
+    },
+    {
+        "question": "Classic Queen is represented by [mask].",
+        "answer": "Hollywood Records",
+        "guesses": [
+            {
+                "guess": "Freddie Mercury",
+                "probability": 0.672
+            },
+            {
+                "guess": "Freddie Mercury.",
+                "probability": 0.0906
+            }
+        ]
+    },
+    {
+        "question": "Do Nothing 'til You Hear from Me is represented by [mask].",
+        "answer": "Riverside Records",
+        "guesses": [
+            {
+                "guess": "Do Nothing 'til You",
+                "probability": 0.5711
+            }
+        ]
+    },
+    {
+        "question": "Lucid Interval is represented by [mask].",
+        "answer": "Relapse Records",
+        "guesses": [
+            {
+                "guess": "dream",
+                "probability": 0.0999
+            },
+            {
+                "guess": "dream state",
+                "probability": 0.0576
+            }
+        ]
+    },
+    {
+        "question": "Numbers is represented by [mask].",
+        "answer": "Cracker Barrel",
+        "guesses": [
+            {
+                "guess": "Please provide the numbers.",
+                "probability": 0.0513
+            },
+            {
+                "guess": "Please provide the text with",
+                "probability": 0.05
+            }
+        ]
+    },
+    {
+        "question": "Return to the Past is represented by [mask].",
+        "answer": "Lance King",
+        "guesses": [
+            {
+                "guess": "Return to the Past is",
+                "probability": 0.4812
+            },
+            {
+                "guess": "Return to the Past",
+                "probability": 0.1502
+            }
+        ]
+    },
+    {
+        "question": "Hardcore Jollies is represented by [mask].",
+        "answer": "Warner Bros. Records",
+        "guesses": [
+            {
+                "guess": "Hardcore Jollies",
+                "probability": 0.2485
+            },
+            {
+                "guess": "Bobby \"The Bull",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "Strangeland is represented by [mask].",
+        "answer": "Island Records",
+        "guesses": [
+            {
+                "guess": "Strangeland is represented",
+                "probability": 0.1075
+            },
+            {
+                "guess": "Strangerland",
+                "probability": 0.0586
+            }
+        ]
+    },
+    {
+        "question": "Dehumanizer is represented by [mask].",
+        "answer": "Polydor Records",
+        "guesses": [
+            {
+                "guess": "Nazi",
+                "probability": 0.0896
+            },
+            {
+                "guess": "Dehumanizer is represented",
+                "probability": 0.0571
+            }
+        ]
+    },
+    {
+        "question": "Dimanches \u00e0 l'\u00c9lys\u00e9e is represented by [mask].",
+        "answer": "Barclay",
+        "guesses": [
+            {
+                "guess": "Dimanches \u00e0 l'",
+                "probability": 0.4606
+            },
+            {
+                "guess": "Sundays at the",
+                "probability": 0.1421
+            }
+        ]
+    },
+    {
+        "question": "Naty Botero is represented by [mask].",
+        "answer": "Sony BMG",
+        "guesses": [
+            {
+                "guess": "Naty Botero is",
+                "probability": 0.0495
+            },
+            {
+                "guess": "Venezuelan artist",
+                "probability": 0.0384
+            }
+        ]
+    },
+    {
+        "question": "Metamorphosis is represented by [mask].",
+        "answer": "ABKCO Records",
+        "guesses": [
+            {
+                "guess": "Transformation.",
+                "probability": 0.3667
+            },
+            {
+                "guess": "Transformation",
+                "probability": 0.3188
+            }
+        ]
+    },
+    {
+        "question": "Life Sentence to Love is represented by [mask].",
+        "answer": "MCA Records",
+        "guesses": [
+            {
+                "guess": "Life Sentence to Love is",
+                "probability": 0.3085
+            },
+            {
+                "guess": "A Death Sentence to Love",
+                "probability": 0.0273
+            }
+        ]
+    },
+    {
+        "question": "Platitude is represented by [mask].",
+        "answer": "Scarlet Records",
+        "guesses": [
+            {
+                "guess": "Clich\u00e9",
+                "probability": 0.2626
+            },
+            {
+                "guess": "overused expression",
+                "probability": 0.1735
+            }
+        ]
+    }
+]

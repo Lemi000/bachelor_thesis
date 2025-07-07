@@ -1,0 +1,698 @@
+[
+    {
+        "question": "Ad Astra per Aspera's musci label is represented by [mask].",
+        "answer": "Gotee Records",
+        "guesses": [
+            {
+                "guess": "Denovali.",
+                "probability": 0.001
+            },
+            {
+                "guess": "Superball Music",
+                "probability": 0.0008
+            }
+        ]
+    },
+    {
+        "question": "B. F. Shelton's musci label is represented by [mask].",
+        "answer": "Victor Talking Machine Company",
+        "guesses": [
+            {
+                "guess": "Universal Music Group.",
+                "probability": 0.0104
+            },
+            {
+                "guess": "EMI",
+                "probability": 0.002
+            }
+        ]
+    },
+    {
+        "question": "Taylor's Wailers's musci label is represented by [mask].",
+        "answer": "Prestige",
+        "guesses": [
+            {
+                "guess": "Island Records",
+                "probability": 0.173
+            },
+            {
+                "guess": "Universal Music Group",
+                "probability": 0.0297
+            }
+        ]
+    },
+    {
+        "question": "Jesse Fuller's musci label is represented by [mask].",
+        "answer": "Good Time Jazz Records",
+        "guesses": [
+            {
+                "guess": "Bluesville",
+                "probability": 0.1932
+            },
+            {
+                "guess": "Bluesville Records",
+                "probability": 0.0267
+            }
+        ]
+    },
+    {
+        "question": "Flame's musci label is represented by [mask].",
+        "answer": "MCA Records",
+        "guesses": [
+            {
+                "guess": "Interscope",
+                "probability": 0.1079
+            },
+            {
+                "guess": "Interscope Records",
+                "probability": 0.0868
+            }
+        ]
+    },
+    {
+        "question": "Til I Die's musci label is represented by [mask].",
+        "answer": "Asian Man Records",
+        "guesses": [
+            {
+                "guess": "Universal Music Group",
+                "probability": 0.0966
+            },
+            {
+                "guess": "Interscope",
+                "probability": 0.0793
+            }
+        ]
+    },
+    {
+        "question": "Midnight Fire's musci label is represented by [mask].",
+        "answer": "RCA Records",
+        "guesses": [
+            {
+                "guess": "Universal Music Group",
+                "probability": 0.1006
+            },
+            {
+                "guess": "Sony Music",
+                "probability": 0.018
+            }
+        ]
+    },
+    {
+        "question": "PSD's musci label is represented by [mask].",
+        "answer": "Thizz Entertainment",
+        "guesses": [
+            {
+                "guess": "Vertigo",
+                "probability": 0.0694
+            },
+            {
+                "guess": "Virgin EMI",
+                "probability": 0.0688
+            }
+        ]
+    },
+    {
+        "question": "Time Remembers One Time Once's musci label is represented by [mask].",
+        "answer": "ECM Records",
+        "guesses": [
+            {
+                "guess": "Matador",
+                "probability": 0.0743
+            },
+            {
+                "guess": "Drag City",
+                "probability": 0.0587
+            }
+        ]
+    },
+    {
+        "question": "Serve & Collect III's musci label is represented by [mask].",
+        "answer": "Entertainment One Music",
+        "guesses": [
+            {
+                "guess": "Sony Music",
+                "probability": 0.0037
+            },
+            {
+                "guess": "RCA Records",
+                "probability": 0.0013
+            }
+        ]
+    },
+    {
+        "question": "Ugetsu's musci label is represented by [mask].",
+        "answer": "Riverside Records",
+        "guesses": [
+            {
+                "guess": "BMG",
+                "probability": 0.017
+            },
+            {
+                "guess": "Creations Music",
+                "probability": 0.0013
+            }
+        ]
+    },
+    {
+        "question": "Saint Low's musci label is represented by [mask].",
+        "answer": "Cooking Vinyl",
+        "guesses": [
+            {
+                "guess": "Universal Music Group",
+                "probability": 0.0186
+            },
+            {
+                "guess": "Blue Note",
+                "probability": 0.0109
+            }
+        ]
+    },
+    {
+        "question": "Perspective's musci label is represented by [mask].",
+        "answer": "Warner Bros. Records",
+        "guesses": [
+            {
+                "guess": "BMG",
+                "probability": 0.0473
+            },
+            {
+                "guess": "Universal Music Group",
+                "probability": 0.0169
+            }
+        ]
+    },
+    {
+        "question": "They're Only Chasing Safety's musci label is represented by [mask].",
+        "answer": "Solid State Records",
+        "guesses": [
+            {
+                "guess": "Fearless Records",
+                "probability": 0.2426
+            },
+            {
+                "guess": "Equal Vision Records",
+                "probability": 0.1545
+            }
+        ]
+    },
+    {
+        "question": "Light Years Away's musci label is represented by [mask].",
+        "answer": "Prism Records",
+        "guesses": [
+            {
+                "guess": "Universal Music Group",
+                "probability": 0.1123
+            },
+            {
+                "guess": "Universal",
+                "probability": 0.0808
+            }
+        ]
+    },
+    {
+        "question": "Split's musci label is represented by [mask].",
+        "answer": "Stardumb Records",
+        "guesses": [
+            {
+                "guess": "Virgin Records",
+                "probability": 0.0222
+            },
+            {
+                "guess": "Two Friends Family",
+                "probability": 0.0105
+            }
+        ]
+    },
+    {
+        "question": "Valerie Wellington's musci label is represented by [mask].",
+        "answer": "Flying Fish Records",
+        "guesses": [
+            {
+                "guess": "Universal Music Group",
+                "probability": 0.1047
+            },
+            {
+                "guess": "Universal Music Group.",
+                "probability": 0.0151
+            }
+        ]
+    },
+    {
+        "question": "Trailer Trash Tracys's musci label is represented by [mask].",
+        "answer": "Domino Recording Company",
+        "guesses": [
+            {
+                "guess": "Heavenly Recordings",
+                "probability": 0.0493
+            },
+            {
+                "guess": "FatCat",
+                "probability": 0.0365
+            }
+        ]
+    },
+    {
+        "question": "Gather in the Mushrooms's musci label is represented by [mask].",
+        "answer": "Pye Records",
+        "guesses": [
+            {
+                "guess": "Sub Pop",
+                "probability": 0.0209
+            },
+            {
+                "guess": "Sony Music",
+                "probability": 0.0145
+            }
+        ]
+    },
+    {
+        "question": "Ridel High's musci label is represented by [mask].",
+        "answer": "A&M Records",
+        "guesses": [
+            {
+                "guess": "Universal Music Group",
+                "probability": 0.177
+            },
+            {
+                "guess": "Universal",
+                "probability": 0.1086
+            }
+        ]
+    },
+    {
+        "question": "I, Jonathan's musci label is represented by [mask].",
+        "answer": "Rounder Records",
+        "guesses": [
+            {
+                "guess": "Universal Music Group",
+                "probability": 0.2089
+            },
+            {
+                "guess": "Universal",
+                "probability": 0.1054
+            }
+        ]
+    },
+    {
+        "question": "Under the Milky Way's musci label is represented by [mask].",
+        "answer": "Mushroom Records",
+        "guesses": [
+            {
+                "guess": "Mute",
+                "probability": 0.0531
+            },
+            {
+                "guess": "Mute Records",
+                "probability": 0.0494
+            }
+        ]
+    },
+    {
+        "question": "Soft and Beautiful's musci label is represented by [mask].",
+        "answer": "Columbia Records",
+        "guesses": [
+            {
+                "guess": "Universal Music",
+                "probability": 0.0417
+            },
+            {
+                "guess": "Virgin",
+                "probability": 0.0338
+            }
+        ]
+    },
+    {
+        "question": "The Aquarium's musci label is represented by [mask].",
+        "answer": "Dischord Records",
+        "guesses": [
+            {
+                "guess": "Universal Music Group",
+                "probability": 0.0239
+            },
+            {
+                "guess": "Verve",
+                "probability": 0.0228
+            }
+        ]
+    },
+    {
+        "question": "Yes Sir, I Can Boogie's musci label is represented by [mask].",
+        "answer": "RCA Records",
+        "guesses": [
+            {
+                "guess": "EMI",
+                "probability": 0.0831
+            },
+            {
+                "guess": "RCA Records",
+                "probability": 0.0811
+            }
+        ]
+    },
+    {
+        "question": "Larry Harlow's musci label is represented by [mask].",
+        "answer": "Fania Records",
+        "guesses": [
+            {
+                "guess": "Fania Records",
+                "probability": 0.7168
+            },
+            {
+                "guess": "Fania",
+                "probability": 0.0819
+            }
+        ]
+    },
+    {
+        "question": "Here I Go Again's musci label is represented by [mask].",
+        "answer": "Parlophone",
+        "guesses": [
+            {
+                "guess": "Mercury Records",
+                "probability": 0.2594
+            },
+            {
+                "guess": "Polydor",
+                "probability": 0.1557
+            }
+        ]
+    },
+    {
+        "question": "Constant Future's musci label is represented by [mask].",
+        "answer": "Jagjaguwar",
+        "guesses": [
+            {
+                "guess": "Constant Future's music label",
+                "probability": 0.0063
+            },
+            {
+                "guess": "Def Jam",
+                "probability": 0.0034
+            }
+        ]
+    },
+    {
+        "question": "Yeah! Meccha Holiday's musci label is represented by [mask].",
+        "answer": "Zetima",
+        "guesses": [
+            {
+                "guess": "Sony Music",
+                "probability": 0.044
+            },
+            {
+                "guess": "Amuse.",
+                "probability": 0.016
+            }
+        ]
+    },
+    {
+        "question": "No Me Queda M\u00e1s's musci label is represented by [mask].",
+        "answer": "Capitol Latin",
+        "guesses": [
+            {
+                "guess": "Universal Music",
+                "probability": 0.4813
+            },
+            {
+                "guess": "Universal Music Latin Entertainment",
+                "probability": 0.2001
+            }
+        ]
+    },
+    {
+        "question": "Romeo and Juliet's musci label is represented by [mask].",
+        "answer": "RCA Records",
+        "guesses": [
+            {
+                "guess": "Capulet Records",
+                "probability": 0.3247
+            },
+            {
+                "guess": "Capulet",
+                "probability": 0.2114
+            }
+        ]
+    },
+    {
+        "question": "Sjukdom's musci label is represented by [mask].",
+        "answer": "Prophecy Productions",
+        "guesses": [
+            {
+                "guess": "Universal Music Group",
+                "probability": 0.0341
+            },
+            {
+                "guess": "Sony Music",
+                "probability": 0.0283
+            }
+        ]
+    },
+    {
+        "question": "Tristeza's musci label is represented by [mask].",
+        "answer": "Better Looking Records",
+        "guesses": [
+            {
+                "guess": "Tristeza's music",
+                "probability": 0.1162
+            },
+            {
+                "guess": "Subliminal",
+                "probability": 0.0541
+            }
+        ]
+    },
+    {
+        "question": "Hole in the Sun's musci label is represented by [mask].",
+        "answer": "Frontiers Records",
+        "guesses": [
+            {
+                "guess": "Suburban Noize",
+                "probability": 0.1088
+            },
+            {
+                "guess": "Roadrunner Records",
+                "probability": 0.0379
+            }
+        ]
+    },
+    {
+        "question": "Jerry Jaye's musci label is represented by [mask].",
+        "answer": "Columbia Records",
+        "guesses": [
+            {
+                "guess": "Jaye Records",
+                "probability": 0.0034
+            },
+            {
+                "guess": "Fabor Records",
+                "probability": 0.0023
+            }
+        ]
+    },
+    {
+        "question": "Civil War's musci label is represented by [mask].",
+        "answer": "Fat Wreck Chords",
+        "guesses": [
+            {
+                "guess": "Atlantic",
+                "probability": 0.0336
+            },
+            {
+                "guess": "RCA Records",
+                "probability": 0.0246
+            }
+        ]
+    },
+    {
+        "question": "SYR5's musci label is represented by [mask].",
+        "answer": "Sonic Youth Recordings",
+        "guesses": [
+            {
+                "guess": "Pias",
+                "probability": 0.0013
+            },
+            {
+                "guess": "Warp",
+                "probability": 0.0005
+            }
+        ]
+    },
+    {
+        "question": "Classic Queen's musci label is represented by [mask].",
+        "answer": "Hollywood Records",
+        "guesses": [
+            {
+                "guess": "EMI",
+                "probability": 0.7816
+            }
+        ]
+    },
+    {
+        "question": "Do Nothing 'til You Hear from Me's musci label is represented by [mask].",
+        "answer": "Riverside Records",
+        "guesses": [
+            {
+                "guess": "Blue Note",
+                "probability": 0.7137
+            },
+            {
+                "guess": "Blue Note.",
+                "probability": 0.1173
+            }
+        ]
+    },
+    {
+        "question": "Lucid Interval's musci label is represented by [mask].",
+        "answer": "Relapse Records",
+        "guesses": [
+            {
+                "guess": "Ghostly International",
+                "probability": 0.0399
+            },
+            {
+                "guess": "Kranky",
+                "probability": 0.0049
+            }
+        ]
+    },
+    {
+        "question": "Numbers's musci label is represented by [mask].",
+        "answer": "Cracker Barrel",
+        "guesses": [
+            {
+                "guess": "Aftermath Entertainment",
+                "probability": 0.3134
+            },
+            {
+                "guess": "Interscope Records",
+                "probability": 0.1485
+            }
+        ]
+    },
+    {
+        "question": "Return to the Past's musci label is represented by [mask].",
+        "answer": "Lance King",
+        "guesses": [
+            {
+                "guess": "Warner Bros. Records",
+                "probability": 0.0368
+            },
+            {
+                "guess": "Universal",
+                "probability": 0.0114
+            }
+        ]
+    },
+    {
+        "question": "Hardcore Jollies's musci label is represented by [mask].",
+        "answer": "Warner Bros. Records",
+        "guesses": [
+            {
+                "guess": "Universal",
+                "probability": 0.0026
+            },
+            {
+                "guess": "XL Recordings",
+                "probability": 0.0015
+            }
+        ]
+    },
+    {
+        "question": "Strangeland's musci label is represented by [mask].",
+        "answer": "Island Records",
+        "guesses": [
+            {
+                "guess": "Empire",
+                "probability": 0.02
+            },
+            {
+                "guess": "Morbid Records",
+                "probability": 0.0023
+            }
+        ]
+    },
+    {
+        "question": "Dehumanizer's musci label is represented by [mask].",
+        "answer": "Polydor Records",
+        "guesses": [
+            {
+                "guess": "Roadrunner Records",
+                "probability": 0.3554
+            },
+            {
+                "guess": "Roadrunner",
+                "probability": 0.0555
+            }
+        ]
+    },
+    {
+        "question": "Dimanches \u00e0 l'\u00c9lys\u00e9e's musci label is represented by [mask].",
+        "answer": "Barclay",
+        "guesses": [
+            {
+                "guess": "Virgin",
+                "probability": 0.0728
+            },
+            {
+                "guess": "Universal Music Group",
+                "probability": 0.0461
+            }
+        ]
+    },
+    {
+        "question": "Naty Botero's musci label is represented by [mask].",
+        "answer": "Sony BMG",
+        "guesses": [
+            {
+                "guess": "Universal Music",
+                "probability": 0.126
+            },
+            {
+                "guess": "Universal Music Group",
+                "probability": 0.0948
+            }
+        ]
+    },
+    {
+        "question": "Metamorphosis's musci label is represented by [mask].",
+        "answer": "ABKCO Records",
+        "guesses": [
+            {
+                "guess": "Virgin EMI",
+                "probability": 0.0726
+            },
+            {
+                "guess": "Universal Music",
+                "probability": 0.012
+            }
+        ]
+    },
+    {
+        "question": "Life Sentence to Love's musci label is represented by [mask].",
+        "answer": "MCA Records",
+        "guesses": [
+            {
+                "guess": "Universal",
+                "probability": 0.0613
+            },
+            {
+                "guess": "Virgin",
+                "probability": 0.0193
+            }
+        ]
+    },
+    {
+        "question": "Platitude's musci label is represented by [mask].",
+        "answer": "Scarlet Records",
+        "guesses": [
+            {
+                "guess": "Touch and Go",
+                "probability": 0.0063
+            },
+            {
+                "guess": "Universal Music",
+                "probability": 0.0043
+            }
+        ]
+    }
+]

@@ -1,0 +1,2302 @@
+[
+    {
+        "question": "Who is the author of Tales of Count Lucanor?",
+        "answer": "Don Juan Manuel",
+        "guesses": [
+            {
+                "guess": "Juan Manuel",
+                "probability": 0.2334362322342026
+            },
+            {
+                "guess": "Juan Manuel",
+                "probability": 0.2334362322342026
+            },
+            {
+                "guess": "Gonzalo de Ber",
+                "probability": 0.030135906746111423
+            },
+            {
+                "guess": "Don Juan Manuel",
+                "probability": 0.6599707192343429
+            },
+            {
+                "guess": "Don Juan Manuel",
+                "probability": 0.6341623276588964
+            },
+            {
+                "guess": "Juan Manuel",
+                "probability": 0.2334362322342026
+            },
+            {
+                "guess": "Don Juan Manuel",
+                "probability": 0.5674715101156023
+            },
+            {
+                "guess": "Don Juan Manuel",
+                "probability": 0.6599707192343429
+            },
+            {
+                "guess": "Don Juan Manuel",
+                "probability": 0.6599707192343429
+            },
+            {
+                "guess": "Juan Manuel",
+                "probability": 0.2334362322342026
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of Mad Dogs and Englishmen?",
+        "answer": "Paul Magrs",
+        "guesses": [
+            {
+                "guess": "No\u00ebl Coward",
+                "probability": 0.4555607477338918
+            },
+            {
+                "guess": "No\u00ebl Coward",
+                "probability": 0.4555607477338918
+            },
+            {
+                "guess": "No\u00ebl Coward",
+                "probability": 0.4555607477338918
+            },
+            {
+                "guess": "Noel Coward",
+                "probability": 0.18892825940591665
+            },
+            {
+                "guess": "No\u00ebl Coward",
+                "probability": 0.45174443089754185
+            },
+            {
+                "guess": "Noel Coward",
+                "probability": 0.16812967838585044
+            },
+            {
+                "guess": "P.G. Wode",
+                "probability": 0.029622335031669677
+            },
+            {
+                "guess": "Noel Coward",
+                "probability": 0.18892825940591665
+            },
+            {
+                "guess": "Noel Coward",
+                "probability": 0.18892825940591665
+            },
+            {
+                "guess": "No\u00ebl Coward",
+                "probability": 0.45174443089754185
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of Tarantula?",
+        "answer": "Thierry Jonquet",
+        "guesses": [
+            {
+                "guess": "Bob Dylan.",
+                "probability": 0.025884559093562496
+            },
+            {
+                "guess": "Bob Dylan",
+                "probability": 0.9713188601345795
+            },
+            {
+                "guess": "Bob Dylan",
+                "probability": 0.9762208991952316
+            },
+            {
+                "guess": "Bob Dylan",
+                "probability": 0.9713188601345795
+            },
+            {
+                "guess": "Bob Dylan",
+                "probability": 0.9713188601345795
+            },
+            {
+                "guess": "Bob Dylan",
+                "probability": 0.9713188601345795
+            },
+            {
+                "guess": "Bob Dylan",
+                "probability": 0.9762208991952316
+            },
+            {
+                "guess": "Bob Dylan",
+                "probability": 0.9713188601345795
+            },
+            {
+                "guess": "Bob Dylan",
+                "probability": 0.9762208991952316
+            },
+            {
+                "guess": "Bob Dylan",
+                "probability": 0.9762208991952316
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of Cadillac Desert?",
+        "answer": "Marc Reisner",
+        "guesses": [
+            {
+                "guess": "Marc Reisner",
+                "probability": 0.9829876832670342
+            },
+            {
+                "guess": "Marc Reisner",
+                "probability": 0.9829876832670342
+            },
+            {
+                "guess": "Marc Reisner",
+                "probability": 0.9829876832670342
+            },
+            {
+                "guess": "Marc Reisner",
+                "probability": 0.9389726050932334
+            },
+            {
+                "guess": "Marc Reisner.",
+                "probability": 0.060026509257219994
+            },
+            {
+                "guess": "Marc Reisner",
+                "probability": 0.9829876832670342
+            },
+            {
+                "guess": "Marc Reisner",
+                "probability": 0.9829876832670342
+            },
+            {
+                "guess": "Marc Reisner",
+                "probability": 0.9389726050932334
+            },
+            {
+                "guess": "Marc Reisner",
+                "probability": 0.9829876832670342
+            },
+            {
+                "guess": "Marc Reisner",
+                "probability": 0.9829876832670342
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of On-Line Encyclopedia of Integer Sequences?",
+        "answer": "Neil Sloane",
+        "guesses": [
+            {
+                "guess": "Neil Sloane",
+                "probability": 0.6673676321076254
+            },
+            {
+                "guess": "Neil Sloane",
+                "probability": 0.6863080861033687
+            },
+            {
+                "guess": "Neil Sloane",
+                "probability": 0.6673676321076254
+            },
+            {
+                "guess": "Neil Sloane",
+                "probability": 0.6673676321076254
+            },
+            {
+                "guess": "Neil Sloane",
+                "probability": 0.6673676321076254
+            },
+            {
+                "guess": "Neil Sloane",
+                "probability": 0.6673676321076254
+            },
+            {
+                "guess": "N.J.A. Slo",
+                "probability": 0.1671888985239485
+            },
+            {
+                "guess": "N.J.A. Slo",
+                "probability": 0.266139716043311
+            },
+            {
+                "guess": "Neil Sloane",
+                "probability": 0.779185356362252
+            },
+            {
+                "guess": "Neil Sloane",
+                "probability": 0.6673676321076254
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of Bloodchild?",
+        "answer": "Tim Bowler",
+        "guesses": [
+            {
+                "guess": "Octavia Butler",
+                "probability": 0.900205368512466
+            },
+            {
+                "guess": "Octavia Butler",
+                "probability": 0.9352922498185308
+            },
+            {
+                "guess": "Octavia Butler",
+                "probability": 0.9352922498185308
+            },
+            {
+                "guess": "Octavia Butler",
+                "probability": 0.900205368512466
+            },
+            {
+                "guess": "Octavia Butler",
+                "probability": 0.900205368512466
+            },
+            {
+                "guess": "Octavia Butler",
+                "probability": 0.9352922498185308
+            },
+            {
+                "guess": "Octavia Butler",
+                "probability": 0.9352922498185308
+            },
+            {
+                "guess": "Octavia Butler",
+                "probability": 0.9352922498185308
+            },
+            {
+                "guess": "Octavia Butler",
+                "probability": 0.900205368512466
+            },
+            {
+                "guess": "Octavia Butler",
+                "probability": 0.900205368512466
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of The Moffats?",
+        "answer": "Eleanor Estes",
+        "guesses": [
+            {
+                "guess": "Eleanor Estes",
+                "probability": 0.8593859888952101
+            },
+            {
+                "guess": "Eleanor Estes",
+                "probability": 0.8593859888952101
+            },
+            {
+                "guess": "Eleanor Estes",
+                "probability": 0.8593859888952101
+            },
+            {
+                "guess": "Esther Averill",
+                "probability": 0.2422435222656311
+            },
+            {
+                "guess": "Esther Averill",
+                "probability": 0.2422435222656311
+            },
+            {
+                "guess": "Eleanor Estes",
+                "probability": 0.7293719167785053
+            },
+            {
+                "guess": "Eleanor Estes",
+                "probability": 0.8593859888952101
+            },
+            {
+                "guess": "Eleanor Estes",
+                "probability": 0.8593859888952101
+            },
+            {
+                "guess": "Eleanor Estes",
+                "probability": 0.8593859888952101
+            },
+            {
+                "guess": "Eleanor Estes",
+                "probability": 0.8593859888952101
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of The Cay?",
+        "answer": "Theodore Taylor",
+        "guesses": [
+            {
+                "guess": "Theodore Taylor",
+                "probability": 0.9858121799295569
+            },
+            {
+                "guess": "Theodore Taylor",
+                "probability": 0.9858121799295569
+            },
+            {
+                "guess": "Theodore Taylor",
+                "probability": 0.9858121799295569
+            },
+            {
+                "guess": "Theodore Taylor",
+                "probability": 0.9858121799295569
+            },
+            {
+                "guess": "Theodore Taylor",
+                "probability": 0.9672112853134687
+            },
+            {
+                "guess": "Theodore Taylor",
+                "probability": 0.9858121799295569
+            },
+            {
+                "guess": "Theodore Taylor",
+                "probability": 0.9858121799295569
+            },
+            {
+                "guess": "Theodore Taylor",
+                "probability": 0.9672112853134687
+            },
+            {
+                "guess": "Theodore Taylor",
+                "probability": 0.9858121799295569
+            },
+            {
+                "guess": "Theodore Taylor",
+                "probability": 0.9672112853134687
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of The Tower and the Hive?",
+        "answer": "Anne McCaffrey",
+        "guesses": [
+            {
+                "guess": "Anne McCaffrey",
+                "probability": 0.9396637809821863
+            },
+            {
+                "guess": "Anne McCaffrey",
+                "probability": 0.9396637809821863
+            },
+            {
+                "guess": "Anne McCaffrey",
+                "probability": 0.9396637809821863
+            },
+            {
+                "guess": "Anne McCaffrey",
+                "probability": 0.9396637809821863
+            },
+            {
+                "guess": "Anne McCaffrey",
+                "probability": 0.9510288608418803
+            },
+            {
+                "guess": "Anne McCaffrey",
+                "probability": 0.9396637809821863
+            },
+            {
+                "guess": "Anne McCaffrey",
+                "probability": 0.9396637809821863
+            },
+            {
+                "guess": "Anne McCaffrey",
+                "probability": 0.9510288608418803
+            },
+            {
+                "guess": "Anne McCaffrey",
+                "probability": 0.9510288608418803
+            },
+            {
+                "guess": "Anne McCaffrey",
+                "probability": 0.9510288608418803
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of Philosophical Notebooks?",
+        "answer": "Vladimir Lenin",
+        "guesses": [
+            {
+                "guess": "Lenin",
+                "probability": 0.06724487919573599
+            },
+            {
+                "guess": "V.I. Lenin",
+                "probability": 0.3851389740727421
+            },
+            {
+                "guess": "V.I. Lenin",
+                "probability": 0.27489038185777614
+            },
+            {
+                "guess": "Vladimir Lenin",
+                "probability": 0.34291297851389757
+            },
+            {
+                "guess": "Vladimir Lenin",
+                "probability": 0.34291297851389757
+            },
+            {
+                "guess": "V.I. Lenin",
+                "probability": 0.3851389740727421
+            },
+            {
+                "guess": "V.I. Lenin",
+                "probability": 0.3851389740727421
+            },
+            {
+                "guess": "Leon Trotsky",
+                "probability": 0.03189554789104937
+            },
+            {
+                "guess": "Vladimir Lenin",
+                "probability": 0.34291297851389757
+            },
+            {
+                "guess": "Lenin",
+                "probability": 0.06724487919573599
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of Midshipman's Hope?",
+        "answer": "David Feintuch",
+        "guesses": [
+            {
+                "guess": "David Feintuch",
+                "probability": 0.9682213202220669
+            },
+            {
+                "guess": "David Feintuch",
+                "probability": 0.9682213202220669
+            },
+            {
+                "guess": "David Feintuch",
+                "probability": 0.9682213202220669
+            },
+            {
+                "guess": "David Feintuch",
+                "probability": 0.9845043572976317
+            },
+            {
+                "guess": "David Feintuch",
+                "probability": 0.9682213202220669
+            },
+            {
+                "guess": "David Feintuch",
+                "probability": 0.9682213202220669
+            },
+            {
+                "guess": "David Feintuch",
+                "probability": 0.9682213202220669
+            },
+            {
+                "guess": "David Feintuch",
+                "probability": 0.9682213202220669
+            },
+            {
+                "guess": "David Feintuch",
+                "probability": 0.9845043572976317
+            },
+            {
+                "guess": "David Feintuch",
+                "probability": 0.9682213202220669
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of Trouble?",
+        "answer": "Mark Millar",
+        "guesses": [
+            {
+                "guess": "Gary D. Schmidt",
+                "probability": 0.46716814454248207
+            },
+            {
+                "guess": "Gary D. Schmidt",
+                "probability": 0.46716814454248207
+            },
+            {
+                "guess": "Kate Christensen",
+                "probability": 0.08800761277936811
+            },
+            {
+                "guess": "Gary D. Schmidt",
+                "probability": 0.46716814454248207
+            },
+            {
+                "guess": "Gary D. Schmidt",
+                "probability": 0.46716814454248207
+            },
+            {
+                "guess": "Raymond Carver",
+                "probability": 0.296896462410853
+            },
+            {
+                "guess": "Jesse Kellerman",
+                "probability": 0.01585798389037233
+            },
+            {
+                "guess": "Raymond Carver",
+                "probability": 0.296896462410853
+            },
+            {
+                "guess": "Kate Christensen",
+                "probability": 0.039307732834063254
+            },
+            {
+                "guess": "Gary D. Schmidt",
+                "probability": 0.5020097887392212
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of The Will of the Empress?",
+        "answer": "Tamora Pierce",
+        "guesses": [
+            {
+                "guess": "Tamora Pierce",
+                "probability": 0.9873866733075259
+            },
+            {
+                "guess": "Tamora Pierce",
+                "probability": 0.9492732963436622
+            },
+            {
+                "guess": "Tamora Pierce",
+                "probability": 0.9492732963436622
+            },
+            {
+                "guess": "Tamora Pierce",
+                "probability": 0.9447378376443458
+            },
+            {
+                "guess": "Tamora Pierce",
+                "probability": 0.9447378376443458
+            },
+            {
+                "guess": "Tamora Pierce",
+                "probability": 0.9492732963436622
+            },
+            {
+                "guess": "Tamora Pierce",
+                "probability": 0.9492732963436622
+            },
+            {
+                "guess": "Tamora Pierce",
+                "probability": 0.9447378376443458
+            },
+            {
+                "guess": "Tamora Pierce",
+                "probability": 0.9447378376443458
+            },
+            {
+                "guess": "Tamora Pierce",
+                "probability": 0.9447378376443458
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of Stork Naked?",
+        "answer": "Piers Anthony",
+        "guesses": [
+            {
+                "guess": "P.G. Wode",
+                "probability": 0.12139018097086954
+            },
+            {
+                "guess": "Piers Anthony",
+                "probability": 0.6573282498835615
+            },
+            {
+                "guess": "Piers Anthony",
+                "probability": 0.6573282498835615
+            },
+            {
+                "guess": "P.G. Wode",
+                "probability": 0.12139018097086954
+            },
+            {
+                "guess": "Piers Anthony",
+                "probability": 0.40745600374705127
+            },
+            {
+                "guess": "Piers Anthony",
+                "probability": 0.6573282498835615
+            },
+            {
+                "guess": "Kathi Macias",
+                "probability": 0.00025954944779790534
+            },
+            {
+                "guess": "Piers Anthony",
+                "probability": 0.6573282498835615
+            },
+            {
+                "guess": "Marisa Mills",
+                "probability": 8.708791498004628e-06
+            },
+            {
+                "guess": "P.G. Wode",
+                "probability": 0.12139018097086954
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of The Life and Death of Mr Badman?",
+        "answer": "John Bunyan",
+        "guesses": [
+            {
+                "guess": "John Bunyan",
+                "probability": 0.9752990447379548
+            },
+            {
+                "guess": "John Bunyan",
+                "probability": 0.9752990447379548
+            },
+            {
+                "guess": "John Bunyan",
+                "probability": 0.9752990447379548
+            },
+            {
+                "guess": "John Bunyan",
+                "probability": 0.9524235120056457
+            },
+            {
+                "guess": "John Bunyan",
+                "probability": 0.9752990447379548
+            },
+            {
+                "guess": "John Bunyan",
+                "probability": 0.9752990447379548
+            },
+            {
+                "guess": "John Bunyan",
+                "probability": 0.9524235120056457
+            },
+            {
+                "guess": "John Bunyan",
+                "probability": 0.9524235120056457
+            },
+            {
+                "guess": "John Bunyan",
+                "probability": 0.9524235120056457
+            },
+            {
+                "guess": "John Bunyan",
+                "probability": 0.9752990447379548
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of The Great and Secret Show?",
+        "answer": "Clive Barker",
+        "guesses": [
+            {
+                "guess": "Clive Barker",
+                "probability": 0.9692009243878174
+            },
+            {
+                "guess": "Clive Barker",
+                "probability": 0.957810670417077
+            },
+            {
+                "guess": "Clive Barker",
+                "probability": 0.957810670417077
+            },
+            {
+                "guess": "Clive Barker",
+                "probability": 0.9692009243878174
+            },
+            {
+                "guess": "Clive Barker",
+                "probability": 0.9692009243878174
+            },
+            {
+                "guess": "Clive Barker",
+                "probability": 0.957810670417077
+            },
+            {
+                "guess": "Clive Barker",
+                "probability": 0.9692009243878174
+            },
+            {
+                "guess": "Clive Barker",
+                "probability": 0.9692009243878174
+            },
+            {
+                "guess": "Clive Barker",
+                "probability": 0.9692009243878174
+            },
+            {
+                "guess": "Clive Barker.",
+                "probability": 0.042083224970389896
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of The Wrench?",
+        "answer": "Primo Levi",
+        "guesses": [
+            {
+                "guess": "Primo Levi",
+                "probability": 0.9571395353800628
+            },
+            {
+                "guess": "Primo Levi",
+                "probability": 0.9571395353800628
+            },
+            {
+                "guess": "Primo Levi",
+                "probability": 0.9571395353800628
+            },
+            {
+                "guess": "Primo Levi",
+                "probability": 0.7442869559621202
+            },
+            {
+                "guess": "Primo Levi",
+                "probability": 0.7442869559621202
+            },
+            {
+                "guess": "Primo Levi",
+                "probability": 0.9571395353800628
+            },
+            {
+                "guess": "Primo Levi",
+                "probability": 0.7442869559621202
+            },
+            {
+                "guess": "Primo Levi",
+                "probability": 0.9571395353800628
+            },
+            {
+                "guess": "Primo Levi",
+                "probability": 0.9571395353800628
+            },
+            {
+                "guess": "Primo Levi",
+                "probability": 0.7442869559621202
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of Dunsinane?",
+        "answer": "David Greig",
+        "guesses": [
+            {
+                "guess": "David Greig",
+                "probability": 0.9695453333950601
+            },
+            {
+                "guess": "David Greig",
+                "probability": 0.9828477395189116
+            },
+            {
+                "guess": "David Greig",
+                "probability": 0.9828477395189116
+            },
+            {
+                "guess": "David Greig",
+                "probability": 0.9695453333950601
+            },
+            {
+                "guess": "David Greig",
+                "probability": 0.9828477395189116
+            },
+            {
+                "guess": "David Greig",
+                "probability": 0.9920517755148004
+            },
+            {
+                "guess": "David Greig",
+                "probability": 0.9695453333950601
+            },
+            {
+                "guess": "David Greig",
+                "probability": 0.9695453333950601
+            },
+            {
+                "guess": "David Greig.",
+                "probability": 0.029277692749806086
+            },
+            {
+                "guess": "David Greig",
+                "probability": 0.9695453333950601
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of The Great Illusion?",
+        "answer": "Norman Angell",
+        "guesses": [
+            {
+                "guess": "Norman Angell",
+                "probability": 0.9386418713333203
+            },
+            {
+                "guess": "Norman Angell",
+                "probability": 0.9692143945286026
+            },
+            {
+                "guess": "Norman Angell",
+                "probability": 0.9386418713333203
+            },
+            {
+                "guess": "Norman Angell",
+                "probability": 0.9692143945286026
+            },
+            {
+                "guess": "Norman Angell",
+                "probability": 0.9386418713333203
+            },
+            {
+                "guess": "Norman Angell",
+                "probability": 0.9692143945286026
+            },
+            {
+                "guess": "Norman Angell",
+                "probability": 0.9386418713333203
+            },
+            {
+                "guess": "Norman Angell",
+                "probability": 0.9386418713333203
+            },
+            {
+                "guess": "Norman Angell",
+                "probability": 0.9386418713333203
+            },
+            {
+                "guess": "Norman Angell",
+                "probability": 0.9386418713333203
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of Ten Thousand Roses: The Making of a Feminist Revolution?",
+        "answer": "Judy Rebick",
+        "guesses": [
+            {
+                "guess": "June Callwood",
+                "probability": 0.42552921624518175
+            },
+            {
+                "guess": "June Callwood",
+                "probability": 0.7970052608216325
+            },
+            {
+                "guess": "June Callwood",
+                "probability": 0.5864096068284432
+            },
+            {
+                "guess": "Nancy's White",
+                "probability": 0.017501451221845613
+            },
+            {
+                "guess": "Nancy's White",
+                "probability": 0.017501451221845613
+            },
+            {
+                "guess": "June Callwood",
+                "probability": 0.5864096068284432
+            },
+            {
+                "guess": "June Callwood",
+                "probability": 0.5864096068284432
+            },
+            {
+                "guess": "June Callwood",
+                "probability": 0.5864096068284432
+            },
+            {
+                "guess": "June Callwood",
+                "probability": 0.5864096068284432
+            },
+            {
+                "guess": "Nellie McClung",
+                "probability": 0.03884212731332651
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of When Genius Failed: The Rise and Fall of Long-Term Capital Management?",
+        "answer": "Roger Lowenstein",
+        "guesses": [
+            {
+                "guess": "Roger Lowenstein",
+                "probability": 0.981789103101237
+            },
+            {
+                "guess": "Roger Lowenstein",
+                "probability": 0.9665814444018455
+            },
+            {
+                "guess": "Roger Lowenstein",
+                "probability": 0.981789103101237
+            },
+            {
+                "guess": "Roger Lowenstein",
+                "probability": 0.981789103101237
+            },
+            {
+                "guess": "Roger Lowenstein",
+                "probability": 0.9665814444018455
+            },
+            {
+                "guess": "Roger Lowenstein",
+                "probability": 0.9665814444018455
+            },
+            {
+                "guess": "Roger Lowenstein",
+                "probability": 0.9665814444018455
+            },
+            {
+                "guess": "Roger Lowenstein",
+                "probability": 0.981789103101237
+            },
+            {
+                "guess": "Roger Lowenstein",
+                "probability": 0.981789103101237
+            },
+            {
+                "guess": "Roger Lowenstein",
+                "probability": 0.981789103101237
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of The Restless Supermarket?",
+        "answer": "Ivan Vladislavic",
+        "guesses": [
+            {
+                "guess": "Ivan Vladislavic",
+                "probability": 0.628344872203154
+            },
+            {
+                "guess": "Ivan Vladislavi",
+                "probability": 0.34162520178115446
+            },
+            {
+                "guess": "Ivan Vladislavic",
+                "probability": 0.6997291117196646
+            },
+            {
+                "guess": "Ivan Vladislavic",
+                "probability": 0.628344872203154
+            },
+            {
+                "guess": "Ivan Vladislavic",
+                "probability": 0.628344872203154
+            },
+            {
+                "guess": "Ivan Vladislavic",
+                "probability": 0.628344872203154
+            },
+            {
+                "guess": "Ivan Vladislavic",
+                "probability": 0.6997291117196646
+            },
+            {
+                "guess": "Ivan Vladislavic",
+                "probability": 0.628344872203154
+            },
+            {
+                "guess": "Ivan Vladislavic",
+                "probability": 0.628344872203154
+            },
+            {
+                "guess": "Ivan Vladislavi",
+                "probability": 0.34162520178115446
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of The Sacred Flame?",
+        "answer": "William Somerset Maugham",
+        "guesses": [
+            {
+                "guess": "W. Somerset Maug",
+                "probability": 0.9528499454694394
+            },
+            {
+                "guess": "W. Somerset Maug",
+                "probability": 0.9702360531499203
+            },
+            {
+                "guess": "W. Somerset Maug",
+                "probability": 0.9528499454694394
+            },
+            {
+                "guess": "W. Somerset Maug",
+                "probability": 0.9528499454694394
+            },
+            {
+                "guess": "W. Somerset Maug",
+                "probability": 0.9528499454694394
+            },
+            {
+                "guess": "W. Somerset Maug",
+                "probability": 0.9702360531499203
+            },
+            {
+                "guess": "W. Somerset Maug",
+                "probability": 0.9528499454694394
+            },
+            {
+                "guess": "W. Somerset Maug",
+                "probability": 0.9528499454694394
+            },
+            {
+                "guess": "W. Somerset Maug",
+                "probability": 0.9702360531499203
+            },
+            {
+                "guess": "W. Somerset Maug",
+                "probability": 0.9528499454694394
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of Feludar Goendagiri?",
+        "answer": "Satyajit Ray",
+        "guesses": [
+            {
+                "guess": "Satyajit Ray",
+                "probability": 0.9845800871980166
+            },
+            {
+                "guess": "Satyajit Ray",
+                "probability": 0.9845800871980166
+            },
+            {
+                "guess": "Satyajit Ray",
+                "probability": 0.9845800871980166
+            },
+            {
+                "guess": "Satyajit Ray",
+                "probability": 0.9845800871980166
+            },
+            {
+                "guess": "Satyajit Ray",
+                "probability": 0.9874455947931754
+            },
+            {
+                "guess": "Satyajit Ray",
+                "probability": 0.9874455947931754
+            },
+            {
+                "guess": "Satyajit Ray",
+                "probability": 0.9845800871980166
+            },
+            {
+                "guess": "Satyajit Ray",
+                "probability": 0.9845800871980166
+            },
+            {
+                "guess": "Satyajit Ray",
+                "probability": 0.9845800871980166
+            },
+            {
+                "guess": "Satyajit Ray",
+                "probability": 0.9874455947931754
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of Stover at Yale?",
+        "answer": "Owen Johnson",
+        "guesses": [
+            {
+                "guess": "Owen Johnson",
+                "probability": 0.5543480811730478
+            },
+            {
+                "guess": "Thornton Wilder",
+                "probability": 0.5943198087661098
+            },
+            {
+                "guess": "Thornton Wilder",
+                "probability": 0.5943198087661098
+            },
+            {
+                "guess": "Thornton Wilder",
+                "probability": 0.5943198087661098
+            },
+            {
+                "guess": "Thornton Wilder",
+                "probability": 0.39265256704036994
+            },
+            {
+                "guess": "Owen Johnson",
+                "probability": 0.5543480811730478
+            },
+            {
+                "guess": "Thornton Wilder",
+                "probability": 0.5943198087661098
+            },
+            {
+                "guess": "Thornton Wilder",
+                "probability": 0.5943198087661098
+            },
+            {
+                "guess": "Thornton Wilder",
+                "probability": 0.5943198087661098
+            },
+            {
+                "guess": "Owen Johnson",
+                "probability": 0.5543480811730478
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of Morning in a Pine Forest?",
+        "answer": "Ivan Shishkin",
+        "guesses": [
+            {
+                "guess": "Ivan Shishkin",
+                "probability": 0.9427907819184287
+            },
+            {
+                "guess": "Ivan Shishkin",
+                "probability": 0.9427907819184287
+            },
+            {
+                "guess": "Ivan Shishkin",
+                "probability": 0.9427907819184287
+            },
+            {
+                "guess": "Ivan Shishkin",
+                "probability": 0.9427907819184287
+            },
+            {
+                "guess": "Ivan Shishkin",
+                "probability": 0.8697172254103878
+            },
+            {
+                "guess": "Ivan Shishkin",
+                "probability": 0.9427907819184287
+            },
+            {
+                "guess": "Ivan Shishkin",
+                "probability": 0.8697172254103878
+            },
+            {
+                "guess": "Ivan Shishkin",
+                "probability": 0.9427907819184287
+            },
+            {
+                "guess": "Ivan Shishkin",
+                "probability": 0.9427907819184287
+            },
+            {
+                "guess": "Ivan Shishkin",
+                "probability": 0.8697172254103878
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of Common Grounds?",
+        "answer": "Troy Hickman",
+        "guesses": [
+            {
+                "guess": "Kathleen Finner",
+                "probability": 0.007508725691561531
+            },
+            {
+                "guess": "Kathleen Fries",
+                "probability": 0.00564644192995847
+            },
+            {
+                "guess": "Sandra Byrd.",
+                "probability": 9.220480719375536e-05
+            },
+            {
+                "guess": "Calhoun",
+                "probability": 0.0014958137521945646
+            },
+            {
+                "guess": "Kenny Logan",
+                "probability": 1.7938215318608387e-06
+            },
+            {
+                "guess": "Rob Stennett",
+                "probability": 0.022046193825589
+            },
+            {
+                "guess": "Kenneth Roberts",
+                "probability": 0.0007007820811845468
+            },
+            {
+                "guess": "Calvin Miller",
+                "probability": 0.033595793694555336
+            },
+            {
+                "guess": "Jodi Picoult",
+                "probability": 0.0037501858169223185
+            },
+            {
+                "guess": "Meredith Efken",
+                "probability": 0.0022771192254603667
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of Mass?",
+        "answer": "Leonard Bernstein",
+        "guesses": [
+            {
+                "guess": "Raymond Carver",
+                "probability": 0.015683356229395325
+            },
+            {
+                "guess": "Leonardo Sciascia",
+                "probability": 0.027530718252365083
+            },
+            {
+                "guess": "C. L. Pol",
+                "probability": 1.7294671613022673e-05
+            },
+            {
+                "guess": "Armand Marie Lero",
+                "probability": 0.0022219355794036687
+            },
+            {
+                "guess": "Terry Pratchett",
+                "probability": 0.02403363679795857
+            },
+            {
+                "guess": "Leonard Bernstein",
+                "probability": 0.16643103441452956
+            },
+            {
+                "guess": "Leonard Bernstein",
+                "probability": 0.16643103441452956
+            },
+            {
+                "guess": "Jorge Zalame",
+                "probability": 0.000813150695945482
+            },
+            {
+                "guess": "Orson Scott Card",
+                "probability": 0.13321788089771272
+            },
+            {
+                "guess": "Teresa Brennan",
+                "probability": 0.003174197445180553
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of Death of the New Gods?",
+        "answer": "Jim Starlin",
+        "guesses": [
+            {
+                "guess": "Jim Starlin",
+                "probability": 0.9067911893495448
+            },
+            {
+                "guess": "Jim Starlin",
+                "probability": 0.9067911893495448
+            },
+            {
+                "guess": "Jim Starlin",
+                "probability": 0.9067911893495448
+            },
+            {
+                "guess": "Jim Starlin.",
+                "probability": 0.05796802451403074
+            },
+            {
+                "guess": "Jim Starlin",
+                "probability": 0.9403008176525579
+            },
+            {
+                "guess": "Jim Starlin",
+                "probability": 0.9067911893495448
+            },
+            {
+                "guess": "Jim Starlin",
+                "probability": 0.9067911893495448
+            },
+            {
+                "guess": "Jim Starlin",
+                "probability": 0.9403008176525579
+            },
+            {
+                "guess": "Jim Starlin",
+                "probability": 0.9067911893495448
+            },
+            {
+                "guess": "Jim Starlin",
+                "probability": 0.9067911893495448
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of A Case of Two Cities?",
+        "answer": "Qiu Xiaolong",
+        "guesses": [
+            {
+                "guess": "Qiu Xiaolong",
+                "probability": 0.9730460118161632
+            },
+            {
+                "guess": "Qiu Xiaolong",
+                "probability": 0.9233755295444275
+            },
+            {
+                "guess": "Qiu Xiaolong",
+                "probability": 0.9233755295444275
+            },
+            {
+                "guess": "Qiu Xiaolong",
+                "probability": 0.9233755295444275
+            },
+            {
+                "guess": "Qiu Xiaolong",
+                "probability": 0.9730460118161632
+            },
+            {
+                "guess": "Qiu Xiaolong",
+                "probability": 0.9730460118161632
+            },
+            {
+                "guess": "Qiu Xiaolong",
+                "probability": 0.9730460118161632
+            },
+            {
+                "guess": "Qiu Xiaolong",
+                "probability": 0.9730460118161632
+            },
+            {
+                "guess": "Qiu Xiaolong",
+                "probability": 0.9730460118161632
+            },
+            {
+                "guess": "Qiu Xiaolong",
+                "probability": 0.9730460118161632
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of Killing Mr. Griffin?",
+        "answer": "Lois Duncan",
+        "guesses": [
+            {
+                "guess": "Lois Duncan",
+                "probability": 0.9576583702450345
+            },
+            {
+                "guess": "Lois Duncan",
+                "probability": 0.9803715582779691
+            },
+            {
+                "guess": "Lois Duncan",
+                "probability": 0.9576583702450345
+            },
+            {
+                "guess": "Lois Duncan",
+                "probability": 0.9803715582779691
+            },
+            {
+                "guess": "Lois Duncan",
+                "probability": 0.9803715582779691
+            },
+            {
+                "guess": "Lois Duncan",
+                "probability": 0.9576583702450345
+            },
+            {
+                "guess": "Lois Duncan",
+                "probability": 0.9576583702450345
+            },
+            {
+                "guess": "Lois Duncan",
+                "probability": 0.9576583702450345
+            },
+            {
+                "guess": "Lois Duncan",
+                "probability": 0.9803715582779691
+            },
+            {
+                "guess": "Lois Duncan",
+                "probability": 0.9576583702450345
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of The Ghost of the Grotto?",
+        "answer": "Carl Barks",
+        "guesses": [
+            {
+                "guess": "Victor Appleton",
+                "probability": 0.0010596901215138884
+            },
+            {
+                "guess": "R.L. Stine",
+                "probability": 0.0472197484441961
+            },
+            {
+                "guess": "Helen Cresswell",
+                "probability": 0.0018180532102221798
+            },
+            {
+                "guess": "Carolyn Keene",
+                "probability": 0.2512070556229671
+            },
+            {
+                "guess": "Marc Cerasini",
+                "probability": 0.028560118492159198
+            },
+            {
+                "guess": "Marcia Thornton Jones",
+                "probability": 0.13062839322146236
+            },
+            {
+                "guess": "R.L. Stine",
+                "probability": 0.041904645657303154
+            },
+            {
+                "guess": "Clyde Robert Bull",
+                "probability": 0.00035505203239363575
+            },
+            {
+                "guess": "Marc Remillard",
+                "probability": 0.000994295346698178
+            },
+            {
+                "guess": "Carolyn Keene",
+                "probability": 0.11304424993623992
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of Lust for Justice?",
+        "answer": "Paulette Frankl",
+        "guesses": [
+            {
+                "guess": "Robert F. Kennedy",
+                "probability": 0.002576239888292901
+            },
+            {
+                "guess": "Lois McMaster Buj",
+                "probability": 0.0004982709298925783
+            },
+            {
+                "guess": "Kevin Powis",
+                "probability": 0.11195694074590319
+            },
+            {
+                "guess": "Kevin Powis",
+                "probability": 0.11195694074590319
+            },
+            {
+                "guess": "Kevin Powell",
+                "probability": 0.005717232274750429
+            },
+            {
+                "guess": "Luther Jones",
+                "probability": 5.381674151170876e-07
+            },
+            {
+                "guess": "Kevin Powis",
+                "probability": 0.11195694074590319
+            },
+            {
+                "guess": "Kevin Nively",
+                "probability": 0.0001549010958129447
+            },
+            {
+                "guess": "Kevin Stevens",
+                "probability": 0.06022260380418182
+            },
+            {
+                "guess": "Helen B. Perry",
+                "probability": 2.397216934529625e-06
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of The Mask of Cthulhu?",
+        "answer": "August Derleth",
+        "guesses": [
+            {
+                "guess": "August Derleth",
+                "probability": 0.930816631593706
+            },
+            {
+                "guess": "August Derleth",
+                "probability": 0.9204650740548248
+            },
+            {
+                "guess": "August Derleth",
+                "probability": 0.930816631593706
+            },
+            {
+                "guess": "August Derleth",
+                "probability": 0.9204650740548248
+            },
+            {
+                "guess": "August Derleth",
+                "probability": 0.9204650740548248
+            },
+            {
+                "guess": "August Derleth",
+                "probability": 0.9204650740548248
+            },
+            {
+                "guess": "August Derleth",
+                "probability": 0.930816631593706
+            },
+            {
+                "guess": "August Derleth",
+                "probability": 0.930816631593706
+            },
+            {
+                "guess": "August Derleth",
+                "probability": 0.9204650740548248
+            },
+            {
+                "guess": "August Derleth",
+                "probability": 0.9204650740548248
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of The History of the Standard Oil Company?",
+        "answer": "Ida Tarbell",
+        "guesses": [
+            {
+                "guess": "Ida Tarbell.",
+                "probability": 0.03659433903831475
+            },
+            {
+                "guess": "Ida Tarbell",
+                "probability": 0.785923347129712
+            },
+            {
+                "guess": "Ida M. Tar",
+                "probability": 0.1057456853748646
+            },
+            {
+                "guess": "Ida Tarbell",
+                "probability": 0.785923347129712
+            },
+            {
+                "guess": "Ida Tarbell",
+                "probability": 0.8072582669717956
+            },
+            {
+                "guess": "Ida Tarbell",
+                "probability": 0.8072582669717956
+            },
+            {
+                "guess": "Ida Tarbell",
+                "probability": 0.8072582669717956
+            },
+            {
+                "guess": "Ida Tarbell",
+                "probability": 0.8072582669717956
+            },
+            {
+                "guess": "Ida Tarbell",
+                "probability": 0.785923347129712
+            },
+            {
+                "guess": "Ida Tarbell",
+                "probability": 0.785923347129712
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of The Guns of Navarone?",
+        "answer": "Alistair MacLean",
+        "guesses": [
+            {
+                "guess": "Alistair MacLean",
+                "probability": 0.998278385443056
+            },
+            {
+                "guess": "Alistair MacLean",
+                "probability": 0.998278385443056
+            },
+            {
+                "guess": "Alistair MacLean",
+                "probability": 0.998278385443056
+            },
+            {
+                "guess": "Alistair MacLean",
+                "probability": 0.998278385443056
+            },
+            {
+                "guess": "Alistair MacLean",
+                "probability": 0.9990196266131686
+            },
+            {
+                "guess": "Alistair MacLean",
+                "probability": 0.9990196266131686
+            },
+            {
+                "guess": "Alistair MacLean",
+                "probability": 0.9990196266131686
+            },
+            {
+                "guess": "Alistair MacLean",
+                "probability": 0.9990196266131686
+            },
+            {
+                "guess": "Alistair MacLean",
+                "probability": 0.998278385443056
+            },
+            {
+                "guess": "Alistair MacLean",
+                "probability": 0.9990196266131686
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of Dissident Gardens?",
+        "answer": "Jonathan Lethem",
+        "guesses": [
+            {
+                "guess": "Jonathan Lethem",
+                "probability": 0.9765374537134686
+            },
+            {
+                "guess": "Jonathan Lethem",
+                "probability": 0.9696504387948414
+            },
+            {
+                "guess": "Jonathan Lethem",
+                "probability": 0.9765374537134686
+            },
+            {
+                "guess": "Jonathan Lethem",
+                "probability": 0.9696504387948414
+            },
+            {
+                "guess": "Jonathan Lethem",
+                "probability": 0.9696504387948414
+            },
+            {
+                "guess": "Jonathan Lethem",
+                "probability": 0.9696504387948414
+            },
+            {
+                "guess": "Jonathan Lethem",
+                "probability": 0.9765374537134686
+            },
+            {
+                "guess": "Jonathan Lethem",
+                "probability": 0.9765374537134686
+            },
+            {
+                "guess": "Jonathan Lethem",
+                "probability": 0.9696504387948414
+            },
+            {
+                "guess": "Jonathan Lethem",
+                "probability": 0.9696504387948414
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of Hecale?",
+        "answer": "Callimachus",
+        "guesses": [
+            {
+                "guess": "Callimachus",
+                "probability": 0.9152134700894318
+            },
+            {
+                "guess": "Callimachus",
+                "probability": 0.9152134700894318
+            },
+            {
+                "guess": "Callimachus",
+                "probability": 0.9120128275809214
+            },
+            {
+                "guess": "Callimachus",
+                "probability": 0.9152134700894318
+            },
+            {
+                "guess": "Callimachus",
+                "probability": 0.9152134700894318
+            },
+            {
+                "guess": "Callimachus",
+                "probability": 0.9152134700894318
+            },
+            {
+                "guess": "Callimachus",
+                "probability": 0.9120128275809214
+            },
+            {
+                "guess": "Callimachus",
+                "probability": 0.9152134700894318
+            },
+            {
+                "guess": "Callimachus",
+                "probability": 0.9120128275809214
+            },
+            {
+                "guess": "Callimachus",
+                "probability": 0.9152134700894318
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of The Light at Tern Rock?",
+        "answer": "Julia Sauer",
+        "guesses": [
+            {
+                "guess": "Julia L. S",
+                "probability": 0.7109460246864231
+            },
+            {
+                "guess": "Julia L Sauer",
+                "probability": 0.04140047699204354
+            },
+            {
+                "guess": "Julia L. S",
+                "probability": 0.7109460246864231
+            },
+            {
+                "guess": "Julia L. S",
+                "probability": 0.41243513840814877
+            },
+            {
+                "guess": "Julia L. S",
+                "probability": 0.7109460246864231
+            },
+            {
+                "guess": "Julia L. S",
+                "probability": 0.41243513840814877
+            },
+            {
+                "guess": "Juliana Hastings",
+                "probability": 0.01740433460405281
+            },
+            {
+                "guess": "Julia Sauer",
+                "probability": 0.06812847511310373
+            },
+            {
+                "guess": "Julia L. S",
+                "probability": 0.41243513840814877
+            },
+            {
+                "guess": "Juliana St. John",
+                "probability": 2.7297944892994648e-05
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of Sunset Park?",
+        "answer": "Paul Auster",
+        "guesses": [
+            {
+                "guess": "Paul Auster",
+                "probability": 0.9922428035533372
+            },
+            {
+                "guess": "Paul Auster",
+                "probability": 0.9665402227499397
+            },
+            {
+                "guess": "Paul Auster",
+                "probability": 0.9763526532997019
+            },
+            {
+                "guess": "Paul Auster",
+                "probability": 0.9665402227499397
+            },
+            {
+                "guess": "Paul Auster",
+                "probability": 0.9763526532997019
+            },
+            {
+                "guess": "Paul Auster",
+                "probability": 0.9665402227499397
+            },
+            {
+                "guess": "Paul Auster",
+                "probability": 0.9665402227499397
+            },
+            {
+                "guess": "Paul Auster",
+                "probability": 0.9763526532997019
+            },
+            {
+                "guess": "Paul Auster",
+                "probability": 0.9763526532997019
+            },
+            {
+                "guess": "Paul Auster",
+                "probability": 0.9763526532997019
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of Pamphilia to Amphilanthus?",
+        "answer": "Lady Mary Wroth",
+        "guesses": [
+            {
+                "guess": "Lady Mary Wroth",
+                "probability": 0.46205972688326563
+            },
+            {
+                "guess": "Lady Mary Wroth",
+                "probability": 0.46205972688326563
+            },
+            {
+                "guess": "Lady Wroth",
+                "probability": 0.08972975867157032
+            },
+            {
+                "guess": "Lady Mary Wroth",
+                "probability": 0.46205972688326563
+            },
+            {
+                "guess": "Wroth",
+                "probability": 0.28569235357578204
+            },
+            {
+                "guess": "Lady Mary Wroth",
+                "probability": 0.46205972688326563
+            },
+            {
+                "guess": "Lady Mary Wroth",
+                "probability": 0.3374929683284773
+            },
+            {
+                "guess": "Lady Mary Wroth",
+                "probability": 0.46205972688326563
+            },
+            {
+                "guess": "Lady Mary Wroth",
+                "probability": 0.46205972688326563
+            },
+            {
+                "guess": "Lady Mary Wroth",
+                "probability": 0.46205972688326563
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of Prey?",
+        "answer": "Michael Crichton",
+        "guesses": [
+            {
+                "guess": "Michael Crichton",
+                "probability": 0.8915930836021658
+            },
+            {
+                "guess": "Michael Crichton",
+                "probability": 0.8915930836021658
+            },
+            {
+                "guess": "Michael Crichton",
+                "probability": 0.93619988795969
+            },
+            {
+                "guess": "Michael Crichton",
+                "probability": 0.8915930836021658
+            },
+            {
+                "guess": "Michael Crichton",
+                "probability": 0.93619988795969
+            },
+            {
+                "guess": "Michael Crichton",
+                "probability": 0.93619988795969
+            },
+            {
+                "guess": "Michael Crichton",
+                "probability": 0.8915930836021658
+            },
+            {
+                "guess": "Michael Crichton",
+                "probability": 0.93619988795969
+            },
+            {
+                "guess": "Michael Crichton",
+                "probability": 0.8915930836021658
+            },
+            {
+                "guess": "Michael Crichton.",
+                "probability": 0.03518356298588224
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of One of the Family?",
+        "answer": "Monica Dickens",
+        "guesses": [
+            {
+                "guess": "Helen MacInnes",
+                "probability": 0.03104729396390562
+            },
+            {
+                "guess": "Anthony Buckeridge",
+                "probability": 0.23311736777069406
+            },
+            {
+                "guess": "Anthony Buckeridge",
+                "probability": 0.23311736777069406
+            },
+            {
+                "guess": "Anthony Buckeridge",
+                "probability": 0.23311736777069406
+            },
+            {
+                "guess": "Mamusia",
+                "probability": 4.122811443176161e-06
+            },
+            {
+                "guess": "Anthony Buckeridge",
+                "probability": 0.048704994781939605
+            },
+            {
+                "guess": "John Galsworthy",
+                "probability": 0.12456896608801646
+            },
+            {
+                "guess": "John Galsworthy",
+                "probability": 0.12456896608801646
+            },
+            {
+                "guess": "John Galsworthy",
+                "probability": 0.12456896608801646
+            },
+            {
+                "guess": "Anthony Buckeridge",
+                "probability": 0.23311736777069406
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of Come over to My House?",
+        "answer": "Dr. Seuss",
+        "guesses": [
+            {
+                "guess": "Dr. Seuss",
+                "probability": 0.3511641117092066
+            },
+            {
+                "guess": "Dr. Seuss",
+                "probability": 0.33006318978963733
+            },
+            {
+                "guess": "Dr. Seuss",
+                "probability": 0.33006318978963733
+            },
+            {
+                "guess": "Phillis Gershator",
+                "probability": 0.059324439974063475
+            },
+            {
+                "guess": "Dr. Seuss",
+                "probability": 0.33006318978963733
+            },
+            {
+                "guess": "Phillis Gershator",
+                "probability": 0.0775563364698712
+            },
+            {
+                "guess": "Dr. Seuss",
+                "probability": 0.33006318978963733
+            },
+            {
+                "guess": "Dr. Seuss",
+                "probability": 0.33006318978963733
+            },
+            {
+                "guess": "Dr. Seuss",
+                "probability": 0.33006318978963733
+            },
+            {
+                "guess": "Dr. Seuss",
+                "probability": 0.33006318978963733
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of The Thomas Ligotti Reader: Essays and Explorations?",
+        "answer": "Darrell Schweitzer",
+        "guesses": [
+            {
+                "guess": "Darrell Schweitzer",
+                "probability": 0.8939450369670233
+            },
+            {
+                "guess": "Darrell Schweitzer",
+                "probability": 0.8939450369670233
+            },
+            {
+                "guess": "Darrell Schweitzer",
+                "probability": 0.8939450369670233
+            },
+            {
+                "guess": "Darrell Schweitzer",
+                "probability": 0.8939450369670233
+            },
+            {
+                "guess": "Darrell Schweitzer",
+                "probability": 0.9100199680034823
+            },
+            {
+                "guess": "Darrell Schweitzer",
+                "probability": 0.8939450369670233
+            },
+            {
+                "guess": "Darrell Schweitzer",
+                "probability": 0.9100199680034823
+            },
+            {
+                "guess": "Darrell Schweitzer",
+                "probability": 0.9100199680034823
+            },
+            {
+                "guess": "Darrell Schweitzer",
+                "probability": 0.9100199680034823
+            },
+            {
+                "guess": "Darrell Schweitzer",
+                "probability": 0.8939450369670233
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of Youth?",
+        "answer": "Leo Tolstoy",
+        "guesses": [
+            {
+                "guess": "Isaac Asimov",
+                "probability": 0.9051589564617828
+            },
+            {
+                "guess": "Isaac Asimov",
+                "probability": 0.9051589564617828
+            },
+            {
+                "guess": "Isaac Asimov",
+                "probability": 0.5910922467940642
+            },
+            {
+                "guess": "Isaac Asimov",
+                "probability": 0.5910922467940642
+            },
+            {
+                "guess": "Isaac Asimov",
+                "probability": 0.9051589564617828
+            },
+            {
+                "guess": "Isaac Asimov",
+                "probability": 0.9051589564617828
+            },
+            {
+                "guess": "Isaac Asimov",
+                "probability": 0.9051589564617828
+            },
+            {
+                "guess": "Isaac Asimov",
+                "probability": 0.9051589564617828
+            },
+            {
+                "guess": "Isaac Asimov",
+                "probability": 0.9051589564617828
+            },
+            {
+                "guess": "Joseph Conrad",
+                "probability": 0.2312981111904754
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of Witching Culture?",
+        "answer": "Sabina Magliocco",
+        "guesses": [
+            {
+                "guess": "Sabina Magliocco",
+                "probability": 0.29118793335957927
+            },
+            {
+                "guess": "Orrin Klapp",
+                "probability": 0.053376892682044444
+            },
+            {
+                "guess": "Sabina Magliocco",
+                "probability": 0.6930363795310505
+            },
+            {
+                "guess": "Sabina Magliocco",
+                "probability": 0.6930363795310505
+            },
+            {
+                "guess": "Ozum Egember",
+                "probability": 2.0462875799500449e-07
+            },
+            {
+                "guess": "Sabina Magliocco",
+                "probability": 0.29118793335957927
+            },
+            {
+                "guess": "Sabina Magliocco",
+                "probability": 0.9628766641469734
+            },
+            {
+                "guess": "Owen Davies",
+                "probability": 0.10863552660499604
+            },
+            {
+                "guess": "Oziewicz.",
+                "probability": 0.012471761015516903
+            },
+            {
+                "guess": "Sally Gardner",
+                "probability": 0.003771401142750588
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of The Two Hotel Francforts?",
+        "answer": "David Leavitt",
+        "guesses": [
+            {
+                "guess": "David Leavitt",
+                "probability": 0.9780260708481854
+            },
+            {
+                "guess": "David Leavitt",
+                "probability": 0.9780260708481854
+            },
+            {
+                "guess": "David Leavitt",
+                "probability": 0.9608480815310724
+            },
+            {
+                "guess": "David Leavitt",
+                "probability": 0.9608480815310724
+            },
+            {
+                "guess": "David Leavitt",
+                "probability": 0.9608480815310724
+            },
+            {
+                "guess": "David Leavitt",
+                "probability": 0.9608480815310724
+            },
+            {
+                "guess": "David Leavitt",
+                "probability": 0.9780260708481854
+            },
+            {
+                "guess": "David Leavitt",
+                "probability": 0.9608480815310724
+            },
+            {
+                "guess": "David Leavitt",
+                "probability": 0.9608480815310724
+            },
+            {
+                "guess": "David Leavitt",
+                "probability": 0.9608480815310724
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of Confessions of a Teenage Baboon?",
+        "answer": "Paul Zindel",
+        "guesses": [
+            {
+                "guess": "Paul Zindel",
+                "probability": 0.9471901833989466
+            },
+            {
+                "guess": "Paul Zindel",
+                "probability": 0.8445172395306793
+            },
+            {
+                "guess": "Paul Zindel",
+                "probability": 0.8445172395306793
+            },
+            {
+                "guess": "Paul Zindel",
+                "probability": 0.9471901833989466
+            },
+            {
+                "guess": "Paul Zindel",
+                "probability": 0.9471901833989466
+            },
+            {
+                "guess": "Paul Zindel",
+                "probability": 0.8445172395306793
+            },
+            {
+                "guess": "Paul Zindel",
+                "probability": 0.8445172395306793
+            },
+            {
+                "guess": "Paul Zindel",
+                "probability": 0.9471901833989466
+            },
+            {
+                "guess": "Paul Zindel",
+                "probability": 0.9471901833989466
+            },
+            {
+                "guess": "Paul Zindel",
+                "probability": 0.8445172395306793
+            }
+        ]
+    },
+    {
+        "question": "Who is the author of Adolphe?",
+        "answer": "Benjamin Constant",
+        "guesses": [
+            {
+                "guess": "Stendhal",
+                "probability": 0.010550314615085822
+            },
+            {
+                "guess": "Benjamin Constant",
+                "probability": 0.8263926217741108
+            },
+            {
+                "guess": "Benjamin Constant",
+                "probability": 0.9313126887351652
+            },
+            {
+                "guess": "Benjamin Constant",
+                "probability": 0.9313126887351652
+            },
+            {
+                "guess": "Benjamin Constant",
+                "probability": 0.9313126887351652
+            },
+            {
+                "guess": "Benjamin Constant",
+                "probability": 0.8263926217741108
+            },
+            {
+                "guess": "Benjamin Constant",
+                "probability": 0.8263926217741108
+            },
+            {
+                "guess": "Benjamin Constant.",
+                "probability": 0.16272627308636922
+            },
+            {
+                "guess": "Benjamin Constant",
+                "probability": 0.9313126887351652
+            },
+            {
+                "guess": "Benjamin Constant",
+                "probability": 0.9313126887351652
+            }
+        ]
+    }
+]

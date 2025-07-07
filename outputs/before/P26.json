@@ -1,0 +1,902 @@
+[
+    {
+        "question": "Carol II of Romania is married to [mask].",
+        "answers": [
+            {
+                "answer": "Zizi Lambrino",
+                "probability": "0.4060"
+            }
+        ]
+    },
+    {
+        "question": "Philip the Bold is married to [mask].",
+        "answers": [
+            {
+                "answer": "Margaret of Flanders",
+                "probability": "0.6632"
+            }
+        ]
+    },
+    {
+        "question": "Birgit Rosengren is married to [mask].",
+        "answers": [
+            {
+                "answer": "Lars Rosengren",
+                "probability": "0.0031"
+            }
+        ]
+    },
+    {
+        "question": "Francis Coleman is married to [mask].",
+        "answers": [
+            {
+                "answer": "Diana Coleman",
+                "probability": "0.0045"
+            }
+        ]
+    },
+    {
+        "question": "Archduchess Maria Leopoldine of Austria-Este is married to [mask].",
+        "answers": [
+            {
+                "answer": "Grand Duke Ferdinand II of",
+                "probability": "0.2962"
+            }
+        ]
+    },
+    {
+        "question": "Mehmed the Conqueror is married to [mask].",
+        "answers": [
+            {
+                "answer": "Roxelana",
+                "probability": "0.2992"
+            }
+        ]
+    },
+    {
+        "question": "Willard Huyck is married to [mask].",
+        "answers": [
+            {
+                "answer": "Alison Dickey",
+                "probability": "0.0190"
+            }
+        ]
+    },
+    {
+        "question": "Allan Manings is married to [mask].",
+        "answers": [
+            {
+                "answer": "Joan Collins",
+                "probability": "0.0176"
+            }
+        ]
+    },
+    {
+        "question": "Samir Soni is married to [mask].",
+        "answers": [
+            {
+                "answer": "Priya Dutt",
+                "probability": "0.0598"
+            }
+        ]
+    },
+    {
+        "question": "Empress Zhu Manyue is married to [mask].",
+        "answers": [
+            {
+                "answer": "Ming Taizong",
+                "probability": "0.0927"
+            }
+        ]
+    },
+    {
+        "question": "Katey Sagal is married to [mask].",
+        "answers": [
+            {
+                "answer": "Kurt Sutter",
+                "probability": "0.5487"
+            }
+        ]
+    },
+    {
+        "question": "Kurt Vonnegut is married to [mask].",
+        "answers": [
+            {
+                "answer": "Kurt Vonneg",
+                "probability": "0.6915"
+            }
+        ]
+    },
+    {
+        "question": "Princess Augusta of Hesse-Kassel is married to [mask].",
+        "answers": [
+            {
+                "answer": "Prince Frederick, Duke of",
+                "probability": "0.1174"
+            }
+        ]
+    },
+    {
+        "question": "Samyuktha Varma is married to [mask].",
+        "answers": [
+            {
+                "answer": "Vijay Dever",
+                "probability": "0.0367"
+            }
+        ]
+    },
+    {
+        "question": "Princess Marie of Denmark is married to [mask].",
+        "answers": [
+            {
+                "answer": "Prince Joachim",
+                "probability": "0.4114"
+            }
+        ]
+    },
+    {
+        "question": "Marlon Brando is married to [mask].",
+        "answers": [
+            {
+                "answer": "Tarita",
+                "probability": "0.0879"
+            }
+        ]
+    },
+    {
+        "question": "Goffredo Alessandrini is married to [mask].",
+        "answers": [
+            {
+                "answer": "Livia Venturini",
+                "probability": "0.0045"
+            }
+        ]
+    },
+    {
+        "question": "Shamim Hilaly is married to [mask].",
+        "answers": [
+            {
+                "answer": "Imran Khan",
+                "probability": "0.1275"
+            }
+        ]
+    },
+    {
+        "question": "Margaret Drabble is married to [mask].",
+        "answers": [
+            {
+                "answer": "Michael Holroyd",
+                "probability": "0.5877"
+            }
+        ]
+    },
+    {
+        "question": "Queen Uiin is married to [mask].",
+        "answers": [
+            {
+                "answer": "King Suro",
+                "probability": "0.0063"
+            }
+        ]
+    },
+    {
+        "question": "Maria Muldaur is married to [mask].",
+        "answers": [
+            {
+                "answer": "David Grisman",
+                "probability": "0.2182"
+            }
+        ]
+    },
+    {
+        "question": "Eileen Caddy is married to [mask].",
+        "answers": [
+            {
+                "answer": "Peter\n\nEileen C",
+                "probability": "0.0647"
+            }
+        ]
+    },
+    {
+        "question": "Wolfgang Kieling is married to [mask].",
+        "answers": [
+            {
+                "answer": "Hannelore Kohl",
+                "probability": "0.0048"
+            }
+        ]
+    },
+    {
+        "question": "Hiroyuki Nagato is married to [mask].",
+        "answers": [
+            {
+                "answer": "Yumi Nagato",
+                "probability": "0.0117"
+            }
+        ]
+    },
+    {
+        "question": "Hieronim Chodkiewicz is married to [mask].",
+        "answers": [
+            {
+                "answer": "Anna Vyrubova",
+                "probability": "0.0010"
+            }
+        ]
+    },
+    {
+        "question": "David Johnston is married to [mask].",
+        "answers": [
+            {
+                "answer": "Mary Johnston",
+                "probability": "0.0105"
+            }
+        ]
+    },
+    {
+        "question": "Caresse Crosby is married to [mask].",
+        "answers": [
+            {
+                "answer": "Harry Crosby",
+                "probability": "0.9010"
+            }
+        ]
+    },
+    {
+        "question": "Mike Nesbitt is married to [mask].",
+        "answers": [
+            {
+                "answer": "Andrea Nesbitt",
+                "probability": "0.0462"
+            }
+        ]
+    },
+    {
+        "question": "Jennifer Aspen is married to [mask].",
+        "answers": [
+            {
+                "answer": "Jeremy Sisto",
+                "probability": "0.0996"
+            }
+        ]
+    },
+    {
+        "question": "Cynthia Weil is married to [mask].",
+        "answers": [
+            {
+                "answer": "John Bucchino",
+                "probability": "0.2655"
+            }
+        ]
+    },
+    {
+        "question": "Jack Welch is married to [mask].",
+        "answers": [
+            {
+                "answer": "Susan Welch",
+                "probability": "0.1785"
+            }
+        ]
+    },
+    {
+        "question": "William de la Pole, 1st Duke of Suffolk is married to [mask].",
+        "answers": [
+            {
+                "answer": "Elizabeth Mowbray",
+                "probability": "0.1708"
+            }
+        ]
+    },
+    {
+        "question": "Peter Paul Rubens is married to [mask].",
+        "answers": [
+            {
+                "answer": "Helena Fourment",
+                "probability": "0.7670"
+            }
+        ]
+    },
+    {
+        "question": "Robert Frank is married to [mask].",
+        "answers": [
+            {
+                "answer": "Doris Muhl",
+                "probability": "0.0080"
+            }
+        ]
+    },
+    {
+        "question": "Elisabeth of Romania is married to [mask].",
+        "answers": [
+            {
+                "answer": "Ferdinand I",
+                "probability": "0.1507"
+            }
+        ]
+    },
+    {
+        "question": "Maud Gonne is married to [mask].",
+        "answers": [
+            {
+                "answer": "John MacBride",
+                "probability": "0.6055"
+            }
+        ]
+    },
+    {
+        "question": "Errol Flynn is married to [mask].",
+        "answers": [
+            {
+                "answer": "Lili Damita",
+                "probability": "0.5746"
+            }
+        ]
+    },
+    {
+        "question": "Nonna Mordyukova is married to [mask].",
+        "answers": [
+            {
+                "answer": "Vladimir Mord",
+                "probability": "0.0162"
+            }
+        ]
+    },
+    {
+        "question": "Cleofa Malatesta is married to [mask].",
+        "answers": [
+            {
+                "answer": "Giovanni Sfor",
+                "probability": "0.0658"
+            }
+        ]
+    },
+    {
+        "question": "Kitty Dukakis is married to [mask].",
+        "answers": [
+            {
+                "answer": "Michael Dukakis",
+                "probability": "0.9103"
+            }
+        ]
+    },
+    {
+        "question": "Cleopatra Selene II is married to [mask].",
+        "answers": [
+            {
+                "answer": "Juba II",
+                "probability": "0.8326"
+            }
+        ]
+    },
+    {
+        "question": "K\u00e4te Stresemann is married to [mask].",
+        "answers": [
+            {
+                "answer": "Walther Rathenau",
+                "probability": "0.4240"
+            }
+        ]
+    },
+    {
+        "question": "Eric Swanson is married to [mask].",
+        "answers": [
+            {
+                "answer": "Lori Swanson",
+                "probability": "0.0175"
+            }
+        ]
+    },
+    {
+        "question": "Mayumi Sh\u014d is married to [mask].",
+        "answers": [
+            {
+                "answer": "Kazuki Takah",
+                "probability": "0.0016"
+            }
+        ]
+    },
+    {
+        "question": "Se\u00e1n Gleeson is married to [mask].",
+        "answers": [
+            {
+                "answer": "Liz Gleeson",
+                "probability": "0.0088"
+            }
+        ]
+    },
+    {
+        "question": "David Guetta is married to [mask].",
+        "answers": [
+            {
+                "answer": "Catherine Th\u00e9nard",
+                "probability": "0.1793"
+            }
+        ]
+    },
+    {
+        "question": "Lee Harvey Oswald is married to [mask].",
+        "answers": [
+            {
+                "answer": "Marina Prusak",
+                "probability": "0.6125"
+            }
+        ]
+    },
+    {
+        "question": "Ay\u015fe Haseki Sultan is married to [mask].",
+        "answers": [
+            {
+                "answer": "Suleiman the Magn",
+                "probability": "0.3400"
+            }
+        ]
+    },
+    {
+        "question": "Marie-Claire Heureuse F\u00e9licit\u00e9 is married to [mask].",
+        "answers": [
+            {
+                "answer": "Jean-Baptiste Raymond",
+                "probability": "0.0536"
+            }
+        ]
+    },
+    {
+        "question": "Tim McGraw is married to [mask].",
+        "answers": [
+            {
+                "answer": "Faith Hill",
+                "probability": "0.8808"
+            }
+        ]
+    },
+    {
+        "question": "Neena Verma is married to [mask].",
+        "answers": [
+            {
+                "answer": "Rajeev Kh",
+                "probability": "0.0043"
+            }
+        ]
+    },
+    {
+        "question": "Beverley Cross is married to [mask].",
+        "answers": [
+            {
+                "answer": "Penelope Wilton",
+                "probability": "0.0975"
+            }
+        ]
+    },
+    {
+        "question": "Michael Wynn-Jones is married to [mask].",
+        "answers": [
+            {
+                "answer": "Sian Lloyd",
+                "probability": "0.0034"
+            }
+        ]
+    },
+    {
+        "question": "Jacques Parizeau is married to [mask].",
+        "answers": [
+            {
+                "answer": "Denise Parizeau",
+                "probability": "0.0750"
+            }
+        ]
+    },
+    {
+        "question": "Mata Jito is married to [mask].",
+        "answers": [
+            {
+                "answer": "Kwame Nkr",
+                "probability": "0.0021"
+            }
+        ]
+    },
+    {
+        "question": "Muzaffar Ali is married to [mask].",
+        "answers": [
+            {
+                "answer": "Salma Sultan",
+                "probability": "0.0236"
+            }
+        ]
+    },
+    {
+        "question": "Empress Murong is married to [mask].",
+        "answers": [
+            {
+                "answer": "Emperor Huai of",
+                "probability": "0.0664"
+            }
+        ]
+    },
+    {
+        "question": "Lidiya Fedoseyeva-Shukshina is married to [mask].",
+        "answers": [
+            {
+                "answer": "Vladimir Vd",
+                "probability": "0.0170"
+            }
+        ]
+    },
+    {
+        "question": "Prokopia is married to [mask].",
+        "answers": [
+            {
+                "answer": "Philip II",
+                "probability": "0.1471"
+            }
+        ]
+    },
+    {
+        "question": "Renate Hoy is married to [mask].",
+        "answers": [
+            {
+                "answer": "John Hoy",
+                "probability": "0.0035"
+            }
+        ]
+    },
+    {
+        "question": "Joanna Kos-Krauze is married to [mask].",
+        "answers": [
+            {
+                "answer": "\u0141ukasz Kos",
+                "probability": "0.0161"
+            }
+        ]
+    },
+    {
+        "question": "Constance Garnett is married to [mask].",
+        "answers": [
+            {
+                "answer": "Vladimir Durn",
+                "probability": "0.0334"
+            }
+        ]
+    },
+    {
+        "question": "Ernest Aldrich Simpson is married to [mask].",
+        "answers": [
+            {
+                "answer": "Wallis, Duchess of",
+                "probability": "0.3327"
+            }
+        ]
+    },
+    {
+        "question": "Courtney Love is married to [mask].",
+        "answers": [
+            {
+                "answer": "Kurt Cobain",
+                "probability": "0.9603"
+            }
+        ]
+    },
+    {
+        "question": "Tara Platt is married to [mask].",
+        "answers": [
+            {
+                "answer": "Grant Imahara",
+                "probability": "0.6411"
+            }
+        ]
+    },
+    {
+        "question": "Catherine Galbraith is married to [mask].",
+        "answers": [
+            {
+                "answer": "John Galbraith",
+                "probability": "0.0403"
+            }
+        ]
+    },
+    {
+        "question": "Margherita Aldobrandini is married to [mask].",
+        "answers": [
+            {
+                "answer": "Ottavio F",
+                "probability": "0.2097"
+            }
+        ]
+    },
+    {
+        "question": "Maria Oakey Dewing is married to [mask].",
+        "answers": [
+            {
+                "answer": "Thomas Dewing",
+                "probability": "0.5124"
+            }
+        ]
+    },
+    {
+        "question": "Ted Hughes is married to [mask].",
+        "answers": [
+            {
+                "answer": "Sylvia Plath",
+                "probability": "0.8087"
+            }
+        ]
+    },
+    {
+        "question": "Gita Hall is married to [mask].",
+        "answers": [
+            {
+                "answer": "Danny Bonaduce",
+                "probability": "0.0438"
+            }
+        ]
+    },
+    {
+        "question": "M.A. Jalil Ananta is married to [mask].",
+        "answers": [
+            {
+                "answer": "Sultana Kamal",
+                "probability": "0.0056"
+            }
+        ]
+    },
+    {
+        "question": "John Jay O'Connor is married to [mask].",
+        "answers": [
+            {
+                "answer": "Sandra Day O'Connor",
+                "probability": "0.1806"
+            }
+        ]
+    },
+    {
+        "question": "Tutankhamon is married to [mask].",
+        "answers": [
+            {
+                "answer": "Ankhesenam",
+                "probability": "0.9081"
+            }
+        ]
+    },
+    {
+        "question": "Nina Khrushcheva is married to [mask].",
+        "answers": [
+            {
+                "answer": "Stephen Hess",
+                "probability": "0.0300"
+            }
+        ]
+    },
+    {
+        "question": "Ntombi of Swaziland is married to [mask].",
+        "answers": [
+            {
+                "answer": "King Mswati III",
+                "probability": "0.4270"
+            }
+        ]
+    },
+    {
+        "question": "Bulle Ogier is married to [mask].",
+        "answers": [
+            {
+                "answer": "Bulle Ogier is",
+                "probability": "0.3290"
+            }
+        ]
+    },
+    {
+        "question": "Julia Domna is married to [mask].",
+        "answers": [
+            {
+                "answer": "Septimius Severus",
+                "probability": "0.5296"
+            }
+        ]
+    },
+    {
+        "question": "Anne of Bavaria is married to [mask].",
+        "answers": [
+            {
+                "answer": "Louis VII of France",
+                "probability": "0.0564"
+            }
+        ]
+    },
+    {
+        "question": "Claudia Dey is married to [mask].",
+        "answers": [
+            {
+                "answer": "Michael Ondaatje",
+                "probability": "0.0378"
+            }
+        ]
+    },
+    {
+        "question": "Annapurna Devi is married to [mask].",
+        "answers": [
+            {
+                "answer": "Ravi Shankar",
+                "probability": "0.5764"
+            }
+        ]
+    },
+    {
+        "question": "Nancy Benoit is married to [mask].",
+        "answers": [
+            {
+                "answer": "Eddie Guerrero",
+                "probability": "0.2132"
+            }
+        ]
+    },
+    {
+        "question": "Sarah Millican is married to [mask].",
+        "answers": [
+            {
+                "answer": "Alfie Moon",
+                "probability": "0.0557"
+            }
+        ]
+    },
+    {
+        "question": "Joumana Kidd is married to [mask].",
+        "answers": [
+            {
+                "answer": "Jason Kidd",
+                "probability": "0.6126"
+            }
+        ]
+    },
+    {
+        "question": "Leontia is married to [mask].",
+        "answers": [
+            {
+                "answer": "Leontia is married",
+                "probability": "0.0818"
+            }
+        ]
+    },
+    {
+        "question": "Marianne McAndrew is married to [mask].",
+        "answers": [
+            {
+                "answer": "Dean Jones",
+                "probability": "0.0279"
+            }
+        ]
+    },
+    {
+        "question": "Ai Maeda is married to [mask].",
+        "answers": [
+            {
+                "answer": "Takashi Fujii",
+                "probability": "0.0235"
+            }
+        ]
+    },
+    {
+        "question": "Clara Beranger is married to [mask].",
+        "answers": [
+            {
+                "answer": "Henry Beranger",
+                "probability": "0.0094"
+            }
+        ]
+    },
+    {
+        "question": "Nancy Steinbeck is married to [mask].",
+        "answers": [
+            {
+                "answer": "John Steinbeck",
+                "probability": "0.4038"
+            }
+        ]
+    },
+    {
+        "question": "Pomponia Caecilia Attica is married to [mask].",
+        "answers": [
+            {
+                "answer": "Marcus Scaurus",
+                "probability": "0.0625"
+            }
+        ]
+    },
+    {
+        "question": "Princess Alexandrine of Baden is married to [mask].",
+        "answers": [
+            {
+                "answer": "Grand Duke Mikhail Mikhailovich",
+                "probability": "0.0896"
+            }
+        ]
+    },
+    {
+        "question": "Tina Aumont is married to [mask].",
+        "answers": [
+            {
+                "answer": "Jean-Pierre Aumont",
+                "probability": "0.0332"
+            }
+        ]
+    },
+    {
+        "question": "Grand Duke Paul Alexandrovich of Russia is married to [mask].",
+        "answers": [
+            {
+                "answer": "Alexandra Georgievna",
+                "probability": "0.3680"
+            }
+        ]
+    },
+    {
+        "question": "Sergey Nikitin is married to [mask].",
+        "answers": [
+            {
+                "answer": "Yelena Nikit",
+                "probability": "0.0096"
+            }
+        ]
+    },
+    {
+        "question": "Ruqaiya Sultan Begum is married to [mask].",
+        "answers": [
+            {
+                "answer": "Jahangir",
+                "probability": "0.2342"
+            }
+        ]
+    },
+    {
+        "question": "Nam June Paik is married to [mask].",
+        "answers": [
+            {
+                "answer": "Shigeko Kubota",
+                "probability": "0.6213"
+            }
+        ]
+    },
+    {
+        "question": "Jane Henson is married to [mask].",
+        "answers": [
+            {
+                "answer": "Brian Henson",
+                "probability": "0.8028"
+            }
+        ]
+    },
+    {
+        "question": "Myrto is married to [mask].",
+        "answers": [
+            {
+                "answer": "Giorgos",
+                "probability": "0.0547"
+            }
+        ]
+    },
+    {
+        "question": "Kamila Andini is married to [mask].",
+        "answers": [
+            {
+                "answer": "Rizki Baginda",
+                "probability": "0.0006"
+            }
+        ]
+    },
+    {
+        "question": "Marella Agnelli is married to [mask].",
+        "answers": [
+            {
+                "answer": "Gianni Agnelli",
+                "probability": "0.3934"
+            }
+        ]
+    },
+    {
+        "question": "Ray Singleton is married to [mask].",
+        "answers": [
+            {
+                "answer": "Halle Berry",
+                "probability": "0.0911"
+            }
+        ]
+    }
+]

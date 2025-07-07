@@ -1,0 +1,52 @@
+[
+    {
+        "name": "META_LLAMA_32_1B_FREE",
+        "code": "meta-llama/llama-3.2-1b-instruct:free",
+        "path": "llama_32_1b_free"
+    },
+    {
+        "name": "META_LLAMA_32_3B_FREE",
+        "code": "meta-llama/llama-3.2-3b-instruct:free",
+        "path": "llama_32_3b_free"
+    },
+    {
+        "name": "META_LLAMA_31_8B_FREE",
+        "code": "meta-llama/llama-3.1-8b-instruct:free",
+        "path": "llama_31_8b_free"
+    },
+    {
+        "name": "META_LLAMA_33_8B_FREE",
+        "code": "meta-llama/llama-3.3-8b-instruct:free",
+        "path": "llama_33_8b_free"
+    },
+    {
+        "name": "META_LLAMA_32_11B_VISION_FREE",
+        "code": "meta-llama/llama-3.2-11b-vision-instruct:free",
+        "path": "llama_32_11b_vision_free"
+    },
+    {
+        "name": "META_LLAMA_33_70B_FREE",
+        "code": "meta-llama/llama-3.3-70b-instruct:free",
+        "path": "llama_33_70b_free"
+    },
+    {
+        "name": "META_LLAMA_32_3B",
+        "code": "meta-llama/llama-3.2-3b-instruct",
+        "path": "llama_32_3b"
+    },
+    {
+        "name": "META_LLAMA_31_8B",
+        "code": "meta-llama/llama-3.1-8b-instruct",
+        "path": "llama_31_8b"
+    },
+    {
+        "name": "META_LLAMA_31_70B",
+        "code": "meta-llama/llama-3.1-70b-instruct",
+        "path": "llama_31_70b"
+    },
+    {
+        "name": "META_LLAMA_31_405B",
+        "code": "meta-llama/llama-3.1-405b-instruct",
+        "path": "llama_31_405b"
+    }
+]

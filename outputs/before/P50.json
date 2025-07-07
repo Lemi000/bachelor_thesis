@@ -1,0 +1,902 @@
+[
+    {
+        "question": "The author of The Golden Gate is [mask].",
+        "answers": [
+            {
+                "answer": "Villa Cather",
+                "probability": "0.0657"
+            }
+        ]
+    },
+    {
+        "question": "The author of Books Do Furnish a Room is [mask].",
+        "answers": [
+            {
+                "answer": "William Gaddis",
+                "probability": "0.2690"
+            }
+        ]
+    },
+    {
+        "question": "The author of The Target is [mask].",
+        "answers": [
+            {
+                "answer": "E.L. James",
+                "probability": "0.0492"
+            }
+        ]
+    },
+    {
+        "question": "The author of Pro Tullio is [mask].",
+        "answers": [
+            {
+                "answer": "Petrarch",
+                "probability": "0.0437"
+            }
+        ]
+    },
+    {
+        "question": "The author of My Style is [mask].",
+        "answers": [
+            {
+                "answer": "Oscar de la R",
+                "probability": "0.0179"
+            }
+        ]
+    },
+    {
+        "question": "The author of Ry\u016bsei no Kizuna is [mask].",
+        "answers": [
+            {
+                "answer": "Yukio Mishima",
+                "probability": "0.0117"
+            }
+        ]
+    },
+    {
+        "question": "The author of A Profitable Position is [mask].",
+        "answers": [
+            {
+                "answer": "John C. Bogle",
+                "probability": "0.0028"
+            }
+        ]
+    },
+    {
+        "question": "The author of The Secrets of Vesuvius is [mask].",
+        "answers": [
+            {
+                "answer": "Edward Bulwer-Lyt",
+                "probability": "0.0950"
+            }
+        ]
+    },
+    {
+        "question": "The author of A Case of Two Cities is [mask].",
+        "answers": [
+            {
+                "answer": "Agatha Christie",
+                "probability": "0.8295"
+            }
+        ]
+    },
+    {
+        "question": "The author of Abba Abba is [mask].",
+        "answers": [
+            {
+                "answer": "Karl Ove K",
+                "probability": "0.0102"
+            }
+        ]
+    },
+    {
+        "question": "The author of The Innovators: How a Group of Inventors, Hackers, Geniuses, and Geeks Created the Digital Revolution is [mask].",
+        "answers": [
+            {
+                "answer": "Walter Isaacson",
+                "probability": "0.9518"
+            }
+        ]
+    },
+    {
+        "question": "The author of Eric Hermannson's Soul is [mask].",
+        "answers": [
+            {
+                "answer": "Stephen Crane",
+                "probability": "0.2012"
+            }
+        ]
+    },
+    {
+        "question": "The author of Picnic is [mask].",
+        "answers": [
+            {
+                "answer": "Harper Lee",
+                "probability": "0.6398"
+            }
+        ]
+    },
+    {
+        "question": "The author of Mussolini: His Part in My Downfall is [mask].",
+        "answers": [
+            {
+                "answer": "Winston Churchill",
+                "probability": "0.8241"
+            }
+        ]
+    },
+    {
+        "question": "The author of The Golden Volcano is [mask].",
+        "answers": [
+            {
+                "answer": "Jules Verne",
+                "probability": "0.1114"
+            }
+        ]
+    },
+    {
+        "question": "The author of El censo is [mask].",
+        "answers": [
+            {
+                "answer": "Gabriel Garc\u00eda M\u00e1r",
+                "probability": "0.1328"
+            }
+        ]
+    },
+    {
+        "question": "The author of De Prospectiva Pingendi is [mask].",
+        "answers": [
+            {
+                "answer": "Leon Battista Alberti",
+                "probability": "0.6379"
+            }
+        ]
+    },
+    {
+        "question": "The author of For the Liberation of Brazil is [mask].",
+        "answers": [
+            {
+                "answer": "M\u00e1rio de Andrade",
+                "probability": "0.0767"
+            }
+        ]
+    },
+    {
+        "question": "The author of A New Refutation of Time is [mask].",
+        "answers": [
+            {
+                "answer": "J. T. Mer",
+                "probability": "0.0025"
+            }
+        ]
+    },
+    {
+        "question": "The author of My Beloved World is [mask].",
+        "answers": [
+            {
+                "answer": "Sonia Sotom",
+                "probability": "0.9806"
+            }
+        ]
+    },
+    {
+        "question": "The author of Operaci\u00f3n Masacre is [mask].",
+        "answers": [
+            {
+                "answer": "Eduardo Gonz\u00e1lez",
+                "probability": "0.0980"
+            }
+        ]
+    },
+    {
+        "question": "The author of Among the Barons is [mask].",
+        "answers": [
+            {
+                "answer": "Margaret Peterson Hadd",
+                "probability": "0.3364"
+            }
+        ]
+    },
+    {
+        "question": "The author of The Homosexual Matrix is [mask].",
+        "answers": [
+            {
+                "answer": "William S. Haug",
+                "probability": "0.0055"
+            }
+        ]
+    },
+    {
+        "question": "The author of Under the Weather is [mask].",
+        "answers": [
+            {
+                "answer": "Neil Gaiman",
+                "probability": "0.0286"
+            }
+        ]
+    },
+    {
+        "question": "The author of \u00a1\u00a1\u00a1Natacha!!! is [mask].",
+        "answers": [
+            {
+                "answer": "Jean Giraud",
+                "probability": "0.0120"
+            }
+        ]
+    },
+    {
+        "question": "The author of Foucault's Pendulum is [mask].",
+        "answers": [
+            {
+                "answer": "Umberto Eco",
+                "probability": "0.9481"
+            }
+        ]
+    },
+    {
+        "question": "The author of Dragon Age: The Stolen Throne is [mask].",
+        "answers": [
+            {
+                "answer": "David Gaider",
+                "probability": "0.8622"
+            }
+        ]
+    },
+    {
+        "question": "The author of Nature Girl is [mask].",
+        "answers": [
+            {
+                "answer": "Carl Hiaasen",
+                "probability": "0.9329"
+            }
+        ]
+    },
+    {
+        "question": "The author of Growing Up American is [mask].",
+        "answers": [
+            {
+                "answer": "Neil Postman",
+                "probability": "0.2634"
+            }
+        ]
+    },
+    {
+        "question": "The author of NOiSE is [mask].",
+        "answers": [
+            {
+                "answer": "Kazuo Ishig",
+                "probability": "0.0019"
+            }
+        ]
+    },
+    {
+        "question": "The author of The Big Time is [mask].",
+        "answers": [
+            {
+                "answer": "Poul Anderson",
+                "probability": "0.3129"
+            }
+        ]
+    },
+    {
+        "question": "The author of Moosewood Cookbook is [mask].",
+        "answers": [
+            {
+                "answer": "Mollie Katzen",
+                "probability": "0.9585"
+            }
+        ]
+    },
+    {
+        "question": "The author of In Another Light is [mask].",
+        "answers": [
+            {
+                "answer": "Jodi Picoult",
+                "probability": "0.0149"
+            }
+        ]
+    },
+    {
+        "question": "The author of Tarantula is [mask].",
+        "answers": [
+            {
+                "answer": "Ray Bradbury",
+                "probability": "0.9352"
+            }
+        ]
+    },
+    {
+        "question": "The author of Romola is [mask].",
+        "answers": [
+            {
+                "answer": "George Eliot",
+                "probability": "0.9707"
+            }
+        ]
+    },
+    {
+        "question": "The author of Frozen Assets is [mask].",
+        "answers": [
+            {
+                "answer": "David Baldacci",
+                "probability": "0.0225"
+            }
+        ]
+    },
+    {
+        "question": "The author of When Genius Failed: The Rise and Fall of Long-Term Capital Management is [mask].",
+        "answers": [
+            {
+                "answer": "Roger Lowenstein",
+                "probability": "0.9256"
+            }
+        ]
+    },
+    {
+        "question": "The author of The Elephant of Surprise is [mask].",
+        "answers": [
+            {
+                "answer": "Josh Lanyon",
+                "probability": "0.1122"
+            }
+        ]
+    },
+    {
+        "question": "The author of The Birchbark House is [mask].",
+        "answers": [
+            {
+                "answer": "Louise Erdrich",
+                "probability": "0.4576"
+            }
+        ]
+    },
+    {
+        "question": "The author of The Life and Death of Mr Badman is [mask].",
+        "answers": [
+            {
+                "answer": "John Bunyan",
+                "probability": "0.9496"
+            }
+        ]
+    },
+    {
+        "question": "The author of Areopagitica is [mask].",
+        "answers": [
+            {
+                "answer": "John Milton",
+                "probability": "0.9732"
+            }
+        ]
+    },
+    {
+        "question": "The author of Banquet for the Damned is [mask].",
+        "answers": [
+            {
+                "answer": "James Herbert",
+                "probability": "0.1106"
+            }
+        ]
+    },
+    {
+        "question": "The author of Stork Naked is [mask].",
+        "answers": [
+            {
+                "answer": "T.C. Boyle",
+                "probability": "0.0409"
+            }
+        ]
+    },
+    {
+        "question": "The author of Two into One is [mask].",
+        "answers": [
+            {
+                "answer": "Dorothy Parker",
+                "probability": "0.0042"
+            }
+        ]
+    },
+    {
+        "question": "The author of Hollow City is [mask].",
+        "answers": [
+            {
+                "answer": "Ransom Riggs",
+                "probability": "0.8747"
+            }
+        ]
+    },
+    {
+        "question": "The author of Emile, or On Education is [mask].",
+        "answers": [
+            {
+                "answer": "Jean-Jacques Rousse",
+                "probability": "0.9932"
+            }
+        ]
+    },
+    {
+        "question": "The author of Flashing Swords! 2 is [mask].",
+        "answers": [
+            {
+                "answer": "Lin Carter",
+                "probability": "0.7677"
+            }
+        ]
+    },
+    {
+        "question": "The author of Rita Hayworth and Shawshank Redemption is [mask].",
+        "answers": [
+            {
+                "answer": "Stephen King",
+                "probability": "0.8814"
+            }
+        ]
+    },
+    {
+        "question": "The author of Hemmet is [mask].",
+        "answers": [
+            {
+                "answer": "Hamsun",
+                "probability": "0.0268"
+            }
+        ]
+    },
+    {
+        "question": "The author of Out of the Dark is [mask].",
+        "answers": [
+            {
+                "answer": "Elizabeth Cady Stanton",
+                "probability": "0.0615"
+            }
+        ]
+    },
+    {
+        "question": "The author of The mirror in the mirror is [mask].",
+        "answers": [
+            {
+                "answer": "Snow White",
+                "probability": "0.1088"
+            }
+        ]
+    },
+    {
+        "question": "The author of Time and Free Will is [mask].",
+        "answers": [
+            {
+                "answer": "Henri Bergson",
+                "probability": "0.7684"
+            }
+        ]
+    },
+    {
+        "question": "The author of Me and the Orgone is [mask].",
+        "answers": [
+            {
+                "answer": "Wilhelm Reich",
+                "probability": "0.1808"
+            }
+        ]
+    },
+    {
+        "question": "The author of The Witch of Blackbird Pond is [mask].",
+        "answers": [
+            {
+                "answer": "Elizabeth George Speare",
+                "probability": "0.9124"
+            }
+        ]
+    },
+    {
+        "question": "The author of Dokaben is [mask].",
+        "answers": [
+            {
+                "answer": "Miyazaki Mits",
+                "probability": "0.0046"
+            }
+        ]
+    },
+    {
+        "question": "The author of O dia das cal\u00e7as roladas is [mask].",
+        "answers": [
+            {
+                "answer": "Paulo Coelho",
+                "probability": "0.0829"
+            }
+        ]
+    },
+    {
+        "question": "The author of The Burning Room is [mask].",
+        "answers": [
+            {
+                "answer": "Michael Connelly",
+                "probability": "0.9015"
+            }
+        ]
+    },
+    {
+        "question": "The author of Morgan's Passing is [mask].",
+        "answers": [
+            {
+                "answer": "Toni Morrison",
+                "probability": "0.0410"
+            }
+        ]
+    },
+    {
+        "question": "The author of The Purchase of the North Pole is [mask].",
+        "answers": [
+            {
+                "answer": "Arthur Ransome",
+                "probability": "0.0790"
+            }
+        ]
+    },
+    {
+        "question": "The author of New Rose Hotel is [mask].",
+        "answers": [
+            {
+                "answer": "William Gibson",
+                "probability": "0.8260"
+            }
+        ]
+    },
+    {
+        "question": "The author of Come over to My House is [mask].",
+        "answers": [
+            {
+                "answer": "Judy Blume",
+                "probability": "0.0140"
+            }
+        ]
+    },
+    {
+        "question": "The author of Panic: The Story of Modern Financial Insanity is [mask].",
+        "answers": [
+            {
+                "answer": "Michael Lewis",
+                "probability": "0.3428"
+            }
+        ]
+    },
+    {
+        "question": "The author of Avalon is [mask].",
+        "answers": [
+            {
+                "answer": "Marion Zimmer Bradley",
+                "probability": "0.6927"
+            }
+        ]
+    },
+    {
+        "question": "The author of De libero arbitrio is [mask].",
+        "answers": [
+            {
+                "answer": "Martin Luther",
+                "probability": "0.7726"
+            }
+        ]
+    },
+    {
+        "question": "The author of The Dark Tower: Treachery is [mask].",
+        "answers": [
+            {
+                "answer": "Stephen King",
+                "probability": "0.8602"
+            }
+        ]
+    },
+    {
+        "question": "The author of Henriade is [mask].",
+        "answers": [
+            {
+                "answer": "Voltaire",
+                "probability": "0.9652"
+            }
+        ]
+    },
+    {
+        "question": "The author of The Jew of Malta is [mask].",
+        "answers": [
+            {
+                "answer": "Christopher Marlowe",
+                "probability": "0.9686"
+            }
+        ]
+    },
+    {
+        "question": "The author of The Crying Game is [mask].",
+        "answers": [
+            {
+                "answer": "Neil Jordan",
+                "probability": "0.9607"
+            }
+        ]
+    },
+    {
+        "question": "The author of \u00dcmera j\u00f5el is [mask].",
+        "answers": [
+            {
+                "answer": "Karl Ristikivi",
+                "probability": "0.0156"
+            }
+        ]
+    },
+    {
+        "question": "The author of Lady Mechanika is [mask].",
+        "answers": [
+            {
+                "answer": "Joe Benitez",
+                "probability": "0.4205"
+            }
+        ]
+    },
+    {
+        "question": "The author of Concluding is [mask].",
+        "answers": [
+            {
+                "answer": "T.S. Eliot",
+                "probability": "0.0247"
+            }
+        ]
+    },
+    {
+        "question": "The author of Sefer Hasidim is [mask].",
+        "answers": [
+            {
+                "answer": "Judah ben Samuel of",
+                "probability": "0.6922"
+            }
+        ]
+    },
+    {
+        "question": "The author of Philosophy: Who Needs It is [mask].",
+        "answers": [
+            {
+                "answer": "Ayn Rand",
+                "probability": "0.9499"
+            }
+        ]
+    },
+    {
+        "question": "The author of The Purity Myth is [mask].",
+        "answers": [
+            {
+                "answer": "Jessica Valenti",
+                "probability": "0.8967"
+            }
+        ]
+    },
+    {
+        "question": "The author of A Drunken Dream and Other Stories is [mask].",
+        "answers": [
+            {
+                "answer": "Kawabata Yas",
+                "probability": "0.0870"
+            }
+        ]
+    },
+    {
+        "question": "The author of The Prince and the Pauper is [mask].",
+        "answers": [
+            {
+                "answer": "Mark Twain",
+                "probability": "0.9880"
+            }
+        ]
+    },
+    {
+        "question": "The author of The Spanish Tragedy is [mask].",
+        "answers": [
+            {
+                "answer": "Thomas Kyd",
+                "probability": "0.9689"
+            }
+        ]
+    },
+    {
+        "question": "The author of The Book of Mirdad is [mask].",
+        "answers": [
+            {
+                "answer": "Michel Nessim",
+                "probability": "0.1025"
+            }
+        ]
+    },
+    {
+        "question": "The author of Last Exit to Brooklyn is [mask].",
+        "answers": [
+            {
+                "answer": "Hubert Selby Jr",
+                "probability": "0.9323"
+            }
+        ]
+    },
+    {
+        "question": "The author of Dark of the Moon: Poems of Fantasy and the Macabre is [mask].",
+        "answers": [
+            {
+                "answer": "Richard Wilbur",
+                "probability": "0.0503"
+            }
+        ]
+    },
+    {
+        "question": "The author of October the First Is Too Late is [mask].",
+        "answers": [
+            {
+                "answer": "Philip Jos\u00e9 Farmer",
+                "probability": "0.2329"
+            }
+        ]
+    },
+    {
+        "question": "The author of Keeper is [mask].",
+        "answers": [
+            {
+                "answer": "Garth Nix",
+                "probability": "0.3379"
+            }
+        ]
+    },
+    {
+        "question": "The author of The Boy in the Dress is [mask].",
+        "answers": [
+            {
+                "answer": "David Walliams",
+                "probability": "0.5428"
+            }
+        ]
+    },
+    {
+        "question": "The author of Lux Mundi is [mask].",
+        "answers": [
+            {
+                "answer": "Henry Edward Manning",
+                "probability": "0.0668"
+            }
+        ]
+    },
+    {
+        "question": "The author of The Science of Discworld III: Darwin's Watch is [mask].",
+        "answers": [
+            {
+                "answer": "Terry Pratchett",
+                "probability": "0.9791"
+            }
+        ]
+    },
+    {
+        "question": "The author of Bump in the Night is [mask].",
+        "answers": [
+            {
+                "answer": "Paul Dini",
+                "probability": "0.0421"
+            }
+        ]
+    },
+    {
+        "question": "The author of Sherlock Holmes's War of the Worlds is [mask].",
+        "answers": [
+            {
+                "answer": "H.G. Wells",
+                "probability": "0.8137"
+            }
+        ]
+    },
+    {
+        "question": "The author of Radiant Doors is [mask].",
+        "answers": [
+            {
+                "answer": "Emily St. John Mand",
+                "probability": "0.0188"
+            }
+        ]
+    },
+    {
+        "question": "The author of Cugel's Saga is [mask].",
+        "answers": [
+            {
+                "answer": "Jack Vance",
+                "probability": "0.7849"
+            }
+        ]
+    },
+    {
+        "question": "The author of The Saint in Trouble is [mask].",
+        "answers": [
+            {
+                "answer": "Graham Greene",
+                "probability": "0.0611"
+            }
+        ]
+    },
+    {
+        "question": "The author of The Sundering is [mask].",
+        "answers": [
+            {
+                "answer": "Margaret Weis",
+                "probability": "0.1368"
+            }
+        ]
+    },
+    {
+        "question": "The author of Meditations on the Life of Christ is [mask].",
+        "answers": [
+            {
+                "answer": "Brother Lawrence",
+                "probability": "0.1266"
+            }
+        ]
+    },
+    {
+        "question": "The author of Me and Molly is [mask].",
+        "answers": [
+            {
+                "answer": "Judy Blume",
+                "probability": "0.0202"
+            }
+        ]
+    },
+    {
+        "question": "The author of Starchild Trilogy is [mask].",
+        "answers": [
+            {
+                "answer": "Arthur C. Clarke",
+                "probability": "0.0446"
+            }
+        ]
+    },
+    {
+        "question": "The author of Fever of the Bone is [mask].",
+        "answers": [
+            {
+                "answer": "Val McDermid",
+                "probability": "0.5769"
+            }
+        ]
+    },
+    {
+        "question": "The author of Traction City is [mask].",
+        "answers": [
+            {
+                "answer": "China Mi\u00e9ville",
+                "probability": "0.5087"
+            }
+        ]
+    },
+    {
+        "question": "The author of The Borrowers Afield is [mask].",
+        "answers": [
+            {
+                "answer": "Mary Norton",
+                "probability": "0.9407"
+            }
+        ]
+    },
+    {
+        "question": "The author of Abhirami Anthadhi is [mask].",
+        "answers": [
+            {
+                "answer": "Manikkavasagar",
+                "probability": "0.0357"
+            }
+        ]
+    },
+    {
+        "question": "The author of Abide with Me is [mask].",
+        "answers": [
+            {
+                "answer": "Frances Ridley Haverg",
+                "probability": "0.3034"
+            }
+        ]
+    },
+    {
+        "question": "The author of City of Djinns is [mask].",
+        "answers": [
+            {
+                "answer": "William Dalrymple",
+                "probability": "0.9690"
+            }
+        ]
+    }
+]

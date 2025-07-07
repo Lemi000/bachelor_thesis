@@ -1,0 +1,6053 @@
+[
+    {
+        "question": "The author of The Golden Gate is [mask].",
+        "answers": [
+            "Alistair MacLean"
+        ]
+    },
+    {
+        "question": "The author of Books Do Furnish a Room is [mask].",
+        "answers": [
+            "Anthony Powell"
+        ]
+    },
+    {
+        "question": "The author of The Target is [mask].",
+        "answers": [
+            "David Baldacci"
+        ]
+    },
+    {
+        "question": "The author of Pro Tullio is [mask].",
+        "answers": [
+            "Cicero"
+        ]
+    },
+    {
+        "question": "The author of My Style is [mask].",
+        "answers": [
+            "Dannii Minogue"
+        ]
+    },
+    {
+        "question": "The author of Ry\u016bsei no Kizuna is [mask].",
+        "answers": [
+            "Keigo Higashino"
+        ]
+    },
+    {
+        "question": "The author of A Profitable Position is [mask].",
+        "answers": [
+            "Alexander Ostrovsky"
+        ]
+    },
+    {
+        "question": "The author of The Secrets of Vesuvius is [mask].",
+        "answers": [
+            "Caroline Lawrence"
+        ]
+    },
+    {
+        "question": "The author of A Case of Two Cities is [mask].",
+        "answers": [
+            "Qiu Xiaolong"
+        ]
+    },
+    {
+        "question": "The author of Abba Abba is [mask].",
+        "answers": [
+            "Anthony Burgess"
+        ]
+    },
+    {
+        "question": "The author of The Innovators: How a Group of Inventors, Hackers, Geniuses, and Geeks Created the Digital Revolution is [mask].",
+        "answers": [
+            "Walter Isaacson"
+        ]
+    },
+    {
+        "question": "The author of Eric Hermannson's Soul is [mask].",
+        "answers": [
+            "Willa Cather"
+        ]
+    },
+    {
+        "question": "The author of Picnic is [mask].",
+        "answers": [
+            "William Inge"
+        ]
+    },
+    {
+        "question": "The author of Mussolini: His Part in My Downfall is [mask].",
+        "answers": [
+            "Spike Milligan"
+        ]
+    },
+    {
+        "question": "The author of The Golden Volcano is [mask].",
+        "answers": [
+            "Jules Verne"
+        ]
+    },
+    {
+        "question": "The author of El censo is [mask].",
+        "answers": [
+            "Emilio Carballido"
+        ]
+    },
+    {
+        "question": "The author of De Prospectiva Pingendi is [mask].",
+        "answers": [
+            "Piero della Francesca"
+        ]
+    },
+    {
+        "question": "The author of For the Liberation of Brazil is [mask].",
+        "answers": [
+            "Carlos Marighella"
+        ]
+    },
+    {
+        "question": "The author of A New Refutation of Time is [mask].",
+        "answers": [
+            "Jorge Luis Borges"
+        ]
+    },
+    {
+        "question": "The author of My Beloved World is [mask].",
+        "answers": [
+            "Sonia Sotomayor"
+        ]
+    },
+    {
+        "question": "The author of Operaci\u00f3n Masacre is [mask].",
+        "answers": [
+            "Rodolfo Walsh"
+        ]
+    },
+    {
+        "question": "The author of Among the Barons is [mask].",
+        "answers": [
+            "Margaret Peterson Haddix"
+        ]
+    },
+    {
+        "question": "The author of The Homosexual Matrix is [mask].",
+        "answers": [
+            "Clarence Arthur Tripp"
+        ]
+    },
+    {
+        "question": "The author of Under the Weather is [mask].",
+        "answers": [
+            "Stephen King"
+        ]
+    },
+    {
+        "question": "The author of \u00a1\u00a1\u00a1Natacha!!! is [mask].",
+        "answers": [
+            "Luis Mar\u00eda Pescetti"
+        ]
+    },
+    {
+        "question": "The author of Foucault's Pendulum is [mask].",
+        "answers": [
+            "Umberto Eco"
+        ]
+    },
+    {
+        "question": "The author of Dragon Age: The Stolen Throne is [mask].",
+        "answers": [
+            "David Gaider"
+        ]
+    },
+    {
+        "question": "The author of Nature Girl is [mask].",
+        "answers": [
+            "Carl Hiaasen"
+        ]
+    },
+    {
+        "question": "The author of Growing Up American is [mask].",
+        "answers": [
+            "Min Zhou"
+        ]
+    },
+    {
+        "question": "The author of NOiSE is [mask].",
+        "answers": [
+            "Tsutomu Nihei"
+        ]
+    },
+    {
+        "question": "The author of The Big Time is [mask].",
+        "answers": [
+            "Fritz Leiber Junior"
+        ]
+    },
+    {
+        "question": "The author of Moosewood Cookbook is [mask].",
+        "answers": [
+            "Mollie Katzen"
+        ]
+    },
+    {
+        "question": "The author of In Another Light is [mask].",
+        "answers": [
+            "Andrew Greig"
+        ]
+    },
+    {
+        "question": "The author of Tarantula is [mask].",
+        "answers": [
+            "Thierry Jonquet"
+        ]
+    },
+    {
+        "question": "The author of Romola is [mask].",
+        "answers": [
+            "George Eliot"
+        ]
+    },
+    {
+        "question": "The author of Frozen Assets is [mask].",
+        "answers": [
+            "P. G. Wodehouse"
+        ]
+    },
+    {
+        "question": "The author of When Genius Failed: The Rise and Fall of Long-Term Capital Management is [mask].",
+        "answers": [
+            "Roger Lowenstein"
+        ]
+    },
+    {
+        "question": "The author of The Elephant of Surprise is [mask].",
+        "answers": [
+            "Brent Hartinger"
+        ]
+    },
+    {
+        "question": "The author of The Birchbark House is [mask].",
+        "answers": [
+            "Louise Erdrich"
+        ]
+    },
+    {
+        "question": "The author of The Life and Death of Mr Badman is [mask].",
+        "answers": [
+            "John Bunyan"
+        ]
+    },
+    {
+        "question": "The author of Areopagitica is [mask].",
+        "answers": [
+            "John Milton"
+        ]
+    },
+    {
+        "question": "The author of Banquet for the Damned is [mask].",
+        "answers": [
+            "Adam Nevill"
+        ]
+    },
+    {
+        "question": "The author of Stork Naked is [mask].",
+        "answers": [
+            "Piers Anthony"
+        ]
+    },
+    {
+        "question": "The author of Two into One is [mask].",
+        "answers": [
+            "Ray Cooney"
+        ]
+    },
+    {
+        "question": "The author of Hollow City is [mask].",
+        "answers": [
+            "Ransom Riggs"
+        ]
+    },
+    {
+        "question": "The author of Emile, or On Education is [mask].",
+        "answers": [
+            "Jean-Jacques Rousseau"
+        ]
+    },
+    {
+        "question": "The author of Flashing Swords! 2 is [mask].",
+        "answers": [
+            "Lin Carter"
+        ]
+    },
+    {
+        "question": "The author of Rita Hayworth and Shawshank Redemption is [mask].",
+        "answers": [
+            "Stephen King"
+        ]
+    },
+    {
+        "question": "The author of Hemmet is [mask].",
+        "answers": [
+            "Fredrika Bremer"
+        ]
+    },
+    {
+        "question": "The author of Out of the Dark is [mask].",
+        "answers": [
+            "Welwyn Wilton Katz"
+        ]
+    },
+    {
+        "question": "The author of The mirror in the mirror is [mask].",
+        "answers": [
+            "Michael Ende"
+        ]
+    },
+    {
+        "question": "The author of Time and Free Will is [mask].",
+        "answers": [
+            "Henri Bergson"
+        ]
+    },
+    {
+        "question": "The author of Me and the Orgone is [mask].",
+        "answers": [
+            "Orson Bean"
+        ]
+    },
+    {
+        "question": "The author of The Witch of Blackbird Pond is [mask].",
+        "answers": [
+            "Elizabeth George Speare"
+        ]
+    },
+    {
+        "question": "The author of Dokaben is [mask].",
+        "answers": [
+            "Shinji Mizushima"
+        ]
+    },
+    {
+        "question": "The author of O dia das cal\u00e7as roladas is [mask].",
+        "answers": [
+            "Germano Almeida"
+        ]
+    },
+    {
+        "question": "The author of The Burning Room is [mask].",
+        "answers": [
+            "Michael Connelly"
+        ]
+    },
+    {
+        "question": "The author of Morgan's Passing is [mask].",
+        "answers": [
+            "Anne Tyler"
+        ]
+    },
+    {
+        "question": "The author of The Purchase of the North Pole is [mask].",
+        "answers": [
+            "Jules Verne"
+        ]
+    },
+    {
+        "question": "The author of New Rose Hotel is [mask].",
+        "answers": [
+            "William Gibson"
+        ]
+    },
+    {
+        "question": "The author of Come over to My House is [mask].",
+        "answers": [
+            "Dr. Seuss"
+        ]
+    },
+    {
+        "question": "The author of Panic: The Story of Modern Financial Insanity is [mask].",
+        "answers": [
+            "Michael Lewis"
+        ]
+    },
+    {
+        "question": "The author of Avalon is [mask].",
+        "answers": [
+            "Anya Seton"
+        ]
+    },
+    {
+        "question": "The author of De libero arbitrio is [mask].",
+        "answers": [
+            "Augustine of Hippo"
+        ]
+    },
+    {
+        "question": "The author of The Dark Tower: Treachery is [mask].",
+        "answers": [
+            "Robin Furth"
+        ]
+    },
+    {
+        "question": "The author of Henriade is [mask].",
+        "answers": [
+            "Voltaire"
+        ]
+    },
+    {
+        "question": "The author of The Jew of Malta is [mask].",
+        "answers": [
+            "Christopher Marlowe"
+        ]
+    },
+    {
+        "question": "The author of The Crying Game is [mask].",
+        "answers": [
+            "John Braine"
+        ]
+    },
+    {
+        "question": "The author of \u00dcmera j\u00f5el is [mask].",
+        "answers": [
+            "Mait Metsanurk"
+        ]
+    },
+    {
+        "question": "The author of Lady Mechanika is [mask].",
+        "answers": [
+            "Joe Benitez"
+        ]
+    },
+    {
+        "question": "The author of Concluding is [mask].",
+        "answers": [
+            "Henry Green"
+        ]
+    },
+    {
+        "question": "The author of Sefer Hasidim is [mask].",
+        "answers": [
+            "Judah ben Samuel of Regensburg"
+        ]
+    },
+    {
+        "question": "The author of Philosophy: Who Needs It is [mask].",
+        "answers": [
+            "Ayn Rand"
+        ]
+    },
+    {
+        "question": "The author of The Purity Myth is [mask].",
+        "answers": [
+            "Jessica Valenti"
+        ]
+    },
+    {
+        "question": "The author of A Drunken Dream and Other Stories is [mask].",
+        "answers": [
+            "Moto Hagio"
+        ]
+    },
+    {
+        "question": "The author of The Prince and the Pauper is [mask].",
+        "answers": [
+            "Mark Twain"
+        ]
+    },
+    {
+        "question": "The author of The Spanish Tragedy is [mask].",
+        "answers": [
+            "Thomas Kyd"
+        ]
+    },
+    {
+        "question": "The author of The Book of Mirdad is [mask].",
+        "answers": [
+            "Mikha'il Na'ima"
+        ]
+    },
+    {
+        "question": "The author of Last Exit to Brooklyn is [mask].",
+        "answers": [
+            "Hubert Selby Jr."
+        ]
+    },
+    {
+        "question": "The author of Dark of the Moon: Poems of Fantasy and the Macabre is [mask].",
+        "answers": [
+            "August Derleth"
+        ]
+    },
+    {
+        "question": "The author of October the First Is Too Late is [mask].",
+        "answers": [
+            "Fred Hoyle"
+        ]
+    },
+    {
+        "question": "The author of Keeper is [mask].",
+        "answers": [
+            "Mal Peet"
+        ]
+    },
+    {
+        "question": "The author of The Boy in the Dress is [mask].",
+        "answers": [
+            "David Walliams"
+        ]
+    },
+    {
+        "question": "The author of Lux Mundi is [mask].",
+        "answers": [
+            "Charles Gore"
+        ]
+    },
+    {
+        "question": "The author of The Science of Discworld III: Darwin's Watch is [mask].",
+        "answers": [
+            "Terry Pratchett"
+        ]
+    },
+    {
+        "question": "The author of Bump in the Night is [mask].",
+        "answers": [
+            "Isabelle Holland"
+        ]
+    },
+    {
+        "question": "The author of Sherlock Holmes's War of the Worlds is [mask].",
+        "answers": [
+            "Manly Wade Wellman"
+        ]
+    },
+    {
+        "question": "The author of Radiant Doors is [mask].",
+        "answers": [
+            "Michael Swanwick"
+        ]
+    },
+    {
+        "question": "The author of Cugel's Saga is [mask].",
+        "answers": [
+            "Jack Vance"
+        ]
+    },
+    {
+        "question": "The author of The Saint in Trouble is [mask].",
+        "answers": [
+            "Leslie Charteris"
+        ]
+    },
+    {
+        "question": "The author of The Sundering is [mask].",
+        "answers": [
+            "Jacqueline Carey"
+        ]
+    },
+    {
+        "question": "The author of Meditations on the Life of Christ is [mask].",
+        "answers": [
+            "Pseudo-Bonaventure"
+        ]
+    },
+    {
+        "question": "The author of Me and Molly is [mask].",
+        "answers": [
+            "Gertrude Berg"
+        ]
+    },
+    {
+        "question": "The author of Starchild Trilogy is [mask].",
+        "answers": [
+            "Jack Williamson",
+            "Frederik Pohl"
+        ]
+    },
+    {
+        "question": "The author of Fever of the Bone is [mask].",
+        "answers": [
+            "Val McDermid"
+        ]
+    },
+    {
+        "question": "The author of Traction City is [mask].",
+        "answers": [
+            "Philip Reeve"
+        ]
+    },
+    {
+        "question": "The author of The Borrowers Afield is [mask].",
+        "answers": [
+            "Mary Norton"
+        ]
+    },
+    {
+        "question": "The author of Abhirami Anthadhi is [mask].",
+        "answers": [
+            "Abirami Pattar"
+        ]
+    },
+    {
+        "question": "The author of Abide with Me is [mask].",
+        "answers": [
+            "Clare Boothe Luce"
+        ]
+    },
+    {
+        "question": "The author of City of Djinns is [mask].",
+        "answers": [
+            "William Dalrymple"
+        ]
+    },
+    {
+        "question": "The author of Code: Version 2.0 is [mask].",
+        "answers": [
+            "Lawrence Lessig"
+        ]
+    },
+    {
+        "question": "The author of Qwan is [mask].",
+        "answers": [
+            "Aki Shimizu"
+        ]
+    },
+    {
+        "question": "The author of Oberon Old and New is [mask].",
+        "answers": [
+            "Anthony Burgess"
+        ]
+    },
+    {
+        "question": "The author of Kesey's Garage Sale is [mask].",
+        "answers": [
+            "Ken Kesey"
+        ]
+    },
+    {
+        "question": "The author of Lies Across America is [mask].",
+        "answers": [
+            "James Loewen"
+        ]
+    },
+    {
+        "question": "The author of Karakuri Circus is [mask].",
+        "answers": [
+            "Kazuhiro Fujita"
+        ]
+    },
+    {
+        "question": "The author of A Melon for Ecstasy is [mask].",
+        "answers": [
+            "John Fortune"
+        ]
+    },
+    {
+        "question": "The author of New Essays on Human Understanding is [mask].",
+        "answers": [
+            "Gottfried Wilhelm Leibniz"
+        ]
+    },
+    {
+        "question": "The author of Ivy Day in the Committee Room is [mask].",
+        "answers": [
+            "James Joyce"
+        ]
+    },
+    {
+        "question": "The author of Blue Horizon is [mask].",
+        "answers": [
+            "Wilbur Smith"
+        ]
+    },
+    {
+        "question": "The author of Nigger: The Strange Career of a Troublesome Word is [mask].",
+        "answers": [
+            "Randall Kennedy"
+        ]
+    },
+    {
+        "question": "The author of The Cave is [mask].",
+        "answers": [
+            "Mervyn Peake"
+        ]
+    },
+    {
+        "question": "The author of Ancillary Justice is [mask].",
+        "answers": [
+            "Ann Leckie"
+        ]
+    },
+    {
+        "question": "The author of Confessions of a Teenage Baboon is [mask].",
+        "answers": [
+            "Paul Zindel"
+        ]
+    },
+    {
+        "question": "The author of Sylva, or A Discourse of Forest-Trees and the Propagation of Timber is [mask].",
+        "answers": [
+            "John Evelyn"
+        ]
+    },
+    {
+        "question": "The author of Winterset is [mask].",
+        "answers": [
+            "Maxwell Anderson"
+        ]
+    },
+    {
+        "question": "The author of The Adding Machine is [mask].",
+        "answers": [
+            "Elmer Rice"
+        ]
+    },
+    {
+        "question": "The author of Sekirei is [mask].",
+        "answers": [
+            "Ashika Sakura"
+        ]
+    },
+    {
+        "question": "The author of Jin is [mask].",
+        "answers": [
+            "Motoka Murakami"
+        ]
+    },
+    {
+        "question": "The author of Night Without End is [mask].",
+        "answers": [
+            "Alistair MacLean"
+        ]
+    },
+    {
+        "question": "The author of Lucky Starr series is [mask].",
+        "answers": [
+            "Isaac Asimov"
+        ]
+    },
+    {
+        "question": "The author of The Book about Moomin, Mymble and Little My is [mask].",
+        "answers": [
+            "Tove Jansson"
+        ]
+    },
+    {
+        "question": "The author of Blackbriar is [mask].",
+        "answers": [
+            "William Sleator"
+        ]
+    },
+    {
+        "question": "The author of Midshipman's Hope is [mask].",
+        "answers": [
+            "David Feintuch"
+        ]
+    },
+    {
+        "question": "The author of Bengal Tiger at the Baghdad Zoo is [mask].",
+        "answers": [
+            "Rajiv Joseph"
+        ]
+    },
+    {
+        "question": "The author of Forest of Secrets is [mask].",
+        "answers": [
+            "Cherith Baldry",
+            "Erin Hunter"
+        ]
+    },
+    {
+        "question": "The author of Kagome Kagome is [mask].",
+        "answers": [
+            "Toshiki Yui"
+        ]
+    },
+    {
+        "question": "The author of On the Razzle is [mask].",
+        "answers": [
+            "Tom Stoppard"
+        ]
+    },
+    {
+        "question": "The author of Ways of Seeing is [mask].",
+        "answers": [
+            "John Berger"
+        ]
+    },
+    {
+        "question": "The author of She Loves Me is [mask].",
+        "answers": [
+            "Joe Masteroff"
+        ]
+    },
+    {
+        "question": "The author of Dissident Gardens is [mask].",
+        "answers": [
+            "Jonathan Lethem"
+        ]
+    },
+    {
+        "question": "The author of The Great and Secret Show is [mask].",
+        "answers": [
+            "Clive Barker"
+        ]
+    },
+    {
+        "question": "The author of G\u00f8dland is [mask].",
+        "answers": [
+            "Joe Casey"
+        ]
+    },
+    {
+        "question": "The author of Demon Theory is [mask].",
+        "answers": [
+            "Stephen Graham Jones"
+        ]
+    },
+    {
+        "question": "The author of Scorched is [mask].",
+        "answers": [
+            "Wajdi Mouawad"
+        ]
+    },
+    {
+        "question": "The author of Camino Real is [mask].",
+        "answers": [
+            "Tennessee Williams"
+        ]
+    },
+    {
+        "question": "The author of The Big Rich is [mask].",
+        "answers": [
+            "Bryan Burrough"
+        ]
+    },
+    {
+        "question": "The author of The Light at Tern Rock is [mask].",
+        "answers": [
+            "Julia Sauer"
+        ]
+    },
+    {
+        "question": "The author of Sound of the Beast: The Complete Headbanging History of Heavy Metal is [mask].",
+        "answers": [
+            "Ian Christe"
+        ]
+    },
+    {
+        "question": "The author of Royal Exile is [mask].",
+        "answers": [
+            "Fiona McIntosh"
+        ]
+    },
+    {
+        "question": "The author of Business is business is [mask].",
+        "answers": [
+            "Octave Mirbeau"
+        ]
+    },
+    {
+        "question": "The author of Cognitive Surplus is [mask].",
+        "answers": [
+            "Clay Shirky"
+        ]
+    },
+    {
+        "question": "The author of The Cay is [mask].",
+        "answers": [
+            "Theodore Taylor"
+        ]
+    },
+    {
+        "question": "The author of Dharmarajyam is [mask].",
+        "answers": [
+            "Vaikom Muhammad Basheer"
+        ]
+    },
+    {
+        "question": "The author of Heaven and Hell is [mask].",
+        "answers": [
+            "Emmanuel Swedenborg"
+        ]
+    },
+    {
+        "question": "The author of Notes on the melody of things is [mask].",
+        "answers": [
+            "Rainer Maria Rilke"
+        ]
+    },
+    {
+        "question": "The author of The Actes and Deidis of the Illustre and Vallyeant Campioun Schir William Wallace is [mask].",
+        "answers": [
+            "Blind Harry"
+        ]
+    },
+    {
+        "question": "The author of The Physician's Tale is [mask].",
+        "answers": [
+            "Geoffrey Chaucer"
+        ]
+    },
+    {
+        "question": "The author of In Search of the Miraculous is [mask].",
+        "answers": [
+            "P. D. Ouspensky"
+        ]
+    },
+    {
+        "question": "The author of In My Time: A Personal and Political Memoir is [mask].",
+        "answers": [
+            "Dick Cheney",
+            "Elizabeth Cheney"
+        ]
+    },
+    {
+        "question": "The author of Marigolds in August is [mask].",
+        "answers": [
+            "Athol Fugard"
+        ]
+    },
+    {
+        "question": "The author of Black Mischief is [mask].",
+        "answers": [
+            "Evelyn Waugh"
+        ]
+    },
+    {
+        "question": "The author of Night Rider is [mask].",
+        "answers": [
+            "Robert Penn Warren"
+        ]
+    },
+    {
+        "question": "The author of MedStar II: Jedi Healer is [mask].",
+        "answers": [
+            "Michael Reaves"
+        ]
+    },
+    {
+        "question": "The author of Asterix and the Secret Weapon is [mask].",
+        "answers": [
+            "Albert Uderzo"
+        ]
+    },
+    {
+        "question": "The author of Journey to the End of the Whale is [mask].",
+        "answers": [
+            "John David Morley"
+        ]
+    },
+    {
+        "question": "The author of Welcome to Alflolol is [mask].",
+        "answers": [
+            "Pierre Christin"
+        ]
+    },
+    {
+        "question": "The author of Knockdown is [mask].",
+        "answers": [
+            "Alesha Dixon",
+            "Xenomania"
+        ]
+    },
+    {
+        "question": "The author of Mad Dogs and Englishmen is [mask].",
+        "answers": [
+            "Paul Magrs"
+        ]
+    },
+    {
+        "question": "The author of Schilder-boeck is [mask].",
+        "answers": [
+            "Karel van Mander I"
+        ]
+    },
+    {
+        "question": "The author of Star Wars: Darth Bane: Dynasty of Evil is [mask].",
+        "answers": [
+            "Drew Karpyshyn"
+        ]
+    },
+    {
+        "question": "The author of The Strange World of Planet X is [mask].",
+        "answers": [
+            "Rene Ray"
+        ]
+    },
+    {
+        "question": "The author of The First Man is [mask].",
+        "answers": [
+            "Albert Camus"
+        ]
+    },
+    {
+        "question": "The author of Barrayar is [mask].",
+        "answers": [
+            "Lois McMaster Bujold"
+        ]
+    },
+    {
+        "question": "The author of The Count of Monte Cristo is [mask].",
+        "answers": [
+            "Auguste Maquet",
+            "Alexandre Dumas"
+        ]
+    },
+    {
+        "question": "The author of Street Scene is [mask].",
+        "answers": [
+            "Elmer Rice"
+        ]
+    },
+    {
+        "question": "The author of The Forbidden Tower is [mask].",
+        "answers": [
+            "Marion Zimmer Bradley"
+        ]
+    },
+    {
+        "question": "The author of In Sunlight and In Shadow is [mask].",
+        "answers": [
+            "Mark Helprin"
+        ]
+    },
+    {
+        "question": "The author of Vera; or, The Nihilists is [mask].",
+        "answers": [
+            "Oscar Wilde"
+        ]
+    },
+    {
+        "question": "The author of Masterman Ready, or the Wreck of the Pacific is [mask].",
+        "answers": [
+            "Frederick Marryat"
+        ]
+    },
+    {
+        "question": "The author of Illywhacker is [mask].",
+        "answers": [
+            "Peter Carey"
+        ]
+    },
+    {
+        "question": "The author of Leaving the Atocha Station is [mask].",
+        "answers": [
+            "Ben Lerner"
+        ]
+    },
+    {
+        "question": "The author of The White Company is [mask].",
+        "answers": [
+            "Arthur Conan Doyle"
+        ]
+    },
+    {
+        "question": "The author of La Vieillesse is [mask].",
+        "answers": [
+            "Simone de Beauvoir"
+        ]
+    },
+    {
+        "question": "The author of The Carpentered Hen and Other Tame Creatures is [mask].",
+        "answers": [
+            "John Updike"
+        ]
+    },
+    {
+        "question": "The author of De Oratore is [mask].",
+        "answers": [
+            "Cicero"
+        ]
+    },
+    {
+        "question": "The author of How to Survive Summer Camp is [mask].",
+        "answers": [
+            "Jacqueline Wilson"
+        ]
+    },
+    {
+        "question": "The author of The Twelve Chairs is [mask].",
+        "answers": [
+            "Yevgeny Petrov",
+            "Ilya Ilf"
+        ]
+    },
+    {
+        "question": "The author of Witching Culture is [mask].",
+        "answers": [
+            "Sabina Magliocco"
+        ]
+    },
+    {
+        "question": "The author of The Theory of Island Biogeography is [mask].",
+        "answers": [
+            "Robert MacArthur"
+        ]
+    },
+    {
+        "question": "The author of She Walks in Beauty is [mask].",
+        "answers": [
+            "Lord Byron"
+        ]
+    },
+    {
+        "question": "The author of Threadsuns is [mask].",
+        "answers": [
+            "Paul Celan"
+        ]
+    },
+    {
+        "question": "The author of Trump: The Art of the Deal is [mask].",
+        "answers": [
+            "Donald Trump"
+        ]
+    },
+    {
+        "question": "The author of Self-Made Man is [mask].",
+        "answers": [
+            "Norah Vincent"
+        ]
+    },
+    {
+        "question": "The author of Mrs. Medwin is [mask].",
+        "answers": [
+            "Henry James"
+        ]
+    },
+    {
+        "question": "The author of Fools Die is [mask].",
+        "answers": [
+            "Mario Puzo"
+        ]
+    },
+    {
+        "question": "The author of The Man Who Knew Coolidge is [mask].",
+        "answers": [
+            "Sinclair Lewis"
+        ]
+    },
+    {
+        "question": "The author of The Newton Letter is [mask].",
+        "answers": [
+            "John Banville"
+        ]
+    },
+    {
+        "question": "The author of See Jane Run is [mask].",
+        "answers": [
+            "Joy Fielding"
+        ]
+    },
+    {
+        "question": "The author of My Life in Orange is [mask].",
+        "answers": [
+            "Tim Guest"
+        ]
+    },
+    {
+        "question": "The author of Wait Till Next Year is [mask].",
+        "answers": [
+            "William Goldman",
+            "Mike Lupica"
+        ]
+    },
+    {
+        "question": "The author of The Thirteenth Pearl is [mask].",
+        "answers": [
+            "Carolyn Keene"
+        ]
+    },
+    {
+        "question": "The author of Sunlight on a Broken Column is [mask].",
+        "answers": [
+            "Attia Hosain"
+        ]
+    },
+    {
+        "question": "The author of Jommeke is [mask].",
+        "answers": [
+            "Jef Nys"
+        ]
+    },
+    {
+        "question": "The author of Orghast is [mask].",
+        "answers": [
+            "Ted Hughes",
+            "Peter Brook"
+        ]
+    },
+    {
+        "question": "The author of Sometime Never: A Fable for Supermen is [mask].",
+        "answers": [
+            "Roald Dahl"
+        ]
+    },
+    {
+        "question": "The author of Lincoln is [mask].",
+        "answers": [
+            "Gore Vidal"
+        ]
+    },
+    {
+        "question": "The author of You Have to Be Careful in the Land of the Free is [mask].",
+        "answers": [
+            "James Kelman"
+        ]
+    },
+    {
+        "question": "The author of A Caribbean Mystery is [mask].",
+        "answers": [
+            "Agatha Christie"
+        ]
+    },
+    {
+        "question": "The author of A Matter of Traces is [mask].",
+        "answers": [
+            "Frank Herbert"
+        ]
+    },
+    {
+        "question": "The author of The Moffats is [mask].",
+        "answers": [
+            "Eleanor Estes"
+        ]
+    },
+    {
+        "question": "The author of Arcades Project is [mask].",
+        "answers": [
+            "Walter Benjamin"
+        ]
+    },
+    {
+        "question": "The author of Around the Moon is [mask].",
+        "answers": [
+            "Jules Verne"
+        ]
+    },
+    {
+        "question": "The author of Orfeu da Concei\u00e7\u00e3o is [mask].",
+        "answers": [
+            "Vin\u00edcius de Moraes"
+        ]
+    },
+    {
+        "question": "The author of Paradise Regained is [mask].",
+        "answers": [
+            "John Milton"
+        ]
+    },
+    {
+        "question": "The author of The Testament of Cresseid is [mask].",
+        "answers": [
+            "Robert Henryson"
+        ]
+    },
+    {
+        "question": "The author of Fifty Grand is [mask].",
+        "answers": [
+            "Ernest Hemingway"
+        ]
+    },
+    {
+        "question": "The author of Desertion is [mask].",
+        "answers": [
+            "Abdulrazak Gurnah"
+        ]
+    },
+    {
+        "question": "The author of The Adventuress of Henrietta Street is [mask].",
+        "answers": [
+            "Lawrence Miles"
+        ]
+    },
+    {
+        "question": "The author of Rule of St. Augustine is [mask].",
+        "answers": [
+            "Augustine of Hippo"
+        ]
+    },
+    {
+        "question": "The author of Zorro is [mask].",
+        "answers": [
+            "Isabel Allende"
+        ]
+    },
+    {
+        "question": "The author of The Hare with Amber Eyes is [mask].",
+        "answers": [
+            "Edmund de Waal"
+        ]
+    },
+    {
+        "question": "The author of Leite Derramado is [mask].",
+        "answers": [
+            "Chico Buarque"
+        ]
+    },
+    {
+        "question": "The author of The Twelve is [mask].",
+        "answers": [
+            "Chris Weston"
+        ]
+    },
+    {
+        "question": "The author of The Fortunes of Richard Mahony is [mask].",
+        "answers": [
+            "Henry Handel Richardson"
+        ]
+    },
+    {
+        "question": "The author of Cujo is [mask].",
+        "answers": [
+            "Stephen King"
+        ]
+    },
+    {
+        "question": "The author of The Conscious Mind is [mask].",
+        "answers": [
+            "David Chalmers"
+        ]
+    },
+    {
+        "question": "The author of Jack-in-the-Box is [mask].",
+        "answers": [
+            "Ray Bradbury"
+        ]
+    },
+    {
+        "question": "The author of Dream of the Red Chamber is [mask].",
+        "answers": [
+            "Cao Xueqin"
+        ]
+    },
+    {
+        "question": "The author of Miracle Girls is [mask].",
+        "answers": [
+            "Nami Akimoto"
+        ]
+    },
+    {
+        "question": "The author of Whylah Falls is [mask].",
+        "answers": [
+            "George Elliott Clarke"
+        ]
+    },
+    {
+        "question": "The author of Voice of the Whirlwind is [mask].",
+        "answers": [
+            "Walter Jon Williams"
+        ]
+    },
+    {
+        "question": "The author of The Amazon is [mask].",
+        "answers": [
+            "Nikolai Leskov"
+        ]
+    },
+    {
+        "question": "The author of Unto This Last is [mask].",
+        "answers": [
+            "John Ruskin"
+        ]
+    },
+    {
+        "question": "The author of Justice, Inc. is [mask].",
+        "answers": [
+            "Paul Ernst"
+        ]
+    },
+    {
+        "question": "The author of The Mask of Cthulhu is [mask].",
+        "answers": [
+            "August Derleth"
+        ]
+    },
+    {
+        "question": "The author of Satanikus ENMA Kerberos is [mask].",
+        "answers": [
+            "Go Nagai"
+        ]
+    },
+    {
+        "question": "The author of A Cry in the Night is [mask].",
+        "answers": [
+            "Mary Higgins Clark"
+        ]
+    },
+    {
+        "question": "The author of Lucky Starr and the Oceans of Venus is [mask].",
+        "answers": [
+            "Isaac Asimov"
+        ]
+    },
+    {
+        "question": "The author of Killing Mr. Griffin is [mask].",
+        "answers": [
+            "Lois Duncan"
+        ]
+    },
+    {
+        "question": "The author of Frankenstein is [mask].",
+        "answers": [
+            "Nick Dear"
+        ]
+    },
+    {
+        "question": "The author of Sonnet 50 is [mask].",
+        "answers": [
+            "William Shakespeare"
+        ]
+    },
+    {
+        "question": "The author of Mister Pip is [mask].",
+        "answers": [
+            "Lloyd Jones"
+        ]
+    },
+    {
+        "question": "The author of A Confusion of Princes is [mask].",
+        "answers": [
+            "Garth Nix"
+        ]
+    },
+    {
+        "question": "The author of Do Not Ask What Good We Do is [mask].",
+        "answers": [
+            "Robert Draper"
+        ]
+    },
+    {
+        "question": "The author of First Sorrow is [mask].",
+        "answers": [
+            "Franz Kafka"
+        ]
+    },
+    {
+        "question": "The author of Kid is [mask].",
+        "answers": [
+            "Simon Armitage"
+        ]
+    },
+    {
+        "question": "The author of The Cut Direct is [mask].",
+        "answers": [
+            "Phoebe Atwood Taylor"
+        ]
+    },
+    {
+        "question": "The author of The New Poetry is [mask].",
+        "answers": [
+            "Al Alvarez"
+        ]
+    },
+    {
+        "question": "The author of Wicked: The Life and Times of the Wicked Witch of the West is [mask].",
+        "answers": [
+            "Gregory Maguire"
+        ]
+    },
+    {
+        "question": "The author of Star Wars Episode VI: Return of the Jedi is [mask].",
+        "answers": [
+            "James Kahn"
+        ]
+    },
+    {
+        "question": "The author of Year of Wonders is [mask].",
+        "answers": [
+            "Geraldine Brooks"
+        ]
+    },
+    {
+        "question": "The author of The Simpsons and Their Mathematical Secrets is [mask].",
+        "answers": [
+            "Simon Singh"
+        ]
+    },
+    {
+        "question": "The author of Sputnik Caledonia is [mask].",
+        "answers": [
+            "Andrew Crumey"
+        ]
+    },
+    {
+        "question": "The author of Of Time and Space and Other Things is [mask].",
+        "answers": [
+            "Isaac Asimov"
+        ]
+    },
+    {
+        "question": "The author of Black Chicks Talking is [mask].",
+        "answers": [
+            "Leah Purcell"
+        ]
+    },
+    {
+        "question": "The author of A Perfect Day for Bananafish is [mask].",
+        "answers": [
+            "J. D. Salinger"
+        ]
+    },
+    {
+        "question": "The author of Dark Visions is [mask].",
+        "answers": [
+            "Dan Simmons",
+            "Stephen King"
+        ]
+    },
+    {
+        "question": "The author of Keeping Faith is [mask].",
+        "answers": [
+            "Jodi Picoult"
+        ]
+    },
+    {
+        "question": "The author of Strangers is [mask].",
+        "answers": [
+            "Robert Kirkman"
+        ]
+    },
+    {
+        "question": "The author of Cry of Morning is [mask].",
+        "answers": [
+            "Brian Cleeve"
+        ]
+    },
+    {
+        "question": "The author of Doomed Queen Anne is [mask].",
+        "answers": [
+            "Carolyn Meyer"
+        ]
+    },
+    {
+        "question": "The author of Denkoroku is [mask].",
+        "answers": [
+            "Keizan"
+        ]
+    },
+    {
+        "question": "The author of Murder and Magic is [mask].",
+        "answers": [
+            "Randall Garrett"
+        ]
+    },
+    {
+        "question": "The author of Marcella is [mask].",
+        "answers": [
+            "Mary Augusta Ward"
+        ]
+    },
+    {
+        "question": "The author of Ciklamen is [mask].",
+        "answers": [
+            "Janko Kersnik"
+        ]
+    },
+    {
+        "question": "The author of Araby is [mask].",
+        "answers": [
+            "James Joyce"
+        ]
+    },
+    {
+        "question": "The author of Blow Fly is [mask].",
+        "answers": [
+            "Patricia Cornwell"
+        ]
+    },
+    {
+        "question": "The author of The Golden Fleecing is [mask].",
+        "answers": [
+            "Carl Barks"
+        ]
+    },
+    {
+        "question": "The author of Miss in Her Teens is [mask].",
+        "answers": [
+            "David Garrick"
+        ]
+    },
+    {
+        "question": "The author of Sarraceniaceae of South America is [mask].",
+        "answers": [
+            "Andreas Wistuba",
+            "Stewart McPherson",
+            "Joachim Nerz"
+        ]
+    },
+    {
+        "question": "The author of A Saucer of Loneliness is [mask].",
+        "answers": [
+            "Theodore Sturgeon"
+        ]
+    },
+    {
+        "question": "The author of Love Ain't Nothing But Sex Misspelled is [mask].",
+        "answers": [
+            "Harlan Ellison"
+        ]
+    },
+    {
+        "question": "The author of Odds On is [mask].",
+        "answers": [
+            "Michael Crichton"
+        ]
+    },
+    {
+        "question": "The author of Corpse Marker is [mask].",
+        "answers": [
+            "Chris Boucher"
+        ]
+    },
+    {
+        "question": "The author of L'Infini turbulent is [mask].",
+        "answers": [
+            "Henri Michaux"
+        ]
+    },
+    {
+        "question": "The author of Enchanted Glass is [mask].",
+        "answers": [
+            "Diana Wynne Jones"
+        ]
+    },
+    {
+        "question": "The author of The Rape of the A*P*E* is [mask].",
+        "answers": [
+            "Allan Sherman"
+        ]
+    },
+    {
+        "question": "The author of The Cup of Fury is [mask].",
+        "answers": [
+            "Upton Sinclair"
+        ]
+    },
+    {
+        "question": "The author of The Game of Chess is [mask].",
+        "answers": [
+            "Siegbert Tarrasch"
+        ]
+    },
+    {
+        "question": "The author of The Bourne Deception is [mask].",
+        "answers": [
+            "Robert Ludlum",
+            "Eric Van Lustbader"
+        ]
+    },
+    {
+        "question": "The author of Return to the Field is [mask].",
+        "answers": [
+            "Zhang Heng"
+        ]
+    },
+    {
+        "question": "The author of The Government Inspector is [mask].",
+        "answers": [
+            "Nikolai Gogol"
+        ]
+    },
+    {
+        "question": "The author of The Feast of the Goat is [mask].",
+        "answers": [
+            "Mario Vargas Llosa"
+        ]
+    },
+    {
+        "question": "The author of Al Que Quiere! is [mask].",
+        "answers": [
+            "William Carlos Williams"
+        ]
+    },
+    {
+        "question": "The author of Planet of Twilight is [mask].",
+        "answers": [
+            "Barbara Hambly"
+        ]
+    },
+    {
+        "question": "The author of An Unfinished Life: John F. Kennedy, 1917\u20131963 is [mask].",
+        "answers": [
+            "Robert Dallek"
+        ]
+    },
+    {
+        "question": "The author of Extensa is [mask].",
+        "answers": [
+            "Jacek Dukaj"
+        ]
+    },
+    {
+        "question": "The author of Uncle Vanya is [mask].",
+        "answers": [
+            "Anton Chekhov"
+        ]
+    },
+    {
+        "question": "The author of The Ascent of F6 is [mask].",
+        "answers": [
+            "Christopher Isherwood"
+        ]
+    },
+    {
+        "question": "The author of The Pirates! in an Adventure with Whaling is [mask].",
+        "answers": [
+            "Gideon Defoe"
+        ]
+    },
+    {
+        "question": "The author of Tokko is [mask].",
+        "answers": [
+            "Tooru Fujisawa"
+        ]
+    },
+    {
+        "question": "The author of A Descent into the Maelstr\u00f6m is [mask].",
+        "answers": [
+            "Edgar Allan Poe"
+        ]
+    },
+    {
+        "question": "The author of A Rape on Campus is [mask].",
+        "answers": [
+            "Sabrina Erdely"
+        ]
+    },
+    {
+        "question": "The author of Final Impact is [mask].",
+        "answers": [
+            "John Birmingham"
+        ]
+    },
+    {
+        "question": "The author of The Sacred Flame is [mask].",
+        "answers": [
+            "William Somerset Maugham"
+        ]
+    },
+    {
+        "question": "The author of Ugly Americans: The True Story of the Ivy League Cowboys Who Raided the Asian Markets for Millions is [mask].",
+        "answers": [
+            "Ben Mezrich"
+        ]
+    },
+    {
+        "question": "The author of The Watchman is [mask].",
+        "answers": [
+            "Robert Crais"
+        ]
+    },
+    {
+        "question": "The author of Easy Go is [mask].",
+        "answers": [
+            "Michael Crichton"
+        ]
+    },
+    {
+        "question": "The author of The Crocodile is [mask].",
+        "answers": [
+            "Fyodor Dostoyevsky"
+        ]
+    },
+    {
+        "question": "The author of The Narrative of Arthur Gordon Pym of Nantucket is [mask].",
+        "answers": [
+            "Edgar Allan Poe"
+        ]
+    },
+    {
+        "question": "The author of Serenity: Better Days is [mask].",
+        "answers": [
+            "Brett Matthews"
+        ]
+    },
+    {
+        "question": "The author of Worldwar: Upsetting the Balance is [mask].",
+        "answers": [
+            "Harry Turtledove"
+        ]
+    },
+    {
+        "question": "The author of Murder on the Nile is [mask].",
+        "answers": [
+            "Agatha Christie"
+        ]
+    },
+    {
+        "question": "The author of Hour Game is [mask].",
+        "answers": [
+            "David Baldacci"
+        ]
+    },
+    {
+        "question": "The author of Great Short Novels of Adult Fantasy I is [mask].",
+        "answers": [
+            "Lin Carter"
+        ]
+    },
+    {
+        "question": "The author of Of Love and Shadows is [mask].",
+        "answers": [
+            "Isabel Allende"
+        ]
+    },
+    {
+        "question": "The author of Tuli ja raud is [mask].",
+        "answers": [
+            "Karl Ristikivi"
+        ]
+    },
+    {
+        "question": "The author of Died in the Wool is [mask].",
+        "answers": [
+            "Ngaio Marsh"
+        ]
+    },
+    {
+        "question": "The author of Orange Is the New Black: My Year in a Women's Prison is [mask].",
+        "answers": [
+            "Piper Kerman"
+        ]
+    },
+    {
+        "question": "The author of Dead and Gone is [mask].",
+        "answers": [
+            "Charlaine Harris"
+        ]
+    },
+    {
+        "question": "The author of The Gathering Storm is [mask].",
+        "answers": [
+            "Brandon Sanderson",
+            "Robert Jordan"
+        ]
+    },
+    {
+        "question": "The author of The Unfinished Revolution is [mask].",
+        "answers": [
+            "Michael Dertouzos"
+        ]
+    },
+    {
+        "question": "The author of Consolatio is [mask].",
+        "answers": [
+            "Cicero"
+        ]
+    },
+    {
+        "question": "The author of Beachheads in Space is [mask].",
+        "answers": [
+            "August Derleth"
+        ]
+    },
+    {
+        "question": "The author of The History of the Standard Oil Company is [mask].",
+        "answers": [
+            "Ida Tarbell"
+        ]
+    },
+    {
+        "question": "The author of God Sees the Truth, But Waits is [mask].",
+        "answers": [
+            "Leo Tolstoy"
+        ]
+    },
+    {
+        "question": "The author of The Long Christmas Ride Home is [mask].",
+        "answers": [
+            "Paula Vogel"
+        ]
+    },
+    {
+        "question": "The author of The Wrench is [mask].",
+        "answers": [
+            "Primo Levi"
+        ]
+    },
+    {
+        "question": "The author of American Tabloid is [mask].",
+        "answers": [
+            "James Ellroy"
+        ]
+    },
+    {
+        "question": "The author of Morning in a Pine Forest is [mask].",
+        "answers": [
+            "Ivan Shishkin"
+        ]
+    },
+    {
+        "question": "The author of Dionysian-Dithyrambs is [mask].",
+        "answers": [
+            "Friedrich Nietzsche"
+        ]
+    },
+    {
+        "question": "The author of The Brethren is [mask].",
+        "answers": [
+            "H. Rider Haggard"
+        ]
+    },
+    {
+        "question": "The author of The Haunted Storm is [mask].",
+        "answers": [
+            "Philip Pullman"
+        ]
+    },
+    {
+        "question": "The author of The Peasant Marey is [mask].",
+        "answers": [
+            "Fyodor Dostoyevsky"
+        ]
+    },
+    {
+        "question": "The author of Bloodchild is [mask].",
+        "answers": [
+            "Tim Bowler"
+        ]
+    },
+    {
+        "question": "The author of A Defense of Abortion is [mask].",
+        "answers": [
+            "Judith Jarvis Thomson"
+        ]
+    },
+    {
+        "question": "The author of Archangel is [mask].",
+        "answers": [
+            "Sharon Shinn"
+        ]
+    },
+    {
+        "question": "The author of The Secret Dreamworld of a Shopaholic is [mask].",
+        "answers": [
+            "Sophie Kinsella"
+        ]
+    },
+    {
+        "question": "The author of Medical Compendium in Seven Books is [mask].",
+        "answers": [
+            "Paul of Aegina"
+        ]
+    },
+    {
+        "question": "The author of ECONned is [mask].",
+        "answers": [
+            "Naked Capitalism"
+        ]
+    },
+    {
+        "question": "The author of The Landlady is [mask].",
+        "answers": [
+            "Roald Dahl"
+        ]
+    },
+    {
+        "question": "The author of Closed Chambers is [mask].",
+        "answers": [
+            "Edward Lazarus"
+        ]
+    },
+    {
+        "question": "The author of Procedures for Underground is [mask].",
+        "answers": [
+            "Margaret Atwood"
+        ]
+    },
+    {
+        "question": "The author of The Underpants is [mask].",
+        "answers": [
+            "Steve Martin"
+        ]
+    },
+    {
+        "question": "The author of De Inventione is [mask].",
+        "answers": [
+            "Cicero"
+        ]
+    },
+    {
+        "question": "The author of The Water-Method Man is [mask].",
+        "answers": [
+            "John Irving"
+        ]
+    },
+    {
+        "question": "The author of Sonnet 60 is [mask].",
+        "answers": [
+            "William Shakespeare"
+        ]
+    },
+    {
+        "question": "The author of Dunsinane is [mask].",
+        "answers": [
+            "David Greig"
+        ]
+    },
+    {
+        "question": "The author of The Happy Hypocrite is [mask].",
+        "answers": [
+            "Max Beerbohm"
+        ]
+    },
+    {
+        "question": "The author of Winged Victory is [mask].",
+        "answers": [
+            "Moss Hart"
+        ]
+    },
+    {
+        "question": "The author of Igrot Kodesh is [mask].",
+        "answers": [
+            "Menachem Mendel Schneerson"
+        ]
+    },
+    {
+        "question": "The author of Rabbi ben Ezra is [mask].",
+        "answers": [
+            "Robert Browning"
+        ]
+    },
+    {
+        "question": "The author of Good Morning, Holy Spirit is [mask].",
+        "answers": [
+            "Benny Hinn"
+        ]
+    },
+    {
+        "question": "The author of Downturn Abbey is [mask].",
+        "answers": [
+            "Paul Howard"
+        ]
+    },
+    {
+        "question": "The author of To Each His Own is [mask].",
+        "answers": [
+            "Leonardo Sciascia"
+        ]
+    },
+    {
+        "question": "The author of Anywhere but Here is [mask].",
+        "answers": [
+            "Mona Simpson"
+        ]
+    },
+    {
+        "question": "The author of Transients and Other Disquieting Stories is [mask].",
+        "answers": [
+            "Darrell Schweitzer"
+        ]
+    },
+    {
+        "question": "The author of The Horror at Red Hook is [mask].",
+        "answers": [
+            "H. P. Lovecraft"
+        ]
+    },
+    {
+        "question": "The author of The Sigma Protocol is [mask].",
+        "answers": [
+            "Robert Ludlum"
+        ]
+    },
+    {
+        "question": "The author of Resurrection Day is [mask].",
+        "answers": [
+            "Brendan DuBois"
+        ]
+    },
+    {
+        "question": "The author of The Android's Dream is [mask].",
+        "answers": [
+            "John Scalzi"
+        ]
+    },
+    {
+        "question": "The author of Effi Briest is [mask].",
+        "answers": [
+            "Theodor Fontane"
+        ]
+    },
+    {
+        "question": "The author of Void Indigo is [mask].",
+        "answers": [
+            "Steve Gerber"
+        ]
+    },
+    {
+        "question": "The author of The Last Enchantment is [mask].",
+        "answers": [
+            "Mary Stewart"
+        ]
+    },
+    {
+        "question": "The author of The Fantastic Four is [mask].",
+        "answers": [
+            "Stan Lee"
+        ]
+    },
+    {
+        "question": "The author of Ruhnama is [mask].",
+        "answers": [
+            "Saparmurat Niyazov"
+        ]
+    },
+    {
+        "question": "The author of On-Line Encyclopedia of Integer Sequences is [mask].",
+        "answers": [
+            "Neil Sloane"
+        ]
+    },
+    {
+        "question": "The author of Shadows Return is [mask].",
+        "answers": [
+            "Lynn Flewelling"
+        ]
+    },
+    {
+        "question": "The author of The Sweetest Fig is [mask].",
+        "answers": [
+            "Chris Van Allsburg"
+        ]
+    },
+    {
+        "question": "The author of The Merry Men and Other Tales and Fables is [mask].",
+        "answers": [
+            "Robert Louis Stevenson"
+        ]
+    },
+    {
+        "question": "The author of The Rhinemann Exchange is [mask].",
+        "answers": [
+            "Robert Ludlum"
+        ]
+    },
+    {
+        "question": "The author of The Legend of the Emerald Lady is [mask].",
+        "answers": [
+            "Carolyn Keene"
+        ]
+    },
+    {
+        "question": "The author of Touch the Dark is [mask].",
+        "answers": [
+            "Karen Chance"
+        ]
+    },
+    {
+        "question": "The author of The Silver Spike is [mask].",
+        "answers": [
+            "Glen Cook"
+        ]
+    },
+    {
+        "question": "The author of Timescape is [mask].",
+        "answers": [
+            "Gregory Benford"
+        ]
+    },
+    {
+        "question": "The author of A Calculus of Angels is [mask].",
+        "answers": [
+            "Gregory Keyes"
+        ]
+    },
+    {
+        "question": "The author of Chloridia is [mask].",
+        "answers": [
+            "Ben Jonson"
+        ]
+    },
+    {
+        "question": "The author of Children of Zion is [mask].",
+        "answers": [
+            "Henryk Grynberg"
+        ]
+    },
+    {
+        "question": "The author of Trait\u00e9 de Documentation is [mask].",
+        "answers": [
+            "Paul Otlet"
+        ]
+    },
+    {
+        "question": "The author of The Balcony is [mask].",
+        "answers": [
+            "Jean Genet"
+        ]
+    },
+    {
+        "question": "The author of The Good Doctor is [mask].",
+        "answers": [
+            "Neil Simon"
+        ]
+    },
+    {
+        "question": "The author of Mantrap is [mask].",
+        "answers": [
+            "Sinclair Lewis"
+        ]
+    },
+    {
+        "question": "The author of Honor Among Enemies is [mask].",
+        "answers": [
+            "David Weber"
+        ]
+    },
+    {
+        "question": "The author of Treehorn's Treasure is [mask].",
+        "answers": [
+            "Florence Parry Heide"
+        ]
+    },
+    {
+        "question": "The author of Cyteen is [mask].",
+        "answers": [
+            "C. J. Cherryh"
+        ]
+    },
+    {
+        "question": "The author of Playing for Pizza is [mask].",
+        "answers": [
+            "John Grisham"
+        ]
+    },
+    {
+        "question": "The author of Catechism of a Revolutionary is [mask].",
+        "answers": [
+            "Sergey Nechayev"
+        ]
+    },
+    {
+        "question": "The author of Perceiving God is [mask].",
+        "answers": [
+            "William Alston"
+        ]
+    },
+    {
+        "question": "The author of Don't Be Such a Scientist is [mask].",
+        "answers": [
+            "Randy Olson"
+        ]
+    },
+    {
+        "question": "The author of The Saint on TV is [mask].",
+        "answers": [
+            "Leslie Charteris"
+        ]
+    },
+    {
+        "question": "The author of Dragonlance Chronicles is [mask].",
+        "answers": [
+            "Margaret Weis",
+            "Tracy Hickman"
+        ]
+    },
+    {
+        "question": "The author of The Member of the Wedding is [mask].",
+        "answers": [
+            "Carson McCullers"
+        ]
+    },
+    {
+        "question": "The author of Fairy Tales is [mask].",
+        "answers": [
+            "Terry Jones"
+        ]
+    },
+    {
+        "question": "The author of Fazail-e-Amaal is [mask].",
+        "answers": [
+            "Muhammad Zakariya Kandhalawi"
+        ]
+    },
+    {
+        "question": "The author of One of the Family is [mask].",
+        "answers": [
+            "Monica Dickens"
+        ]
+    },
+    {
+        "question": "The author of Blast from the Past is [mask].",
+        "answers": [
+            "Ben Elton"
+        ]
+    },
+    {
+        "question": "The author of The Reluctant Dragon is [mask].",
+        "answers": [
+            "Kenneth Grahame"
+        ]
+    },
+    {
+        "question": "The author of Scarlet Feather is [mask].",
+        "answers": [
+            "Maeve Binchy"
+        ]
+    },
+    {
+        "question": "The author of Black Like Me is [mask].",
+        "answers": [
+            "John Howard Griffin"
+        ]
+    },
+    {
+        "question": "The author of A Dictionary of Slang and Unconventional English is [mask].",
+        "answers": [
+            "Eric Partridge"
+        ]
+    },
+    {
+        "question": "The author of The Return of John MacNab is [mask].",
+        "answers": [
+            "Andrew Greig"
+        ]
+    },
+    {
+        "question": "The author of Mermaid Melody Pichi Pichi Pitch is [mask].",
+        "answers": [
+            "Michiko Yokote"
+        ]
+    },
+    {
+        "question": "The author of The Treasure of Vaghia is [mask].",
+        "answers": [
+            "Georges Sari"
+        ]
+    },
+    {
+        "question": "The author of Shadows Over Innsmouth is [mask].",
+        "answers": [
+            "Stephen Jones"
+        ]
+    },
+    {
+        "question": "The author of The Emperor's Children is [mask].",
+        "answers": [
+            "Claire Messud"
+        ]
+    },
+    {
+        "question": "The author of The 480 is [mask].",
+        "answers": [
+            "Eugene Burdick"
+        ]
+    },
+    {
+        "question": "The author of The Sword of Moses is [mask].",
+        "answers": [
+            "Dominic Selwood"
+        ]
+    },
+    {
+        "question": "The author of Cadillac Desert is [mask].",
+        "answers": [
+            "Marc Reisner"
+        ]
+    },
+    {
+        "question": "The author of K\u00e4vik the Wolf Dog is [mask].",
+        "answers": [
+            "Walt Morey"
+        ]
+    },
+    {
+        "question": "The author of Monstrous Regiment is [mask].",
+        "answers": [
+            "Terry Pratchett"
+        ]
+    },
+    {
+        "question": "The author of Death of the New Gods is [mask].",
+        "answers": [
+            "Jim Starlin"
+        ]
+    },
+    {
+        "question": "The author of Closer is [mask].",
+        "answers": [
+            "Patrick Marber"
+        ]
+    },
+    {
+        "question": "The author of Shadow Country is [mask].",
+        "answers": [
+            "Peter Matthiessen"
+        ]
+    },
+    {
+        "question": "The author of Dragons of Light is [mask].",
+        "answers": [
+            "Orson Scott Card"
+        ]
+    },
+    {
+        "question": "The author of The Smile that Wins is [mask].",
+        "answers": [
+            "P. G. Wodehouse"
+        ]
+    },
+    {
+        "question": "The author of The Fox Effect is [mask].",
+        "answers": [
+            "David Brock"
+        ]
+    },
+    {
+        "question": "The author of The Cattle King is [mask].",
+        "answers": [
+            "Ion Idriess"
+        ]
+    },
+    {
+        "question": "The author of Sir Percy Leads the Band is [mask].",
+        "answers": [
+            "Emma Orczy"
+        ]
+    },
+    {
+        "question": "The author of Pyrrhus and Cineas is [mask].",
+        "answers": [
+            "Simone de Beauvoir"
+        ]
+    },
+    {
+        "question": "The author of The Anxiety of Influence is [mask].",
+        "answers": [
+            "Harold Bloom"
+        ]
+    },
+    {
+        "question": "The author of Voyage d'Egypte et de Nubie is [mask].",
+        "answers": [
+            "Frederic Louis Norden"
+        ]
+    },
+    {
+        "question": "The author of Crossroads of Twilight is [mask].",
+        "answers": [
+            "Robert Jordan"
+        ]
+    },
+    {
+        "question": "The author of The Monk is [mask].",
+        "answers": [
+            "Matthew Gregory Lewis"
+        ]
+    },
+    {
+        "question": "The author of The Midas Coffin is [mask].",
+        "answers": [
+            "Martin Cruz Smith"
+        ]
+    },
+    {
+        "question": "The author of Mother London is [mask].",
+        "answers": [
+            "Michael Moorcock"
+        ]
+    },
+    {
+        "question": "The author of Cat Among the Pigeons is [mask].",
+        "answers": [
+            "Agatha Christie"
+        ]
+    },
+    {
+        "question": "The author of Warbreaker is [mask].",
+        "answers": [
+            "Brandon Sanderson"
+        ]
+    },
+    {
+        "question": "The author of Darah Muda is [mask].",
+        "answers": [
+            "Djamaluddin Adinegoro"
+        ]
+    },
+    {
+        "question": "The author of The Ballad of East and West is [mask].",
+        "answers": [
+            "Rudyard Kipling"
+        ]
+    },
+    {
+        "question": "The author of The Sweetest Dream is [mask].",
+        "answers": [
+            "Doris Lessing"
+        ]
+    },
+    {
+        "question": "The author of Earthquakes in London is [mask].",
+        "answers": [
+            "Mike Bartlett"
+        ]
+    },
+    {
+        "question": "The author of A Disappearing Number is [mask].",
+        "answers": [
+            "Simon McBurney"
+        ]
+    },
+    {
+        "question": "The author of The Seven Storey Mountain is [mask].",
+        "answers": [
+            "Thomas Merton"
+        ]
+    },
+    {
+        "question": "The author of Hocus Bogus is [mask].",
+        "answers": [
+            "Romain Gary"
+        ]
+    },
+    {
+        "question": "The author of Liezi is [mask].",
+        "answers": [
+            "Lie Yukou"
+        ]
+    },
+    {
+        "question": "The author of Un gentilhomme is [mask].",
+        "answers": [
+            "Octave Mirbeau"
+        ]
+    },
+    {
+        "question": "The author of The Eight of Swords is [mask].",
+        "answers": [
+            "John Dickson Carr"
+        ]
+    },
+    {
+        "question": "The author of Trek to Madworld is [mask].",
+        "answers": [
+            "Stephen Goldin"
+        ]
+    },
+    {
+        "question": "The author of Bibliotheca Botanica is [mask].",
+        "answers": [
+            "Carl Linnaeus"
+        ]
+    },
+    {
+        "question": "The author of Hollywood is [mask].",
+        "answers": [
+            "Gore Vidal"
+        ]
+    },
+    {
+        "question": "The author of The Translator's Invisibility is [mask].",
+        "answers": [
+            "Lawrence Venuti"
+        ]
+    },
+    {
+        "question": "The author of The Killer Angels is [mask].",
+        "answers": [
+            "Michael Shaara"
+        ]
+    },
+    {
+        "question": "The author of Gravity's Rainbow is [mask].",
+        "answers": [
+            "Thomas Pynchon"
+        ]
+    },
+    {
+        "question": "The author of The Eighteenth Brumaire of Louis Napoleon is [mask].",
+        "answers": [
+            "Karl Marx"
+        ]
+    },
+    {
+        "question": "The author of Tape is [mask].",
+        "answers": [
+            "Stephen Belber"
+        ]
+    },
+    {
+        "question": "The author of Sergeant Chip is [mask].",
+        "answers": [
+            "Bradley Denton"
+        ]
+    },
+    {
+        "question": "The author of The Dybbuk is [mask].",
+        "answers": [
+            "S. Ansky"
+        ]
+    },
+    {
+        "question": "The author of Defence of the Seven Sacraments is [mask].",
+        "answers": [
+            "Henry VIII of England"
+        ]
+    },
+    {
+        "question": "The author of The Captain of K\u00f6penick is [mask].",
+        "answers": [
+            "Carl Zuckmayer"
+        ]
+    },
+    {
+        "question": "The author of Fragmento preliminar al estudio del derecho is [mask].",
+        "answers": [
+            "Juan Bautista Alberdi"
+        ]
+    },
+    {
+        "question": "The author of The Royal Pain is [mask].",
+        "answers": [
+            "MaryJanice Davidson"
+        ]
+    },
+    {
+        "question": "The author of A River Runs Through It (novel) is [mask].",
+        "answers": [
+            "Norman Maclean"
+        ]
+    },
+    {
+        "question": "The author of Granny Made Me an Anarchist is [mask].",
+        "answers": [
+            "Stuart Christie"
+        ]
+    },
+    {
+        "question": "The author of The Last Resort is [mask].",
+        "answers": [
+            "Paul Leonard"
+        ]
+    },
+    {
+        "question": "The author of The Sheik is [mask].",
+        "answers": [
+            "Edith Maude Hull"
+        ]
+    },
+    {
+        "question": "The author of Torment is [mask].",
+        "answers": [
+            "Lauren Kate"
+        ]
+    },
+    {
+        "question": "The author of The Illustrated Mum is [mask].",
+        "answers": [
+            "Jacqueline Wilson"
+        ]
+    },
+    {
+        "question": "The author of Twenty Cases Suggestive of Reincarnation is [mask].",
+        "answers": [
+            "Ian Stevenson"
+        ]
+    },
+    {
+        "question": "The author of Kryptonite is [mask].",
+        "answers": [
+            "Darwyn Cooke"
+        ]
+    },
+    {
+        "question": "The author of The Constant Nymph is [mask].",
+        "answers": [
+            "Margaret Kennedy"
+        ]
+    },
+    {
+        "question": "The author of The Gospel of Filth is [mask].",
+        "answers": [
+            "Gavin Baddeley",
+            "Dani Filth"
+        ]
+    },
+    {
+        "question": "The author of Who I Am is [mask].",
+        "answers": [
+            "Pete Townshend"
+        ]
+    },
+    {
+        "question": "The author of Humanist Manifesto II is [mask].",
+        "answers": [
+            "Paul Kurtz"
+        ]
+    },
+    {
+        "question": "The author of Grits is [mask].",
+        "answers": [
+            "Niall Griffiths"
+        ]
+    },
+    {
+        "question": "The author of Janissaries III: Storms of Victory is [mask].",
+        "answers": [
+            "Jerry Pournelle"
+        ]
+    },
+    {
+        "question": "The author of Star Songs of an Old Primate is [mask].",
+        "answers": [
+            "Alice Bradley Sheldon"
+        ]
+    },
+    {
+        "question": "The author of To Write Like a Woman is [mask].",
+        "answers": [
+            "Joanna Russ"
+        ]
+    },
+    {
+        "question": "The author of I'm Feeling Lucky is [mask].",
+        "answers": [
+            "Douglas Edwards"
+        ]
+    },
+    {
+        "question": "The author of The Song of the Stormy Petrel is [mask].",
+        "answers": [
+            "Maxim Gorki"
+        ]
+    },
+    {
+        "question": "The author of Let's Take the Long Way Home is [mask].",
+        "answers": [
+            "Gail Caldwell"
+        ]
+    },
+    {
+        "question": "The author of The Reich Chancellery and F\u00fchrerbunker Complex is [mask].",
+        "answers": [
+            "Steven Lehrer"
+        ]
+    },
+    {
+        "question": "The author of Pingyao Zhuan is [mask].",
+        "answers": [
+            "Luo Guanzhong"
+        ]
+    },
+    {
+        "question": "The author of Shantata! Court Chalu Aahe is [mask].",
+        "answers": [
+            "Vijay Tendulkar"
+        ]
+    },
+    {
+        "question": "The author of Reflections in Bullough's Pond is [mask].",
+        "answers": [
+            "Diana Muir"
+        ]
+    },
+    {
+        "question": "The author of Ah! Sun-flower is [mask].",
+        "answers": [
+            "William Blake"
+        ]
+    },
+    {
+        "question": "The author of History, Labour, and Freedom is [mask].",
+        "answers": [
+            "Gerald Cohen"
+        ]
+    },
+    {
+        "question": "The author of Prayers for Rain is [mask].",
+        "answers": [
+            "Dennis Lehane"
+        ]
+    },
+    {
+        "question": "The author of The Lords of Discipline is [mask].",
+        "answers": [
+            "Pat Conroy"
+        ]
+    },
+    {
+        "question": "The author of How I Paid for College: A Novel of Sex, Theft, Friendship, and Musical Theater is [mask].",
+        "answers": [
+            "Marc Acito"
+        ]
+    },
+    {
+        "question": "The author of The Indian Princess is [mask].",
+        "answers": [
+            "James Nelson Barker"
+        ]
+    },
+    {
+        "question": "The author of The Year's Best Fantasy Stories is [mask].",
+        "answers": [
+            "Lin Carter"
+        ]
+    },
+    {
+        "question": "The author of Negotiating with the Dead: A Writer on Writing is [mask].",
+        "answers": [
+            "Margaret Atwood"
+        ]
+    },
+    {
+        "question": "The author of The Premature Burial is [mask].",
+        "answers": [
+            "Edgar Allan Poe"
+        ]
+    },
+    {
+        "question": "The author of Handbuch des Schachspiels is [mask].",
+        "answers": [
+            "Tassilo von Heydebrand und der Lasa"
+        ]
+    },
+    {
+        "question": "The author of The Guns of Navarone is [mask].",
+        "answers": [
+            "Alistair MacLean"
+        ]
+    },
+    {
+        "question": "The author of Letty Fox: Her Luck is [mask].",
+        "answers": [
+            "Christina Stead"
+        ]
+    },
+    {
+        "question": "The author of Aristotle is [mask].",
+        "answers": [
+            "Dick King-Smith"
+        ]
+    },
+    {
+        "question": "The author of Ji Xiao Xin Shu is [mask].",
+        "answers": [
+            "Qi Jiguang"
+        ]
+    },
+    {
+        "question": "The author of Lust for Justice is [mask].",
+        "answers": [
+            "Paulette Frankl"
+        ]
+    },
+    {
+        "question": "The author of Marnie is [mask].",
+        "answers": [
+            "Winston Graham"
+        ]
+    },
+    {
+        "question": "The author of Tom and Jerry, or Life in London is [mask].",
+        "answers": [
+            "William Thomas Moncrieff"
+        ]
+    },
+    {
+        "question": "The author of Blackstone Chronicles is [mask].",
+        "answers": [
+            "John Saul"
+        ]
+    },
+    {
+        "question": "The author of Speed Tribes is [mask].",
+        "answers": [
+            "Karl Taro Greenfeld"
+        ]
+    },
+    {
+        "question": "The author of The Calcutta Quran Petition is [mask].",
+        "answers": [
+            "Sita Ram Goel"
+        ]
+    },
+    {
+        "question": "The author of Pamphilia to Amphilanthus is [mask].",
+        "answers": [
+            "Lady Mary Wroth"
+        ]
+    },
+    {
+        "question": "The author of Laughter is [mask].",
+        "answers": [
+            "Henri Bergson"
+        ]
+    },
+    {
+        "question": "The author of Bird Neighbors is [mask].",
+        "answers": [
+            "Neltje Blanchan"
+        ]
+    },
+    {
+        "question": "The author of A Good Man Is Hard to Find is [mask].",
+        "answers": [
+            "Flannery O'Connor"
+        ]
+    },
+    {
+        "question": "The author of The Balloon-Hoax is [mask].",
+        "answers": [
+            "Edgar Allan Poe"
+        ]
+    },
+    {
+        "question": "The author of World's Best Science Fiction: 1965 is [mask].",
+        "answers": [
+            "Terry Carr"
+        ]
+    },
+    {
+        "question": "The author of The Architecture of the Arkansas Ozarks is [mask].",
+        "answers": [
+            "Donald Harington"
+        ]
+    },
+    {
+        "question": "The author of The Finer Points of Sausage Dogs is [mask].",
+        "answers": [
+            "Alexander McCall Smith"
+        ]
+    },
+    {
+        "question": "The author of Orca is [mask].",
+        "answers": [
+            "Steven Brust"
+        ]
+    },
+    {
+        "question": "The author of Facetiae is [mask].",
+        "answers": [
+            "Poggio Bracciolini"
+        ]
+    },
+    {
+        "question": "The author of Peacemaker is [mask].",
+        "answers": [
+            "James Swallow"
+        ]
+    },
+    {
+        "question": "The author of Witch Baby is [mask].",
+        "answers": [
+            "Francesca Lia Block"
+        ]
+    },
+    {
+        "question": "The author of Knuffle Bunny Too: A Case of Mistaken Identity is [mask].",
+        "answers": [
+            "Mo Willems"
+        ]
+    },
+    {
+        "question": "The author of Popular Music from Vittula is [mask].",
+        "answers": [
+            "Mikael Niemi"
+        ]
+    },
+    {
+        "question": "The author of Floating in My Mother's Palm is [mask].",
+        "answers": [
+            "Ursula Hegi"
+        ]
+    },
+    {
+        "question": "The author of The Shoes of the Fisherman is [mask].",
+        "answers": [
+            "Morris West"
+        ]
+    },
+    {
+        "question": "The author of Sunset Park is [mask].",
+        "answers": [
+            "Paul Auster"
+        ]
+    },
+    {
+        "question": "The author of The Forest House is [mask].",
+        "answers": [
+            "Marion Zimmer Bradley"
+        ]
+    },
+    {
+        "question": "The author of Part of the Furniture is [mask].",
+        "answers": [
+            "Mary Wesley"
+        ]
+    },
+    {
+        "question": "The author of Rocket Boys is [mask].",
+        "answers": [
+            "Homer Hickam"
+        ]
+    },
+    {
+        "question": "The author of The Moth and the Star is [mask].",
+        "answers": [
+            "James Thurber"
+        ]
+    },
+    {
+        "question": "The author of The Clue of the Whistling Bagpipes is [mask].",
+        "answers": [
+            "Carolyn Keene"
+        ]
+    },
+    {
+        "question": "The author of Double Solitaire is [mask].",
+        "answers": [
+            "Melinda M. Snodgrass"
+        ]
+    },
+    {
+        "question": "The author of The Green Collar Economy is [mask].",
+        "answers": [
+            "Van Jones"
+        ]
+    },
+    {
+        "question": "The author of The Curious Savage is [mask].",
+        "answers": [
+            "John Patrick"
+        ]
+    },
+    {
+        "question": "The author of The Devil's Cinema is [mask].",
+        "answers": [
+            "Steve Lillebuen"
+        ]
+    },
+    {
+        "question": "The author of Kalki is [mask].",
+        "answers": [
+            "Gore Vidal"
+        ]
+    },
+    {
+        "question": "The author of Mrs. Eckdorf in O'Neill's Hotel is [mask].",
+        "answers": [
+            "William Trevor"
+        ]
+    },
+    {
+        "question": "The author of Dragon's Kin is [mask].",
+        "answers": [
+            "Todd McCaffrey",
+            "Anne McCaffrey"
+        ]
+    },
+    {
+        "question": "The author of When the Legends Die is [mask].",
+        "answers": [
+            "Hal Borland"
+        ]
+    },
+    {
+        "question": "The author of Ang Paboritong Libro ni Hudas is [mask].",
+        "answers": [
+            "Bob Ong"
+        ]
+    },
+    {
+        "question": "The author of The Long Shadow is [mask].",
+        "answers": [
+            "Jon Cleary"
+        ]
+    },
+    {
+        "question": "The author of The Wonderful Country is [mask].",
+        "answers": [
+            "Thomas C. Lea III"
+        ]
+    },
+    {
+        "question": "The author of Twelve is [mask].",
+        "answers": [
+            "Nick McDonell"
+        ]
+    },
+    {
+        "question": "The author of Apex Hides the Hurt is [mask].",
+        "answers": [
+            "Colson Whitehead"
+        ]
+    },
+    {
+        "question": "The author of The Hardy Boys is [mask].",
+        "answers": [
+            "Franklin W. Dixon"
+        ]
+    },
+    {
+        "question": "The author of Writing Drama is [mask].",
+        "answers": [
+            "Yves Lavandier"
+        ]
+    },
+    {
+        "question": "The author of The Birth of Venus is [mask].",
+        "answers": [
+            "Sarah Dunant"
+        ]
+    },
+    {
+        "question": "The author of The Witch of Hebron is [mask].",
+        "answers": [
+            "James Howard Kunstler"
+        ]
+    },
+    {
+        "question": "The author of The Rise of Silas Lapham is [mask].",
+        "answers": [
+            "William Dean Howells"
+        ]
+    },
+    {
+        "question": "The author of The Moon of Much Gladness is [mask].",
+        "answers": [
+            "Ernest Bramah"
+        ]
+    },
+    {
+        "question": "The author of The Mohole Mystery is [mask].",
+        "answers": [
+            "Hugh Walters"
+        ]
+    },
+    {
+        "question": "The author of Early Autumn is [mask].",
+        "answers": [
+            "Louis Bromfield"
+        ]
+    },
+    {
+        "question": "The author of Wolfskin is [mask].",
+        "answers": [
+            "Warren Ellis"
+        ]
+    },
+    {
+        "question": "The author of The Two Hotel Francforts is [mask].",
+        "answers": [
+            "David Leavitt"
+        ]
+    },
+    {
+        "question": "The author of Fath al-Bari is [mask].",
+        "answers": [
+            "Ibn Hajar al-Asqalani"
+        ]
+    },
+    {
+        "question": "The author of Echoes of Valor II is [mask].",
+        "answers": [
+            "Karl Edward Wagner"
+        ]
+    },
+    {
+        "question": "The author of Hecale is [mask].",
+        "answers": [
+            "Callimachus"
+        ]
+    },
+    {
+        "question": "The author of Murder in Grub Street is [mask].",
+        "answers": [
+            "Bruce Alexander Cook"
+        ]
+    },
+    {
+        "question": "The author of Largo Winch is [mask].",
+        "answers": [
+            "Jean Van Hamme"
+        ]
+    },
+    {
+        "question": "The author of The Haunter of the Dark is [mask].",
+        "answers": [
+            "H. P. Lovecraft"
+        ]
+    },
+    {
+        "question": "The author of Mr. Monk Goes to Hawaii is [mask].",
+        "answers": [
+            "Lee Goldberg"
+        ]
+    },
+    {
+        "question": "The author of Crowds and Power is [mask].",
+        "answers": [
+            "Elias Canetti"
+        ]
+    },
+    {
+        "question": "The author of Malice is [mask].",
+        "answers": [
+            "Chris Wooding"
+        ]
+    },
+    {
+        "question": "The author of Destiny, or The Attraction of Affinities is [mask].",
+        "answers": [
+            "John David Morley"
+        ]
+    },
+    {
+        "question": "The author of A Shoemaker a Gentleman is [mask].",
+        "answers": [
+            "William Rowley"
+        ]
+    },
+    {
+        "question": "The author of Time Zero is [mask].",
+        "answers": [
+            "Justin Richards"
+        ]
+    },
+    {
+        "question": "The author of WildC.A.T.s/Aliens is [mask].",
+        "answers": [
+            "Warren Ellis"
+        ]
+    },
+    {
+        "question": "The author of The Far Hills is [mask].",
+        "answers": [
+            "Brian Cleeve"
+        ]
+    },
+    {
+        "question": "The author of Bard: The Odyssey of the Irish is [mask].",
+        "answers": [
+            "Morgan Llywelyn"
+        ]
+    },
+    {
+        "question": "The author of Yakari is [mask].",
+        "answers": [
+            "Job"
+        ]
+    },
+    {
+        "question": "The author of The Well-Mannered War is [mask].",
+        "answers": [
+            "Gareth Roberts"
+        ]
+    },
+    {
+        "question": "The author of This Is My God: The Jewish Way of Life is [mask].",
+        "answers": [
+            "Herman Wouk"
+        ]
+    },
+    {
+        "question": "The author of Monadology is [mask].",
+        "answers": [
+            "Gottfried Wilhelm Leibniz"
+        ]
+    },
+    {
+        "question": "The author of The Pirate is [mask].",
+        "answers": [
+            "Poul Anderson"
+        ]
+    },
+    {
+        "question": "The author of Sten Adventures Book 7: Vortex is [mask].",
+        "answers": [
+            "Allan Cole",
+            "Chris Bunch"
+        ]
+    },
+    {
+        "question": "The author of She Returns to the Floating World is [mask].",
+        "answers": [
+            "Jeannine Hall Gailey"
+        ]
+    },
+    {
+        "question": "The author of Ressurrei\u00e7\u00e3o is [mask].",
+        "answers": [
+            "Joaquim Maria Machado de Assis"
+        ]
+    },
+    {
+        "question": "The author of Words and Music is [mask].",
+        "answers": [
+            "Samuel Beckett"
+        ]
+    },
+    {
+        "question": "The author of A Good Woman is [mask].",
+        "answers": [
+            "Danielle Steel"
+        ]
+    },
+    {
+        "question": "The author of Writing with Intent: Essays, Reviews, Personal Prose--1983-2005 is [mask].",
+        "answers": [
+            "Margaret Atwood"
+        ]
+    },
+    {
+        "question": "The author of Night Game is [mask].",
+        "answers": [
+            "Christine Feehan"
+        ]
+    },
+    {
+        "question": "The author of Smirt is [mask].",
+        "answers": [
+            "James Branch Cabell"
+        ]
+    },
+    {
+        "question": "The author of Lawless and Tilley series is [mask].",
+        "answers": [
+            "Malcolm Rose"
+        ]
+    },
+    {
+        "question": "The author of Metroland is [mask].",
+        "answers": [
+            "Julian Barnes"
+        ]
+    },
+    {
+        "question": "The author of Zanoni is [mask].",
+        "answers": [
+            "Edward Bulwer-Lytton"
+        ]
+    },
+    {
+        "question": "The author of The Trip to Bountiful is [mask].",
+        "answers": [
+            "Horton Foote"
+        ]
+    },
+    {
+        "question": "The author of Leonardo's Mountain of Clams and the Diet of Worms is [mask].",
+        "answers": [
+            "Stephen Jay Gould"
+        ]
+    },
+    {
+        "question": "The author of Finished is [mask].",
+        "answers": [
+            "H. Rider Haggard"
+        ]
+    },
+    {
+        "question": "The author of Merton of the Movies is [mask].",
+        "answers": [
+            "Walter Woods"
+        ]
+    },
+    {
+        "question": "The author of Across the Universe is [mask].",
+        "answers": [
+            "George Zebrowski",
+            "Pamela Sargent"
+        ]
+    },
+    {
+        "question": "The author of Loop is [mask].",
+        "answers": [
+            "K\u014dji Suzuki"
+        ]
+    },
+    {
+        "question": "The author of Invasion! is [mask].",
+        "answers": [
+            "Gerry Finley-Day"
+        ]
+    },
+    {
+        "question": "The author of In the Eyes of Mr. Fury is [mask].",
+        "answers": [
+            "Philip Ridley"
+        ]
+    },
+    {
+        "question": "The author of The Master of Man is [mask].",
+        "answers": [
+            "Hall Caine"
+        ]
+    },
+    {
+        "question": "The author of Zero Degree is [mask].",
+        "answers": [
+            "Charu Nivedita"
+        ]
+    },
+    {
+        "question": "The author of Nightmares in the Sky is [mask].",
+        "answers": [
+            "Stephen King"
+        ]
+    },
+    {
+        "question": "The author of The Royal Game is [mask].",
+        "answers": [
+            "Stefan Zweig"
+        ]
+    },
+    {
+        "question": "The author of Second Folio is [mask].",
+        "answers": [
+            "William Shakespeare"
+        ]
+    },
+    {
+        "question": "The author of Paris France is [mask].",
+        "answers": [
+            "Gertrude Stein"
+        ]
+    },
+    {
+        "question": "The author of Six Memos for the Next Millennium is [mask].",
+        "answers": [
+            "Italo Calvino"
+        ]
+    },
+    {
+        "question": "The author of A Madea Christmas is [mask].",
+        "answers": [
+            "Tyler Perry"
+        ]
+    },
+    {
+        "question": "The author of The Origins of Totalitarianism is [mask].",
+        "answers": [
+            "Hannah Arendt"
+        ]
+    },
+    {
+        "question": "The author of A Dynamical Theory of the Electromagnetic Field is [mask].",
+        "answers": [
+            "James Clerk Maxwell"
+        ]
+    },
+    {
+        "question": "The author of Cinderalla is [mask].",
+        "answers": [
+            "Junko Mizuno"
+        ]
+    },
+    {
+        "question": "The author of The Secrets of Harry Bright is [mask].",
+        "answers": [
+            "Joseph Wambaugh"
+        ]
+    },
+    {
+        "question": "The author of The Idea of Justice is [mask].",
+        "answers": [
+            "Amartya Sen"
+        ]
+    },
+    {
+        "question": "The author of Djinn is [mask].",
+        "answers": [
+            "Jean Dufaux"
+        ]
+    },
+    {
+        "question": "The author of Cell is [mask].",
+        "answers": [
+            "Stephen King"
+        ]
+    },
+    {
+        "question": "The author of The Clue of the Leaning Chimney is [mask].",
+        "answers": [
+            "Carolyn Keene"
+        ]
+    },
+    {
+        "question": "The author of Lipstick Jungle is [mask].",
+        "answers": [
+            "Candace Bushnell"
+        ]
+    },
+    {
+        "question": "The author of Fiela's Child is [mask].",
+        "answers": [
+            "Dalene Matthee"
+        ]
+    },
+    {
+        "question": "The author of The Dam Busters is [mask].",
+        "answers": [
+            "Paul Brickhill"
+        ]
+    },
+    {
+        "question": "The author of Body of Lies is [mask].",
+        "answers": [
+            "David Ignatius"
+        ]
+    },
+    {
+        "question": "The author of Stover at Yale is [mask].",
+        "answers": [
+            "Owen Johnson"
+        ]
+    },
+    {
+        "question": "The author of Ashramavasika Parva is [mask].",
+        "answers": [
+            "Vyasa"
+        ]
+    },
+    {
+        "question": "The author of The Mermaid Chair is [mask].",
+        "answers": [
+            "Sue Monk Kidd"
+        ]
+    },
+    {
+        "question": "The author of The Snow Maiden is [mask].",
+        "answers": [
+            "Alexander Ostrovsky"
+        ]
+    },
+    {
+        "question": "The author of The Will of the Empress is [mask].",
+        "answers": [
+            "Tamora Pierce"
+        ]
+    },
+    {
+        "question": "The author of Sonnet 43 is [mask].",
+        "answers": [
+            "William Shakespeare"
+        ]
+    },
+    {
+        "question": "The author of Shinj\u016b is [mask].",
+        "answers": [
+            "Laura Joh Rowland"
+        ]
+    },
+    {
+        "question": "The author of A Lovely Sunday for Creve Coeur is [mask].",
+        "answers": [
+            "Tennessee Williams"
+        ]
+    },
+    {
+        "question": "The author of Al-Tibbyan Fi Tafsir al-Quran is [mask].",
+        "answers": [
+            "Shaykh Tusi"
+        ]
+    },
+    {
+        "question": "The author of The Hound of Heaven is [mask].",
+        "answers": [
+            "Francis Thompson"
+        ]
+    },
+    {
+        "question": "The author of The Sexual Life of Catherine M. is [mask].",
+        "answers": [
+            "Catherine Millet"
+        ]
+    },
+    {
+        "question": "The author of A Short History of the World is [mask].",
+        "answers": [
+            "Geoffrey Blainey"
+        ]
+    },
+    {
+        "question": "The author of Uncle Daddy is [mask].",
+        "answers": [
+            "Ralph Fletcher"
+        ]
+    },
+    {
+        "question": "The author of A Thousand Deaths is [mask].",
+        "answers": [
+            "Orson Scott Card"
+        ]
+    },
+    {
+        "question": "The author of Gaspard de la Nuit (book) is [mask].",
+        "answers": [
+            "Aloysius Bertrand"
+        ]
+    },
+    {
+        "question": "The author of Candyfloss is [mask].",
+        "answers": [
+            "Jacqueline Wilson"
+        ]
+    },
+    {
+        "question": "The author of Hymns in Prose for Children is [mask].",
+        "answers": [
+            "Anna Laetitia Barbauld"
+        ]
+    },
+    {
+        "question": "The author of The Wings of the Sphinx is [mask].",
+        "answers": [
+            "Andrea Camilleri"
+        ]
+    },
+    {
+        "question": "The author of The Mask is [mask].",
+        "answers": [
+            "Dean Koontz"
+        ]
+    },
+    {
+        "question": "The author of Instruments of Darkness is [mask].",
+        "answers": [
+            "Gary Russell"
+        ]
+    },
+    {
+        "question": "The author of Balance of Power is [mask].",
+        "answers": [
+            "Dafydd ab Hugh"
+        ]
+    },
+    {
+        "question": "The author of Caste is [mask].",
+        "answers": [
+            "Thomas William Robertson"
+        ]
+    },
+    {
+        "question": "The author of When Prophecy Fails is [mask].",
+        "answers": [
+            "Leon Festinger",
+            "Stanley Schachter"
+        ]
+    },
+    {
+        "question": "The author of Girl, Missing is [mask].",
+        "answers": [
+            "Sophie McKenzie"
+        ]
+    },
+    {
+        "question": "The author of Madeline and the Gypsies is [mask].",
+        "answers": [
+            "Ludwig Bemelmans"
+        ]
+    },
+    {
+        "question": "The author of Gabriel-Ernest is [mask].",
+        "answers": [
+            "Saki"
+        ]
+    },
+    {
+        "question": "The author of Q is [mask].",
+        "answers": [
+            "Luther Blissett"
+        ]
+    },
+    {
+        "question": "The author of Watchmen is [mask].",
+        "answers": [
+            "Dave Gibbons"
+        ]
+    },
+    {
+        "question": "The author of Babylon 5: Deadly Relations \u2013 Bester Ascendant is [mask].",
+        "answers": [
+            "Gregory Keyes"
+        ]
+    },
+    {
+        "question": "The author of Phoebe, Junior is [mask].",
+        "answers": [
+            "Margaret Oliphant"
+        ]
+    },
+    {
+        "question": "The author of Anarchy Alive! is [mask].",
+        "answers": [
+            "Uri Gordon"
+        ]
+    },
+    {
+        "question": "The author of Fertilisation of Orchids is [mask].",
+        "answers": [
+            "Charles Darwin"
+        ]
+    },
+    {
+        "question": "The author of Two Leaves and a Bud is [mask].",
+        "answers": [
+            "Mulk Raj Anand"
+        ]
+    },
+    {
+        "question": "The author of Zulu Heart is [mask].",
+        "answers": [
+            "Steven Barnes"
+        ]
+    },
+    {
+        "question": "The author of R Is for Rocket is [mask].",
+        "answers": [
+            "Ray Bradbury"
+        ]
+    },
+    {
+        "question": "The author of Lilith is [mask].",
+        "answers": [
+            "George MacDonald"
+        ]
+    },
+    {
+        "question": "The author of The Diary of a Nobody is [mask].",
+        "answers": [
+            "Weedon Grossmith"
+        ]
+    },
+    {
+        "question": "The author of People Might Hear You is [mask].",
+        "answers": [
+            "Robin Klein"
+        ]
+    },
+    {
+        "question": "The author of One Fifth Avenue is [mask].",
+        "answers": [
+            "Candace Bushnell"
+        ]
+    },
+    {
+        "question": "The author of Cherry Crush is [mask].",
+        "answers": [
+            "Cathy Cassidy"
+        ]
+    },
+    {
+        "question": "The author of The Odessa Tales is [mask].",
+        "answers": [
+            "Isaak Babel"
+        ]
+    },
+    {
+        "question": "The author of Telesni \u010duvaj is [mask].",
+        "answers": [
+            "Miha Mazzini"
+        ]
+    },
+    {
+        "question": "The author of The Shock Doctrine is [mask].",
+        "answers": [
+            "Naomi Klein"
+        ]
+    },
+    {
+        "question": "The author of Outcast is [mask].",
+        "answers": [
+            "Rosemary Sutcliff"
+        ]
+    },
+    {
+        "question": "The author of I Like It Here is [mask].",
+        "answers": [
+            "Kingsley Amis"
+        ]
+    },
+    {
+        "question": "The author of Common Grounds is [mask].",
+        "answers": [
+            "Troy Hickman"
+        ]
+    },
+    {
+        "question": "The author of Cannibal Adventure is [mask].",
+        "answers": [
+            "Willard Price"
+        ]
+    },
+    {
+        "question": "The author of The Question Concerning Technology is [mask].",
+        "answers": [
+            "Martin Heidegger"
+        ]
+    },
+    {
+        "question": "The author of Princeps' Fury is [mask].",
+        "answers": [
+            "Jim Butcher"
+        ]
+    },
+    {
+        "question": "The author of Independence Day UK is [mask].",
+        "answers": [
+            "Dirk Maggs"
+        ]
+    },
+    {
+        "question": "The author of Jubiab\u00e1 is [mask].",
+        "answers": [
+            "Jorge Amado"
+        ]
+    },
+    {
+        "question": "The author of Click is [mask].",
+        "answers": [
+            "Ruth Ozeki",
+            "Margo Lanagan",
+            "Linda Sue Park",
+            "Gregory Maguire",
+            "Tim Wynne-Jones",
+            "Nick Hornby",
+            "Roddy Doyle",
+            "David Almond",
+            "Deborah Ellis"
+        ]
+    },
+    {
+        "question": "The author of Jnana Yoga is [mask].",
+        "answers": [
+            "Swami Vivekananda"
+        ]
+    },
+    {
+        "question": "The author of Crunch is [mask].",
+        "answers": [
+            "Jared Bernstein"
+        ]
+    },
+    {
+        "question": "The author of Earthfall is [mask].",
+        "answers": [
+            "Orson Scott Card"
+        ]
+    },
+    {
+        "question": "The author of Chosen is [mask].",
+        "answers": [
+            "Kristin Cast"
+        ]
+    },
+    {
+        "question": "The author of Ralph Roister Doister is [mask].",
+        "answers": [
+            "Nicholas Udall"
+        ]
+    },
+    {
+        "question": "The author of The Thomas Ligotti Reader: Essays and Explorations is [mask].",
+        "answers": [
+            "Darrell Schweitzer"
+        ]
+    },
+    {
+        "question": "The author of Thou Art That is [mask].",
+        "answers": [
+            "Joseph Campbell"
+        ]
+    },
+    {
+        "question": "The author of Turn Coat is [mask].",
+        "answers": [
+            "Jim Butcher"
+        ]
+    },
+    {
+        "question": "The author of Homer's Daughter is [mask].",
+        "answers": [
+            "Robert Graves"
+        ]
+    },
+    {
+        "question": "The author of A Foot in the Grave is [mask].",
+        "answers": [
+            "Bruce Marshall"
+        ]
+    },
+    {
+        "question": "The author of Raise the Titanic! is [mask].",
+        "answers": [
+            "Clive Cussler"
+        ]
+    },
+    {
+        "question": "The author of Enduring Love is [mask].",
+        "answers": [
+            "Ian McEwan"
+        ]
+    },
+    {
+        "question": "The author of The Joy of Work is [mask].",
+        "answers": [
+            "Scott Adams"
+        ]
+    },
+    {
+        "question": "The author of Sherlock Holmes: The Breath of God is [mask].",
+        "answers": [
+            "Guy Adams"
+        ]
+    },
+    {
+        "question": "The author of Wednesday the Rabbi Got Wet is [mask].",
+        "answers": [
+            "Harry Kemelman"
+        ]
+    },
+    {
+        "question": "The author of Titus Andronicus is [mask].",
+        "answers": [
+            "William Shakespeare"
+        ]
+    },
+    {
+        "question": "The author of Inadmissible Evidence is [mask].",
+        "answers": [
+            "John Osborne"
+        ]
+    },
+    {
+        "question": "The author of In Pharaoh's Army is [mask].",
+        "answers": [
+            "Tobias Wolff"
+        ]
+    },
+    {
+        "question": "The author of Pandora's Curse is [mask].",
+        "answers": [
+            "Jack Du Brul"
+        ]
+    },
+    {
+        "question": "The author of Gospel of Luke is [mask].",
+        "answers": [
+            "Luke the Evangelist"
+        ]
+    },
+    {
+        "question": "The author of Double, Double is [mask].",
+        "answers": [
+            "Michael Jan Friedman"
+        ]
+    },
+    {
+        "question": "The author of Muinasmaa is [mask].",
+        "answers": [
+            "August Gailit"
+        ]
+    },
+    {
+        "question": "The author of Quantum Aspects of Life is [mask].",
+        "answers": [
+            "Roger Penrose"
+        ]
+    },
+    {
+        "question": "The author of The Evolution of Physics is [mask].",
+        "answers": [
+            "Albert Einstein"
+        ]
+    },
+    {
+        "question": "The author of Tyrocinium Chymicum is [mask].",
+        "answers": [
+            "Jean Beguin"
+        ]
+    },
+    {
+        "question": "The author of The Minstrelsy of the Scottish Border is [mask].",
+        "answers": [
+            "Walter Scott"
+        ]
+    },
+    {
+        "question": "The author of Dead Man Walking is [mask].",
+        "answers": [
+            "Helen Prejean"
+        ]
+    },
+    {
+        "question": "The author of The Collectors is [mask].",
+        "answers": [
+            "David Baldacci"
+        ]
+    },
+    {
+        "question": "The author of The Case of the Rising Stars is [mask].",
+        "answers": [
+            "Carolyn Keene"
+        ]
+    },
+    {
+        "question": "The author of The Many Worlds of Andre Norton is [mask].",
+        "answers": [
+            "Andre Norton"
+        ]
+    },
+    {
+        "question": "The author of Race Matters is [mask].",
+        "answers": [
+            "Cornel West"
+        ]
+    },
+    {
+        "question": "The author of The Legend of Sleepy Hollow is [mask].",
+        "answers": [
+            "Washington Irving"
+        ]
+    },
+    {
+        "question": "The author of Day of Deceit is [mask].",
+        "answers": [
+            "Robert Stinnett"
+        ]
+    },
+    {
+        "question": "The author of Beyond Language: Adventures in Word and Thought is [mask].",
+        "answers": [
+            "Dmitri Borgmann"
+        ]
+    },
+    {
+        "question": "The author of White-Jacket is [mask].",
+        "answers": [
+            "Herman Melville"
+        ]
+    },
+    {
+        "question": "The author of Culture series is [mask].",
+        "answers": [
+            "Iain Banks"
+        ]
+    },
+    {
+        "question": "The author of A Small Boy and Others is [mask].",
+        "answers": [
+            "Henry James"
+        ]
+    },
+    {
+        "question": "The author of Experience is [mask].",
+        "answers": [
+            "Martin Amis"
+        ]
+    },
+    {
+        "question": "The author of The Cost of Discipleship is [mask].",
+        "answers": [
+            "Dietrich Bonhoeffer"
+        ]
+    },
+    {
+        "question": "The author of Swimming to Catalina is [mask].",
+        "answers": [
+            "Stuart Woods"
+        ]
+    },
+    {
+        "question": "The author of Gunamala is [mask].",
+        "answers": [
+            "Srimanta Sankardeva"
+        ]
+    },
+    {
+        "question": "The author of Gojiro is [mask].",
+        "answers": [
+            "Mark Jacobson"
+        ]
+    },
+    {
+        "question": "The author of The Other is [mask].",
+        "answers": [
+            "Jorge Luis Borges"
+        ]
+    },
+    {
+        "question": "The author of Keep the River on Your Right is [mask].",
+        "answers": [
+            "Tobias Schneebaum"
+        ]
+    },
+    {
+        "question": "The author of Gutsville is [mask].",
+        "answers": [
+            "Frazer Irving"
+        ]
+    },
+    {
+        "question": "The author of Divina Trace is [mask].",
+        "answers": [
+            "Robert Antoni"
+        ]
+    },
+    {
+        "question": "The author of Black Cat is [mask].",
+        "answers": [
+            "Kentaro Yabuki"
+        ]
+    },
+    {
+        "question": "The author of Chinglish is [mask].",
+        "answers": [
+            "David Henry Hwang"
+        ]
+    },
+    {
+        "question": "The author of Karl Marx's Theory of History: A Defence is [mask].",
+        "answers": [
+            "Gerald Cohen"
+        ]
+    },
+    {
+        "question": "The author of The Crisis of Zionism is [mask].",
+        "answers": [
+            "Peter Beinart"
+        ]
+    },
+    {
+        "question": "The author of DT Eightron is [mask].",
+        "answers": [
+            "Sh\u016bichi Shigeno"
+        ]
+    },
+    {
+        "question": "The author of Biko is [mask].",
+        "answers": [
+            "Donald Woods"
+        ]
+    },
+    {
+        "question": "The author of Command Decision is [mask].",
+        "answers": [
+            "William Wister Haines"
+        ]
+    },
+    {
+        "question": "The author of Fables for the Frivolous is [mask].",
+        "answers": [
+            "Guy Wetmore Carryl"
+        ]
+    },
+    {
+        "question": "The author of Just a Pilgrim is [mask].",
+        "answers": [
+            "Carlos Ezquerra"
+        ]
+    },
+    {
+        "question": "The author of On Human Nature is [mask].",
+        "answers": [
+            "Edward O. Wilson"
+        ]
+    },
+    {
+        "question": "The author of Mrs. Gibbons' Boys is [mask].",
+        "answers": [
+            "Will Glickman",
+            "Joseph Stein"
+        ]
+    },
+    {
+        "question": "The author of Hilarity Ensues is [mask].",
+        "answers": [
+            "Tucker Max"
+        ]
+    },
+    {
+        "question": "The author of The World's Most Dangerous Places is [mask].",
+        "answers": [
+            "Robert Young Pelton"
+        ]
+    },
+    {
+        "question": "The author of In the Line of Fire: A Memoir is [mask].",
+        "answers": [
+            "Pervez Musharraf"
+        ]
+    },
+    {
+        "question": "The author of Instead of Three Wishes: Magical Short Stories is [mask].",
+        "answers": [
+            "Megan Whalen Turner"
+        ]
+    },
+    {
+        "question": "The author of Air Babylon is [mask].",
+        "answers": [
+            "Imogen Edwards-Jones"
+        ]
+    },
+    {
+        "question": "The author of Elementary Calculus: An Infinitesimal Approach is [mask].",
+        "answers": [
+            "Howard Jerome Keisler"
+        ]
+    },
+    {
+        "question": "The author of The Posthumous Memoirs of Bras Cubas is [mask].",
+        "answers": [
+            "Joaquim Maria Machado de Assis"
+        ]
+    },
+    {
+        "question": "The author of Gold Dust and Ashes is [mask].",
+        "answers": [
+            "Ion Idriess"
+        ]
+    },
+    {
+        "question": "The author of Thirty-Three Teeth is [mask].",
+        "answers": [
+            "Colin Cotterill"
+        ]
+    },
+    {
+        "question": "The author of Renewable Energy Sources and Climate Change Mitigation is [mask].",
+        "answers": [
+            "Intergovernmental Panel on Climate Change"
+        ]
+    },
+    {
+        "question": "The author of Kill Decision is [mask].",
+        "answers": [
+            "Daniel Suarez"
+        ]
+    },
+    {
+        "question": "The author of Nuts is [mask].",
+        "answers": [
+            "Tom Topor"
+        ]
+    },
+    {
+        "question": "The author of My Life and Hard Times is [mask].",
+        "answers": [
+            "James Thurber"
+        ]
+    },
+    {
+        "question": "The author of Gay Comix is [mask].",
+        "answers": [
+            "Howard Cruse"
+        ]
+    },
+    {
+        "question": "The author of War Comes to Willy Freeman is [mask].",
+        "answers": [
+            "Christopher Collier",
+            "James Lincoln Collier"
+        ]
+    },
+    {
+        "question": "The author of Hawke is [mask].",
+        "answers": [
+            "Ted Bell"
+        ]
+    },
+    {
+        "question": "The author of Baccano! is [mask].",
+        "answers": [
+            "Ryohgo Narita"
+        ]
+    },
+    {
+        "question": "The author of Spinoza: Practical Philosophy is [mask].",
+        "answers": [
+            "Gilles Deleuze"
+        ]
+    },
+    {
+        "question": "The author of The Great Illusion is [mask].",
+        "answers": [
+            "Norman Angell"
+        ]
+    },
+    {
+        "question": "The author of Dragon and Thief is [mask].",
+        "answers": [
+            "Timothy Zahn"
+        ]
+    },
+    {
+        "question": "The author of How to Read Donald Duck is [mask].",
+        "answers": [
+            "Ariel Dorfman",
+            "Armand Mattelart"
+        ]
+    },
+    {
+        "question": "The author of Archelaus is [mask].",
+        "answers": [
+            "Euripides"
+        ]
+    },
+    {
+        "question": "The author of Agnes of God is [mask].",
+        "answers": [
+            "John Pielmeier"
+        ]
+    },
+    {
+        "question": "The author of The Cream of the Jest is [mask].",
+        "answers": [
+            "James Branch Cabell"
+        ]
+    },
+    {
+        "question": "The author of Worldbinder is [mask].",
+        "answers": [
+            "Dave Wolverton"
+        ]
+    },
+    {
+        "question": "The author of F\u00e9licie is [mask].",
+        "answers": [
+            "Pierre de Marivaux"
+        ]
+    },
+    {
+        "question": "The author of I Don't Mean to be Rude, But... is [mask].",
+        "answers": [
+            "Simon Cowell"
+        ]
+    },
+    {
+        "question": "The author of Dame Lorraine is [mask].",
+        "answers": [
+            "Steve Carter"
+        ]
+    },
+    {
+        "question": "The author of Hornblower and the Crisis is [mask].",
+        "answers": [
+            "C. S. Forester"
+        ]
+    },
+    {
+        "question": "The author of Star Wars Republic Commando: True Colors is [mask].",
+        "answers": [
+            "Karen Traviss"
+        ]
+    },
+    {
+        "question": "The author of My Autobiography is [mask].",
+        "answers": [
+            "Charlie Chaplin"
+        ]
+    },
+    {
+        "question": "The author of Applause is [mask].",
+        "answers": [
+            "Adolph Green",
+            "Betty Comden"
+        ]
+    },
+    {
+        "question": "The author of The Tempest is [mask].",
+        "answers": [
+            "William Shakespeare"
+        ]
+    },
+    {
+        "question": "The author of It's Not News, It's FARK is [mask].",
+        "answers": [
+            "Drew Curtis"
+        ]
+    },
+    {
+        "question": "The author of The Silent Traveller in London is [mask].",
+        "answers": [
+            "Chiang Yee"
+        ]
+    },
+    {
+        "question": "The author of Rainbows End is [mask].",
+        "answers": [
+            "Vernor Vinge"
+        ]
+    },
+    {
+        "question": "The author of Head Games is [mask].",
+        "answers": [
+            "Steve Lyons"
+        ]
+    },
+    {
+        "question": "The author of Continental Drift is [mask].",
+        "answers": [
+            "Russell Banks"
+        ]
+    },
+    {
+        "question": "The author of Spell Wars is [mask].",
+        "answers": [
+            "Katherine Roberts"
+        ]
+    },
+    {
+        "question": "The author of The Blood of Olympus is [mask].",
+        "answers": [
+            "Rick Riordan"
+        ]
+    },
+    {
+        "question": "The author of The Best Horror of the Year: Volume Two is [mask].",
+        "answers": [
+            "Ellen Datlow"
+        ]
+    },
+    {
+        "question": "The author of Prime Time is [mask].",
+        "answers": [
+            "Mike Tucker"
+        ]
+    },
+    {
+        "question": "The author of Rosie Carpe is [mask].",
+        "answers": [
+            "Marie NDiaye"
+        ]
+    },
+    {
+        "question": "The author of Dinner with Friends is [mask].",
+        "answers": [
+            "Donald Margulies"
+        ]
+    },
+    {
+        "question": "The author of A Matter of Some Gravity is [mask].",
+        "answers": [
+            "Don Rosa"
+        ]
+    },
+    {
+        "question": "The author of The Memoirs of Cleopatra is [mask].",
+        "answers": [
+            "Margaret George"
+        ]
+    },
+    {
+        "question": "The author of Fermi and Frost is [mask].",
+        "answers": [
+            "Frederik Pohl"
+        ]
+    },
+    {
+        "question": "The author of 24 Hours is [mask].",
+        "answers": [
+            "Greg Iles"
+        ]
+    },
+    {
+        "question": "The author of A Little Pretty Pocket-Book is [mask].",
+        "answers": [
+            "John Newbery"
+        ]
+    },
+    {
+        "question": "The author of Mishnah Berurah is [mask].",
+        "answers": [
+            "Yisrael Meir Kagan"
+        ]
+    },
+    {
+        "question": "The author of Panzerschlachten is [mask].",
+        "answers": [
+            "Friedrich von Mellenthin"
+        ]
+    },
+    {
+        "question": "The author of Strange People, Queer Notions is [mask].",
+        "answers": [
+            "Jack Vance"
+        ]
+    },
+    {
+        "question": "The author of First Meetings is [mask].",
+        "answers": [
+            "Orson Scott Card"
+        ]
+    },
+    {
+        "question": "The author of Evil Genius is [mask].",
+        "answers": [
+            "Catherine Jinks"
+        ]
+    },
+    {
+        "question": "The author of Dragons of Summer Flame is [mask].",
+        "answers": [
+            "Margaret Weis",
+            "Tracy Hickman"
+        ]
+    },
+    {
+        "question": "The author of 4th of July is [mask].",
+        "answers": [
+            "James Patterson"
+        ]
+    },
+    {
+        "question": "The author of The Adventures of Harry Richmond is [mask].",
+        "answers": [
+            "George Meredith"
+        ]
+    },
+    {
+        "question": "The author of Ceres, Celestial Legend is [mask].",
+        "answers": [
+            "Yuu Watase"
+        ]
+    },
+    {
+        "question": "The author of Jeu de Robin et Marion is [mask].",
+        "answers": [
+            "Adam de la Halle"
+        ]
+    },
+    {
+        "question": "The author of A Year in Provence is [mask].",
+        "answers": [
+            "Peter Mayle"
+        ]
+    },
+    {
+        "question": "The author of Emphyrio is [mask].",
+        "answers": [
+            "Jack Vance"
+        ]
+    },
+    {
+        "question": "The author of Rowan of Rin is [mask].",
+        "answers": [
+            "Jennifer Rowe"
+        ]
+    },
+    {
+        "question": "The author of Calling Out for You is [mask].",
+        "answers": [
+            "Karin Fossum"
+        ]
+    },
+    {
+        "question": "The author of Della mercatura e del mercante perfetto is [mask].",
+        "answers": [
+            "Benedikt Kotruljevi\u0107"
+        ]
+    },
+    {
+        "question": "The author of Slavery in Massachusetts is [mask].",
+        "answers": [
+            "Henry David Thoreau"
+        ]
+    },
+    {
+        "question": "The author of The Myth of a Christian Nation is [mask].",
+        "answers": [
+            "Greg Boyd"
+        ]
+    },
+    {
+        "question": "The author of Meteor! is [mask].",
+        "answers": [
+            "Patricia Polacco"
+        ]
+    },
+    {
+        "question": "The author of The Emigrants is [mask].",
+        "answers": [
+            "Vilhelm Moberg"
+        ]
+    },
+    {
+        "question": "The author of Mojo is [mask].",
+        "answers": [
+            "Jez Butterworth"
+        ]
+    },
+    {
+        "question": "The author of The World of Poo is [mask].",
+        "answers": [
+            "Terry Pratchett"
+        ]
+    },
+    {
+        "question": "The author of A House and Its Head is [mask].",
+        "answers": [
+            "Ivy Compton-Burnett"
+        ]
+    },
+    {
+        "question": "The author of Youth is [mask].",
+        "answers": [
+            "Leo Tolstoy"
+        ]
+    },
+    {
+        "question": "The author of Brilliance of the Moon is [mask].",
+        "answers": [
+            "Gillian Rubinstein"
+        ]
+    },
+    {
+        "question": "The author of Kaffir Boy is [mask].",
+        "answers": [
+            "Mark Mathabane"
+        ]
+    },
+    {
+        "question": "The author of The Hollow Men is [mask].",
+        "answers": [
+            "Nicky Hager"
+        ]
+    },
+    {
+        "question": "The author of Juliette is [mask].",
+        "answers": [
+            "Marquis de Sade"
+        ]
+    },
+    {
+        "question": "The author of The Early Fears is [mask].",
+        "answers": [
+            "Robert Albert Bloch"
+        ]
+    },
+    {
+        "question": "The author of Ach Gott, vom Himmel sieh darein is [mask].",
+        "answers": [
+            "Martin Luther"
+        ]
+    },
+    {
+        "question": "The author of Fantastic Voyage is [mask].",
+        "answers": [
+            "Isaac Asimov"
+        ]
+    },
+    {
+        "question": "The author of South Sea Tales is [mask].",
+        "answers": [
+            "Jack London"
+        ]
+    },
+    {
+        "question": "The author of The End of the Soul is [mask].",
+        "answers": [
+            "Jennifer Michael Hecht"
+        ]
+    },
+    {
+        "question": "The author of Youth and the Bright Medusa is [mask].",
+        "answers": [
+            "Willa Cather"
+        ]
+    },
+    {
+        "question": "The author of Philosophical Notebooks is [mask].",
+        "answers": [
+            "Vladimir Lenin"
+        ]
+    },
+    {
+        "question": "The author of Janua linguarum reserata is [mask].",
+        "answers": [
+            "Johann Amos Comenius"
+        ]
+    },
+    {
+        "question": "The author of Pietati proximum is [mask].",
+        "answers": [
+            "Gregory IX"
+        ]
+    },
+    {
+        "question": "The author of The Saint Abroad is [mask].",
+        "answers": [
+            "Michael Pertwee",
+            "Leslie Charteris"
+        ]
+    },
+    {
+        "question": "The author of Creative Mythology is [mask].",
+        "answers": [
+            "Joseph Campbell"
+        ]
+    },
+    {
+        "question": "The author of Supremi Apostolatus Officio is [mask].",
+        "answers": [
+            "Leo XIII"
+        ]
+    },
+    {
+        "question": "The author of Sonnet 90 is [mask].",
+        "answers": [
+            "William Shakespeare"
+        ]
+    },
+    {
+        "question": "The author of Undersea Trilogy is [mask].",
+        "answers": [
+            "Jack Williamson",
+            "Frederik Pohl"
+        ]
+    },
+    {
+        "question": "The author of The Dark Is Rising Sequence is [mask].",
+        "answers": [
+            "Susan Cooper"
+        ]
+    },
+    {
+        "question": "The author of Hackers & Painters is [mask].",
+        "answers": [
+            "Paul Graham"
+        ]
+    },
+    {
+        "question": "The author of Easter Holidays is [mask].",
+        "answers": [
+            "Samuel Taylor Coleridge"
+        ]
+    },
+    {
+        "question": "The author of The Stranger's Child is [mask].",
+        "answers": [
+            "Alan Hollinghurst"
+        ]
+    },
+    {
+        "question": "The author of EPICAC is [mask].",
+        "answers": [
+            "Kurt Vonnegut"
+        ]
+    },
+    {
+        "question": "The author of Christi Matri is [mask].",
+        "answers": [
+            "Paul VI"
+        ]
+    },
+    {
+        "question": "The author of The Watch House is [mask].",
+        "answers": [
+            "Robert Westall"
+        ]
+    },
+    {
+        "question": "The author of Danger Girl is [mask].",
+        "answers": [
+            "Andy Hartnell"
+        ]
+    },
+    {
+        "question": "The author of Freud, Biologist of the Mind is [mask].",
+        "answers": [
+            "Frank Sulloway"
+        ]
+    },
+    {
+        "question": "The author of The Fever Tree is [mask].",
+        "answers": [
+            "Ruth Rendell"
+        ]
+    },
+    {
+        "question": "The author of Adolphe is [mask].",
+        "answers": [
+            "Benjamin Constant"
+        ]
+    },
+    {
+        "question": "The author of Escape from Memory is [mask].",
+        "answers": [
+            "Margaret Peterson Haddix"
+        ]
+    },
+    {
+        "question": "The author of Anti-D\u00fchring is [mask].",
+        "answers": [
+            "Friedrich Engels"
+        ]
+    },
+    {
+        "question": "The author of Casey Jones is [mask].",
+        "answers": [
+            "Robert Ardrey"
+        ]
+    },
+    {
+        "question": "The author of Virginia is [mask].",
+        "answers": [
+            "Ellen Glasgow"
+        ]
+    },
+    {
+        "question": "The author of Vehkalahden neidot is [mask].",
+        "answers": [
+            "Kaari Utrio"
+        ]
+    },
+    {
+        "question": "The author of The Good Luck of Right Now is [mask].",
+        "answers": [
+            "Matthew Quick"
+        ]
+    },
+    {
+        "question": "The author of The Dark Chateau is [mask].",
+        "answers": [
+            "Clark Ashton Smith"
+        ]
+    },
+    {
+        "question": "The author of The Deep is [mask].",
+        "answers": [
+            "Isaac Asimov"
+        ]
+    },
+    {
+        "question": "The author of The Road to Gandolfo is [mask].",
+        "answers": [
+            "Robert Ludlum"
+        ]
+    },
+    {
+        "question": "The author of London is [mask].",
+        "answers": [
+            "Samuel Johnson"
+        ]
+    },
+    {
+        "question": "The author of The Restless Supermarket is [mask].",
+        "answers": [
+            "Ivan Vladislavic"
+        ]
+    },
+    {
+        "question": "The author of The Stingray Shuffle is [mask].",
+        "answers": [
+            "Tim Dorsey"
+        ]
+    },
+    {
+        "question": "The author of The Gladiators is [mask].",
+        "answers": [
+            "Arthur Koestler"
+        ]
+    },
+    {
+        "question": "The author of Whiteout: Melt is [mask].",
+        "answers": [
+            "Greg Rucka"
+        ]
+    },
+    {
+        "question": "The author of Queen Camilla is [mask].",
+        "answers": [
+            "Sue Townsend"
+        ]
+    },
+    {
+        "question": "The author of Battlelines is [mask].",
+        "answers": [
+            "Tony Abbott"
+        ]
+    },
+    {
+        "question": "The author of Guinness Book of Astronomy is [mask].",
+        "answers": [
+            "Patrick Moore"
+        ]
+    },
+    {
+        "question": "The author of Pages Stained With Blood is [mask].",
+        "answers": [
+            "Mamoni Raisom Goswami"
+        ]
+    },
+    {
+        "question": "The author of Disquisitiones Arithmeticae is [mask].",
+        "answers": [
+            "Carl Friedrich Gauss"
+        ]
+    },
+    {
+        "question": "The author of Declare is [mask].",
+        "answers": [
+            "Tim Powers"
+        ]
+    },
+    {
+        "question": "The author of Heartless is [mask].",
+        "answers": [
+            "Gail Carriger"
+        ]
+    },
+    {
+        "question": "The author of Home is [mask].",
+        "answers": [
+            "David Storey"
+        ]
+    },
+    {
+        "question": "The author of The Mysterious Universe is [mask].",
+        "answers": [
+            "James Hopwood Jeans"
+        ]
+    },
+    {
+        "question": "The author of A Crack Up at the Race Riots is [mask].",
+        "answers": [
+            "Harmony Korine"
+        ]
+    },
+    {
+        "question": "The author of Tribus Circiter is [mask].",
+        "answers": [
+            "Pius X"
+        ]
+    },
+    {
+        "question": "The author of Rumo and His Miraculous Adventures is [mask].",
+        "answers": [
+            "Walter Moers"
+        ]
+    },
+    {
+        "question": "The author of Foreign Words is [mask].",
+        "answers": [
+            "Vassilis Alexakis"
+        ]
+    },
+    {
+        "question": "The author of Psmith, Journalist is [mask].",
+        "answers": [
+            "P. G. Wodehouse"
+        ]
+    },
+    {
+        "question": "The author of The City Madam is [mask].",
+        "answers": [
+            "Philip Massinger"
+        ]
+    },
+    {
+        "question": "The author of Gladiator: Fight for Freedom is [mask].",
+        "answers": [
+            "Simon Scarrow"
+        ]
+    },
+    {
+        "question": "The author of Missing is [mask].",
+        "answers": [
+            "Karin Alvtegen"
+        ]
+    },
+    {
+        "question": "The author of The Last Witchfinder is [mask].",
+        "answers": [
+            "James Kenneth Morrow"
+        ]
+    },
+    {
+        "question": "The author of Poison Elves is [mask].",
+        "answers": [
+            "Drew Hayes"
+        ]
+    },
+    {
+        "question": "The author of Apollo's Song is [mask].",
+        "answers": [
+            "Osamu Tezuka"
+        ]
+    },
+    {
+        "question": "The author of Into Hot Air is [mask].",
+        "answers": [
+            "Chris Elliott"
+        ]
+    },
+    {
+        "question": "The author of The Nun's Story is [mask].",
+        "answers": [
+            "Kathryn Hulme"
+        ]
+    },
+    {
+        "question": "The author of End Zone is [mask].",
+        "answers": [
+            "Don DeLillo"
+        ]
+    },
+    {
+        "question": "The author of Sakharam Binder is [mask].",
+        "answers": [
+            "Vijay Tendulkar"
+        ]
+    },
+    {
+        "question": "The author of The Red Shoes is [mask].",
+        "answers": [
+            "Hans Christian Andersen"
+        ]
+    },
+    {
+        "question": "The author of The Thirteenth Tale is [mask].",
+        "answers": [
+            "Diane Setterfield"
+        ]
+    },
+    {
+        "question": "The author of The Boar is [mask].",
+        "answers": [
+            "Joe R. Lansdale"
+        ]
+    },
+    {
+        "question": "The author of Appleseed is [mask].",
+        "answers": [
+            "Masamune Shirow"
+        ]
+    },
+    {
+        "question": "The author of Madhavi is [mask].",
+        "answers": [
+            "Bhisham Sahni"
+        ]
+    },
+    {
+        "question": "The author of Edith's Diary is [mask].",
+        "answers": [
+            "Patricia Highsmith"
+        ]
+    },
+    {
+        "question": "The author of The Gods of War is [mask].",
+        "answers": [
+            "Conn Iggulden"
+        ]
+    },
+    {
+        "question": "The author of The Witness for the Prosecution is [mask].",
+        "answers": [
+            "Agatha Christie"
+        ]
+    },
+    {
+        "question": "The author of The Adventurous Four is [mask].",
+        "answers": [
+            "Enid Blyton"
+        ]
+    },
+    {
+        "question": "The author of The Demon's Lexicon is [mask].",
+        "answers": [
+            "Sarah Rees Brennan"
+        ]
+    },
+    {
+        "question": "The author of 2 States: The Story of My Marriage is [mask].",
+        "answers": [
+            "Chetan Bhagat"
+        ]
+    },
+    {
+        "question": "The author of Mass is [mask].",
+        "answers": [
+            "Leonard Bernstein"
+        ]
+    },
+    {
+        "question": "The author of Trouble is [mask].",
+        "answers": [
+            "Mark Millar"
+        ]
+    },
+    {
+        "question": "The author of Back When We Were Grownups is [mask].",
+        "answers": [
+            "Anne Tyler"
+        ]
+    },
+    {
+        "question": "The author of The Devils of Loudun is [mask].",
+        "answers": [
+            "Aldous Huxley"
+        ]
+    },
+    {
+        "question": "The author of The Ram is [mask].",
+        "answers": [
+            "Madame d'Aulnoy"
+        ]
+    },
+    {
+        "question": "The author of The Goose Girl is [mask].",
+        "answers": [
+            "Shannon Hale"
+        ]
+    },
+    {
+        "question": "The author of Tulips is [mask].",
+        "answers": [
+            "Sylvia Plath"
+        ]
+    },
+    {
+        "question": "The author of To His Coy Mistress is [mask].",
+        "answers": [
+            "Andrew Marvell"
+        ]
+    },
+    {
+        "question": "The author of dudum siquidem is [mask].",
+        "answers": [
+            "Alexander VI"
+        ]
+    },
+    {
+        "question": "The author of A Time to Kill is [mask].",
+        "answers": [
+            "John Grisham"
+        ]
+    },
+    {
+        "question": "The author of The Road to Oxiana is [mask].",
+        "answers": [
+            "Robert Byron"
+        ]
+    },
+    {
+        "question": "The author of Germany is Our Problem is [mask].",
+        "answers": [
+            "Henry Morgenthau"
+        ]
+    },
+    {
+        "question": "The author of La Gr\u00e8ve des \u00e9lecteurs is [mask].",
+        "answers": [
+            "Octave Mirbeau"
+        ]
+    },
+    {
+        "question": "The author of Many Waters is [mask].",
+        "answers": [
+            "Madeleine L'Engle"
+        ]
+    },
+    {
+        "question": "The author of Ficciones is [mask].",
+        "answers": [
+            "Jorge Luis Borges"
+        ]
+    },
+    {
+        "question": "The author of Life and Death in Shanghai is [mask].",
+        "answers": [
+            "Nien Cheng"
+        ]
+    },
+    {
+        "question": "The author of Gone for Soldiers is [mask].",
+        "answers": [
+            "Jeff Shaara"
+        ]
+    },
+    {
+        "question": "The author of Great Food, All Day Long is [mask].",
+        "answers": [
+            "Maya Angelou"
+        ]
+    },
+    {
+        "question": "The author of Class sketch is [mask].",
+        "answers": [
+            "Marty Feldman"
+        ]
+    },
+    {
+        "question": "The author of Ten Thousand Roses: The Making of a Feminist Revolution is [mask].",
+        "answers": [
+            "Judy Rebick"
+        ]
+    },
+    {
+        "question": "The author of Catalogue of Women is [mask].",
+        "answers": [
+            "Hesiod"
+        ]
+    },
+    {
+        "question": "The author of Misopogon is [mask].",
+        "answers": [
+            "Julian"
+        ]
+    },
+    {
+        "question": "The author of Prey is [mask].",
+        "answers": [
+            "Michael Crichton"
+        ]
+    },
+    {
+        "question": "The author of Skipping Stones is [mask].",
+        "answers": [
+            "Orson Scott Card"
+        ]
+    },
+    {
+        "question": "The author of Einstein's Gift is [mask].",
+        "answers": [
+            "Vern Thiessen"
+        ]
+    },
+    {
+        "question": "The author of Firestorm is [mask].",
+        "answers": [
+            "David Sherman",
+            "Dan Cragg"
+        ]
+    },
+    {
+        "question": "The author of Eclipse is [mask].",
+        "answers": [
+            "John Banville"
+        ]
+    },
+    {
+        "question": "The author of The 39 Clues is [mask].",
+        "answers": [
+            "Patrick Carman",
+            "Linda Sue Park",
+            "Roland Smith",
+            "Rick Riordan",
+            "Margaret Peterson Haddix",
+            "Gordon Korman",
+            "Jude Watson",
+            "David Baldacci",
+            "Peter Lerangis"
+        ]
+    },
+    {
+        "question": "The author of Chuk and Gek is [mask].",
+        "answers": [
+            "Arkady Gaidar"
+        ]
+    },
+    {
+        "question": "The author of Ars Magna is [mask].",
+        "answers": [
+            "Gerolamo Cardano"
+        ]
+    },
+    {
+        "question": "The author of Doctor Copernicus is [mask].",
+        "answers": [
+            "John Banville"
+        ]
+    },
+    {
+        "question": "The author of The Years is [mask].",
+        "answers": [
+            "Virginia Woolf"
+        ]
+    },
+    {
+        "question": "The author of Ruin Explorers is [mask].",
+        "answers": [
+            "Kunihiko Tanaka"
+        ]
+    },
+    {
+        "question": "The author of The Cambridge Companion to Marx is [mask].",
+        "answers": [
+            "Terrell Carver"
+        ]
+    },
+    {
+        "question": "The author of Spangle is [mask].",
+        "answers": [
+            "Gary Jennings"
+        ]
+    },
+    {
+        "question": "The author of The Absolutely True Diary of a Part-Time Indian is [mask].",
+        "answers": [
+            "Sherman Alexie"
+        ]
+    },
+    {
+        "question": "The author of The Castle of Adventure is [mask].",
+        "answers": [
+            "Enid Blyton"
+        ]
+    },
+    {
+        "question": "The author of The Haunted Mind is [mask].",
+        "answers": [
+            "Nathaniel Hawthorne"
+        ]
+    },
+    {
+        "question": "The author of The Politics of Nonviolent Action is [mask].",
+        "answers": [
+            "Gene Sharp"
+        ]
+    },
+    {
+        "question": "The author of Watashi no Messiah-sama is [mask].",
+        "answers": [
+            "Suu Minazuki"
+        ]
+    },
+    {
+        "question": "The author of Kallocain is [mask].",
+        "answers": [
+            "Karin Boye"
+        ]
+    },
+    {
+        "question": "The author of Wintering Out is [mask].",
+        "answers": [
+            "Seamus Heaney"
+        ]
+    },
+    {
+        "question": "The author of The Cowardly Lion of Oz is [mask].",
+        "answers": [
+            "Ruth Plumly Thompson"
+        ]
+    },
+    {
+        "question": "The author of The Silent World is [mask].",
+        "answers": [
+            "Jacques Cousteau"
+        ]
+    },
+    {
+        "question": "The author of The Middle Years is [mask].",
+        "answers": [
+            "Henry James"
+        ]
+    },
+    {
+        "question": "The author of Zulu Hart is [mask].",
+        "answers": [
+            "Saul David"
+        ]
+    },
+    {
+        "question": "The author of Lesbian Nation is [mask].",
+        "answers": [
+            "Jill Johnston"
+        ]
+    },
+    {
+        "question": "The author of The Art of Discworld is [mask].",
+        "answers": [
+            "Terry Pratchett"
+        ]
+    },
+    {
+        "question": "The author of Pauline epistles is [mask].",
+        "answers": [
+            "Paul"
+        ]
+    },
+    {
+        "question": "The author of Three of Them is [mask].",
+        "answers": [
+            "Maxim Gorki"
+        ]
+    },
+    {
+        "question": "The author of Tru Confessions is [mask].",
+        "answers": [
+            "Janet Tashjian"
+        ]
+    },
+    {
+        "question": "The author of Garden of Shadows is [mask].",
+        "answers": [
+            "V. C. Andrews"
+        ]
+    },
+    {
+        "question": "The author of Some Like It Hot is [mask].",
+        "answers": [
+            "Zoey Dean"
+        ]
+    },
+    {
+        "question": "The author of A Spell of Winter is [mask].",
+        "answers": [
+            "Helen Dunmore"
+        ]
+    },
+    {
+        "question": "The author of Bad Astronomy is [mask].",
+        "answers": [
+            "Phil Plait"
+        ]
+    },
+    {
+        "question": "The author of A Shot at History is [mask].",
+        "answers": [
+            "Abhinav Bindra"
+        ]
+    },
+    {
+        "question": "The author of Fearful Symmetry is [mask].",
+        "answers": [
+            "Northrop Frye"
+        ]
+    },
+    {
+        "question": "The author of Sahara is [mask].",
+        "answers": [
+            "Clive Cussler"
+        ]
+    },
+    {
+        "question": "The author of The Egypt Game is [mask].",
+        "answers": [
+            "Zilpha Keatley Snyder"
+        ]
+    },
+    {
+        "question": "The author of The Best Family Home Evening Ever is [mask].",
+        "answers": [
+            "Orson Scott Card"
+        ]
+    },
+    {
+        "question": "The author of Quarantine is [mask].",
+        "answers": [
+            "Jim Crace"
+        ]
+    },
+    {
+        "question": "The author of Skin Game is [mask].",
+        "answers": [
+            "Jim Butcher"
+        ]
+    },
+    {
+        "question": "The author of Captain Confederacy is [mask].",
+        "answers": [
+            "Will Shetterly"
+        ]
+    },
+    {
+        "question": "The author of The Song of the Lark is [mask].",
+        "answers": [
+            "Willa Cather"
+        ]
+    },
+    {
+        "question": "The author of Flush: A Biography is [mask].",
+        "answers": [
+            "Virginia Woolf"
+        ]
+    },
+    {
+        "question": "The author of I Hate Hamlet is [mask].",
+        "answers": [
+            "Paul Rudnick"
+        ]
+    },
+    {
+        "question": "The author of Tales of Count Lucanor is [mask].",
+        "answers": [
+            "Don Juan Manuel"
+        ]
+    },
+    {
+        "question": "The author of Worlds of Tomorrow is [mask].",
+        "answers": [
+            "August Derleth"
+        ]
+    },
+    {
+        "question": "The author of Carrie's War is [mask].",
+        "answers": [
+            "Nina Bawden"
+        ]
+    },
+    {
+        "question": "The author of Ghost Stories is [mask].",
+        "answers": [
+            "Andy Nyman"
+        ]
+    },
+    {
+        "question": "The author of Essays is [mask].",
+        "answers": [
+            "Michel de Montaigne"
+        ]
+    },
+    {
+        "question": "The author of City of Night is [mask].",
+        "answers": [
+            "Dean Koontz",
+            "Edward Gorman"
+        ]
+    },
+    {
+        "question": "The author of Rose Daughter is [mask].",
+        "answers": [
+            "Robin McKinley"
+        ]
+    },
+    {
+        "question": "The author of Clericis laicos is [mask].",
+        "answers": [
+            "Boniface VIII"
+        ]
+    },
+    {
+        "question": "The author of Baby Smurf is [mask].",
+        "answers": [
+            "Peyo"
+        ]
+    },
+    {
+        "question": "The author of Inheritance is [mask].",
+        "answers": [
+            "Christopher Paolini"
+        ]
+    },
+    {
+        "question": "The author of General Winston's Daughter is [mask].",
+        "answers": [
+            "Sharon Shinn"
+        ]
+    },
+    {
+        "question": "The author of Psycho House is [mask].",
+        "answers": [
+            "Robert Albert Bloch"
+        ]
+    },
+    {
+        "question": "The author of Bonk: The Curious Coupling of Science and Sex is [mask].",
+        "answers": [
+            "Mary Roach"
+        ]
+    },
+    {
+        "question": "The author of Mandalay is [mask].",
+        "answers": [
+            "Rudyard Kipling"
+        ]
+    },
+    {
+        "question": "The author of Feludar Goendagiri is [mask].",
+        "answers": [
+            "Satyajit Ray"
+        ]
+    },
+    {
+        "question": "The author of Decline and Fall of the American Programmer is [mask].",
+        "answers": [
+            "Edward Yourdon"
+        ]
+    },
+    {
+        "question": "The author of Viking Trilogy is [mask].",
+        "answers": [
+            "Henry Treece"
+        ]
+    },
+    {
+        "question": "The author of The Nonexistent Knight is [mask].",
+        "answers": [
+            "Italo Calvino"
+        ]
+    },
+    {
+        "question": "The author of People of the Black Mountains is [mask].",
+        "answers": [
+            "Raymond Williams"
+        ]
+    },
+    {
+        "question": "The author of The Man Who Went Back is [mask].",
+        "answers": [
+            "Warwick Deeping"
+        ]
+    },
+    {
+        "question": "The author of A Very Short Story is [mask].",
+        "answers": [
+            "Ernest Hemingway"
+        ]
+    },
+    {
+        "question": "The author of No More Dying Then is [mask].",
+        "answers": [
+            "Ruth Rendell"
+        ]
+    },
+    {
+        "question": "The author of Ramona and Her Father is [mask].",
+        "answers": [
+            "Beverly Cleary"
+        ]
+    },
+    {
+        "question": "The author of Albertine disparue is [mask].",
+        "answers": [
+            "Marcel Proust"
+        ]
+    },
+    {
+        "question": "The author of The Zahir is [mask].",
+        "answers": [
+            "Jorge Luis Borges"
+        ]
+    },
+    {
+        "question": "The author of Thin Air is [mask].",
+        "answers": [
+            "Kristine Kathryn Rusch",
+            "Dean Wesley Smith"
+        ]
+    },
+    {
+        "question": "The author of Grey Gardens is [mask].",
+        "answers": [
+            "Doug Wright"
+        ]
+    },
+    {
+        "question": "The author of You Can't See 'Round Corners is [mask].",
+        "answers": [
+            "Jon Cleary"
+        ]
+    },
+    {
+        "question": "The author of The Sleep of Reason is [mask].",
+        "answers": [
+            "Martin Day"
+        ]
+    },
+    {
+        "question": "The author of The Golden Ass is [mask].",
+        "answers": [
+            "Apuleius"
+        ]
+    },
+    {
+        "question": "The author of Train Train is [mask].",
+        "answers": [
+            "Eiki Eiki"
+        ]
+    },
+    {
+        "question": "The author of All Tomorrow's Parties is [mask].",
+        "answers": [
+            "William Gibson"
+        ]
+    },
+    {
+        "question": "The author of McOndo is [mask].",
+        "answers": [
+            "Alberto Fuguet"
+        ]
+    },
+    {
+        "question": "The author of Aiding and Abetting is [mask].",
+        "answers": [
+            "Muriel Spark"
+        ]
+    },
+    {
+        "question": "The author of The Rescuers is [mask].",
+        "answers": [
+            "Margery Sharp"
+        ]
+    },
+    {
+        "question": "The author of The Clue of the Black Keys is [mask].",
+        "answers": [
+            "Carolyn Keene"
+        ]
+    },
+    {
+        "question": "The author of Counting the Eons is [mask].",
+        "answers": [
+            "Isaac Asimov"
+        ]
+    },
+    {
+        "question": "The author of Troy: Fall of Kings is [mask].",
+        "answers": [
+            "David Gemmell"
+        ]
+    },
+    {
+        "question": "The author of Richard and Samuel is [mask].",
+        "answers": [
+            "Max Brod",
+            "Franz Kafka"
+        ]
+    },
+    {
+        "question": "The author of Rosso Malpelo is [mask].",
+        "answers": [
+            "Giovanni Verga"
+        ]
+    },
+    {
+        "question": "The author of World of Wonder is [mask].",
+        "answers": [
+            "Fletcher Pratt"
+        ]
+    },
+    {
+        "question": "The author of The Short Reign of Pippin IV is [mask].",
+        "answers": [
+            "John Steinbeck"
+        ]
+    },
+    {
+        "question": "The author of Like is [mask].",
+        "answers": [
+            "Ali Smith"
+        ]
+    },
+    {
+        "question": "The author of The Rise of David Levinsky is [mask].",
+        "answers": [
+            "Abraham Cahan"
+        ]
+    },
+    {
+        "question": "The author of Zweites Buch is [mask].",
+        "answers": [
+            "Adolf Hitler"
+        ]
+    },
+    {
+        "question": "The author of An Equal Music is [mask].",
+        "answers": [
+            "Vikram Seth"
+        ]
+    },
+    {
+        "question": "The author of The Mersey Sound is [mask].",
+        "answers": [
+            "Roger McGough",
+            "Brian Patten",
+            "Adrian Henri"
+        ]
+    },
+    {
+        "question": "The author of The Golden Age of Science Fiction is [mask].",
+        "answers": [
+            "Kingsley Amis"
+        ]
+    },
+    {
+        "question": "The author of The Tower and the Hive is [mask].",
+        "answers": [
+            "Anne McCaffrey"
+        ]
+    },
+    {
+        "question": "The author of Fathers and Sons is [mask].",
+        "answers": [
+            "Ivan Turgenev"
+        ]
+    },
+    {
+        "question": "The author of L game is [mask].",
+        "answers": [
+            "Edward de Bono"
+        ]
+    },
+    {
+        "question": "The author of Sonnet 92 is [mask].",
+        "answers": [
+            "William Shakespeare"
+        ]
+    },
+    {
+        "question": "The author of Air Apparent is [mask].",
+        "answers": [
+            "Piers Anthony"
+        ]
+    },
+    {
+        "question": "The author of The Survival Handbook is [mask].",
+        "answers": [
+            "Ray Mears"
+        ]
+    },
+    {
+        "question": "The author of Sick Puppy is [mask].",
+        "answers": [
+            "Carl Hiaasen"
+        ]
+    },
+    {
+        "question": "The author of Julian Comstock: A Story of 22nd-Century America is [mask].",
+        "answers": [
+            "Robert Charles Wilson"
+        ]
+    },
+    {
+        "question": "The author of Brihatkatha is [mask].",
+        "answers": [
+            "Gunadhya"
+        ]
+    },
+    {
+        "question": "The author of The Two Dianas is [mask].",
+        "answers": [
+            "Alexandre Dumas"
+        ]
+    },
+    {
+        "question": "The author of Othappu is [mask].",
+        "answers": [
+            "Sarah Joseph"
+        ]
+    },
+    {
+        "question": "The author of Fingerprints of the Gods is [mask].",
+        "answers": [
+            "Graham Hancock"
+        ]
+    },
+    {
+        "question": "The author of Reveries of a Solitary Walker is [mask].",
+        "answers": [
+            "Jean-Jacques Rousseau"
+        ]
+    },
+    {
+        "question": "The author of The Year's Best Science Fiction: Twenty-Third Annual Collection is [mask].",
+        "answers": [
+            "Gardner Dozois"
+        ]
+    },
+    {
+        "question": "The author of Last Call is [mask].",
+        "answers": [
+            "Tim Powers"
+        ]
+    },
+    {
+        "question": "The author of Boy is [mask].",
+        "answers": [
+            "Roald Dahl"
+        ]
+    },
+    {
+        "question": "The author of Champion is [mask].",
+        "answers": [
+            "Marie Lu"
+        ]
+    },
+    {
+        "question": "The author of The Two Noble Kinsmen is [mask].",
+        "answers": [
+            "William Shakespeare"
+        ]
+    },
+    {
+        "question": "The author of Neither Here nor There: Travels in Europe is [mask].",
+        "answers": [
+            "Bill Bryson"
+        ]
+    },
+    {
+        "question": "The author of The Future Eve is [mask].",
+        "answers": [
+            "Auguste Villiers de l'Isle-Adam"
+        ]
+    },
+    {
+        "question": "The author of Blame! is [mask].",
+        "answers": [
+            "Tsutomu Nihei"
+        ]
+    },
+    {
+        "question": "The author of America Hurrah is [mask].",
+        "answers": [
+            "Jean-Claude van Itallie"
+        ]
+    },
+    {
+        "question": "The author of Buck: A Memoir is [mask].",
+        "answers": [
+            "M. K. Asante"
+        ]
+    },
+    {
+        "question": "The author of Stay in Your Own Sled is [mask].",
+        "answers": [
+            "Alexander Ostrovsky"
+        ]
+    },
+    {
+        "question": "The author of The Entertainer is [mask].",
+        "answers": [
+            "John Osborne"
+        ]
+    },
+    {
+        "question": "The author of Four Freedoms is [mask].",
+        "answers": [
+            "John Crowley"
+        ]
+    },
+    {
+        "question": "The author of No Ordinary Time: Franklin and Eleanor Roosevelt: The Home Front in World War II is [mask].",
+        "answers": [
+            "Doris Kearns Goodwin"
+        ]
+    },
+    {
+        "question": "The author of Vespers Rising is [mask].",
+        "answers": [
+            "Rick Riordan",
+            "Peter Lerangis",
+            "Jude Watson",
+            "Gordon Korman"
+        ]
+    },
+    {
+        "question": "The author of Envole-moi is [mask].",
+        "answers": [
+            "Jean-Jacques Goldman"
+        ]
+    },
+    {
+        "question": "The author of Gotham Central is [mask].",
+        "answers": [
+            "Ed Brubaker"
+        ]
+    },
+    {
+        "question": "The author of Cauldron is [mask].",
+        "answers": [
+            "Larry Bond"
+        ]
+    },
+    {
+        "question": "The author of Los Vendidos is [mask].",
+        "answers": [
+            "Luis Valdez"
+        ]
+    },
+    {
+        "question": "The author of Ignited Minds is [mask].",
+        "answers": [
+            "A. P. J. Abdul Kalam"
+        ]
+    },
+    {
+        "question": "The author of Maggie and the Pirates is [mask].",
+        "answers": [
+            "Ezra Jack Keats"
+        ]
+    },
+    {
+        "question": "The author of House of Reckoning is [mask].",
+        "answers": [
+            "John Saul"
+        ]
+    },
+    {
+        "question": "The author of Theriaca is [mask].",
+        "answers": [
+            "Nicander"
+        ]
+    },
+    {
+        "question": "The author of Spinsters in Jeopardy is [mask].",
+        "answers": [
+            "Ngaio Marsh"
+        ]
+    },
+    {
+        "question": "The author of Marry Me is [mask].",
+        "answers": [
+            "Dan Rhodes"
+        ]
+    },
+    {
+        "question": "The author of Lord is [mask].",
+        "answers": [
+            "Buronson"
+        ]
+    },
+    {
+        "question": "The author of Knowing and the Known is [mask].",
+        "answers": [
+            "John Dewey"
+        ]
+    },
+    {
+        "question": "The author of Open Veins of Latin America is [mask].",
+        "answers": [
+            "Eduardo Galeano"
+        ]
+    },
+    {
+        "question": "The author of The Adventures of Augie March is [mask].",
+        "answers": [
+            "Saul Bellow"
+        ]
+    },
+    {
+        "question": "The author of Tanna Devei Eliyahu is [mask].",
+        "answers": [
+            "Elijah"
+        ]
+    },
+    {
+        "question": "The author of The Ghost of the Grotto is [mask].",
+        "answers": [
+            "Carl Barks"
+        ]
+    },
+    {
+        "question": "The author of Violence Jack is [mask].",
+        "answers": [
+            "Go Nagai"
+        ]
+    },
+    {
+        "question": "The author of The Grammar of Science is [mask].",
+        "answers": [
+            "Karl Pearson"
+        ]
+    },
+    {
+        "question": "The author of Power, Profit and Protest is [mask].",
+        "answers": [
+            "Verity Burgmann"
+        ]
+    },
+    {
+        "question": "The author of The Man in the Picture is [mask].",
+        "answers": [
+            "Susan Hill"
+        ]
+    }
+]

@@ -1,0 +1,896 @@
+[
+    {
+        "question": "Ad Astra per Aspera is represented by [mask].",
+        "answer": "Gotee Records",
+        "guesses": [
+            {
+                "guess": "Through hardships to the stars",
+                "precision": 0.3265,
+                "recall": 0.3356,
+                "f1": 0.331
+            },
+            {
+                "guess": "A rough road leads to",
+                "precision": 0.3304,
+                "recall": 0.3042,
+                "f1": 0.3167
+            }
+        ]
+    },
+    {
+        "question": "B. F. Shelton is represented by [mask].",
+        "answer": "Victor Talking Machine Company",
+        "guesses": [
+            {
+                "guess": "Benjamin Franklin",
+                "precision": 0.4031,
+                "recall": 0.3335,
+                "f1": 0.365
+            },
+            {
+                "guess": "B. F. Shel",
+                "precision": 0.3368,
+                "recall": 0.3258,
+                "f1": 0.3312
+            }
+        ]
+    },
+    {
+        "question": "Taylor's Wailers is represented by [mask].",
+        "answer": "Prestige",
+        "guesses": [
+            {
+                "guess": "Bob Marley",
+                "precision": 0.3114,
+                "recall": 0.3613,
+                "f1": 0.3345
+            },
+            {
+                "guess": "Toots",
+                "precision": 0.3408,
+                "recall": 0.5145,
+                "f1": 0.41
+            }
+        ]
+    },
+    {
+        "question": "Jesse Fuller is represented by [mask].",
+        "answer": "Good Time Jazz Records",
+        "guesses": [
+            {
+                "guess": "a one-man band",
+                "precision": 0.3587,
+                "recall": 0.3709,
+                "f1": 0.3647
+            },
+            {
+                "guess": "one-man band",
+                "precision": 0.3905,
+                "recall": 0.3996,
+                "f1": 0.395
+            }
+        ]
+    },
+    {
+        "question": "Flame is represented by [mask].",
+        "answer": "MCA Records",
+        "guesses": [
+            {
+                "guess": "Fire",
+                "precision": 0.4179,
+                "recall": 0.3069,
+                "f1": 0.3539
+            },
+            {
+                "guess": "fire",
+                "precision": 0.4179,
+                "recall": 0.3069,
+                "f1": 0.3539
+            }
+        ]
+    },
+    {
+        "question": "Til I Die is represented by [mask].",
+        "answer": "Asian Man Records",
+        "guesses": [
+            {
+                "guess": "Til I Die is",
+                "precision": 0.2885,
+                "recall": 0.3039,
+                "f1": 0.296
+            },
+            {
+                "guess": "Till I Die",
+                "precision": 0.2876,
+                "recall": 0.2715,
+                "f1": 0.2793
+            }
+        ]
+    },
+    {
+        "question": "Midnight Fire is represented by [mask].",
+        "answer": "RCA Records",
+        "guesses": [
+            {
+                "guess": "St. Elmo's",
+                "precision": 0.2608,
+                "recall": 0.3419,
+                "f1": 0.2959
+            },
+            {
+                "guess": "Comet",
+                "precision": 0.3896,
+                "recall": 0.2945,
+                "f1": 0.3355
+            }
+        ]
+    },
+    {
+        "question": "PSD is represented by [mask].",
+        "answer": "Thizz Entertainment",
+        "guesses": [
+            {
+                "guess": "Photoshop Document",
+                "precision": 0.3925,
+                "recall": 0.3405,
+                "f1": 0.3646
+            },
+            {
+                "guess": "Portable Storage Device",
+                "precision": 0.3401,
+                "recall": 0.2883,
+                "f1": 0.3121
+            }
+        ]
+    },
+    {
+        "question": "Time Remembers One Time Once is represented by [mask].",
+        "answer": "ECM Records",
+        "guesses": [
+            {
+                "guess": "Everything",
+                "precision": 0.326,
+                "recall": 0.2275,
+                "f1": 0.268
+            },
+            {
+                "guess": "Once",
+                "precision": 0.2421,
+                "recall": 0.1917,
+                "f1": 0.2139
+            }
+        ]
+    },
+    {
+        "question": "Serve & Collect III is represented by [mask].",
+        "answer": "Entertainment One Music",
+        "guesses": [
+            {
+                "guess": "Grand Theft Auto",
+                "precision": 0.3219,
+                "recall": 0.3549,
+                "f1": 0.3376
+            },
+            {
+                "guess": "Justice",
+                "precision": 0.449,
+                "recall": 0.32,
+                "f1": 0.3737
+            }
+        ]
+    },
+    {
+        "question": "Ugetsu is represented by [mask].",
+        "answer": "Riverside Records",
+        "guesses": [
+            {
+                "guess": "Kenji Mizoguchi",
+                "precision": 0.219,
+                "recall": 0.2888,
+                "f1": 0.2491
+            },
+            {
+                "guess": "Ugetsu is represented",
+                "precision": 0.2205,
+                "recall": 0.2347,
+                "f1": 0.2274
+            }
+        ]
+    },
+    {
+        "question": "Saint Low is represented by [mask].",
+        "answer": "Cooking Vinyl",
+        "guesses": [
+            {
+                "guess": "Louis",
+                "precision": 0.5542,
+                "recall": 0.4477,
+                "f1": 0.4953
+            },
+            {
+                "guess": "Saint Louis",
+                "precision": 0.4255,
+                "recall": 0.4255,
+                "f1": 0.4255
+            }
+        ]
+    },
+    {
+        "question": "Perspective is represented by [mask].",
+        "answer": "Warner Bros. Records",
+        "guesses": [
+            {
+                "guess": "point of view",
+                "precision": 0.2649,
+                "recall": 0.2666,
+                "f1": 0.2658
+            },
+            {
+                "guess": "a point of view",
+                "precision": 0.2638,
+                "recall": 0.2652,
+                "f1": 0.2645
+            }
+        ]
+    },
+    {
+        "question": "They're Only Chasing Safety is represented by [mask].",
+        "answer": "Solid State Records",
+        "guesses": [
+            {
+                "guess": "Underoath",
+                "precision": 0.3222,
+                "recall": 0.305,
+                "f1": 0.3134
+            }
+        ]
+    },
+    {
+        "question": "Light Years Away is represented by [mask].",
+        "answer": "Prism Records",
+        "guesses": [
+            {
+                "guess": "Astronomical Units",
+                "precision": 0.3569,
+                "recall": 0.3555,
+                "f1": 0.3562
+            },
+            {
+                "guess": "A Light Year",
+                "precision": 0.3365,
+                "recall": 0.3445,
+                "f1": 0.3405
+            }
+        ]
+    },
+    {
+        "question": "Split is represented by [mask].",
+        "answer": "Stardumb Records",
+        "guesses": [
+            {
+                "guess": "I'm ready when you",
+                "precision": 0.2924,
+                "recall": 0.2519,
+                "f1": 0.2706
+            },
+            {
+                "guess": "I'm ready. What",
+                "precision": 0.2739,
+                "recall": 0.271,
+                "f1": 0.2724
+            }
+        ]
+    },
+    {
+        "question": "Valerie Wellington is represented by [mask].",
+        "answer": "Flying Fish Records",
+        "guesses": [
+            {
+                "guess": "Alligator Records",
+                "precision": 0.7128,
+                "recall": 0.619,
+                "f1": 0.6626
+            },
+            {
+                "guess": "Delmark Records",
+                "precision": 0.6324,
+                "recall": 0.6324,
+                "f1": 0.6324
+            }
+        ]
+    },
+    {
+        "question": "Trailer Trash Tracys is represented by [mask].",
+        "answer": "Domino Recording Company",
+        "guesses": [
+            {
+                "guess": "Rough Trade",
+                "precision": 0.4637,
+                "recall": 0.4088,
+                "f1": 0.4345
+            },
+            {
+                "guess": "Rough Trade Records",
+                "precision": 0.4625,
+                "recall": 0.5353,
+                "f1": 0.4962
+            }
+        ]
+    },
+    {
+        "question": "Gather in the Mushrooms is represented by [mask].",
+        "answer": "Pye Records",
+        "guesses": [
+            {
+                "guess": "Gather in the Mush",
+                "precision": 0.284,
+                "recall": 0.2465,
+                "f1": 0.2639
+            },
+            {
+                "guess": "Gather 'round",
+                "precision": 0.244,
+                "recall": 0.2237,
+                "f1": 0.2334
+            }
+        ]
+    },
+    {
+        "question": "Ridel High is represented by [mask].",
+        "answer": "A&M Records",
+        "guesses": [
+            {
+                "guess": "Rydell",
+                "precision": 0.2598,
+                "recall": 0.2184,
+                "f1": 0.2373
+            },
+            {
+                "guess": "Rydell High",
+                "precision": 0.2886,
+                "recall": 0.2691,
+                "f1": 0.2785
+            }
+        ]
+    },
+    {
+        "question": "I, Jonathan is represented by [mask].",
+        "answer": "Rounder Records",
+        "guesses": [
+            {
+                "guess": "I",
+                "precision": 0.3215,
+                "recall": 0.2435,
+                "f1": 0.2771
+            },
+            {
+                "guess": "Jonathan",
+                "precision": 0.3658,
+                "recall": 0.2503,
+                "f1": 0.2972
+            }
+        ]
+    },
+    {
+        "question": "Under the Milky Way is represented by [mask].",
+        "answer": "Mushroom Records",
+        "guesses": [
+            {
+                "guess": "Tonight",
+                "precision": 0.3883,
+                "recall": 0.3079,
+                "f1": 0.3434
+            },
+            {
+                "guess": "the stars",
+                "precision": 0.3836,
+                "recall": 0.3436,
+                "f1": 0.3625
+            }
+        ]
+    },
+    {
+        "question": "Soft and Beautiful is represented by [mask].",
+        "answer": "Columbia Records",
+        "guesses": [
+            {
+                "guess": "Silk",
+                "precision": 0.4438,
+                "recall": 0.3292,
+                "f1": 0.378
+            },
+            {
+                "guess": "A Silk Rose",
+                "precision": 0.3429,
+                "recall": 0.338,
+                "f1": 0.3404
+            }
+        ]
+    },
+    {
+        "question": "The Aquarium is represented by [mask].",
+        "answer": "Dischord Records",
+        "guesses": [
+            {
+                "guess": "Aquarium",
+                "precision": 0.4617,
+                "recall": 0.273,
+                "f1": 0.3431
+            },
+            {
+                "guess": "tank",
+                "precision": 0.3863,
+                "recall": 0.2825,
+                "f1": 0.3264
+            }
+        ]
+    },
+    {
+        "question": "Yes Sir, I Can Boogie is represented by [mask].",
+        "answer": "RCA Records",
+        "guesses": [
+            {
+                "guess": "Baccara",
+                "precision": 0.2889,
+                "recall": 0.3041,
+                "f1": 0.2963
+            },
+            {
+                "guess": "Scotland, United, and",
+                "precision": 0.2472,
+                "recall": 0.2917,
+                "f1": 0.2676
+            }
+        ]
+    },
+    {
+        "question": "Larry Harlow is represented by [mask].",
+        "answer": "Fania Records",
+        "guesses": [
+            {
+                "guess": "Rico Records",
+                "precision": 0.7022,
+                "recall": 0.6056,
+                "f1": 0.6503
+            },
+            {
+                "guess": "BMI",
+                "precision": 0.3654,
+                "recall": 0.3357,
+                "f1": 0.3499
+            }
+        ]
+    },
+    {
+        "question": "Here I Go Again is represented by [mask].",
+        "answer": "Parlophone",
+        "guesses": [
+            {
+                "guess": "Here I Go Again",
+                "precision": 0.2231,
+                "recall": 0.2571,
+                "f1": 0.2389
+            },
+            {
+                "guess": "Round",
+                "precision": 0.5066,
+                "recall": 0.3158,
+                "f1": 0.3891
+            }
+        ]
+    },
+    {
+        "question": "Constant Future is represented by [mask].",
+        "answer": "Jagjaguwar",
+        "guesses": [
+            {
+                "guess": "Infinity",
+                "precision": 0.5641,
+                "recall": 0.2494,
+                "f1": 0.3459
+            },
+            {
+                "guess": "Present",
+                "precision": 0.3953,
+                "recall": 0.1967,
+                "f1": 0.2627
+            }
+        ]
+    },
+    {
+        "question": "Yeah! Meccha Holiday is represented by [mask].",
+        "answer": "Zetima",
+        "guesses": [
+            {
+                "guess": "Doraemon",
+                "precision": 0.4194,
+                "recall": 0.3667,
+                "f1": 0.3913
+            },
+            {
+                "guess": "Meccha Holiday is",
+                "precision": 0.4271,
+                "recall": 0.4426,
+                "f1": 0.4347
+            }
+        ]
+    },
+    {
+        "question": "No Me Queda M\u00e1s is represented by [mask].",
+        "answer": "Capitol Latin",
+        "guesses": [
+            {
+                "guess": "Nada",
+                "precision": 0.4866,
+                "recall": 0.4866,
+                "f1": 0.4866
+            },
+            {
+                "guess": "Nothing",
+                "precision": 0.5181,
+                "recall": 0.3689,
+                "f1": 0.4309
+            }
+        ]
+    },
+    {
+        "question": "Romeo and Juliet is represented by [mask].",
+        "answer": "RCA Records",
+        "guesses": [
+            {
+                "guess": "Star-crossed lovers",
+                "precision": 0.2357,
+                "recall": 0.2891,
+                "f1": 0.2597
+            },
+            {
+                "guess": "The Star-Crossed",
+                "precision": 0.2416,
+                "recall": 0.2277,
+                "f1": 0.2344
+            }
+        ]
+    },
+    {
+        "question": "Sjukdom is represented by [mask].",
+        "answer": "Prophecy Productions",
+        "guesses": [
+            {
+                "guess": "disease",
+                "precision": 0.6115,
+                "recall": 0.4632,
+                "f1": 0.5271
+            },
+            {
+                "guess": "Disease",
+                "precision": 0.6115,
+                "recall": 0.4632,
+                "f1": 0.5271
+            }
+        ]
+    },
+    {
+        "question": "Tristeza is represented by [mask].",
+        "answer": "Better Looking Records",
+        "guesses": [
+            {
+                "guess": "Sadness",
+                "precision": 0.6444,
+                "recall": 0.4326,
+                "f1": 0.5177
+            },
+            {
+                "guess": "sadness",
+                "precision": 0.6444,
+                "recall": 0.4326,
+                "f1": 0.5177
+            }
+        ]
+    },
+    {
+        "question": "Hole in the Sun is represented by [mask].",
+        "answer": "Frontiers Records",
+        "guesses": [
+            {
+                "guess": "Coronal hole",
+                "precision": 0.3526,
+                "recall": 0.3763,
+                "f1": 0.3641
+            },
+            {
+                "guess": "Corona",
+                "precision": 0.5268,
+                "recall": 0.3933,
+                "f1": 0.4504
+            }
+        ]
+    },
+    {
+        "question": "Jerry Jaye is represented by [mask].",
+        "answer": "Columbia Records",
+        "guesses": [
+            {
+                "guess": "Jerry Jaye is represented",
+                "precision": 0.2725,
+                "recall": 0.2891,
+                "f1": 0.2805
+            },
+            {
+                "guess": "William Morris Agency",
+                "precision": 0.3811,
+                "recall": 0.4046,
+                "f1": 0.3925
+            }
+        ]
+    },
+    {
+        "question": "Civil War is represented by [mask].",
+        "answer": "Fat Wreck Chords",
+        "guesses": [
+            {
+                "guess": "American Civil War",
+                "precision": 0.3466,
+                "recall": 0.3466,
+                "f1": 0.3466
+            },
+            {
+                "guess": "1861-1865",
+                "precision": 0.2545,
+                "recall": 0.2371,
+                "f1": 0.2455
+            }
+        ]
+    },
+    {
+        "question": "SYR5 is represented by [mask].",
+        "answer": "Sonic Youth Recordings",
+        "guesses": [
+            {
+                "guess": "Syrup",
+                "precision": 0.558,
+                "recall": 0.3497,
+                "f1": 0.4299
+            },
+            {
+                "guess": "five",
+                "precision": 0.431,
+                "recall": 0.2747,
+                "f1": 0.3355
+            }
+        ]
+    },
+    {
+        "question": "Classic Queen is represented by [mask].",
+        "answer": "Hollywood Records",
+        "guesses": [
+            {
+                "guess": "Freddie Mercury",
+                "precision": 0.43,
+                "recall": 0.3987,
+                "f1": 0.4138
+            },
+            {
+                "guess": "Bohemian Rhaps",
+                "precision": 0.3052,
+                "recall": 0.3823,
+                "f1": 0.3395
+            }
+        ]
+    },
+    {
+        "question": "Do Nothing 'til You Hear from Me is represented by [mask].",
+        "answer": "Riverside Records",
+        "guesses": [
+            {
+                "guess": "Duke Ellington",
+                "precision": 0.454,
+                "recall": 0.454,
+                "f1": 0.454
+            },
+            {
+                "guess": "Duke",
+                "precision": 0.2711,
+                "recall": 0.2352,
+                "f1": 0.2519
+            }
+        ]
+    },
+    {
+        "question": "Lucid Interval is represented by [mask].",
+        "answer": "Relapse Records",
+        "guesses": [
+            {
+                "guess": "a period of sanity",
+                "precision": 0.2929,
+                "recall": 0.2164,
+                "f1": 0.2489
+            },
+            {
+                "guess": "lucid interval",
+                "precision": 0.2978,
+                "recall": 0.2545,
+                "f1": 0.2745
+            }
+        ]
+    },
+    {
+        "question": "Numbers is represented by [mask].",
+        "answer": "Cracker Barrel",
+        "guesses": [
+            {
+                "guess": "Numbers",
+                "precision": 0.483,
+                "recall": 0.2836,
+                "f1": 0.3574
+            },
+            {
+                "guess": "numbers",
+                "precision": 0.483,
+                "recall": 0.2836,
+                "f1": 0.3574
+            }
+        ]
+    },
+    {
+        "question": "Return to the Past is represented by [mask].",
+        "answer": "Lance King",
+        "guesses": [
+            {
+                "guess": "Nostalgia",
+                "precision": 0.3914,
+                "recall": 0.3367,
+                "f1": 0.362
+            },
+            {
+                "guess": "Flashback",
+                "precision": 0.6094,
+                "recall": 0.4916,
+                "f1": 0.5442
+            }
+        ]
+    },
+    {
+        "question": "Hardcore Jollies is represented by [mask].",
+        "answer": "Warner Bros. Records",
+        "guesses": [
+            {
+                "guess": "Parliament",
+                "precision": 0.3454,
+                "recall": 0.2866,
+                "f1": 0.3132
+            },
+            {
+                "guess": "Funkadelic",
+                "precision": 0.4091,
+                "recall": 0.4069,
+                "f1": 0.408
+            }
+        ]
+    },
+    {
+        "question": "Strangeland is represented by [mask].",
+        "answer": "Island Records",
+        "guesses": [
+            {
+                "guess": "Captain Howdy",
+                "precision": 0.2888,
+                "recall": 0.3275,
+                "f1": 0.307
+            },
+            {
+                "guess": "Kevin Gage and Dee",
+                "precision": 0.3117,
+                "recall": 0.2933,
+                "f1": 0.3022
+            }
+        ]
+    },
+    {
+        "question": "Dehumanizer is represented by [mask].",
+        "answer": "Polydor Records",
+        "guesses": [
+            {
+                "guess": "Dehumanizer is represented",
+                "precision": 0.2453,
+                "recall": 0.2452,
+                "f1": 0.2453
+            },
+            {
+                "guess": "I'm ready when you",
+                "precision": 0.2568,
+                "recall": 0.1984,
+                "f1": 0.2239
+            }
+        ]
+    },
+    {
+        "question": "Dimanches \u00e0 l'\u00c9lys\u00e9e is represented by [mask].",
+        "answer": "Barclay",
+        "guesses": [
+            {
+                "guess": "Sundays at the",
+                "precision": 0.3526,
+                "recall": 0.5176,
+                "f1": 0.4194
+            },
+            {
+                "guess": "Jacques Chirac",
+                "precision": 0.2283,
+                "recall": 0.3041,
+                "f1": 0.2608
+            }
+        ]
+    },
+    {
+        "question": "Naty Botero is represented by [mask].",
+        "answer": "Sony BMG",
+        "guesses": [
+            {
+                "guess": "Wilhelmina Models",
+                "precision": 0.3583,
+                "recall": 0.3834,
+                "f1": 0.3704
+            },
+            {
+                "guess": "Ford Models",
+                "precision": 0.4985,
+                "recall": 0.4985,
+                "f1": 0.4985
+            }
+        ]
+    },
+    {
+        "question": "Metamorphosis is represented by [mask].",
+        "answer": "ABKCO Records",
+        "guesses": [
+            {
+                "guess": "Butterfly",
+                "precision": 0.451,
+                "recall": 0.2852,
+                "f1": 0.3494
+            },
+            {
+                "guess": "A chrysalis",
+                "precision": 0.2847,
+                "recall": 0.2894,
+                "f1": 0.287
+            }
+        ]
+    },
+    {
+        "question": "Life Sentence to Love is represented by [mask].",
+        "answer": "MCA Records",
+        "guesses": [
+            {
+                "guess": "Life Imprisonment",
+                "precision": 0.3445,
+                "recall": 0.341,
+                "f1": 0.3427
+            },
+            {
+                "guess": "Death",
+                "precision": 0.4762,
+                "recall": 0.3391,
+                "f1": 0.3961
+            }
+        ]
+    },
+    {
+        "question": "Platitude is represented by [mask].",
+        "answer": "Scarlet Records",
+        "guesses": [
+            {
+                "guess": "clich\u00e9",
+                "precision": 0.3937,
+                "recall": 0.3937,
+                "f1": 0.3937
+            },
+            {
+                "guess": "Clich\u00e9",
+                "precision": 0.3937,
+                "recall": 0.3937,
+                "f1": 0.3937
+            }
+        ]
+    }
+]

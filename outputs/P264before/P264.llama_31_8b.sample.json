@@ -1,0 +1,2302 @@
+[
+    {
+        "question": "Ad Astra per Aspera is represented by [mask].",
+        "answer": "Gotee Records",
+        "guesses": [
+            {
+                "guess": "Latin phrase",
+                "probability": 0.001875061594815152
+            },
+            {
+                "guess": "Per Ardua Ad",
+                "probability": 0.047023512974547946
+            },
+            {
+                "guess": "To The Stars Through Diff",
+                "probability": 0.1908751349930551
+            },
+            {
+                "guess": "Exempli Gratia",
+                "probability": 6.672587661612868e-05
+            },
+            {
+                "guess": "To The Stars Through Diff",
+                "probability": 0.06745788337530424
+            },
+            {
+                "guess": "To The Stars Through Diff",
+                "probability": 0.1908751349930551
+            },
+            {
+                "guess": "Sic Itur Ad",
+                "probability": 0.017449222179789878
+            },
+            {
+                "guess": "Per Ardua ad",
+                "probability": 0.0376906539200434
+            },
+            {
+                "guess": "To The Stars Through Diff",
+                "probability": 0.1908751349930551
+            },
+            {
+                "guess": "Ad Alta Per Alta",
+                "probability": 5.765692206285026e-06
+            }
+        ]
+    },
+    {
+        "question": "B. F. Shelton is represented by [mask].",
+        "answer": "Victor Talking Machine Company",
+        "guesses": [
+            {
+                "guess": "Waters Kraus &",
+                "probability": 0.0004545950934738993
+            },
+            {
+                "guess": "Fifty-Cent Prom",
+                "probability": 1.1339371109835786e-10
+            },
+            {
+                "guess": "United Talent Agency",
+                "probability": 0.012944372202771727
+            },
+            {
+                "guess": "Kilpatrick Stockton",
+                "probability": 0.00038562020800594573
+            },
+            {
+                "guess": "Journalist",
+                "probability": 1.598490893969509e-05
+            },
+            {
+                "guess": "Literary agent",
+                "probability": 0.008455429061463087
+            },
+            {
+                "guess": "Kents-Bear Entertainment",
+                "probability": 9.138146757574437e-11
+            },
+            {
+                "guess": "Kinkead & Bot",
+                "probability": 3.570165408213813e-11
+            },
+            {
+                "guess": "The United Talent Agency.",
+                "probability": 0.00013582406500417768
+            },
+            {
+                "guess": "literary agency.",
+                "probability": 0.001988370187144822
+            }
+        ]
+    },
+    {
+        "question": "Taylor's Wailers is represented by [mask].",
+        "answer": "Prestige",
+        "guesses": [
+            {
+                "guess": "Bob Marley",
+                "probability": 0.19349624496399215
+            },
+            {
+                "guess": "Bob Marley",
+                "probability": 0.24697989131344972
+            },
+            {
+                "guess": "Jimi Hendrix Experience",
+                "probability": 0.012450226964958016
+            },
+            {
+                "guess": "Jimi Hendrix",
+                "probability": 0.005190026758068225
+            },
+            {
+                "guess": "Bob Marley",
+                "probability": 0.24697989131344972
+            },
+            {
+                "guess": "Peter Tosh",
+                "probability": 0.07720298616256835
+            },
+            {
+                "guess": "Bob Marley and the",
+                "probability": 0.050821521793019624
+            },
+            {
+                "guess": "Bob Marley and the",
+                "probability": 0.23934898456035913
+            },
+            {
+                "guess": "Bob Marley",
+                "probability": 0.24253355948270136
+            },
+            {
+                "guess": "Gregory Isaacs",
+                "probability": 0.016552565299629937
+            }
+        ]
+    },
+    {
+        "question": "Jesse Fuller is represented by [mask].",
+        "answer": "Good Time Jazz Records",
+        "guesses": [
+            {
+                "guess": "Blues piano",
+                "probability": 2.075735729984933e-05
+            },
+            {
+                "guess": "Disland Music",
+                "probability": 9.680018071146463e-09
+            },
+            {
+                "guess": "Koko Taylor",
+                "probability": 0.00010423696136073423
+            },
+            {
+                "guess": "The Band",
+                "probability": 1.3771731322857687e-05
+            },
+            {
+                "guess": "The Reverend Gary Davis",
+                "probability": 0.00034166757348630346
+            },
+            {
+                "guess": "Sagewind Music",
+                "probability": 3.660944338631189e-08
+            },
+            {
+                "guess": "Brownie McGhee",
+                "probability": 0.0009761346399364295
+            },
+            {
+                "guess": "It's a little tricky",
+                "probability": 4.830821810970978e-08
+            },
+            {
+                "guess": "Jesse Fuller is represented",
+                "probability": 0.028034403647698596
+            },
+            {
+                "guess": "Warner Chapell",
+                "probability": 3.107826062919281e-05
+            }
+        ]
+    },
+    {
+        "question": "Flame is represented by [mask].",
+        "answer": "MCA Records",
+        "guesses": [
+            {
+                "guess": "Fire",
+                "probability": 0.47458298573869107
+            },
+            {
+                "guess": "Fire",
+                "probability": 0.4915821601167502
+            },
+            {
+                "guess": "Fire",
+                "probability": 0.5044064727946378
+            },
+            {
+                "guess": "fire",
+                "probability": 0.2971473831235581
+            },
+            {
+                "guess": "Fire.",
+                "probability": 0.12752194208411544
+            },
+            {
+                "guess": "Fire",
+                "probability": 0.5044064727946378
+            },
+            {
+                "guess": "fire",
+                "probability": 0.3395742445939608
+            },
+            {
+                "guess": "fire",
+                "probability": 0.40905132119140347
+            },
+            {
+                "guess": "Fire",
+                "probability": 0.44220507359096783
+            },
+            {
+                "guess": "Fire",
+                "probability": 0.5044064727946378
+            }
+        ]
+    },
+    {
+        "question": "Til I Die is represented by [mask].",
+        "answer": "Asian Man Records",
+        "guesses": [
+            {
+                "guess": "FIFA",
+                "probability": 0.010111375272671627
+            },
+            {
+                "guess": "Til Kingdom Come",
+                "probability": 0.007488657585341178
+            },
+            {
+                "guess": "Till I Die",
+                "probability": 0.1870523394011684
+            },
+            {
+                "guess": "Till I Die",
+                "probability": 0.10881307817529082
+            },
+            {
+                "guess": "Till I Die",
+                "probability": 0.1870523394011684
+            },
+            {
+                "guess": "Till I Die",
+                "probability": 0.31725902635344766
+            },
+            {
+                "guess": "Mayweather.",
+                "probability": 8.981916135066304e-05
+            },
+            {
+                "guess": "Ed Sheeran",
+                "probability": 0.06196596685684872
+            },
+            {
+                "guess": "Ed Sheeran",
+                "probability": 0.06196596685684872
+            },
+            {
+                "guess": "YouTuber",
+                "probability": 0.0003154965319825148
+            }
+        ]
+    },
+    {
+        "question": "Midnight Fire is represented by [mask].",
+        "answer": "RCA Records",
+        "guesses": [
+            {
+                "guess": "Blackout",
+                "probability": 3.31226962927144e-05
+            },
+            {
+                "guess": "Flashing Lights",
+                "probability": 0.0025059274059742007
+            },
+            {
+                "guess": "Ember",
+                "probability": 0.06048269503343043
+            },
+            {
+                "guess": "Blaze",
+                "probability": 0.06334253298464243
+            },
+            {
+                "guess": "Incendium",
+                "probability": 0.004976123195361423
+            },
+            {
+                "guess": "Fireworks",
+                "probability": 0.012073409347437693
+            },
+            {
+                "guess": "Flame",
+                "probability": 0.059338290603351926
+            },
+            {
+                "guess": "Pyromancer",
+                "probability": 0.023299320346520998
+            },
+            {
+                "guess": "Midnight Fire is represented",
+                "probability": 0.11362425509064915
+            },
+            {
+                "guess": "Flames",
+                "probability": 0.09771147195538565
+            }
+        ]
+    },
+    {
+        "question": "PSD is represented by [mask].",
+        "answer": "Thizz Entertainment",
+        "guesses": [
+            {
+                "guess": "Posterior Superior Displacement",
+                "probability": 0.0008830166416515723
+            },
+            {
+                "guess": "Power, Speed, and",
+                "probability": 0.001085086018888109
+            },
+            {
+                "guess": "Patient Safety Directive",
+                "probability": 0.004489501232008513
+            },
+            {
+                "guess": "Portable Storage Drive",
+                "probability": 0.0015806172447576244
+            },
+            {
+                "guess": "PSD is represented by",
+                "probability": 0.30127395577897825
+            },
+            {
+                "guess": "PSD is represented by",
+                "probability": 0.30127395577897825
+            },
+            {
+                "guess": "PhotoShop Document (or",
+                "probability": 9.714109469116127e-06
+            },
+            {
+                "guess": "PSD is represented by",
+                "probability": 0.30127395577897825
+            },
+            {
+                "guess": "Portable Sterilization Device",
+                "probability": 0.014294162926865814
+            },
+            {
+                "guess": "Peritoneal Sac Drain",
+                "probability": 0.004631324538251959
+            }
+        ]
+    },
+    {
+        "question": "Time Remembers One Time Once is represented by [mask].",
+        "answer": "ECM Records",
+        "guesses": [
+            {
+                "guess": "Honor",
+                "probability": 0.004150073336646387
+            },
+            {
+                "guess": "Everything",
+                "probability": 0.04884788677763417
+            },
+            {
+                "guess": "Time remembers one time once",
+                "probability": 0.029433713640329078
+            },
+            {
+                "guess": "An old photo",
+                "probability": 3.7502806488240678e-06
+            },
+            {
+                "guess": "MacArthur",
+                "probability": 0.021977232484065856
+            },
+            {
+                "guess": "Herman Melville",
+                "probability": 0.004878395939046005
+            },
+            {
+                "guess": "Everything.",
+                "probability": 0.08048658051301912
+            },
+            {
+                "guess": "Butch Cassidy and the",
+                "probability": 0.05983693043780077
+            },
+            {
+                "guess": "Kurt Vonneg",
+                "probability": 0.001139375742761885
+            },
+            {
+                "guess": "Pet Sematary",
+                "probability": 2.483266657792742e-05
+            }
+        ]
+    },
+    {
+        "question": "Serve & Collect III is represented by [mask].",
+        "answer": "Entertainment One Music",
+        "guesses": [
+            {
+                "guess": "Super Monkey Ball.",
+                "probability": 0.0006669735701814287
+            },
+            {
+                "guess": "Streets of Rage",
+                "probability": 0.0018199321243563488
+            },
+            {
+                "guess": "SERVICEDENMARK",
+                "probability": 1.0099491833666687e-08
+            },
+            {
+                "guess": "Enforcer",
+                "probability": 5.001740854640657e-05
+            },
+            {
+                "guess": "Sonic Drift ",
+                "probability": 0.017536505684409155
+            },
+            {
+                "guess": "Jackie Chan.",
+                "probability": 0.00031890847531825276
+            },
+            {
+                "guess": "London Dungeon.",
+                "probability": 0.0001428892199649387
+            },
+            {
+                "guess": "Danganronpa.",
+                "probability": 0.00023198609515678805
+            },
+            {
+                "guess": "Bully Dog.",
+                "probability": 7.379932958153541e-07
+            },
+            {
+                "guess": "Level Up",
+                "probability": 0.0002311847914930419
+            }
+        ]
+    },
+    {
+        "question": "Ugetsu is represented by [mask].",
+        "answer": "Riverside Records",
+        "guesses": [
+            {
+                "guess": "the Abandoned Well",
+                "probability": 7.966480740563258e-07
+            },
+            {
+                "guess": "Ugetsu is represented",
+                "probability": 0.19608973420608586
+            },
+            {
+                "guess": "Monogatari",
+                "probability": 0.06118315574974079
+            },
+            {
+                "guess": "Ugetsu is represented",
+                "probability": 0.1305393892196596
+            },
+            {
+                "guess": "Ugetsu is represented",
+                "probability": 0.19608973420608586
+            },
+            {
+                "guess": "Ugetsu is represented",
+                "probability": 0.24137141877547288
+            },
+            {
+                "guess": "A Ghost Sail",
+                "probability": 0.0014428502167309642
+            },
+            {
+                "guess": "Kwaidan",
+                "probability": 0.1053595367783068
+            },
+            {
+                "guess": "Ugetsu is represented",
+                "probability": 0.19608973420608586
+            },
+            {
+                "guess": "A Tale of the Floating",
+                "probability": 0.0012867990426761577
+            }
+        ]
+    },
+    {
+        "question": "Saint Low is represented by [mask].",
+        "answer": "Cooking Vinyl",
+        "guesses": [
+            {
+                "guess": "A Void",
+                "probability": 0.0002550024726715233
+            },
+            {
+                "guess": "St. Lawrence",
+                "probability": 0.001427685286820371
+            },
+            {
+                "guess": "Saint Louis",
+                "probability": 0.018627928789801858
+            },
+            {
+                "guess": "Louis.",
+                "probability": 0.0010414993116414357
+            },
+            {
+                "guess": "Pope  is not",
+                "probability": 6.00686147387318e-07
+            },
+            {
+                "guess": "The Onion",
+                "probability": 2.186406898536126e-06
+            },
+            {
+                "guess": "S\u00e3o Lu\u00eds",
+                "probability": 0.0016918547683447158
+            },
+            {
+                "guess": "Silentium",
+                "probability": 1.3567112189112037e-05
+            },
+            {
+                "guess": "rope",
+                "probability": 7.448424047237737e-07
+            },
+            {
+                "guess": "St. Luke",
+                "probability": 0.01648797370383322
+            }
+        ]
+    },
+    {
+        "question": "Perspective is represented by [mask].",
+        "answer": "Warner Bros. Records",
+        "guesses": [
+            {
+                "guess": "viewpoint",
+                "probability": 0.4941109579288294
+            },
+            {
+                "guess": "viewpoint",
+                "probability": 0.49376888532408303
+            },
+            {
+                "guess": "point of view",
+                "probability": 0.3834560754391622
+            },
+            {
+                "guess": "viewpoint",
+                "probability": 0.49376888532408303
+            },
+            {
+                "guess": "viewpoint",
+                "probability": 0.49376888532408303
+            },
+            {
+                "guess": "viewpoint",
+                "probability": 0.4941109579288294
+            },
+            {
+                "guess": "point of view",
+                "probability": 0.4090918508150149
+            },
+            {
+                "guess": "viewpoint",
+                "probability": 0.4941109579288294
+            },
+            {
+                "guess": "point of view",
+                "probability": 0.3115487687614805
+            },
+            {
+                "guess": "point of view",
+                "probability": 0.3204946326057532
+            }
+        ]
+    },
+    {
+        "question": "They're Only Chasing Safety is represented by [mask].",
+        "answer": "Solid State Records",
+        "guesses": [
+            {
+                "guess": "Emery.",
+                "probability": 0.24203017632057888
+            },
+            {
+                "guess": "Emery",
+                "probability": 0.10931440932948233
+            },
+            {
+                "guess": "Emery.",
+                "probability": 0.24203017632057888
+            },
+            {
+                "guess": "Silverstein",
+                "probability": 0.0134513547692327
+            },
+            {
+                "guess": "Underoath",
+                "probability": 0.22608032618930005
+            },
+            {
+                "guess": "Emery.",
+                "probability": 0.24203017632057888
+            },
+            {
+                "guess": "Emery.",
+                "probability": 0.1913866627636537
+            },
+            {
+                "guess": "Emery",
+                "probability": 0.17747074858687137
+            },
+            {
+                "guess": "Emery.",
+                "probability": 0.24203017632057888
+            },
+            {
+                "guess": "Emery.",
+                "probability": 0.24203017632057888
+            }
+        ]
+    },
+    {
+        "question": "Light Years Away is represented by [mask].",
+        "answer": "Prism Records",
+        "guesses": [
+            {
+                "guess": "PSYCHE",
+                "probability": 7.136919976106213e-07
+            },
+            {
+                "guess": "The Americans",
+                "probability": 6.0118293451575264e-05
+            },
+            {
+                "guess": "The Matrix Revolutions",
+                "probability": 7.988265823175969e-05
+            },
+            {
+                "guess": "Beyonc\u00e9.",
+                "probability": 0.00012341530505282256
+            },
+            {
+                "guess": "Walking on Sunshine",
+                "probability": 2.076079895403545e-05
+            },
+            {
+                "guess": "Closer to the Sun",
+                "probability": 1.971854109940019e-06
+            },
+            {
+                "guess": "A million miles",
+                "probability": 0.011561686617592114
+            },
+            {
+                "guess": "Lightsabers",
+                "probability": 0.00724133345361637
+            },
+            {
+                "guess": "Eagles of Death",
+                "probability": 0.0029075508719490187
+            },
+            {
+                "guess": "Starlight Express",
+                "probability": 0.014703131548252524
+            }
+        ]
+    },
+    {
+        "question": "Split is represented by [mask].",
+        "answer": "Stardumb Records",
+        "guesses": [
+            {
+                "guess": "City.",
+                "probability": 0.10749848630732357
+            },
+            {
+                "guess": "City",
+                "probability": 0.07220606116143508
+            },
+            {
+                "guess": "Munich",
+                "probability": 0.0043173959818202335
+            },
+            {
+                "guess": "city",
+                "probability": 0.15965327149211844
+            },
+            {
+                "guess": "The Beatles' song and",
+                "probability": 3.3646847609223646e-07
+            },
+            {
+                "guess": "city",
+                "probability": 0.16661321866671258
+            },
+            {
+                "guess": "city",
+                "probability": 0.08420104578914124
+            },
+            {
+                "guess": "City",
+                "probability": 0.041561266630316285
+            },
+            {
+                "guess": "Split city.",
+                "probability": 5.8083209191131126e-05
+            },
+            {
+                "guess": "The city of Split is",
+                "probability": 0.00131357145666187
+            }
+        ]
+    },
+    {
+        "question": "Valerie Wellington is represented by [mask].",
+        "answer": "Flying Fish Records",
+        "guesses": [
+            {
+                "guess": "Her modeling agency.",
+                "probability": 6.267632449872502e-05
+            },
+            {
+                "guess": "Neil Meron",
+                "probability": 0.00010237851884332283
+            },
+            {
+                "guess": "Bob Jeffries",
+                "probability": 0.0008624860435916781
+            },
+            {
+                "guess": "Shannon Briggs",
+                "probability": 0.0003099518145233713
+            },
+            {
+                "guess": "Ridley Scott",
+                "probability": 7.367488556292366e-05
+            },
+            {
+                "guess": "Norman Lear",
+                "probability": 0.0013677006854192016
+            },
+            {
+                "guess": "Mark Geragos.",
+                "probability": 0.002324613242386622
+            },
+            {
+                "guess": "She's got Balls",
+                "probability": 1.0879315235220984e-08
+            },
+            {
+                "guess": "Daniel Steinberg.",
+                "probability": 4.449323836538644e-05
+            },
+            {
+                "guess": "Daniel E. Conway",
+                "probability": 0.0002384093835253491
+            }
+        ]
+    },
+    {
+        "question": "Trailer Trash Tracys is represented by [mask].",
+        "answer": "Domino Recording Company",
+        "guesses": [
+            {
+                "guess": "Domino Recording Company",
+                "probability": 0.00890352213503045
+            },
+            {
+                "guess": "Rough Trade.",
+                "probability": 0.006816096282080277
+            },
+            {
+                "guess": "FatCat Records",
+                "probability": 0.012737649741663993
+            },
+            {
+                "guess": "Rough Trade",
+                "probability": 0.02696241453732167
+            },
+            {
+                "guess": "Bella Union",
+                "probability": 0.10618119898876026
+            },
+            {
+                "guess": "KScope",
+                "probability": 0.000596314751467461
+            },
+            {
+                "guess": "A Silver Rocket",
+                "probability": 7.598681600362678e-05
+            },
+            {
+                "guess": "Kill Rock Stars",
+                "probability": 0.0023421493951554582
+            },
+            {
+                "guess": "Heavenly Recordings",
+                "probability": 0.04175330735291879
+            },
+            {
+                "guess": "Bella Union",
+                "probability": 0.25073638880476806
+            }
+        ]
+    },
+    {
+        "question": "Gather in the Mushrooms is represented by [mask].",
+        "answer": "Pye Records",
+        "guesses": [
+            {
+                "guess": "Gather in the To",
+                "probability": 0.03268518214003515
+            },
+            {
+                "guess": "Gather in the F",
+                "probability": 0.09645008789190013
+            },
+            {
+                "guess": "Gather in the Mush",
+                "probability": 0.5108819615705711
+            },
+            {
+                "guess": "Gather 'round the",
+                "probability": 0.09522107063417383
+            },
+            {
+                "guess": "Gather in the Mush",
+                "probability": 0.5108819615705711
+            },
+            {
+                "guess": "Gather in the Mush",
+                "probability": 0.43853391456398616
+            },
+            {
+                "guess": "Gather 'neath the",
+                "probability": 0.016552673705660898
+            },
+            {
+                "guess": "Gather 'round the",
+                "probability": 0.3044288167507328
+            },
+            {
+                "guess": "Gather in the Mush",
+                "probability": 0.43853391456398616
+            },
+            {
+                "guess": "Gather in the Mush",
+                "probability": 0.43853391456398616
+            }
+        ]
+    },
+    {
+        "question": "Ridel High is represented by [mask].",
+        "answer": "A&M Records",
+        "guesses": [
+            {
+                "guess": "Harry",
+                "probability": 0.2722138254091261
+            },
+            {
+                "guess": "Harry",
+                "probability": 0.08759569230828075
+            },
+            {
+                "guess": "Albemarle",
+                "probability": 2.390675578539378e-05
+            },
+            {
+                "guess": "Ridel High is represented",
+                "probability": 0.18707730127910294
+            },
+            {
+                "guess": "Ridley High",
+                "probability": 0.059062666350711314
+            },
+            {
+                "guess": "Riverdale High",
+                "probability": 0.005821229984081273
+            },
+            {
+                "guess": "Harry",
+                "probability": 0.2722138254091261
+            },
+            {
+                "guess": "High School",
+                "probability": 0.04020175741437125
+            },
+            {
+                "guess": "Harry",
+                "probability": 0.2722138254091261
+            },
+            {
+                "guess": "Full House",
+                "probability": 0.0011453085909902715
+            }
+        ]
+    },
+    {
+        "question": "I, Jonathan is represented by [mask].",
+        "answer": "Rounder Records",
+        "guesses": [
+            {
+                "guess": "I, Jonathan.",
+                "probability": 0.24254409308245553
+            },
+            {
+                "guess": "I",
+                "probability": 0.5648049061035519
+            },
+            {
+                "guess": "I, Jonathan",
+                "probability": 0.27506567734293963
+            },
+            {
+                "guess": "I as Jonathan",
+                "probability": 0.00014722498736144824
+            },
+            {
+                "guess": "I",
+                "probability": 0.4863313338766505
+            },
+            {
+                "guess": "I, Jonathan",
+                "probability": 0.22096878547218704
+            },
+            {
+                "guess": "I, Jonathan",
+                "probability": 0.22096878547218704
+            },
+            {
+                "guess": "Jonathan",
+                "probability": 0.13238632586339252
+            },
+            {
+                "guess": "Jonathan.",
+                "probability": 0.03777009153888298
+            },
+            {
+                "guess": "I, Jonathan.",
+                "probability": 0.22072970526560845
+            }
+        ]
+    },
+    {
+        "question": "Under the Milky Way is represented by [mask].",
+        "answer": "Mushroom Records",
+        "guesses": [
+            {
+                "guess": "twinkling dark blue",
+                "probability": 0.0007112134920242068
+            },
+            {
+                "guess": "the stars",
+                "probability": 0.008721852744026695
+            },
+            {
+                "guess": "starry skies",
+                "probability": 0.0019049112684397453
+            },
+            {
+                "guess": "twinkling",
+                "probability": 0.38213723147879247
+            },
+            {
+                "guess": "twinkling",
+                "probability": 0.38213723147879247
+            },
+            {
+                "guess": "Starry Skies",
+                "probability": 0.04169326026726873
+            },
+            {
+                "guess": "twinkling",
+                "probability": 0.38213723147879247
+            },
+            {
+                "guess": "starry sky",
+                "probability": 0.046493512780103906
+            },
+            {
+                "guess": "starry sky",
+                "probability": 0.046493512780103906
+            },
+            {
+                "guess": "Starry night",
+                "probability": 0.010449833155279418
+            }
+        ]
+    },
+    {
+        "question": "Soft and Beautiful is represented by [mask].",
+        "answer": "Columbia Records",
+        "guesses": [
+            {
+                "guess": "Silk",
+                "probability": 0.14001216919225148
+            },
+            {
+                "guess": "Moonlight",
+                "probability": 0.0032189158883177884
+            },
+            {
+                "guess": "Skincare",
+                "probability": 0.0022243711859787304
+            },
+            {
+                "guess": "Plastic",
+                "probability": 0.0004784876697332309
+            },
+            {
+                "guess": "Perfume",
+                "probability": 0.008117085038861497
+            },
+            {
+                "guess": "Silk.",
+                "probability": 0.11357577635360483
+            },
+            {
+                "guess": "Skin.",
+                "probability": 0.10942082779081044
+            },
+            {
+                "guess": "'Lovely'",
+                "probability": 1.4094627824800366e-05
+            },
+            {
+                "guess": "Piano.",
+                "probability": 7.112644215578895e-05
+            },
+            {
+                "guess": "Silk",
+                "probability": 0.14263038216424395
+            }
+        ]
+    },
+    {
+        "question": "The Aquarium is represented by [mask].",
+        "answer": "Dischord Records",
+        "guesses": [
+            {
+                "guess": "Aquarium.",
+                "probability": 0.3489491011695357
+            },
+            {
+                "guess": "Aquarium",
+                "probability": 0.307972234710075
+            },
+            {
+                "guess": "Aquarium",
+                "probability": 0.28761497444005985
+            },
+            {
+                "guess": "Aquarium.",
+                "probability": 0.3489491011695357
+            },
+            {
+                "guess": "Aquarium",
+                "probability": 0.3604288292973633
+            },
+            {
+                "guess": "aquarium",
+                "probability": 0.17028549322594944
+            },
+            {
+                "guess": "Aquarium.",
+                "probability": 0.28756862672675393
+            },
+            {
+                "guess": "Aquarium.",
+                "probability": 0.28756862672675393
+            },
+            {
+                "guess": "The Aquarium is represented by",
+                "probability": 0.08326730759300158
+            },
+            {
+                "guess": "Aquarium",
+                "probability": 0.4287420841947746
+            }
+        ]
+    },
+    {
+        "question": "Yes Sir, I Can Boogie is represented by [mask].",
+        "answer": "RCA Records",
+        "guesses": [
+            {
+                "guess": "The Disco Family",
+                "probability": 6.373816671256727e-06
+            },
+            {
+                "guess": "The Shires",
+                "probability": 0.0005737649096638007
+            },
+            {
+                "guess": "The Bay City Rollers",
+                "probability": 0.037467243333322846
+            },
+            {
+                "guess": "Baccara",
+                "probability": 0.002822704555267717
+            },
+            {
+                "guess": "The Bay City Rollers",
+                "probability": 0.09289005114073466
+            },
+            {
+                "guess": "The Tee Set",
+                "probability": 0.00012307120762801443
+            },
+            {
+                "guess": "The 1975",
+                "probability": 0.0009345017141471605
+            },
+            {
+                "guess": "Chief Priest",
+                "probability": 7.422117951360178e-07
+            },
+            {
+                "guess": "\"the Baccara",
+                "probability": 6.057674935446301e-07
+            },
+            {
+                "guess": "the 1975s",
+                "probability": 4.532859281529341e-06
+            }
+        ]
+    },
+    {
+        "question": "Larry Harlow is represented by [mask].",
+        "answer": "Fania Records",
+        "guesses": [
+            {
+                "guess": "Milton Garc\u00eda",
+                "probability": 6.200246583499877e-05
+            },
+            {
+                "guess": "Fania Records",
+                "probability": 0.016157456396001378
+            },
+            {
+                "guess": "Universal Music Group",
+                "probability": 0.00029690437442221856
+            },
+            {
+                "guess": "Tito Puente",
+                "probability": 0.042601180447695446
+            },
+            {
+                "guess": "Pedro G\u00f3mez",
+                "probability": 0.0005961053644426756
+            },
+            {
+                "guess": "the trombone.",
+                "probability": 6.520278853940646e-05
+            },
+            {
+                "guess": "Fania Records.",
+                "probability": 0.00810899770563791
+            },
+            {
+                "guess": "Sonny Bravo",
+                "probability": 0.00010190595525415871
+            },
+            {
+                "guess": "Mambo Legend",
+                "probability": 0.0011129712144641538
+            },
+            {
+                "guess": "Tito Puente's",
+                "probability": 0.002714138252002565
+            }
+        ]
+    },
+    {
+        "question": "Here I Go Again is represented by [mask].",
+        "answer": "Parlophone",
+        "guesses": [
+            {
+                "guess": "Here I Go Again",
+                "probability": 0.3155983059644312
+            },
+            {
+                "guess": "Whitesnake",
+                "probability": 0.10641664847084863
+            },
+            {
+                "guess": "Here I Go Again.",
+                "probability": 0.21548379044314372
+            },
+            {
+                "guess": "Here I Go Again",
+                "probability": 0.35527272997060433
+            },
+            {
+                "guess": "Here I Go Again -",
+                "probability": 0.027395689632962242
+            },
+            {
+                "guess": "Here I Go Again is",
+                "probability": 0.11610212843284884
+            },
+            {
+                "guess": "Here I Go Again",
+                "probability": 0.35527272997060433
+            },
+            {
+                "guess": "Here I Go Again",
+                "probability": 0.35527272997060433
+            },
+            {
+                "guess": "Here I Go Again by",
+                "probability": 0.04005851213251478
+            },
+            {
+                "guess": "Here I Go Again by",
+                "probability": 0.11534016149528385
+            }
+        ]
+    },
+    {
+        "question": "Constant Future is represented by [mask].",
+        "answer": "Jagjaguwar",
+        "guesses": [
+            {
+                "guess": "The Future",
+                "probability": 0.045471416442231134
+            },
+            {
+                "guess": "Uncertain Future",
+                "probability": 0.002637848744361822
+            },
+            {
+                "guess": "Perpetuity",
+                "probability": 0.025661968368351416
+            },
+            {
+                "guess": "The Constant Future is represented",
+                "probability": 0.03173892376373346
+            },
+            {
+                "guess": "Certainty",
+                "probability": 0.0713843228198508
+            },
+            {
+                "guess": "Reliability",
+                "probability": 0.0005319331687119742
+            },
+            {
+                "guess": "The End",
+                "probability": 0.001073463653391421
+            },
+            {
+                "guess": "Constant Future is represented by",
+                "probability": 0.12424884255595728
+            },
+            {
+                "guess": "Eternity",
+                "probability": 0.016945125730569152
+            },
+            {
+                "guess": "Always",
+                "probability": 0.08999508950602561
+            }
+        ]
+    },
+    {
+        "question": "Yeah! Meccha Holiday is represented by [mask].",
+        "answer": "Zetima",
+        "guesses": [
+            {
+                "guess": "Nogizaka46",
+                "probability": 0.00340209157092613
+            },
+            {
+                "guess": "Sailor Moon",
+                "probability": 0.026214679114727593
+            },
+            {
+                "guess": "Mamma Mia",
+                "probability": 5.667544208900823e-05
+            },
+            {
+                "guess": "Love Live!",
+                "probability": 0.025427740029249135
+            },
+            {
+                "guess": "Hatsune Miku",
+                "probability": 0.003087477815086686
+            },
+            {
+                "guess": "K-On!",
+                "probability": 0.10635505676194386
+            },
+            {
+                "guess": "Natsume's Book of",
+                "probability": 0.0018685144041639258
+            },
+            {
+                "guess": "A Silent Voice",
+                "probability": 0.0015672258665629475
+            },
+            {
+                "guess": "K-On!",
+                "probability": 0.030919212128866676
+            },
+            {
+                "guess": "LINE",
+                "probability": 0.0001330967111272911
+            }
+        ]
+    },
+    {
+        "question": "No Me Queda M\u00e1s is represented by [mask].",
+        "answer": "Capitol Latin",
+        "guesses": [
+            {
+                "guess": "Tengo Esperanza",
+                "probability": 0.0038470066638285495
+            },
+            {
+                "guess": "Tiempo",
+                "probability": 0.0011338751908762986
+            },
+            {
+                "guess": "Vaina Loca",
+                "probability": 0.06244751512580439
+            },
+            {
+                "guess": "Tu.",
+                "probability": 0.0007389303864006785
+            },
+            {
+                "guess": "la gaviota",
+                "probability": 4.032961152575944e-06
+            },
+            {
+                "guess": "Desesperado",
+                "probability": 0.0008253196671575301
+            },
+            {
+                "guess": "\"Vaina loca",
+                "probability": 0.00038310480072381743
+            },
+            {
+                "guess": "No Me Queda",
+                "probability": 0.05056456941189906
+            },
+            {
+                "guess": "Eres T\u00fa.",
+                "probability": 0.015906215678172828
+            },
+            {
+                "guess": "\u00c1mame",
+                "probability": 0.01502632541041842
+            }
+        ]
+    },
+    {
+        "question": "Romeo and Juliet is represented by [mask].",
+        "answer": "RCA Records",
+        "guesses": [
+            {
+                "guess": "Love",
+                "probability": 0.0028082973442839793
+            },
+            {
+                "guess": "Tragedy",
+                "probability": 0.08422282236813215
+            },
+            {
+                "guess": "Tragic star-crossed",
+                "probability": 0.0019592798988868503
+            },
+            {
+                "guess": "tragic love story",
+                "probability": 0.006925356683420465
+            },
+            {
+                "guess": "Tragic love story",
+                "probability": 0.34847076681716294
+            },
+            {
+                "guess": "Tragedy",
+                "probability": 0.18349196205665005
+            },
+            {
+                "guess": "tragedy",
+                "probability": 0.04017328931499946
+            },
+            {
+                "guess": "Tragedy",
+                "probability": 0.18349196205665005
+            },
+            {
+                "guess": "Tragedy",
+                "probability": 0.18349196205665005
+            },
+            {
+                "guess": "Tragedy",
+                "probability": 0.18349196205665005
+            }
+        ]
+    },
+    {
+        "question": "Sjukdom is represented by [mask].",
+        "answer": "Prophecy Productions",
+        "guesses": [
+            {
+                "guess": "Disease",
+                "probability": 0.20858689123357274
+            },
+            {
+                "guess": "illness",
+                "probability": 0.12300049848349097
+            },
+            {
+                "guess": "Illness",
+                "probability": 0.32434723571996815
+            },
+            {
+                "guess": "Illness",
+                "probability": 0.2476050426865019
+            },
+            {
+                "guess": "Illness",
+                "probability": 0.6846639766599389
+            },
+            {
+                "guess": "Illness",
+                "probability": 0.6790534992318626
+            },
+            {
+                "guess": "Illness",
+                "probability": 0.2476050426865019
+            },
+            {
+                "guess": "Symptom",
+                "probability": 0.00017352992763082798
+            },
+            {
+                "guess": "Illness",
+                "probability": 0.6790534992318626
+            },
+            {
+                "guess": "Illness",
+                "probability": 0.6790534992318626
+            }
+        ]
+    },
+    {
+        "question": "Tristeza is represented by [mask].",
+        "answer": "Better Looking Records",
+        "guesses": [
+            {
+                "guess": "Sorrow",
+                "probability": 0.5174355748462393
+            },
+            {
+                "guess": "Sorrow",
+                "probability": 0.5690185552347861
+            },
+            {
+                "guess": "Sorrow",
+                "probability": 0.5346561859041835
+            },
+            {
+                "guess": "Sorrow",
+                "probability": 0.5346561859041835
+            },
+            {
+                "guess": "Sadness",
+                "probability": 0.20264882506042475
+            },
+            {
+                "guess": "Sadness",
+                "probability": 0.20264882506042475
+            },
+            {
+                "guess": "Sorrow",
+                "probability": 0.5690185552347861
+            },
+            {
+                "guess": "Sorrow",
+                "probability": 0.5044700538753659
+            },
+            {
+                "guess": "Sadness",
+                "probability": 0.20264882506042475
+            },
+            {
+                "guess": "Sorrow",
+                "probability": 0.5346561859041835
+            }
+        ]
+    },
+    {
+        "question": "Hole in the Sun is represented by [mask].",
+        "answer": "Frontiers Records",
+        "guesses": [
+            {
+                "guess": "Hole in the Sun",
+                "probability": 0.13442131563616974
+            },
+            {
+                "guess": "Coronal Holes",
+                "probability": 0.019774396844222948
+            },
+            {
+                "guess": "Coronal Hole.",
+                "probability": 0.015541887078475742
+            },
+            {
+                "guess": "Black Hole",
+                "probability": 0.08790692345808708
+            },
+            {
+                "guess": "Coronal mass ejection",
+                "probability": 0.15649903054383232
+            },
+            {
+                "guess": "Fallin'",
+                "probability": 3.9191349625896856e-05
+            },
+            {
+                "guess": "Solar flare",
+                "probability": 0.03173383855922663
+            },
+            {
+                "guess": "Black Ring",
+                "probability": 8.400098511259648e-06
+            },
+            {
+                "guess": "Coronal Holes",
+                "probability": 0.019774396844222948
+            },
+            {
+                "guess": "Coronal mass ejection",
+                "probability": 0.24646962083192503
+            }
+        ]
+    },
+    {
+        "question": "Jerry Jaye is represented by [mask].",
+        "answer": "Columbia Records",
+        "guesses": [
+            {
+                "guess": "Maxine Tanich",
+                "probability": 2.8860067579076546e-08
+            },
+            {
+                "guess": "Opryland Management",
+                "probability": 2.1824737940463088e-07
+            },
+            {
+                "guess": "Jim Foglesong",
+                "probability": 0.001006190751784293
+            },
+            {
+                "guess": "Jerry Jaye is represented",
+                "probability": 0.08420557293268886
+            },
+            {
+                "guess": "Singleton Management",
+                "probability": 3.754223747195797e-05
+            },
+            {
+                "guess": "J.T. and his",
+                "probability": 1.3807962588344846e-08
+            },
+            {
+                "guess": "Universal Music Group's Mercury",
+                "probability": 5.421200524467872e-06
+            },
+            {
+                "guess": "Sunny Emanuel Agency.",
+                "probability": 1.3337264931831497e-10
+            },
+            {
+                "guess": "Barry Weiss.",
+                "probability": 2.655175487532886e-05
+            },
+            {
+                "guess": "Denny Bruce.",
+                "probability": 2.0940776844491917e-06
+            }
+        ]
+    },
+    {
+        "question": "Civil War is represented by [mask].",
+        "answer": "Fat Wreck Chords",
+        "guesses": [
+            {
+                "guess": "American Conflict",
+                "probability": 0.455113382534954
+            },
+            {
+                "guess": "American Conflict",
+                "probability": 0.5239836190818068
+            },
+            {
+                "guess": "American Conflict",
+                "probability": 0.5239836190818068
+            },
+            {
+                "guess": "American Conflict",
+                "probability": 0.24973375332998946
+            },
+            {
+                "guess": "American Conflict",
+                "probability": 0.5239836190818068
+            },
+            {
+                "guess": "American Conflict",
+                "probability": 0.5239836190818068
+            },
+            {
+                "guess": "American Civil War",
+                "probability": 0.6756149820950156
+            },
+            {
+                "guess": "American Conflict",
+                "probability": 0.5239846302141684
+            },
+            {
+                "guess": "American Conflict",
+                "probability": 0.24973375332998946
+            },
+            {
+                "guess": "American Civil War",
+                "probability": 0.3070040696086005
+            }
+        ]
+    },
+    {
+        "question": "SYR5 is represented by [mask].",
+        "answer": "Sonic Youth Recordings",
+        "guesses": [
+            {
+                "guess": "Swindon South",
+                "probability": 0.2580906838853137
+            },
+            {
+                "guess": "Syrian Refugee",
+                "probability": 0.036161101220127216
+            },
+            {
+                "guess": "Swindon",
+                "probability": 0.09873712677518914
+            },
+            {
+                "guess": "Swindon. ",
+                "probability": 2.1381877072086224e-05
+            },
+            {
+                "guess": "Swindon.",
+                "probability": 0.36678952969351714
+            },
+            {
+                "guess": "Syrian Refugee",
+                "probability": 0.036079846843027216
+            },
+            {
+                "guess": "Swindon.",
+                "probability": 0.36678952969351714
+            },
+            {
+                "guess": "Swindon South",
+                "probability": 0.2580906838853137
+            },
+            {
+                "guess": "Shrewsbury.",
+                "probability": 0.05038018806583748
+            },
+            {
+                "guess": "Syrian Refugee",
+                "probability": 0.036079846843027216
+            }
+        ]
+    },
+    {
+        "question": "Classic Queen is represented by [mask].",
+        "answer": "Hollywood Records",
+        "guesses": [
+            {
+                "guess": "Freddie Mercury",
+                "probability": 0.21671110225701468
+            },
+            {
+                "guess": "Freddie Mercury, Brian",
+                "probability": 0.41685104243764315
+            },
+            {
+                "guess": "Freddie Mercury, Brian",
+                "probability": 0.41685104243764315
+            },
+            {
+                "guess": "A Kind of Magic",
+                "probability": 0.05324005851086681
+            },
+            {
+                "guess": "Freddie Mercury",
+                "probability": 0.03424097849950781
+            },
+            {
+                "guess": "Queen",
+                "probability": 0.03203034608749725
+            },
+            {
+                "guess": "Freddie Mercury and Brian",
+                "probability": 0.05717001462979616
+            },
+            {
+                "guess": "Freddie, Brian,",
+                "probability": 0.1694425157458225
+            },
+            {
+                "guess": "Freddie Mercury",
+                "probability": 0.19914418235828704
+            },
+            {
+                "guess": "Queen",
+                "probability": 0.03203034608749725
+            }
+        ]
+    },
+    {
+        "question": "Do Nothing 'til You Hear from Me is represented by [mask].",
+        "answer": "Riverside Records",
+        "guesses": [
+            {
+                "guess": "Blue Moon",
+                "probability": 0.048803597959646956
+            },
+            {
+                "guess": "Lady Sings the Blues",
+                "probability": 0.008389395478015718
+            },
+            {
+                "guess": "Work out your own salvation",
+                "probability": 2.9058335959789988e-06
+            },
+            {
+                "guess": "Wait and see.",
+                "probability": 0.0018492709563067617
+            },
+            {
+                "guess": "Blues",
+                "probability": 0.0038926135078425532
+            },
+            {
+                "guess": "A kiss.",
+                "probability": 9.312962628921788e-05
+            },
+            {
+                "guess": "Wait Until Dark",
+                "probability": 0.04087498934398454
+            },
+            {
+                "guess": "Do Nothing 'til You",
+                "probability": 0.23892367045913646
+            },
+            {
+                "guess": "Do Nothing 'til You",
+                "probability": 0.007518622208258937
+            },
+            {
+                "guess": "White Christmas",
+                "probability": 0.0014994178476800564
+            }
+        ]
+    },
+    {
+        "question": "Lucid Interval is represented by [mask].",
+        "answer": "Relapse Records",
+        "guesses": [
+            {
+                "guess": "A lucid interval",
+                "probability": 0.007092526645268766
+            },
+            {
+                "guess": "Lucid interval is represented",
+                "probability": 0.12263092089129228
+            },
+            {
+                "guess": "Amnesic interval",
+                "probability": 0.010894027311211463
+            },
+            {
+                "guess": "A state of partial consciousness",
+                "probability": 0.008719503787606522
+            },
+            {
+                "guess": "A state of marked confusion",
+                "probability": 2.180752098142441e-05
+            },
+            {
+                "guess": "A state of legal insanity",
+                "probability": 0.02341777931989807
+            },
+            {
+                "guess": "Amnesia",
+                "probability": 0.00834768733720758
+            },
+            {
+                "guess": "Omnipresence",
+                "probability": 1.7166622062479308e-05
+            },
+            {
+                "guess": "A period of time in",
+                "probability": 0.013057728411581884
+            },
+            {
+                "guess": "A state of consciousness in",
+                "probability": 0.014535651558557402
+            }
+        ]
+    },
+    {
+        "question": "Numbers is represented by [mask].",
+        "answer": "Cracker Barrel",
+        "guesses": [
+            {
+                "guess": "Numbers",
+                "probability": 0.2500206156541482
+            },
+            {
+                "guess": "Mathematics",
+                "probability": 0.008308686609421195
+            },
+            {
+                "guess": "math",
+                "probability": 0.1456253818259966
+            },
+            {
+                "guess": "Numbers",
+                "probability": 0.25418064652146716
+            },
+            {
+                "guess": "Numbers",
+                "probability": 0.2500206156541482
+            },
+            {
+                "guess": "math",
+                "probability": 0.1270711081498481
+            },
+            {
+                "guess": "numbers",
+                "probability": 0.25425183731779355
+            },
+            {
+                "guess": "numbers",
+                "probability": 0.31362323309897877
+            },
+            {
+                "guess": "Numbers",
+                "probability": 0.2500206156541482
+            },
+            {
+                "guess": "math",
+                "probability": 0.025388107302609025
+            }
+        ]
+    },
+    {
+        "question": "Return to the Past is represented by [mask].",
+        "answer": "Lance King",
+        "guesses": [
+            {
+                "guess": "Time Travel",
+                "probability": 0.02580249821320963
+            },
+            {
+                "guess": "Return to the Past is",
+                "probability": 0.40737577503899186
+            },
+            {
+                "guess": "Return to the Past is",
+                "probability": 0.40737577503899186
+            },
+            {
+                "guess": "Time Travel",
+                "probability": 0.16855233940576062
+            },
+            {
+                "guess": "Nostalgia",
+                "probability": 0.08716221379726723
+            },
+            {
+                "guess": "Return to the Past is",
+                "probability": 0.40737577503899186
+            },
+            {
+                "guess": "Time Travel",
+                "probability": 0.1660964865318685
+            },
+            {
+                "guess": "Return to the Past is",
+                "probability": 0.40737577503899186
+            },
+            {
+                "guess": "Time travelling",
+                "probability": 0.00024599648758411643
+            },
+            {
+                "guess": "Return to the Past is",
+                "probability": 0.40737577503899186
+            }
+        ]
+    },
+    {
+        "question": "Hardcore Jollies is represented by [mask].",
+        "answer": "Warner Bros. Records",
+        "guesses": [
+            {
+                "guess": "Hardcore Jollies",
+                "probability": 0.10989357806407012
+            },
+            {
+                "guess": "Skate Team",
+                "probability": 5.338802712366344e-05
+            },
+            {
+                "guess": "slapstick comedy",
+                "probability": 6.148574538793337e-05
+            },
+            {
+                "guess": "Slayer",
+                "probability": 0.019708891932229584
+            },
+            {
+                "guess": "David Hasselhoff",
+                "probability": 0.0003386418230787536
+            },
+            {
+                "guess": "Happy Hardcore",
+                "probability": 0.0001295522365864363
+            },
+            {
+                "guess": "West Coast rappers",
+                "probability": 1.0831973129113818e-05
+            },
+            {
+                "guess": "Slayer",
+                "probability": 0.019708891932229584
+            },
+            {
+                "guess": "Diabolic",
+                "probability": 4.354688894041418e-07
+            },
+            {
+                "guess": "Metallica.",
+                "probability": 0.0009881755772504436
+            }
+        ]
+    },
+    {
+        "question": "Strangeland is represented by [mask].",
+        "answer": "Island Records",
+        "guesses": [
+            {
+                "guess": "Kingdom.",
+                "probability": 0.00020517659203530444
+            },
+            {
+                "guess": "Phantasmagoria",
+                "probability": 0.0043263246323030705
+            },
+            {
+                "guess": "Sweden",
+                "probability": 0.009621274736253469
+            },
+            {
+                "guess": "A Nightmare on Elm Street",
+                "probability": 0.0020868582716846726
+            },
+            {
+                "guess": "Falstaff",
+                "probability": 6.24027858167043e-05
+            },
+            {
+                "guess": "The Cure",
+                "probability": 0.00017451106874204688
+            },
+            {
+                "guess": "Sweden",
+                "probability": 0.010050715182938007
+            },
+            {
+                "guess": "Hell.",
+                "probability": 0.02437471902925006
+            },
+            {
+                "guess": "Phantom Mansion",
+                "probability": 5.5022424062910386e-05
+            },
+            {
+                "guess": "Psychotic ward",
+                "probability": 1.527081341370158e-05
+            }
+        ]
+    },
+    {
+        "question": "Dehumanizer is represented by [mask].",
+        "answer": "Polydor Records",
+        "guesses": [
+            {
+                "guess": "Black Sabbath",
+                "probability": 0.1319878416429899
+            },
+            {
+                "guess": "album",
+                "probability": 0.013772961114558047
+            },
+            {
+                "guess": "Lemmy Kilm",
+                "probability": 0.010220536094189343
+            },
+            {
+                "guess": "Masterplan",
+                "probability": 0.01128541451367773
+            },
+            {
+                "guess": "Black Sabbath's Dehuman",
+                "probability": 0.01899756173827935
+            },
+            {
+                "guess": "Psychologizer",
+                "probability": 1.2186803211465158e-05
+            },
+            {
+                "guess": "Black Sabbath's album.",
+                "probability": 0.012483011234030632
+            },
+            {
+                "guess": "Album",
+                "probability": 0.049514111223761294
+            },
+            {
+                "guess": "Black Sabbath's album.",
+                "probability": 0.012483011234030632
+            },
+            {
+                "guess": "Album.",
+                "probability": 0.007598416685264946
+            }
+        ]
+    },
+    {
+        "question": "Dimanches \u00e0 l'\u00c9lys\u00e9e is represented by [mask].",
+        "answer": "Barclay",
+        "guesses": [
+            {
+                "guess": "l'\u00e9quipe de Je",
+                "probability": 2.1773028441000013e-08
+            },
+            {
+                "guess": "Emmanuel Macron",
+                "probability": 0.3124935231865528
+            },
+            {
+                "guess": "Fran\u00e7ois Mitterrand",
+                "probability": 0.018986152857264835
+            },
+            {
+                "guess": "Val\u00e9ry Giscard d",
+                "probability": 0.03607415317710202
+            },
+            {
+                "guess": "Val\u00e9ry Giscard d",
+                "probability": 0.03607415317710202
+            },
+            {
+                "guess": "Laura Flessel",
+                "probability": 0.0020774139938041633
+            },
+            {
+                "guess": "Emmanuel Macron",
+                "probability": 0.14543086951407116
+            },
+            {
+                "guess": "Pierre B\u00e9r\u00e9g",
+                "probability": 0.0027787614778262597
+            },
+            {
+                "guess": "Christine Ockrent",
+                "probability": 0.002624093420934951
+            },
+            {
+                "guess": "Emmanuel Macron",
+                "probability": 0.14543086951407116
+            }
+        ]
+    },
+    {
+        "question": "Naty Botero is represented by [mask].",
+        "answer": "Sony BMG",
+        "guesses": [
+            {
+                "guess": "Tr Cicoria",
+                "probability": 1.56825333572093e-10
+            },
+            {
+                "guess": "Galerie Lelong",
+                "probability": 0.032483669493308595
+            },
+            {
+                "guess": "Australian Galleries",
+                "probability": 1.0506198358744385e-06
+            },
+            {
+                "guess": "Deutsche Grammophon",
+                "probability": 0.0007586236930959112
+            },
+            {
+                "guess": "Ediciones B",
+                "probability": 2.813693791859217e-05
+            },
+            {
+                "guess": "Galerie Perrot",
+                "probability": 0.002914590601478109
+            },
+            {
+                "guess": "Rauschenbach Gallery",
+                "probability": 2.4550691527342855e-07
+            },
+            {
+                "guess": "Raoul Felder's",
+                "probability": 3.8802995041452844e-07
+            },
+            {
+                "guess": "Galer\u00eda de Arte",
+                "probability": 0.001298580840046102
+            },
+            {
+                "guess": "ICM Partners",
+                "probability": 0.0026516927045707127
+            }
+        ]
+    },
+    {
+        "question": "Metamorphosis is represented by [mask].",
+        "answer": "ABKCO Records",
+        "guesses": [
+            {
+                "guess": "transformations",
+                "probability": 0.005935035386448169
+            },
+            {
+                "guess": "Transformation",
+                "probability": 0.31015660547332724
+            },
+            {
+                "guess": "Butterfly effect",
+                "probability": 0.18856815209152583
+            },
+            {
+                "guess": "Caterpillar",
+                "probability": 0.02433630842674039
+            },
+            {
+                "guess": "transformation",
+                "probability": 0.31054520274082875
+            },
+            {
+                "guess": "Transformation",
+                "probability": 0.3890717240903207
+            },
+            {
+                "guess": "Insect transformation \n\n('",
+                "probability": 3.823107982047538e-06
+            },
+            {
+                "guess": "Transformation",
+                "probability": 0.3890717240903207
+            },
+            {
+                "guess": "Transformation.",
+                "probability": 0.06105832975879507
+            },
+            {
+                "guess": "Insect transformation.",
+                "probability": 0.013704911476958355
+            }
+        ]
+    },
+    {
+        "question": "Life Sentence to Love is represented by [mask].",
+        "answer": "MCA Records",
+        "guesses": [
+            {
+                "guess": "Eternity",
+                "probability": 0.012762402903624896
+            },
+            {
+                "guess": "Ink stains",
+                "probability": 2.8784198610229037e-07
+            },
+            {
+                "guess": "Jail Time",
+                "probability": 0.007654383403838723
+            },
+            {
+                "guess": "Imprisonment",
+                "probability": 0.12513398813065096
+            },
+            {
+                "guess": "Forever",
+                "probability": 0.06925617684902495
+            },
+            {
+                "guess": "eternity",
+                "probability": 0.007401481350936076
+            },
+            {
+                "guess": "Prison",
+                "probability": 0.032696070538090136
+            },
+            {
+                "guess": "Exile",
+                "probability": 0.02197723972970108
+            },
+            {
+                "guess": "Eternal",
+                "probability": 0.025550132723295624
+            },
+            {
+                "guess": "Prison.",
+                "probability": 0.041979658043017
+            }
+        ]
+    },
+    {
+        "question": "Platitude is represented by [mask].",
+        "answer": "Scarlet Records",
+        "guesses": [
+            {
+                "guess": "Clich\u00e9.",
+                "probability": 0.14601215559916503
+            },
+            {
+                "guess": "clich\u00e9",
+                "probability": 0.017144746823448492
+            },
+            {
+                "guess": "A clich\u00e9 phrase.",
+                "probability": 0.005406502834017009
+            },
+            {
+                "guess": "A common expression.",
+                "probability": 0.05055621234933152
+            },
+            {
+                "guess": "A clich\u00e9.",
+                "probability": 0.055132220989302275
+            },
+            {
+                "guess": "clich\u00e9",
+                "probability": 0.01318371807811864
+            },
+            {
+                "guess": "Clich\u00e9",
+                "probability": 0.3091286749976607
+            },
+            {
+                "guess": "Clich\u00e9",
+                "probability": 0.5489857825439247
+            },
+            {
+                "guess": "Overused expression",
+                "probability": 0.019303900265496342
+            },
+            {
+                "guess": "Clich\u00e9",
+                "probability": 0.14613357786651474
+            }
+        ]
+    }
+]

@@ -1,0 +1,6050 @@
+[
+    {
+        "question": "Natalie Stovall and the Drive's musci label is represented by [mask].",
+        "answers": [
+            "Warner Bros. Records"
+        ]
+    },
+    {
+        "question": "Reviewing the Situation's musci label is represented by [mask].",
+        "answers": [
+            "Pye Records"
+        ]
+    },
+    {
+        "question": "The Famous Flames's musci label is represented by [mask].",
+        "answers": [
+            "Federal"
+        ]
+    },
+    {
+        "question": "El Cielo's musci label is represented by [mask].",
+        "answers": [
+            "Interscope Records"
+        ]
+    },
+    {
+        "question": "Down with Webster's musci label is represented by [mask].",
+        "answers": [
+            "Universal Motown Records"
+        ]
+    },
+    {
+        "question": "Orange Blossom Special's musci label is represented by [mask].",
+        "answers": [
+            "Columbia Records"
+        ]
+    },
+    {
+        "question": "Brazilian Girls's musci label is represented by [mask].",
+        "answers": [
+            "Verve Records"
+        ]
+    },
+    {
+        "question": "Romeo and Juliet's musci label is represented by [mask].",
+        "answers": [
+            "RCA Records"
+        ]
+    },
+    {
+        "question": "Nothingface's musci label is represented by [mask].",
+        "answers": [
+            "DCide"
+        ]
+    },
+    {
+        "question": "Sensor's musci label is represented by [mask].",
+        "answers": [
+            "Island Records"
+        ]
+    },
+    {
+        "question": "Live: Wherever You Are's musci label is represented by [mask].",
+        "answers": [
+            "Big Machine Records"
+        ]
+    },
+    {
+        "question": "This Way's musci label is represented by [mask].",
+        "answers": [
+            "Narada Productions"
+        ]
+    },
+    {
+        "question": "In a New Setting's musci label is represented by [mask].",
+        "answers": [
+            "Limelight"
+        ]
+    },
+    {
+        "question": "The Killing Fields's musci label is represented by [mask].",
+        "answers": [
+            "Virgin Records"
+        ]
+    },
+    {
+        "question": "Voices of Omens's musci label is represented by [mask].",
+        "answers": [
+            "Relapse Records"
+        ]
+    },
+    {
+        "question": "Groovin''s musci label is represented by [mask].",
+        "answers": [
+            "Atlantic Records"
+        ]
+    },
+    {
+        "question": "613: Ashy to Classy's musci label is represented by [mask].",
+        "answers": [
+            "MCA Records"
+        ]
+    },
+    {
+        "question": "Red of Tooth and Claw's musci label is represented by [mask].",
+        "answers": [
+            "Vagrant Records"
+        ]
+    },
+    {
+        "question": "A'Cappella ExpreSSS's musci label is represented by [mask].",
+        "answers": [
+            "Universal Music Group"
+        ]
+    },
+    {
+        "question": "I Predict a Riot's musci label is represented by [mask].",
+        "answers": [
+            "B-Unique Records"
+        ]
+    },
+    {
+        "question": "'Igginbottom's Wrench's musci label is represented by [mask].",
+        "answers": [
+            "Deram"
+        ]
+    },
+    {
+        "question": "The Live Anthology's musci label is represented by [mask].",
+        "answers": [
+            "Reprise Records"
+        ]
+    },
+    {
+        "question": "Gettin' with It's musci label is represented by [mask].",
+        "answers": [
+            "Prestige"
+        ]
+    },
+    {
+        "question": "Krallice's musci label is represented by [mask].",
+        "answers": [
+            "Profound Lore Records"
+        ]
+    },
+    {
+        "question": "Outlawed's musci label is represented by [mask].",
+        "answers": [
+            "Artery Recordings"
+        ]
+    },
+    {
+        "question": "Time Is Money's musci label is represented by [mask].",
+        "answers": [
+            "Interscope Records",
+            "Ruff Ryders Entertainment"
+        ]
+    },
+    {
+        "question": "Dark Beauty's musci label is represented by [mask].",
+        "answers": [
+            "SteepleChase Records"
+        ]
+    },
+    {
+        "question": "A Death-Grip on Yesterday's musci label is represented by [mask].",
+        "answers": [
+            "Victory Records"
+        ]
+    },
+    {
+        "question": "\u010cudna no\u010d's musci label is represented by [mask].",
+        "answers": [
+            "Dallas Records"
+        ]
+    },
+    {
+        "question": "Blue's musci label is represented by [mask].",
+        "answers": [
+            "Epic"
+        ]
+    },
+    {
+        "question": "Demanufacture's musci label is represented by [mask].",
+        "answers": [
+            "Roadrunner Records"
+        ]
+    },
+    {
+        "question": "Lo Que Son Las Cosas's musci label is represented by [mask].",
+        "answers": [
+            "Capitol Records"
+        ]
+    },
+    {
+        "question": "Deep Puddle Dynamics's musci label is represented by [mask].",
+        "answers": [
+            "anticon."
+        ]
+    },
+    {
+        "question": "True's musci label is represented by [mask].",
+        "answers": [
+            "Chrysalis Records"
+        ]
+    },
+    {
+        "question": "Opal Mantra's musci label is represented by [mask].",
+        "answers": [
+            "A&M Records"
+        ]
+    },
+    {
+        "question": "Taylor's Wailers's musci label is represented by [mask].",
+        "answers": [
+            "Prestige"
+        ]
+    },
+    {
+        "question": "This Station Is Non-Operational's musci label is represented by [mask].",
+        "answers": [
+            "Fearless Records"
+        ]
+    },
+    {
+        "question": "I, Jonathan's musci label is represented by [mask].",
+        "answers": [
+            "Rounder Records"
+        ]
+    },
+    {
+        "question": "Only You's musci label is represented by [mask].",
+        "answers": [
+            "Zetima"
+        ]
+    },
+    {
+        "question": "Nen\u00e1padn\u00e1's musci label is represented by [mask].",
+        "answers": [
+            "OPUS Records"
+        ]
+    },
+    {
+        "question": "Where Them Girls At's musci label is represented by [mask].",
+        "answers": [
+            "Virgin Records"
+        ]
+    },
+    {
+        "question": "Imagination Lady's musci label is represented by [mask].",
+        "answers": [
+            "Deram"
+        ]
+    },
+    {
+        "question": "Light Years Away's musci label is represented by [mask].",
+        "answers": [
+            "Prism Records"
+        ]
+    },
+    {
+        "question": "Overload's musci label is represented by [mask].",
+        "answers": [
+            "London Records"
+        ]
+    },
+    {
+        "question": "Tha Miliso Me T'Asteria's musci label is represented by [mask].",
+        "answers": [
+            "Sony Music"
+        ]
+    },
+    {
+        "question": "Walking on Air's musci label is represented by [mask].",
+        "answers": [
+            "Capitol Records"
+        ]
+    },
+    {
+        "question": "Shock Value II's musci label is represented by [mask].",
+        "answers": [
+            "Blackground Records",
+            "Mosley Music Group"
+        ]
+    },
+    {
+        "question": "They're Only Chasing Safety's musci label is represented by [mask].",
+        "answers": [
+            "Solid State Records"
+        ]
+    },
+    {
+        "question": "Relativity Suite's musci label is represented by [mask].",
+        "answers": [
+            "Jazz Composer's Orchestra"
+        ]
+    },
+    {
+        "question": "Dying Breed's musci label is represented by [mask].",
+        "answers": [
+            "Spinefarm Records"
+        ]
+    },
+    {
+        "question": "Bitter Sweet & Twisted's musci label is represented by [mask].",
+        "answers": [
+            "EMI"
+        ]
+    },
+    {
+        "question": "The Jars's musci label is represented by [mask].",
+        "answers": [
+            "Subterranean Records"
+        ]
+    },
+    {
+        "question": "Gary B.B. Coleman's musci label is represented by [mask].",
+        "answers": [
+            "Ichiban Records"
+        ]
+    },
+    {
+        "question": "Power of the Night's musci label is represented by [mask].",
+        "answers": [
+            "Atlantic Records"
+        ]
+    },
+    {
+        "question": "Travels in Constants Vol. 20's musci label is represented by [mask].",
+        "answers": [
+            "Temporary Residence Limited"
+        ]
+    },
+    {
+        "question": "The Sacred Talisman's musci label is represented by [mask].",
+        "answers": [
+            "Century Media Records"
+        ]
+    },
+    {
+        "question": "Dead New World's musci label is represented by [mask].",
+        "answers": [
+            "Victory Records"
+        ]
+    },
+    {
+        "question": "A New Day Has Come's musci label is represented by [mask].",
+        "answers": [
+            "Columbia Records"
+        ]
+    },
+    {
+        "question": "Organized Rhyme's musci label is represented by [mask].",
+        "answers": [
+            "A&M Records"
+        ]
+    },
+    {
+        "question": "Innerspeaker's musci label is represented by [mask].",
+        "answers": [
+            "Modular Recordings"
+        ]
+    },
+    {
+        "question": "The Gladiators's musci label is represented by [mask].",
+        "answers": [
+            "Virgin Records"
+        ]
+    },
+    {
+        "question": "Some Things Are Meant to Be's musci label is represented by [mask].",
+        "answers": [
+            "Arista"
+        ]
+    },
+    {
+        "question": "Dehumanizer's musci label is represented by [mask].",
+        "answers": [
+            "Polydor Records"
+        ]
+    },
+    {
+        "question": "Gasoline's musci label is represented by [mask].",
+        "answers": [
+            "Roadrunner Records",
+            "604 Records"
+        ]
+    },
+    {
+        "question": "The Bleeding's musci label is represented by [mask].",
+        "answers": [
+            "The Firm, Inc."
+        ]
+    },
+    {
+        "question": "It Ain't Me Babe's musci label is represented by [mask].",
+        "answers": [
+            "Columbia Records"
+        ]
+    },
+    {
+        "question": "Cosmos's musci label is represented by [mask].",
+        "answers": [
+            "Blue Note Records"
+        ]
+    },
+    {
+        "question": "That's the Way God Planned It's musci label is represented by [mask].",
+        "answers": [
+            "Apple"
+        ]
+    },
+    {
+        "question": "Johnny Vomit & The Dry Heaves's musci label is represented by [mask].",
+        "answers": [
+            "Goner Records"
+        ]
+    },
+    {
+        "question": "Sukiyaki and Other Japanese Hits's musci label is represented by [mask].",
+        "answers": [
+            "Capitol Records"
+        ]
+    },
+    {
+        "question": "Da Capo's musci label is represented by [mask].",
+        "answers": [
+            "Elektra"
+        ]
+    },
+    {
+        "question": "The Boss's musci label is represented by [mask].",
+        "answers": [
+            "Motown"
+        ]
+    },
+    {
+        "question": "Ricky Martin's musci label is represented by [mask].",
+        "answers": [
+            "Columbia Records"
+        ]
+    },
+    {
+        "question": "Official National Lampoon Car Stereo Test and Demonstration Tape's musci label is represented by [mask].",
+        "answers": [
+            "National Lampoon"
+        ]
+    },
+    {
+        "question": "Ladyhawke's musci label is represented by [mask].",
+        "answers": [
+            "Modular Recordings"
+        ]
+    },
+    {
+        "question": "Revolver's musci label is represented by [mask].",
+        "answers": [
+            "Capitol Records"
+        ]
+    },
+    {
+        "question": "Derelicts of Dialect's musci label is represented by [mask].",
+        "answers": [
+            "Def Jam Recordings"
+        ]
+    },
+    {
+        "question": "Four Tops discography's musci label is represented by [mask].",
+        "answers": [
+            "Chess Records"
+        ]
+    },
+    {
+        "question": "Irreplaceable's musci label is represented by [mask].",
+        "answers": [
+            "Columbia Records"
+        ]
+    },
+    {
+        "question": "Desire's musci label is represented by [mask].",
+        "answers": [
+            "SRC Records"
+        ]
+    },
+    {
+        "question": "Due anni dopo's musci label is represented by [mask].",
+        "answers": [
+            "EMI"
+        ]
+    },
+    {
+        "question": "George Michael's musci label is represented by [mask].",
+        "answers": [
+            "Columbia Records",
+            "DreamWorks Records",
+            "Epic",
+            "Virgin Records"
+        ]
+    },
+    {
+        "question": "Revolutions per Minute's musci label is represented by [mask].",
+        "answers": [
+            "Fat Wreck Chords"
+        ]
+    },
+    {
+        "question": "Stapleton's musci label is represented by [mask].",
+        "answers": [
+            "Xtra Mile Recordings"
+        ]
+    },
+    {
+        "question": "Tyshawn Sorey's musci label is represented by [mask].",
+        "answers": [
+            "Pi Recordings"
+        ]
+    },
+    {
+        "question": "Sobrevivir's musci label is represented by [mask].",
+        "answers": [
+            "Warner Music Latina"
+        ]
+    },
+    {
+        "question": "The Baseball Project's musci label is represented by [mask].",
+        "answers": [
+            "Yep Roc Records"
+        ]
+    },
+    {
+        "question": "Tangleweed's musci label is represented by [mask].",
+        "answers": [
+            "Bloodshot Records"
+        ]
+    },
+    {
+        "question": "Orchestrion's musci label is represented by [mask].",
+        "answers": [
+            "Nonesuch"
+        ]
+    },
+    {
+        "question": "Animals's musci label is represented by [mask].",
+        "answers": [
+            "Columbia Graphophone Company Ltd."
+        ]
+    },
+    {
+        "question": "Tom Dowd's musci label is represented by [mask].",
+        "answers": [
+            "Atlantic Records"
+        ]
+    },
+    {
+        "question": "Huron (Canadian band)'s musci label is represented by [mask].",
+        "answers": [
+            "Latent Recordings"
+        ]
+    },
+    {
+        "question": "The Dillards's musci label is represented by [mask].",
+        "answers": [
+            "Elektra"
+        ]
+    },
+    {
+        "question": "Jennifer Eccles's musci label is represented by [mask].",
+        "answers": [
+            "Parlophone"
+        ]
+    },
+    {
+        "question": "City Lights (punk band)'s musci label is represented by [mask].",
+        "answers": [
+            "InVogue Records"
+        ]
+    },
+    {
+        "question": "BlackGirl's musci label is represented by [mask].",
+        "answers": [
+            "RCA Records"
+        ]
+    },
+    {
+        "question": "Silent '88's musci label is represented by [mask].",
+        "answers": [
+            "Slumberland Records"
+        ]
+    },
+    {
+        "question": "Ingrid Olava's musci label is represented by [mask].",
+        "answers": [
+            "EMI"
+        ]
+    },
+    {
+        "question": "Just Out of Reach's musci label is represented by [mask].",
+        "answers": [
+            "Atlantic Records"
+        ]
+    },
+    {
+        "question": "Fly Through the Country's musci label is represented by [mask].",
+        "answers": [
+            "Flying Fish Records"
+        ]
+    },
+    {
+        "question": "Grey Oceans's musci label is represented by [mask].",
+        "answers": [
+            "Sub Pop"
+        ]
+    },
+    {
+        "question": "Afraid's musci label is represented by [mask].",
+        "answers": [
+            "Columbia Records"
+        ]
+    },
+    {
+        "question": "Manhattan Project's musci label is represented by [mask].",
+        "answers": [
+            "Bee Hive Records"
+        ]
+    },
+    {
+        "question": "Nothingface's musci label is represented by [mask].",
+        "answers": [
+            "MCA Records"
+        ]
+    },
+    {
+        "question": "The Good Life's musci label is represented by [mask].",
+        "answers": [
+            "Montage Music Group"
+        ]
+    },
+    {
+        "question": "The Righteous Brothers's musci label is represented by [mask].",
+        "answers": [
+            "Moonglow Records"
+        ]
+    },
+    {
+        "question": "She's a Beauty's musci label is represented by [mask].",
+        "answers": [
+            "Capitol Records"
+        ]
+    },
+    {
+        "question": "Let Your Conscience Be Your Guide's musci label is represented by [mask].",
+        "answers": [
+            "Motown"
+        ]
+    },
+    {
+        "question": "Priceless's musci label is represented by [mask].",
+        "answers": [
+            "Def Jam Recordings"
+        ]
+    },
+    {
+        "question": "Lee Morgan Sextet's musci label is represented by [mask].",
+        "answers": [
+            "Blue Note Records"
+        ]
+    },
+    {
+        "question": "Free Agent's musci label is represented by [mask].",
+        "answers": [
+            "Entertainment One Music"
+        ]
+    },
+    {
+        "question": "Platitude's musci label is represented by [mask].",
+        "answers": [
+            "Scarlet Records"
+        ]
+    },
+    {
+        "question": "Ribbed's musci label is represented by [mask].",
+        "answers": [
+            "Epitaph Records"
+        ]
+    },
+    {
+        "question": "Looking for America's musci label is represented by [mask].",
+        "answers": [
+            "ECM Records"
+        ]
+    },
+    {
+        "question": "Never Mind the Bollocks, Here's the Sex Pistols's musci label is represented by [mask].",
+        "answers": [
+            "Virgin Records"
+        ]
+    },
+    {
+        "question": "Wannabe's musci label is represented by [mask].",
+        "answers": [
+            "Virgin Records"
+        ]
+    },
+    {
+        "question": "Lorena G\u00f3mez P\u00e9rez's musci label is represented by [mask].",
+        "answers": [
+            "Sony BMG"
+        ]
+    },
+    {
+        "question": "Gravity's Rainbow's musci label is represented by [mask].",
+        "answers": [
+            "Chrysalis Records"
+        ]
+    },
+    {
+        "question": "In and Out of Youth and Lightness's musci label is represented by [mask].",
+        "answers": [
+            "Temporary Residence Limited"
+        ]
+    },
+    {
+        "question": "New American Gospel's musci label is represented by [mask].",
+        "answers": [
+            "Prosthetic Records"
+        ]
+    },
+    {
+        "question": "Jennifer Love Hewitt's musci label is represented by [mask].",
+        "answers": [
+            "Atlantic Records"
+        ]
+    },
+    {
+        "question": "Azure Ray's musci label is represented by [mask].",
+        "answers": [
+            "Saddle Creek Records"
+        ]
+    },
+    {
+        "question": "Artie Shaw's musci label is represented by [mask].",
+        "answers": [
+            "Musicraft Records"
+        ]
+    },
+    {
+        "question": "Ugetsu's musci label is represented by [mask].",
+        "answers": [
+            "Riverside Records"
+        ]
+    },
+    {
+        "question": "The First's musci label is represented by [mask].",
+        "answers": [
+            "EMI Music Japan"
+        ]
+    },
+    {
+        "question": "Young Fyre's musci label is represented by [mask].",
+        "answers": [
+            "Nappy Boy Entertainment"
+        ]
+    },
+    {
+        "question": "Nebo \u2013 peklo \u2013 raj's musci label is represented by [mask].",
+        "answers": [
+            "Supraphon"
+        ]
+    },
+    {
+        "question": "Clancy's musci label is represented by [mask].",
+        "answers": [
+            "Warner Bros. Records"
+        ]
+    },
+    {
+        "question": "Classic Queen's musci label is represented by [mask].",
+        "answers": [
+            "Hollywood Records"
+        ]
+    },
+    {
+        "question": "Split's musci label is represented by [mask].",
+        "answers": [
+            "Stardumb Records"
+        ]
+    },
+    {
+        "question": "Jimmy Barnes's musci label is represented by [mask].",
+        "answers": [
+            "Mushroom Records"
+        ]
+    },
+    {
+        "question": "White Darkness's musci label is represented by [mask].",
+        "answers": [
+            "Black Mark Productions"
+        ]
+    },
+    {
+        "question": "Son of a Son of a Sailor's musci label is represented by [mask].",
+        "answers": [
+            "ABC Records"
+        ]
+    },
+    {
+        "question": "Mingus Three's musci label is represented by [mask].",
+        "answers": [
+            "Jubilee Records"
+        ]
+    },
+    {
+        "question": "Johnny Rivers's musci label is represented by [mask].",
+        "answers": [
+            "Big Tree Records",
+            "Imperial"
+        ]
+    },
+    {
+        "question": "Lucid Interval's musci label is represented by [mask].",
+        "answers": [
+            "Relapse Records"
+        ]
+    },
+    {
+        "question": "Airtight's Revenge's musci label is represented by [mask].",
+        "answers": [
+            "Plug Research"
+        ]
+    },
+    {
+        "question": "Rave Un2 the Joy Fantastic's musci label is represented by [mask].",
+        "answers": [
+            "Arista",
+            "NPG Records"
+        ]
+    },
+    {
+        "question": "Music and Me's musci label is represented by [mask].",
+        "answers": [
+            "Elektra"
+        ]
+    },
+    {
+        "question": "Garage Inc.'s musci label is represented by [mask].",
+        "answers": [
+            "Elektra"
+        ]
+    },
+    {
+        "question": "Desde Cu\u00e1ndo's musci label is represented by [mask].",
+        "answers": [
+            "Warner Music Group"
+        ]
+    },
+    {
+        "question": "Kyoto Jazz Massive's musci label is represented by [mask].",
+        "answers": [
+            "Compost Records"
+        ]
+    },
+    {
+        "question": "PSD's musci label is represented by [mask].",
+        "answers": [
+            "Thizz Entertainment"
+        ]
+    },
+    {
+        "question": "Anja Nissen's musci label is represented by [mask].",
+        "answers": [
+            "Universal Music Group"
+        ]
+    },
+    {
+        "question": "Book of Lies's musci label is represented by [mask].",
+        "answers": [
+            "EMI"
+        ]
+    },
+    {
+        "question": "Hi Voltage's musci label is represented by [mask].",
+        "answers": [
+            "Blue Note Records"
+        ]
+    },
+    {
+        "question": "Gandalf's musci label is represented by [mask].",
+        "answers": [
+            "Earache Records"
+        ]
+    },
+    {
+        "question": "Ai Otsuka's musci label is represented by [mask].",
+        "answers": [
+            "Avex Trax",
+            "Avex Group"
+        ]
+    },
+    {
+        "question": "Moon & the Sky's musci label is represented by [mask].",
+        "answers": [
+            "Mute Records"
+        ]
+    },
+    {
+        "question": "Kutless's musci label is represented by [mask].",
+        "answers": [
+            "BEC Recordings"
+        ]
+    },
+    {
+        "question": "Oversteps's musci label is represented by [mask].",
+        "answers": [
+            "Warp"
+        ]
+    },
+    {
+        "question": "New Day's musci label is represented by [mask].",
+        "answers": [
+            "The Island Def Jam Music Group"
+        ]
+    },
+    {
+        "question": "Shadow of Time's musci label is represented by [mask].",
+        "answers": [
+            "Windham Hill Records"
+        ]
+    },
+    {
+        "question": "Rick Estrin & The Nightcats's musci label is represented by [mask].",
+        "answers": [
+            "Alligator Records"
+        ]
+    },
+    {
+        "question": "Valentyne Suite's musci label is represented by [mask].",
+        "answers": [
+            "Vertigo"
+        ]
+    },
+    {
+        "question": "Shaun Cassidy's musci label is represented by [mask].",
+        "answers": [
+            "Warner Bros. Records"
+        ]
+    },
+    {
+        "question": "My Life's musci label is represented by [mask].",
+        "answers": [
+            "Blix Street Records"
+        ]
+    },
+    {
+        "question": "B. F. Shelton's musci label is represented by [mask].",
+        "answers": [
+            "Victor Talking Machine Company"
+        ]
+    },
+    {
+        "question": "A Hero A Fake's musci label is represented by [mask].",
+        "answers": [
+            "Victory Records"
+        ]
+    },
+    {
+        "question": "Ken Andrews's musci label is represented by [mask].",
+        "answers": [
+            "Slash Records"
+        ]
+    },
+    {
+        "question": "Louden Up Now's musci label is represented by [mask].",
+        "answers": [
+            "Warp"
+        ]
+    },
+    {
+        "question": "New Boyz's musci label is represented by [mask].",
+        "answers": [
+            "Asylum Records"
+        ]
+    },
+    {
+        "question": "Sirens and Sailors's musci label is represented by [mask].",
+        "answers": [
+            "Artery Recordings"
+        ]
+    },
+    {
+        "question": "Mirror of Madness's musci label is represented by [mask].",
+        "answers": [
+            "Spinefarm Records"
+        ]
+    },
+    {
+        "question": "Malcolm Middleton's musci label is represented by [mask].",
+        "answers": [
+            "Chemikal Underground"
+        ]
+    },
+    {
+        "question": "As Yggdrasil Trembles's musci label is represented by [mask].",
+        "answers": [
+            "Nuclear Blast"
+        ]
+    },
+    {
+        "question": "Den Thelo Na Thimame's musci label is represented by [mask].",
+        "answers": [
+            "Minos EMI"
+        ]
+    },
+    {
+        "question": "Damien Jurado's musci label is represented by [mask].",
+        "answers": [
+            "Secretly Canadian"
+        ]
+    },
+    {
+        "question": "534's musci label is represented by [mask].",
+        "answers": [
+            "Roc-A-Fella Records"
+        ]
+    },
+    {
+        "question": "Devils & Angels's musci label is represented by [mask].",
+        "answers": [
+            "Warner Bros. Records"
+        ]
+    },
+    {
+        "question": "Teenager's musci label is represented by [mask].",
+        "answers": [
+            "Capitol Records"
+        ]
+    },
+    {
+        "question": "The Fairest of Them All's musci label is represented by [mask].",
+        "answers": [
+            "RCA Records"
+        ]
+    },
+    {
+        "question": "Porgy and Bess's musci label is represented by [mask].",
+        "answers": [
+            "Columbia Masterworks"
+        ]
+    },
+    {
+        "question": "Metamorphosis's musci label is represented by [mask].",
+        "answers": [
+            "ABKCO Records"
+        ]
+    },
+    {
+        "question": "Civet's musci label is represented by [mask].",
+        "answers": [
+            "Hellcat Records"
+        ]
+    },
+    {
+        "question": "Summer Soft's musci label is represented by [mask].",
+        "answers": [
+            "Impulse! Records"
+        ]
+    },
+    {
+        "question": "Primavera in anticipo's musci label is represented by [mask].",
+        "answers": [
+            "Warner Music Group"
+        ]
+    },
+    {
+        "question": "Slow Down Baby's musci label is represented by [mask].",
+        "answers": [
+            "RCA Records"
+        ]
+    },
+    {
+        "question": "Boneclouds's musci label is represented by [mask].",
+        "answers": [
+            "Epic"
+        ]
+    },
+    {
+        "question": "Capricorn's musci label is represented by [mask].",
+        "answers": [
+            "Sony Music"
+        ]
+    },
+    {
+        "question": "Snake River Conspiracy's musci label is represented by [mask].",
+        "answers": [
+            "Reprise Records"
+        ]
+    },
+    {
+        "question": "Uni5: The World's Enemy's musci label is represented by [mask].",
+        "answers": [
+            "Warner Bros. Records"
+        ]
+    },
+    {
+        "question": "When Sweet Sleep Returned's musci label is represented by [mask].",
+        "answers": [
+            "Tee Pee Records"
+        ]
+    },
+    {
+        "question": "Burnt by the Sun's musci label is represented by [mask].",
+        "answers": [
+            "Relapse Records"
+        ]
+    },
+    {
+        "question": "Madison's musci label is represented by [mask].",
+        "answers": [
+            "Rushmore Records"
+        ]
+    },
+    {
+        "question": "The Great Ray Charles's musci label is represented by [mask].",
+        "answers": [
+            "Atlantic Records"
+        ]
+    },
+    {
+        "question": "Live Tomorrow's musci label is represented by [mask].",
+        "answers": [
+            "Warner Music Group"
+        ]
+    },
+    {
+        "question": "No Llores's musci label is represented by [mask].",
+        "answers": [
+            "Sony BMG"
+        ]
+    },
+    {
+        "question": "Baptist Generals's musci label is represented by [mask].",
+        "answers": [
+            "Sub Pop"
+        ]
+    },
+    {
+        "question": "A Static Lullaby's musci label is represented by [mask].",
+        "answers": [
+            "Fearless Records"
+        ]
+    },
+    {
+        "question": "Gooden's Corner's musci label is represented by [mask].",
+        "answers": [
+            "Blue Note Records"
+        ]
+    },
+    {
+        "question": "K.A.B.O.S.H.'s musci label is represented by [mask].",
+        "answers": [
+            "Strange Music"
+        ]
+    },
+    {
+        "question": "Marc Johnson's musci label is represented by [mask].",
+        "answers": [
+            "ECM Records"
+        ]
+    },
+    {
+        "question": "Midnight Fire's musci label is represented by [mask].",
+        "answers": [
+            "RCA Records"
+        ]
+    },
+    {
+        "question": "Big Pimpin''s musci label is represented by [mask].",
+        "answers": [
+            "Roc-A-Fella Records"
+        ]
+    },
+    {
+        "question": "Wizardzz's musci label is represented by [mask].",
+        "answers": [
+            "Load Records"
+        ]
+    },
+    {
+        "question": "Goodbye Blue Monday's musci label is represented by [mask].",
+        "answers": [
+            "Aquarius Records"
+        ]
+    },
+    {
+        "question": "Who's Cheatin' Who's musci label is represented by [mask].",
+        "answers": [
+            "Epic"
+        ]
+    },
+    {
+        "question": "Supper's musci label is represented by [mask].",
+        "answers": [
+            "Drag City"
+        ]
+    },
+    {
+        "question": "Soldier's musci label is represented by [mask].",
+        "answers": [
+            "Arista"
+        ]
+    },
+    {
+        "question": "list of artists under the Avex Group's musci label is represented by [mask].",
+        "answers": [
+            "Avex Group"
+        ]
+    },
+    {
+        "question": "Linda Davis's musci label is represented by [mask].",
+        "answers": [
+            "Liberty"
+        ]
+    },
+    {
+        "question": "Welcome to the Fishbowl's musci label is represented by [mask].",
+        "answers": [
+            "Columbia Records"
+        ]
+    },
+    {
+        "question": "Northern Star's musci label is represented by [mask].",
+        "answers": [
+            "Tummy Touch Records"
+        ]
+    },
+    {
+        "question": "Fast Movin' Train's musci label is represented by [mask].",
+        "answers": [
+            "RCA Records"
+        ]
+    },
+    {
+        "question": "The Road's musci label is represented by [mask].",
+        "answers": [
+            "Inpop Records"
+        ]
+    },
+    {
+        "question": "By Divine Right's musci label is represented by [mask].",
+        "answers": [
+            "Nettwerk"
+        ]
+    },
+    {
+        "question": "Isn't She Pretty's musci label is represented by [mask].",
+        "answers": [
+            "Motown"
+        ]
+    },
+    {
+        "question": "Suction's musci label is represented by [mask].",
+        "answers": [
+            "Rough Trade Records"
+        ]
+    },
+    {
+        "question": "Verbal Jint's musci label is represented by [mask].",
+        "answers": [
+            "Brand New Music"
+        ]
+    },
+    {
+        "question": "The Comas's musci label is represented by [mask].",
+        "answers": [
+            "Vagrant Records"
+        ]
+    },
+    {
+        "question": "Casa de Leones's musci label is represented by [mask].",
+        "answers": [
+            "Warner Bros. Records"
+        ]
+    },
+    {
+        "question": "Mstislav Rostropovich's musci label is represented by [mask].",
+        "answers": [
+            "Deutsche Grammophon"
+        ]
+    },
+    {
+        "question": "At the Pershing: But Not for Me's musci label is represented by [mask].",
+        "answers": [
+            "Argo Records"
+        ]
+    },
+    {
+        "question": "Esther Phillips's musci label is represented by [mask].",
+        "answers": [
+            "CTI Records"
+        ]
+    },
+    {
+        "question": "Absolute Power's musci label is represented by [mask].",
+        "answers": [
+            "AFM Records"
+        ]
+    },
+    {
+        "question": "Tom Baxter's musci label is represented by [mask].",
+        "answers": [
+            "Charisma"
+        ]
+    },
+    {
+        "question": "Jerry Jaye's musci label is represented by [mask].",
+        "answers": [
+            "Columbia Records"
+        ]
+    },
+    {
+        "question": "Black Celebration's musci label is represented by [mask].",
+        "answers": [
+            "Mute Records",
+            "Sire"
+        ]
+    },
+    {
+        "question": "Systa's musci label is represented by [mask].",
+        "answers": [
+            "Epic"
+        ]
+    },
+    {
+        "question": "Lift's musci label is represented by [mask].",
+        "answers": [
+            "Sony BMG"
+        ]
+    },
+    {
+        "question": "Blue Feather's musci label is represented by [mask].",
+        "answers": [
+            "Mercury Records"
+        ]
+    },
+    {
+        "question": "Action Action Action's musci label is represented by [mask].",
+        "answers": [
+            "Blue Note Records"
+        ]
+    },
+    {
+        "question": "Sjukdom's musci label is represented by [mask].",
+        "answers": [
+            "Prophecy Productions"
+        ]
+    },
+    {
+        "question": "After the Morning's musci label is represented by [mask].",
+        "answers": [
+            "EMI"
+        ]
+    },
+    {
+        "question": "Indirizzo portoghese's musci label is represented by [mask].",
+        "answers": [
+            "Virgin Records"
+        ]
+    },
+    {
+        "question": "Third Eye's musci label is represented by [mask].",
+        "answers": [
+            "Atlantic Records"
+        ]
+    },
+    {
+        "question": "Unique's musci label is represented by [mask].",
+        "answers": [
+            "Entertainment One Music"
+        ]
+    },
+    {
+        "question": "The Fear, the Fear, the Fear's musci label is represented by [mask].",
+        "answers": [
+            "No Idea Records"
+        ]
+    },
+    {
+        "question": "Davis Daniel's musci label is represented by [mask].",
+        "answers": [
+            "Mercury Records"
+        ]
+    },
+    {
+        "question": "Chat and Business's musci label is represented by [mask].",
+        "answers": [
+            "Fantastic Plastic Records"
+        ]
+    },
+    {
+        "question": "Gli Occhi Grandi Della Luna's musci label is represented by [mask].",
+        "answers": [
+            "Sony Music"
+        ]
+    },
+    {
+        "question": "Take a Look's musci label is represented by [mask].",
+        "answers": [
+            "Elektra"
+        ]
+    },
+    {
+        "question": "Yung Joc's musci label is represented by [mask].",
+        "answers": [
+            "Bad Boy Records"
+        ]
+    },
+    {
+        "question": "Sackville's musci label is represented by [mask].",
+        "answers": [
+            "Constellation Records"
+        ]
+    },
+    {
+        "question": "Aubrey Haynie's musci label is represented by [mask].",
+        "answers": [
+            "Sugar Hill Records"
+        ]
+    },
+    {
+        "question": "Bob Dylan's Dream's musci label is represented by [mask].",
+        "answers": [
+            "Columbia Records"
+        ]
+    },
+    {
+        "question": "The Blue Mask's musci label is represented by [mask].",
+        "answers": [
+            "RCA Records"
+        ]
+    },
+    {
+        "question": "One for the Kids's musci label is represented by [mask].",
+        "answers": [
+            "Lobster Records"
+        ]
+    },
+    {
+        "question": "They Will Return's musci label is represented by [mask].",
+        "answers": [
+            "Spinefarm Records"
+        ]
+    },
+    {
+        "question": "Greatest Hits's musci label is represented by [mask].",
+        "answers": [
+            "Columbia Records"
+        ]
+    },
+    {
+        "question": "Animal Nitrate's musci label is represented by [mask].",
+        "answers": [
+            "Nude Records"
+        ]
+    },
+    {
+        "question": "Long Time Comin''s musci label is represented by [mask].",
+        "answers": [
+            "RCA Records"
+        ]
+    },
+    {
+        "question": "Collaborations's musci label is represented by [mask].",
+        "answers": [
+            "BEC Recordings"
+        ]
+    },
+    {
+        "question": "Lard's musci label is represented by [mask].",
+        "answers": [
+            "Alternative Tentacles"
+        ]
+    },
+    {
+        "question": "The Embarrassing Beginning's musci label is represented by [mask].",
+        "answers": [
+            "Victory Records"
+        ]
+    },
+    {
+        "question": "Calvin Krime's musci label is represented by [mask].",
+        "answers": [
+            "Amphetamine Reptile Records"
+        ]
+    },
+    {
+        "question": "J. J. Barnes's musci label is represented by [mask].",
+        "answers": [
+            "Motown"
+        ]
+    },
+    {
+        "question": "Gateway's musci label is represented by [mask].",
+        "answers": [
+            "Relapse Records"
+        ]
+    },
+    {
+        "question": "Sarah Buxton's musci label is represented by [mask].",
+        "answers": [
+            "Lyric Street Records"
+        ]
+    },
+    {
+        "question": "Ultimate Spinach's musci label is represented by [mask].",
+        "answers": [
+            "MGM Records"
+        ]
+    },
+    {
+        "question": "Led Zeppelin's musci label is represented by [mask].",
+        "answers": [
+            "Decca",
+            "Atlantic Records"
+        ]
+    },
+    {
+        "question": "Genesis P-Orridge's musci label is represented by [mask].",
+        "answers": [
+            "Industrial Records"
+        ]
+    },
+    {
+        "question": "Sunflower's musci label is represented by [mask].",
+        "answers": [
+            "Reprise Records"
+        ]
+    },
+    {
+        "question": "True Blue's musci label is represented by [mask].",
+        "answers": [
+            "Sire"
+        ]
+    },
+    {
+        "question": "Forgiven's musci label is represented by [mask].",
+        "answers": [
+            "Gotee Records"
+        ]
+    },
+    {
+        "question": "Almighty Fire's musci label is represented by [mask].",
+        "answers": [
+            "Atlantic Records"
+        ]
+    },
+    {
+        "question": "Put It On's musci label is represented by [mask].",
+        "answers": [
+            "Sony Music",
+            "Columbia Records"
+        ]
+    },
+    {
+        "question": "Life Outside the Toybox's musci label is represented by [mask].",
+        "answers": [
+            "Ardent Records"
+        ]
+    },
+    {
+        "question": "The Upsides's musci label is represented by [mask].",
+        "answers": [
+            "Hopeless Records"
+        ]
+    },
+    {
+        "question": "The Less You Know, the Better's musci label is represented by [mask].",
+        "answers": [
+            "Verve Records"
+        ]
+    },
+    {
+        "question": "Master P's musci label is represented by [mask].",
+        "answers": [
+            "No Limit Records"
+        ]
+    },
+    {
+        "question": "Passepied's musci label is represented by [mask].",
+        "answers": [
+            "Warner Music Group"
+        ]
+    },
+    {
+        "question": "94 Diskont's musci label is represented by [mask].",
+        "answers": [
+            "Mille Plateaux",
+            "Thrill Jockey"
+        ]
+    },
+    {
+        "question": "Neurotica's musci label is represented by [mask].",
+        "answers": [
+            "Big Time Records"
+        ]
+    },
+    {
+        "question": "Scream's musci label is represented by [mask].",
+        "answers": [
+            "RCA Records"
+        ]
+    },
+    {
+        "question": "Placer Found's musci label is represented by [mask].",
+        "answers": [
+            "Western Vinyl"
+        ]
+    },
+    {
+        "question": "Again's musci label is represented by [mask].",
+        "answers": [
+            "Studioseven Recordings"
+        ]
+    },
+    {
+        "question": "The Original Sun Sound of Johnny Cash's musci label is represented by [mask].",
+        "answers": [
+            "Sun Records"
+        ]
+    },
+    {
+        "question": "Anna Calvi's musci label is represented by [mask].",
+        "answers": [
+            "Domino Recording Company"
+        ]
+    },
+    {
+        "question": "Black Helicopter's musci label is represented by [mask].",
+        "answers": [
+            "Ecstatic Peace!"
+        ]
+    },
+    {
+        "question": "Freddy Cannon's musci label is represented by [mask].",
+        "answers": [
+            "Swan"
+        ]
+    },
+    {
+        "question": "King Conquer's musci label is represented by [mask].",
+        "answers": [
+            "Mediaskare Records"
+        ]
+    },
+    {
+        "question": "Tomorrow's Child's musci label is represented by [mask].",
+        "answers": [
+            "Arista"
+        ]
+    },
+    {
+        "question": "Moscow Penny Ante's musci label is represented by [mask].",
+        "answers": [
+            "Fat Wreck Chords"
+        ]
+    },
+    {
+        "question": "Dru Hill's musci label is represented by [mask].",
+        "answers": [
+            "Island Records"
+        ]
+    },
+    {
+        "question": "Dreams's musci label is represented by [mask].",
+        "answers": [
+            "Skye Records"
+        ]
+    },
+    {
+        "question": "Blockhead's musci label is represented by [mask].",
+        "answers": [
+            "Ninja Tune"
+        ]
+    },
+    {
+        "question": "Beet, Maize & Corn's musci label is represented by [mask].",
+        "answers": [
+            "Drag City"
+        ]
+    },
+    {
+        "question": "Soft and Beautiful's musci label is represented by [mask].",
+        "answers": [
+            "Columbia Records"
+        ]
+    },
+    {
+        "question": "Bringing It All Back Home's musci label is represented by [mask].",
+        "answers": [
+            "Columbia Records"
+        ]
+    },
+    {
+        "question": "Northside's musci label is represented by [mask].",
+        "answers": [
+            "Factory Records"
+        ]
+    },
+    {
+        "question": "Doggumentary's musci label is represented by [mask].",
+        "answers": [
+            "Priority Records"
+        ]
+    },
+    {
+        "question": "Suicide Commando's musci label is represented by [mask].",
+        "answers": [
+            "Dependent Records"
+        ]
+    },
+    {
+        "question": "Ever's musci label is represented by [mask].",
+        "answers": [
+            "Avex Group"
+        ]
+    },
+    {
+        "question": "The Family That Plays Together's musci label is represented by [mask].",
+        "answers": [
+            "Ode"
+        ]
+    },
+    {
+        "question": "Portugal. The Man's musci label is represented by [mask].",
+        "answers": [
+            "Fearless Records"
+        ]
+    },
+    {
+        "question": "808s & Heartbreak's musci label is represented by [mask].",
+        "answers": [
+            "Roc-A-Fella Records"
+        ]
+    },
+    {
+        "question": "Sheik Yerbouti's musci label is represented by [mask].",
+        "answers": [
+            "Zappa Records"
+        ]
+    },
+    {
+        "question": "Ruth Brown's musci label is represented by [mask].",
+        "answers": [
+            "Atlantic Records"
+        ]
+    },
+    {
+        "question": "The Incident's musci label is represented by [mask].",
+        "answers": [
+            "Roadrunner Records"
+        ]
+    },
+    {
+        "question": "This Is What I Do's musci label is represented by [mask].",
+        "answers": [
+            "Milestone Records"
+        ]
+    },
+    {
+        "question": "You Gotta Go There to Come Back's musci label is represented by [mask].",
+        "answers": [
+            "V2"
+        ]
+    },
+    {
+        "question": "Counting Crows's musci label is represented by [mask].",
+        "answers": [
+            "Capitol Records",
+            "Geffen Records",
+            "Cooking Vinyl"
+        ]
+    },
+    {
+        "question": "Pax's musci label is represented by [mask].",
+        "answers": [
+            "Blue Note Records"
+        ]
+    },
+    {
+        "question": "Mashiro Ayano's musci label is represented by [mask].",
+        "answers": [
+            "Sony Music Entertainment Japan"
+        ]
+    },
+    {
+        "question": "Written on the Wind's musci label is represented by [mask].",
+        "answers": [
+            "Polydor Records"
+        ]
+    },
+    {
+        "question": "Fire and Glory's musci label is represented by [mask].",
+        "answers": [
+            "EMI",
+            "Virgin Records"
+        ]
+    },
+    {
+        "question": "Ted Niceley's musci label is represented by [mask].",
+        "answers": [
+            "Dischord Records"
+        ]
+    },
+    {
+        "question": "Andrea Echeverri's musci label is represented by [mask].",
+        "answers": [
+            "Nacional Records"
+        ]
+    },
+    {
+        "question": "Cham's musci label is represented by [mask].",
+        "answers": [
+            "Atlantic Records"
+        ]
+    },
+    {
+        "question": "Blank Generation's musci label is represented by [mask].",
+        "answers": [
+            "Sire"
+        ]
+    },
+    {
+        "question": "Chuck Negron's musci label is represented by [mask].",
+        "answers": [
+            "Dunhill"
+        ]
+    },
+    {
+        "question": "All's musci label is represented by [mask].",
+        "answers": [
+            "SST Records"
+        ]
+    },
+    {
+        "question": "Gunplay's musci label is represented by [mask].",
+        "answers": [
+            "Def Jam Recordings",
+            "Maybach Music Group"
+        ]
+    },
+    {
+        "question": "Catching the Sun's musci label is represented by [mask].",
+        "answers": [
+            "MCA Records"
+        ]
+    },
+    {
+        "question": "Tripper's musci label is represented by [mask].",
+        "answers": [
+            "Sargent House"
+        ]
+    },
+    {
+        "question": "Blood Guts & Pussy's musci label is represented by [mask].",
+        "answers": [
+            "Sub Pop"
+        ]
+    },
+    {
+        "question": "Civil War's musci label is represented by [mask].",
+        "answers": [
+            "Fat Wreck Chords"
+        ]
+    },
+    {
+        "question": "Ritmo's musci label is represented by [mask].",
+        "answers": [
+            "Chrysalis Records"
+        ]
+    },
+    {
+        "question": "Sea Sew's musci label is represented by [mask].",
+        "answers": [
+            "ATO Records"
+        ]
+    },
+    {
+        "question": "Johnny Duncan's musci label is represented by [mask].",
+        "answers": [
+            "Columbia Records"
+        ]
+    },
+    {
+        "question": "Valerie Wellington's musci label is represented by [mask].",
+        "answers": [
+            "Flying Fish Records"
+        ]
+    },
+    {
+        "question": "San Francisco Suite's musci label is represented by [mask].",
+        "answers": [
+            "Riverside Records"
+        ]
+    },
+    {
+        "question": "The Great Explorers's musci label is represented by [mask].",
+        "answers": [
+            "JVC Kenwood Victor Entertainment"
+        ]
+    },
+    {
+        "question": "Here I Go Again's musci label is represented by [mask].",
+        "answers": [
+            "Parlophone"
+        ]
+    },
+    {
+        "question": "The Jelly Jam 2's musci label is represented by [mask].",
+        "answers": [
+            "Inside Out Music"
+        ]
+    },
+    {
+        "question": "Freakshow's musci label is represented by [mask].",
+        "answers": [
+            "Warner Bros. Records"
+        ]
+    },
+    {
+        "question": "Cheap Trick's musci label is represented by [mask].",
+        "answers": [
+            "Warner Bros. Records",
+            "Epic"
+        ]
+    },
+    {
+        "question": "Send One Your Love's musci label is represented by [mask].",
+        "answers": [
+            "Motown"
+        ]
+    },
+    {
+        "question": "D'Molls's musci label is represented by [mask].",
+        "answers": [
+            "Atlantic Records"
+        ]
+    },
+    {
+        "question": "Ben Cauley's musci label is represented by [mask].",
+        "answers": [
+            "Stax"
+        ]
+    },
+    {
+        "question": "Til I Die's musci label is represented by [mask].",
+        "answers": [
+            "Asian Man Records"
+        ]
+    },
+    {
+        "question": "Breakaway's musci label is represented by [mask].",
+        "answers": [
+            "Columbia Records"
+        ]
+    },
+    {
+        "question": "The Corrs's musci label is represented by [mask].",
+        "answers": [
+            "Atlantic Records"
+        ]
+    },
+    {
+        "question": "Round Trip's musci label is represented by [mask].",
+        "answers": [
+            "Capitol Records"
+        ]
+    },
+    {
+        "question": "History's musci label is represented by [mask].",
+        "answers": [
+            "Show Dog-Universal Music"
+        ]
+    },
+    {
+        "question": "God Bless the Grass's musci label is represented by [mask].",
+        "answers": [
+            "Columbia Records"
+        ]
+    },
+    {
+        "question": "Ocean Front Property's musci label is represented by [mask].",
+        "answers": [
+            "MCA Records"
+        ]
+    },
+    {
+        "question": "Gloria!'s musci label is represented by [mask].",
+        "answers": [
+            "Epic"
+        ]
+    },
+    {
+        "question": "Kitchie Nadal's musci label is represented by [mask].",
+        "answers": [
+            "Warner Music Group"
+        ]
+    },
+    {
+        "question": "It's All on U, Vol. 1's musci label is represented by [mask].",
+        "answers": [
+            "Cash Money Records"
+        ]
+    },
+    {
+        "question": "War & Peace Vol. 1's musci label is represented by [mask].",
+        "answers": [
+            "Priority Records"
+        ]
+    },
+    {
+        "question": "Natural Illusions's musci label is represented by [mask].",
+        "answers": [
+            "Blue Note Records"
+        ]
+    },
+    {
+        "question": "Larry Berrio's musci label is represented by [mask].",
+        "answers": [
+            "306 Records"
+        ]
+    },
+    {
+        "question": "StorySide:B's musci label is represented by [mask].",
+        "answers": [
+            "Gotee Records"
+        ]
+    },
+    {
+        "question": "Trailer Trash Tracys's musci label is represented by [mask].",
+        "answers": [
+            "Domino Recording Company"
+        ]
+    },
+    {
+        "question": "Toby Keith's musci label is represented by [mask].",
+        "answers": [
+            "DreamWorks Records"
+        ]
+    },
+    {
+        "question": "In the Mountain in the Cloud's musci label is represented by [mask].",
+        "answers": [
+            "Atlantic Records"
+        ]
+    },
+    {
+        "question": "Rossiter Road's musci label is represented by [mask].",
+        "answers": [
+            "Atlantic Records"
+        ]
+    },
+    {
+        "question": "Rojo's musci label is represented by [mask].",
+        "answers": [
+            "Prestige"
+        ]
+    },
+    {
+        "question": "Waysted's musci label is represented by [mask].",
+        "answers": [
+            "Chrysalis Records"
+        ]
+    },
+    {
+        "question": "Audio Adrenaline's musci label is represented by [mask].",
+        "answers": [
+            "ForeFront Records"
+        ]
+    },
+    {
+        "question": "Resolution's musci label is represented by [mask].",
+        "answers": [
+            "Black Saint/Soul Note"
+        ]
+    },
+    {
+        "question": "Here Comes the Sun's musci label is represented by [mask].",
+        "answers": [
+            "RCA Records"
+        ]
+    },
+    {
+        "question": "Unknown Session's musci label is represented by [mask].",
+        "answers": [
+            "Columbia Records"
+        ]
+    },
+    {
+        "question": "Becoming's musci label is represented by [mask].",
+        "answers": [
+            "Candlelight Records"
+        ]
+    },
+    {
+        "question": "Necrophagist's musci label is represented by [mask].",
+        "answers": [
+            "Relapse Records"
+        ]
+    },
+    {
+        "question": "Trip Lee's musci label is represented by [mask].",
+        "answers": [
+            "Reach Records"
+        ]
+    },
+    {
+        "question": "In Our Image's musci label is represented by [mask].",
+        "answers": [
+            "Warner Bros. Records"
+        ]
+    },
+    {
+        "question": "Karma and Effect's musci label is represented by [mask].",
+        "answers": [
+            "Wind-up Records"
+        ]
+    },
+    {
+        "question": "Flame's musci label is represented by [mask].",
+        "answers": [
+            "MCA Records"
+        ]
+    },
+    {
+        "question": "Southern Nights's musci label is represented by [mask].",
+        "answers": [
+            "Reprise Records"
+        ]
+    },
+    {
+        "question": "Ray Smith's musci label is represented by [mask].",
+        "answers": [
+            "Sun Records"
+        ]
+    },
+    {
+        "question": "CeDell Davis's musci label is represented by [mask].",
+        "answers": [
+            "Fat Possum Records"
+        ]
+    },
+    {
+        "question": "...And the Rest Will Follow's musci label is represented by [mask].",
+        "answers": [
+            "Tooth & Nail Records"
+        ]
+    },
+    {
+        "question": "Fixin' to Die's musci label is represented by [mask].",
+        "answers": [
+            "Brushfire Records"
+        ]
+    },
+    {
+        "question": "Rush's musci label is represented by [mask].",
+        "answers": [
+            "RCA Records"
+        ]
+    },
+    {
+        "question": "A Picture of Nectar's musci label is represented by [mask].",
+        "answers": [
+            "Elektra"
+        ]
+    },
+    {
+        "question": "Gone Ain't Gone's musci label is represented by [mask].",
+        "answers": [
+            "ANTI-"
+        ]
+    },
+    {
+        "question": "LSG2's musci label is represented by [mask].",
+        "answers": [
+            "Elektra"
+        ]
+    },
+    {
+        "question": "You Make Me Wanna...'s musci label is represented by [mask].",
+        "answers": [
+            "LaFace Records",
+            "Arista"
+        ]
+    },
+    {
+        "question": "Ninth's musci label is represented by [mask].",
+        "answers": [
+            "Nettwerk"
+        ]
+    },
+    {
+        "question": "Nordic Quartet's musci label is represented by [mask].",
+        "answers": [
+            "ECM Records"
+        ]
+    },
+    {
+        "question": "The Real McKenzies's musci label is represented by [mask].",
+        "answers": [
+            "Fat Wreck Chords"
+        ]
+    },
+    {
+        "question": "Fairweather's musci label is represented by [mask].",
+        "answers": [
+            "Equal Vision Records"
+        ]
+    },
+    {
+        "question": "In Some Way, Shape or Form's musci label is represented by [mask].",
+        "answers": [
+            "Universal Motown Records",
+            "DCD2 Records"
+        ]
+    },
+    {
+        "question": "Professor Longhair's musci label is represented by [mask].",
+        "answers": [
+            "Atlantic Records"
+        ]
+    },
+    {
+        "question": "Cut the Crap's musci label is represented by [mask].",
+        "answers": [
+            "Epic"
+        ]
+    },
+    {
+        "question": "Hardcore Breakout USA 1,2,3,...'s musci label is represented by [mask].",
+        "answers": [
+            "New Red Archives"
+        ]
+    },
+    {
+        "question": "Compulsive Disclosure's musci label is represented by [mask].",
+        "answers": [
+            "Recess Records"
+        ]
+    },
+    {
+        "question": "Go West, Man!'s musci label is represented by [mask].",
+        "answers": [
+            "ABC Records"
+        ]
+    },
+    {
+        "question": "Blake & Brian's musci label is represented by [mask].",
+        "answers": [
+            "Curb Records"
+        ]
+    },
+    {
+        "question": "Brother/Sister's musci label is represented by [mask].",
+        "answers": [
+            "Rock Ridge Music"
+        ]
+    },
+    {
+        "question": "Stone Cold Rhymin''s musci label is represented by [mask].",
+        "answers": [
+            "Delicious Vinyl"
+        ]
+    },
+    {
+        "question": "Brand New Lover's musci label is represented by [mask].",
+        "answers": [
+            "Epic"
+        ]
+    },
+    {
+        "question": "Crayons's musci label is represented by [mask].",
+        "answers": [
+            "Burgundy Records"
+        ]
+    },
+    {
+        "question": "Songs for the Restless's musci label is represented by [mask].",
+        "answers": [
+            "Columbia Records"
+        ]
+    },
+    {
+        "question": "The Good Rats's musci label is represented by [mask].",
+        "answers": [
+            "Warner Bros. Records"
+        ]
+    },
+    {
+        "question": "Strangeland's musci label is represented by [mask].",
+        "answers": [
+            "Island Records"
+        ]
+    },
+    {
+        "question": "Everything Is Different Now's musci label is represented by [mask].",
+        "answers": [
+            "Fair Trade Services"
+        ]
+    },
+    {
+        "question": "Road to the Octagon's musci label is represented by [mask].",
+        "answers": [
+            "Osmose Productions"
+        ]
+    },
+    {
+        "question": "No Me Compares Con Nadie's musci label is represented by [mask].",
+        "answers": [
+            "Sony Music"
+        ]
+    },
+    {
+        "question": "Adrenalize's musci label is represented by [mask].",
+        "answers": [
+            "Mercury Records"
+        ]
+    },
+    {
+        "question": "Don't Say Goodbye's musci label is represented by [mask].",
+        "answers": [
+            "RCA Records"
+        ]
+    },
+    {
+        "question": "Funk of Ages's musci label is represented by [mask].",
+        "answers": [
+            "Rykodisc"
+        ]
+    },
+    {
+        "question": "Tristitia's musci label is represented by [mask].",
+        "answers": [
+            "Holy Records"
+        ]
+    },
+    {
+        "question": "Donny Parenteau's musci label is represented by [mask].",
+        "answers": [
+            "306 Records"
+        ]
+    },
+    {
+        "question": "Go's musci label is represented by [mask].",
+        "answers": [
+            "Epitaph Records"
+        ]
+    },
+    {
+        "question": "Se Thelo Me Trela's musci label is represented by [mask].",
+        "answers": [
+            "Sony BMG"
+        ]
+    },
+    {
+        "question": "Alabama Concerto's musci label is represented by [mask].",
+        "answers": [
+            "Riverside Records"
+        ]
+    },
+    {
+        "question": "DJ U-Neek's musci label is represented by [mask].",
+        "answers": [
+            "Ruthless Records"
+        ]
+    },
+    {
+        "question": "Is This Love's musci label is represented by [mask].",
+        "answers": [
+            "RCA Records"
+        ]
+    },
+    {
+        "question": "Jesse Fuller's musci label is represented by [mask].",
+        "answers": [
+            "Good Time Jazz Records"
+        ]
+    },
+    {
+        "question": "Hungry Lucy's musci label is represented by [mask].",
+        "answers": [
+            "Alfa Matrix"
+        ]
+    },
+    {
+        "question": "CEO's musci label is represented by [mask].",
+        "answers": [
+            "Sincerely Yours"
+        ]
+    },
+    {
+        "question": "Your Favorite Music's musci label is represented by [mask].",
+        "answers": [
+            "SpinART Records",
+            "Sire"
+        ]
+    },
+    {
+        "question": "No Me Queda M\u00e1s's musci label is represented by [mask].",
+        "answers": [
+            "Capitol Latin"
+        ]
+    },
+    {
+        "question": "Business as Usual's musci label is represented by [mask].",
+        "answers": [
+            "Def Jam Recordings",
+            "Columbia Records"
+        ]
+    },
+    {
+        "question": "Ryan Spendlove's musci label is represented by [mask].",
+        "answers": [
+            "CandyRat Records"
+        ]
+    },
+    {
+        "question": "The Seekers's musci label is represented by [mask].",
+        "answers": [
+            "W&G Records"
+        ]
+    },
+    {
+        "question": "Decision in Paradise's musci label is represented by [mask].",
+        "answers": [
+            "Black Saint/Soul Note"
+        ]
+    },
+    {
+        "question": "Hatenai Sora's musci label is represented by [mask].",
+        "answers": [
+            "J Storm"
+        ]
+    },
+    {
+        "question": "Plain and Simple's musci label is represented by [mask].",
+        "answers": [
+            "Polydor Records"
+        ]
+    },
+    {
+        "question": "The World's Greatest Entertainer's musci label is represented by [mask].",
+        "answers": [
+            "Fantasy"
+        ]
+    },
+    {
+        "question": "Oh No's musci label is represented by [mask].",
+        "answers": [
+            "Stones Throw Records"
+        ]
+    },
+    {
+        "question": "15 Again's musci label is represented by [mask].",
+        "answers": [
+            "EMI"
+        ]
+    },
+    {
+        "question": "Gypsy Punks: Underdog World Strike's musci label is represented by [mask].",
+        "answers": [
+            "SideOneDummy Records"
+        ]
+    },
+    {
+        "question": "Arctic Plateau's musci label is represented by [mask].",
+        "answers": [
+            "Prophecy Productions"
+        ]
+    },
+    {
+        "question": "The Crayon Fields's musci label is represented by [mask].",
+        "answers": [
+            "Chapter Music"
+        ]
+    },
+    {
+        "question": "DJ Chuck Chillout's musci label is represented by [mask].",
+        "answers": [
+            "Mercury Records"
+        ]
+    },
+    {
+        "question": "Goin' to the Meeting's musci label is represented by [mask].",
+        "answers": [
+            "Prestige"
+        ]
+    },
+    {
+        "question": "Louis Armstrong Plays W.C. Handy's musci label is represented by [mask].",
+        "answers": [
+            "Columbia Records"
+        ]
+    },
+    {
+        "question": "Transition's musci label is represented by [mask].",
+        "answers": [
+            "Impulse! Records"
+        ]
+    },
+    {
+        "question": "Bad Acid Trip's musci label is represented by [mask].",
+        "answers": [
+            "Serjical Strike Records"
+        ]
+    },
+    {
+        "question": "Krafty's musci label is represented by [mask].",
+        "answers": [
+            "Warner Bros. Records"
+        ]
+    },
+    {
+        "question": "The Hilltoppers's musci label is represented by [mask].",
+        "answers": [
+            "Dot Records"
+        ]
+    },
+    {
+        "question": "Sketches of a Man's musci label is represented by [mask].",
+        "answers": [
+            "Entertainment One Music"
+        ]
+    },
+    {
+        "question": "Em Som Maior's musci label is represented by [mask].",
+        "answers": [
+            "Som Livre"
+        ]
+    },
+    {
+        "question": "Back to Basics's musci label is represented by [mask].",
+        "answers": [
+            "Warner Bros. Records"
+        ]
+    },
+    {
+        "question": "Backlash Cop's musci label is represented by [mask].",
+        "answers": [
+            "Smalltown America Records"
+        ]
+    },
+    {
+        "question": "Andy McKee's musci label is represented by [mask].",
+        "answers": [
+            "CandyRat Records"
+        ]
+    },
+    {
+        "question": "The Fresh & Onlys's musci label is represented by [mask].",
+        "answers": [
+            "Mexican Summer"
+        ]
+    },
+    {
+        "question": "Sundown's musci label is represented by [mask].",
+        "answers": [
+            "Black Mark Productions"
+        ]
+    },
+    {
+        "question": "Ghost Mice's musci label is represented by [mask].",
+        "answers": [
+            "Plan-It-X Records"
+        ]
+    },
+    {
+        "question": "Aasim's musci label is represented by [mask].",
+        "answers": [
+            "Bad Boy Records"
+        ]
+    },
+    {
+        "question": "Emotions's musci label is represented by [mask].",
+        "answers": [
+            "Columbia Records"
+        ]
+    },
+    {
+        "question": "This One's Gonna Hurt You's musci label is represented by [mask].",
+        "answers": [
+            "Universal Music Group Nashville"
+        ]
+    },
+    {
+        "question": "Soul Rotation's musci label is represented by [mask].",
+        "answers": [
+            "Hollywood Records"
+        ]
+    },
+    {
+        "question": "Trash the Planet's musci label is represented by [mask].",
+        "answers": [
+            "Warner Music Group"
+        ]
+    },
+    {
+        "question": "Spanish Goat Dancer's musci label is represented by [mask].",
+        "answers": [
+            "Wildside Records"
+        ]
+    },
+    {
+        "question": "For Unlawful Carnal Knowledge's musci label is represented by [mask].",
+        "answers": [
+            "Warner Bros. Records"
+        ]
+    },
+    {
+        "question": "Stephanie Dosen's musci label is represented by [mask].",
+        "answers": [
+            "Bella Union"
+        ]
+    },
+    {
+        "question": "From Under the Cork Tree's musci label is represented by [mask].",
+        "answers": [
+            "Island Records"
+        ]
+    },
+    {
+        "question": "Eden (Nana Mizuki song)'s musci label is represented by [mask].",
+        "answers": [
+            "King Records"
+        ]
+    },
+    {
+        "question": "I Know a Place's musci label is represented by [mask].",
+        "answers": [
+            "Warner Bros. Records"
+        ]
+    },
+    {
+        "question": "One Day in Your Life's musci label is represented by [mask].",
+        "answers": [
+            "Motown"
+        ]
+    },
+    {
+        "question": "Shawn Colvin's musci label is represented by [mask].",
+        "answers": [
+            "Columbia Records"
+        ]
+    },
+    {
+        "question": "Insidious's musci label is represented by [mask].",
+        "answers": [
+            "Lifeforce Records"
+        ]
+    },
+    {
+        "question": "Alligator's musci label is represented by [mask].",
+        "answers": [
+            "Capitol Records"
+        ]
+    },
+    {
+        "question": "Night on Earth's musci label is represented by [mask].",
+        "answers": [
+            "Island Records"
+        ]
+    },
+    {
+        "question": "10's musci label is represented by [mask].",
+        "answers": [
+            "Def Jam Recordings"
+        ]
+    },
+    {
+        "question": "M2M's musci label is represented by [mask].",
+        "answers": [
+            "Atlantic Records"
+        ]
+    },
+    {
+        "question": "Other Worlds's musci label is represented by [mask].",
+        "answers": [
+            "Secretly Canadian"
+        ]
+    },
+    {
+        "question": "Bizaar's musci label is represented by [mask].",
+        "answers": [
+            "Island Records"
+        ]
+    },
+    {
+        "question": "State of Mind's musci label is represented by [mask].",
+        "answers": [
+            "Verity Records"
+        ]
+    },
+    {
+        "question": "Up to Date's musci label is represented by [mask].",
+        "answers": [
+            "Bell Records"
+        ]
+    },
+    {
+        "question": "The Deep's musci label is represented by [mask].",
+        "answers": [
+            "Cameo-Parkway Records"
+        ]
+    },
+    {
+        "question": "Got It on My Mind's musci label is represented by [mask].",
+        "answers": [
+            "Noo Trybe Records",
+            "Rap-A-Lot Records"
+        ]
+    },
+    {
+        "question": "Se\u00f1or Smoke's musci label is represented by [mask].",
+        "answers": [
+            "Warner Music Group"
+        ]
+    },
+    {
+        "question": "The Moment's musci label is represented by [mask].",
+        "answers": [
+            "ZTT Records"
+        ]
+    },
+    {
+        "question": "Immortal's musci label is represented by [mask].",
+        "answers": [
+            "Frontiers Records"
+        ]
+    },
+    {
+        "question": "The Weatherfords's musci label is represented by [mask].",
+        "answers": [
+            "RCA Records"
+        ]
+    },
+    {
+        "question": "Butterfly Train's musci label is represented by [mask].",
+        "answers": [
+            "Up Records"
+        ]
+    },
+    {
+        "question": "Zendee Rose Tenerefe's musci label is represented by [mask].",
+        "answers": [
+            "Warner Music Group"
+        ]
+    },
+    {
+        "question": "Slates's musci label is represented by [mask].",
+        "answers": [
+            "Rough Trade Records"
+        ]
+    },
+    {
+        "question": "T.V. Sky's musci label is represented by [mask].",
+        "answers": [
+            "Play It Again Sam"
+        ]
+    },
+    {
+        "question": "Waterbed Hev's musci label is represented by [mask].",
+        "answers": [
+            "Uptown Records"
+        ]
+    },
+    {
+        "question": "John & Mary's musci label is represented by [mask].",
+        "answers": [
+            "Rykodisc"
+        ]
+    },
+    {
+        "question": "My Bloody Valentine's musci label is represented by [mask].",
+        "answers": [
+            "Creation Records"
+        ]
+    },
+    {
+        "question": "Chayanne's musci label is represented by [mask].",
+        "answers": [
+            "Sony Music"
+        ]
+    },
+    {
+        "question": "You By Me: Vol. 1's musci label is represented by [mask].",
+        "answers": [
+            "Tomas Kalnoky"
+        ]
+    },
+    {
+        "question": "Rhyme Pays's musci label is represented by [mask].",
+        "answers": [
+            "Sire"
+        ]
+    },
+    {
+        "question": "Don't Let It End's musci label is represented by [mask].",
+        "answers": [
+            "A&M Records"
+        ]
+    },
+    {
+        "question": "Ipirhan Orki's musci label is represented by [mask].",
+        "answers": [
+            "Minos EMI"
+        ]
+    },
+    {
+        "question": "John Kay's musci label is represented by [mask].",
+        "answers": [
+            "Dunhill",
+            "Mercury Records"
+        ]
+    },
+    {
+        "question": "King's musci label is represented by [mask].",
+        "answers": [
+            "Atlantic Records",
+            "Grand Hustle Records"
+        ]
+    },
+    {
+        "question": "Psalm's musci label is represented by [mask].",
+        "answers": [
+            "ECM Records"
+        ]
+    },
+    {
+        "question": "Ghetto Fabulous's musci label is represented by [mask].",
+        "answers": [
+            "No Limit Records"
+        ]
+    },
+    {
+        "question": "Octavia Sperati's musci label is represented by [mask].",
+        "answers": [
+            "Candlelight Records"
+        ]
+    },
+    {
+        "question": "Mono's musci label is represented by [mask].",
+        "answers": [
+            "Buddyhead Records"
+        ]
+    },
+    {
+        "question": "Lonely Woman's musci label is represented by [mask].",
+        "answers": [
+            "Atlantic Records"
+        ]
+    },
+    {
+        "question": "Jazz in Silhouette's musci label is represented by [mask].",
+        "answers": [
+            "El Saturn Records"
+        ]
+    },
+    {
+        "question": "Meic Stevens's musci label is represented by [mask].",
+        "answers": [
+            "Warner Bros. Records"
+        ]
+    },
+    {
+        "question": "Blumenkraft's musci label is represented by [mask].",
+        "answers": [
+            "Twisted Records"
+        ]
+    },
+    {
+        "question": "Damnation's musci label is represented by [mask].",
+        "answers": [
+            "Massacre Records"
+        ]
+    },
+    {
+        "question": "Walking with the Night's musci label is represented by [mask].",
+        "answers": [
+            "Expansion Records"
+        ]
+    },
+    {
+        "question": "SYR5's musci label is represented by [mask].",
+        "answers": [
+            "Sonic Youth Recordings"
+        ]
+    },
+    {
+        "question": "Brave New World's musci label is represented by [mask].",
+        "answers": [
+            "GRP Records"
+        ]
+    },
+    {
+        "question": "Dwight Twilley's musci label is represented by [mask].",
+        "answers": [
+            "Shelter Records"
+        ]
+    },
+    {
+        "question": "I Love to Polka's musci label is represented by [mask].",
+        "answers": [
+            "Rounder Records"
+        ]
+    },
+    {
+        "question": "Emery's musci label is represented by [mask].",
+        "answers": [
+            "Tooth & Nail Records"
+        ]
+    },
+    {
+        "question": "Hole in the Sun's musci label is represented by [mask].",
+        "answers": [
+            "Frontiers Records"
+        ]
+    },
+    {
+        "question": "Another Minute's musci label is represented by [mask].",
+        "answers": [
+            "BMG Rights Management"
+        ]
+    },
+    {
+        "question": "Headz or Tailz's musci label is represented by [mask].",
+        "answers": [
+            "Rap-A-Lot Records",
+            "Virgin Records"
+        ]
+    },
+    {
+        "question": "SM the Ballad's musci label is represented by [mask].",
+        "answers": [
+            "SM Entertainment"
+        ]
+    },
+    {
+        "question": "No Kids's musci label is represented by [mask].",
+        "answers": [
+            "Tomlab"
+        ]
+    },
+    {
+        "question": "Living in a Box's musci label is represented by [mask].",
+        "answers": [
+            "Chrysalis Records"
+        ]
+    },
+    {
+        "question": "We Have an Emergency's musci label is represented by [mask].",
+        "answers": [
+            "Aquarius Records"
+        ]
+    },
+    {
+        "question": "Donald Fagen's musci label is represented by [mask].",
+        "answers": [
+            "ABC Records"
+        ]
+    },
+    {
+        "question": "Return to the Past's musci label is represented by [mask].",
+        "answers": [
+            "Lance King"
+        ]
+    },
+    {
+        "question": "Happy Hour's musci label is represented by [mask].",
+        "answers": [
+            "Atlantic Records"
+        ]
+    },
+    {
+        "question": "Bossa Nova's musci label is represented by [mask].",
+        "answers": [
+            "Vee-Jay Records"
+        ]
+    },
+    {
+        "question": "Scrapbook EP's musci label is represented by [mask].",
+        "answers": [
+            "Merge Records"
+        ]
+    },
+    {
+        "question": "The City's musci label is represented by [mask].",
+        "answers": [
+            "Paper Bag Records"
+        ]
+    },
+    {
+        "question": "The Sixth Sense's musci label is represented by [mask].",
+        "answers": [
+            "Black Saint/Soul Note"
+        ]
+    },
+    {
+        "question": "K.O.D.'s musci label is represented by [mask].",
+        "answers": [
+            "Strange Music"
+        ]
+    },
+    {
+        "question": "Bounced Checks's musci label is represented by [mask].",
+        "answers": [
+            "Asylum Records"
+        ]
+    },
+    {
+        "question": "No Rest for the Wicked's musci label is represented by [mask].",
+        "answers": [
+            "Capitol Records"
+        ]
+    },
+    {
+        "question": "The Revolution's musci label is represented by [mask].",
+        "answers": [
+            "Fervent Records"
+        ]
+    },
+    {
+        "question": "I Blame You's musci label is represented by [mask].",
+        "answers": [
+            "Sub Pop"
+        ]
+    },
+    {
+        "question": "Mellow's musci label is represented by [mask].",
+        "answers": [
+            "Muse Records"
+        ]
+    },
+    {
+        "question": "The Fling's musci label is represented by [mask].",
+        "answers": [
+            "Dangerbird Records"
+        ]
+    },
+    {
+        "question": "Revolutions per Minute's musci label is represented by [mask].",
+        "answers": [
+            "Rawkus Records",
+            "Blacksmith Records"
+        ]
+    },
+    {
+        "question": "Aly & Fila's musci label is represented by [mask].",
+        "answers": [
+            "Armada Music"
+        ]
+    },
+    {
+        "question": "OutKast's musci label is represented by [mask].",
+        "answers": [
+            "Epic"
+        ]
+    },
+    {
+        "question": "Righteousness and Humidity's musci label is represented by [mask].",
+        "answers": [
+            "Topic Records"
+        ]
+    },
+    {
+        "question": "Live Yardbirds: Featuring Jimmy Page's musci label is represented by [mask].",
+        "answers": [
+            "Epic"
+        ]
+    },
+    {
+        "question": "A Million Thoughts and They're All About You's musci label is represented by [mask].",
+        "answers": [
+            "Artoffact Records"
+        ]
+    },
+    {
+        "question": "Ink Is My Drink's musci label is represented by [mask].",
+        "answers": [
+            "Rawkus Records"
+        ]
+    },
+    {
+        "question": "Willa Ford's musci label is represented by [mask].",
+        "answers": [
+            "Atlantic Records"
+        ]
+    },
+    {
+        "question": "Fatal Portrait's musci label is represented by [mask].",
+        "answers": [
+            "Roadrunner Records"
+        ]
+    },
+    {
+        "question": "Paradise Discotheque's musci label is represented by [mask].",
+        "answers": [
+            "Mute Records"
+        ]
+    },
+    {
+        "question": "Analogue Bubblebath 5's musci label is represented by [mask].",
+        "answers": [
+            "Rephlex Records"
+        ]
+    },
+    {
+        "question": "Numbers's musci label is represented by [mask].",
+        "answers": [
+            "Cracker Barrel"
+        ]
+    },
+    {
+        "question": "Street Love's musci label is represented by [mask].",
+        "answers": [
+            "The Inc. Records",
+            "Jazze Pha",
+            "Universal Motown Records"
+        ]
+    },
+    {
+        "question": "Michel'le's musci label is represented by [mask].",
+        "answers": [
+            "Death Row Records"
+        ]
+    },
+    {
+        "question": "Thrust's musci label is represented by [mask].",
+        "answers": [
+            "Columbia Records"
+        ]
+    },
+    {
+        "question": "Short Life of Barbara Monk's musci label is represented by [mask].",
+        "answers": [
+            "Black Saint/Soul Note"
+        ]
+    },
+    {
+        "question": "You Take Me Up's musci label is represented by [mask].",
+        "answers": [
+            "Arista"
+        ]
+    },
+    {
+        "question": "Somewhere in Time's musci label is represented by [mask].",
+        "answers": [
+            "Yep Roc Records"
+        ]
+    },
+    {
+        "question": "Sketch of Supposed Murderer's musci label is represented by [mask].",
+        "answers": [
+            "Century Media Records"
+        ]
+    },
+    {
+        "question": "Red Fraction's musci label is represented by [mask].",
+        "answers": [
+            "NBCUniversal Entertainment Japan LLC"
+        ]
+    },
+    {
+        "question": "Thirteen Blue Magic Lane's musci label is represented by [mask].",
+        "answers": [
+            "Atco Records"
+        ]
+    },
+    {
+        "question": "This Is Where It Ends's musci label is represented by [mask].",
+        "answers": [
+            "Nuclear Blast"
+        ]
+    },
+    {
+        "question": "The Lovely Feathers's musci label is represented by [mask].",
+        "answers": [
+            "EMI"
+        ]
+    },
+    {
+        "question": "The More Things Change...'s musci label is represented by [mask].",
+        "answers": [
+            "Roadrunner Records"
+        ]
+    },
+    {
+        "question": "Live from the Underground's musci label is represented by [mask].",
+        "answers": [
+            "Def Jam Recordings"
+        ]
+    },
+    {
+        "question": "Ty Segall's musci label is represented by [mask].",
+        "answers": [
+            "Drag City"
+        ]
+    },
+    {
+        "question": "I Don't Blame You at All's musci label is represented by [mask].",
+        "answers": [
+            "Motown"
+        ]
+    },
+    {
+        "question": "Max Herre's musci label is represented by [mask].",
+        "answers": [
+            "Four Music"
+        ]
+    },
+    {
+        "question": "Ornette on Tenor's musci label is represented by [mask].",
+        "answers": [
+            "Atlantic Records"
+        ]
+    },
+    {
+        "question": "Confessions's musci label is represented by [mask].",
+        "answers": [
+            "Arista"
+        ]
+    },
+    {
+        "question": "Valtari's musci label is represented by [mask].",
+        "answers": [
+            "Parlophone"
+        ]
+    },
+    {
+        "question": "Puffy AmiYumi's musci label is represented by [mask].",
+        "answers": [
+            "Tofu Records",
+            "Sony Music Entertainment Japan"
+        ]
+    },
+    {
+        "question": "The Three O'Clock's musci label is represented by [mask].",
+        "answers": [
+            "I.R.S. Records"
+        ]
+    },
+    {
+        "question": "Halloween Party's musci label is represented by [mask].",
+        "answers": [
+            "Ipecac Recordings"
+        ]
+    },
+    {
+        "question": "Dawn of Reprisal's musci label is represented by [mask].",
+        "answers": [
+            "Metal Blade Records"
+        ]
+    },
+    {
+        "question": "The Alignment's musci label is represented by [mask].",
+        "answers": [
+            "Sparrow Records"
+        ]
+    },
+    {
+        "question": "Love Fever's musci label is represented by [mask].",
+        "answers": [
+            "Prelude Records"
+        ]
+    },
+    {
+        "question": "Momoiro Kataomoi's musci label is represented by [mask].",
+        "answers": [
+            "Zetima"
+        ]
+    },
+    {
+        "question": "Life Sentence to Love's musci label is represented by [mask].",
+        "answers": [
+            "MCA Records"
+        ]
+    },
+    {
+        "question": "Speedy West's musci label is represented by [mask].",
+        "answers": [
+            "Capitol Records"
+        ]
+    },
+    {
+        "question": "Do Nothing 'til You Hear from Me's musci label is represented by [mask].",
+        "answers": [
+            "Riverside Records"
+        ]
+    },
+    {
+        "question": "The Rambler's musci label is represented by [mask].",
+        "answers": [
+            "Columbia Records"
+        ]
+    },
+    {
+        "question": "Closer to the Bone's musci label is represented by [mask].",
+        "answers": [
+            "New West Records"
+        ]
+    },
+    {
+        "question": "The Soft Parade's musci label is represented by [mask].",
+        "answers": [
+            "Elektra"
+        ]
+    },
+    {
+        "question": "Eleftheria Eleftheriou's musci label is represented by [mask].",
+        "answers": [
+            "Sony Music"
+        ]
+    },
+    {
+        "question": "Jazz 'n' Samba's musci label is represented by [mask].",
+        "answers": [
+            "Impulse! Records"
+        ]
+    },
+    {
+        "question": "Shaheen Jafargholi's musci label is represented by [mask].",
+        "answers": [
+            "Island Records"
+        ]
+    },
+    {
+        "question": "Kentucky Thunder's musci label is represented by [mask].",
+        "answers": [
+            "Epic"
+        ]
+    },
+    {
+        "question": "Eddie Chamblee's musci label is represented by [mask].",
+        "answers": [
+            "Miracle"
+        ]
+    },
+    {
+        "question": "Loose, Loud & Crazy's musci label is represented by [mask].",
+        "answers": [
+            "Equity Music Group"
+        ]
+    },
+    {
+        "question": "Destiny's musci label is represented by [mask].",
+        "answers": [
+            "Warner Bros. Records"
+        ]
+    },
+    {
+        "question": "Something Like Strangers's musci label is represented by [mask].",
+        "answers": [
+            "Sony BMG"
+        ]
+    },
+    {
+        "question": "DJ Khalil's musci label is represented by [mask].",
+        "answers": [
+            "Aftermath Entertainment"
+        ]
+    },
+    {
+        "question": "Shpongle's musci label is represented by [mask].",
+        "answers": [
+            "Twisted Records"
+        ]
+    },
+    {
+        "question": "Poet Amanda Lear's musci label is represented by [mask].",
+        "answers": [
+            "Melodiya"
+        ]
+    },
+    {
+        "question": "Images's musci label is represented by [mask].",
+        "answers": [
+            "Parlophone"
+        ]
+    },
+    {
+        "question": "Small Town Murder Scene's musci label is represented by [mask].",
+        "answers": [
+            "Paper Bag Records"
+        ]
+    },
+    {
+        "question": "Charlie McCoy's musci label is represented by [mask].",
+        "answers": [
+            "Monument"
+        ]
+    },
+    {
+        "question": "Andy Childs's musci label is represented by [mask].",
+        "answers": [
+            "RCA Records"
+        ]
+    },
+    {
+        "question": "Nina Nastasia's musci label is represented by [mask].",
+        "answers": [
+            "Fat Cat Records"
+        ]
+    },
+    {
+        "question": "You've Come a Long Way, Baby's musci label is represented by [mask].",
+        "answers": [
+            "Skint Records"
+        ]
+    },
+    {
+        "question": "Life's musci label is represented by [mask].",
+        "answers": [
+            "RCA Records"
+        ]
+    },
+    {
+        "question": "Let Us Play!'s musci label is represented by [mask].",
+        "answers": [
+            "Ninja Tune"
+        ]
+    },
+    {
+        "question": "The Who's musci label is represented by [mask].",
+        "answers": [
+            "Decca",
+            "Atco Records",
+            "Brunswick"
+        ]
+    },
+    {
+        "question": "Don't Panic's musci label is represented by [mask].",
+        "answers": [
+            "Parlophone"
+        ]
+    },
+    {
+        "question": "John R. Cash's musci label is represented by [mask].",
+        "answers": [
+            "Columbia Records"
+        ]
+    },
+    {
+        "question": "HTP 2's musci label is represented by [mask].",
+        "answers": [
+            "Pony Canyon"
+        ]
+    },
+    {
+        "question": "Kingdom of XII's musci label is represented by [mask].",
+        "answers": [
+            "SPV"
+        ]
+    },
+    {
+        "question": "When Doves Cry's musci label is represented by [mask].",
+        "answers": [
+            "Warner Bros. Records"
+        ]
+    },
+    {
+        "question": "Summit's musci label is represented by [mask].",
+        "answers": [
+            "Organized Nature"
+        ]
+    },
+    {
+        "question": "Mamas\u00e9's musci label is represented by [mask].",
+        "answers": [
+            "Studio 100"
+        ]
+    },
+    {
+        "question": "Nomo's musci label is represented by [mask].",
+        "answers": [
+            "Ubiquity Records"
+        ]
+    },
+    {
+        "question": "Close to the Edge's musci label is represented by [mask].",
+        "answers": [
+            "Arista"
+        ]
+    },
+    {
+        "question": "The First Pain to Linger's musci label is represented by [mask].",
+        "answers": [
+            "Projekt Records"
+        ]
+    },
+    {
+        "question": "High Places's musci label is represented by [mask].",
+        "answers": [
+            "Thrill Jockey"
+        ]
+    },
+    {
+        "question": "Glassheart's musci label is represented by [mask].",
+        "answers": [
+            "Syco Music",
+            "Sony Music"
+        ]
+    },
+    {
+        "question": "A Christmas Gift for You from Phil Spector's musci label is represented by [mask].",
+        "answers": [
+            "Philles Records"
+        ]
+    },
+    {
+        "question": "Para olvidarte de m\u00ed's musci label is represented by [mask].",
+        "answers": [
+            "EMI"
+        ]
+    },
+    {
+        "question": "Dulcinea's musci label is represented by [mask].",
+        "answers": [
+            "Columbia Records"
+        ]
+    },
+    {
+        "question": "Welcome to the Walk Alone's musci label is represented by [mask].",
+        "answers": [
+            "Island Records"
+        ]
+    },
+    {
+        "question": "Dark Medieval Times's musci label is represented by [mask].",
+        "answers": [
+            "Moonfog Productions"
+        ]
+    },
+    {
+        "question": "Ceremonials's musci label is represented by [mask].",
+        "answers": [
+            "Island Records"
+        ]
+    },
+    {
+        "question": "Zounds! What Sounds!'s musci label is represented by [mask].",
+        "answers": [
+            "Capitol Records"
+        ]
+    },
+    {
+        "question": "A Gate Through Bloodstained Mirrors's musci label is represented by [mask].",
+        "answers": [
+            "Hydra Head Records"
+        ]
+    },
+    {
+        "question": "Bakesale's musci label is represented by [mask].",
+        "answers": [
+            "Sub Pop"
+        ]
+    },
+    {
+        "question": "Koufax's musci label is represented by [mask].",
+        "answers": [
+            "Vagrant Records"
+        ]
+    },
+    {
+        "question": "It Might as Well Be Spring's musci label is represented by [mask].",
+        "answers": [
+            "Blue Note Records"
+        ]
+    },
+    {
+        "question": "Easy Action's musci label is represented by [mask].",
+        "answers": [
+            "Straight"
+        ]
+    },
+    {
+        "question": "Odyssey's musci label is represented by [mask].",
+        "answers": [
+            "ECM Records"
+        ]
+    },
+    {
+        "question": "Figur 5's musci label is represented by [mask].",
+        "answers": [
+            "Morr Music"
+        ]
+    },
+    {
+        "question": "Tammy Cochran's musci label is represented by [mask].",
+        "answers": [
+            "Epic"
+        ]
+    },
+    {
+        "question": "Larry Harlow's musci label is represented by [mask].",
+        "answers": [
+            "Fania Records"
+        ]
+    },
+    {
+        "question": "Fantasy 4ever's musci label is represented by [mask].",
+        "answers": [
+            "Sony Music"
+        ]
+    },
+    {
+        "question": "The Mynabirds's musci label is represented by [mask].",
+        "answers": [
+            "Saddle Creek Records"
+        ]
+    },
+    {
+        "question": "Skin Dive's musci label is represented by [mask].",
+        "answers": [
+            "Warner Bros. Records"
+        ]
+    },
+    {
+        "question": "Perspective's musci label is represented by [mask].",
+        "answers": [
+            "Warner Bros. Records"
+        ]
+    },
+    {
+        "question": "The Unveiling's musci label is represented by [mask].",
+        "answers": [
+            "Solid State Records"
+        ]
+    },
+    {
+        "question": "The Something Rain's musci label is represented by [mask].",
+        "answers": [
+            "City Slang"
+        ]
+    },
+    {
+        "question": "Breakaway's musci label is represented by [mask].",
+        "answers": [
+            "RCA Records"
+        ]
+    },
+    {
+        "question": "Manic Frustration's musci label is represented by [mask].",
+        "answers": [
+            "American Recordings"
+        ]
+    },
+    {
+        "question": "The Cliks's musci label is represented by [mask].",
+        "answers": [
+            "Tommy Boy Records"
+        ]
+    },
+    {
+        "question": "Chained's musci label is represented by [mask].",
+        "answers": [
+            "Motown"
+        ]
+    },
+    {
+        "question": "The Art of Losing's musci label is represented by [mask].",
+        "answers": [
+            "Island Records"
+        ]
+    },
+    {
+        "question": "Man in the Air's musci label is represented by [mask].",
+        "answers": [
+            "Blue Note Records"
+        ]
+    },
+    {
+        "question": "Dinosaur Jr.'s musci label is represented by [mask].",
+        "answers": [
+            "Jagjaguwar",
+            "Blast First"
+        ]
+    },
+    {
+        "question": "Commander Cody and His Lost Planet Airmen's musci label is represented by [mask].",
+        "answers": [
+            "Warner Bros. Records"
+        ]
+    },
+    {
+        "question": "Holy Sons's musci label is represented by [mask].",
+        "answers": [
+            "Partisan Records"
+        ]
+    },
+    {
+        "question": "Convergence's musci label is represented by [mask].",
+        "answers": [
+            "Black Saint/Soul Note"
+        ]
+    },
+    {
+        "question": "Big Fat Lie's musci label is represented by [mask].",
+        "answers": [
+            "RCA Records"
+        ]
+    },
+    {
+        "question": "Kathy Troccoli's musci label is represented by [mask].",
+        "answers": [
+            "Reunion Records"
+        ]
+    },
+    {
+        "question": "On the Outside Looking In's musci label is represented by [mask].",
+        "answers": [
+            "Relativity Records",
+            "Suave House Records"
+        ]
+    },
+    {
+        "question": "The State vs. Radric Davis's musci label is represented by [mask].",
+        "answers": [
+            "1017 Records"
+        ]
+    },
+    {
+        "question": "In the Land of Hi-Fi with Julian Cannonball Adderley's musci label is represented by [mask].",
+        "answers": [
+            "EmArcy"
+        ]
+    },
+    {
+        "question": "Life After Death's musci label is represented by [mask].",
+        "answers": [
+            "Bad Boy Records"
+        ]
+    },
+    {
+        "question": "Coco Jones's musci label is represented by [mask].",
+        "answers": [
+            "Hollywood Records"
+        ]
+    },
+    {
+        "question": "Mutiny Within's musci label is represented by [mask].",
+        "answers": [
+            "Roadrunner Records"
+        ]
+    },
+    {
+        "question": "The Lumineers's musci label is represented by [mask].",
+        "answers": [
+            "Dualtone Records"
+        ]
+    },
+    {
+        "question": "Paper Planes's musci label is represented by [mask].",
+        "answers": [
+            "Interscope Records",
+            "XL Recordings"
+        ]
+    },
+    {
+        "question": "Les Retrouvailles's musci label is represented by [mask].",
+        "answers": [
+            "Ici, d'ailleurs\u2026"
+        ]
+    },
+    {
+        "question": "From Monument to Masses's musci label is represented by [mask].",
+        "answers": [
+            "Dim Mak Records"
+        ]
+    },
+    {
+        "question": "Byzantine's musci label is represented by [mask].",
+        "answers": [
+            "Prosthetic Records"
+        ]
+    },
+    {
+        "question": "Troublizing's musci label is represented by [mask].",
+        "answers": [
+            "Sony Music"
+        ]
+    },
+    {
+        "question": "Hands All Over's musci label is represented by [mask].",
+        "answers": [
+            "A&M Octone Records"
+        ]
+    },
+    {
+        "question": "Hudson River Wind Meditations's musci label is represented by [mask].",
+        "answers": [
+            "Sounds True"
+        ]
+    },
+    {
+        "question": "T\u00e9o & T\u00e9a's musci label is represented by [mask].",
+        "answers": [
+            "Warner Music Group"
+        ]
+    },
+    {
+        "question": "Land of the Damned's musci label is represented by [mask].",
+        "answers": [
+            "Island Records"
+        ]
+    },
+    {
+        "question": "Jeon Hyosung's musci label is represented by [mask].",
+        "answers": [
+            "TS Entertainment"
+        ]
+    },
+    {
+        "question": "Before the Blackout's musci label is represented by [mask].",
+        "answers": [
+            "Drive-Thru Records"
+        ]
+    },
+    {
+        "question": "AB III's musci label is represented by [mask].",
+        "answers": [
+            "Roadrunner Records"
+        ]
+    },
+    {
+        "question": "Steve Sholes's musci label is represented by [mask].",
+        "answers": [
+            "RCA Records"
+        ]
+    },
+    {
+        "question": "Constant Future's musci label is represented by [mask].",
+        "answers": [
+            "Jagjaguwar"
+        ]
+    },
+    {
+        "question": "One Full Year's musci label is represented by [mask].",
+        "answers": [
+            "Triple Crown Records"
+        ]
+    },
+    {
+        "question": "Matador/Da Frame 2R's musci label is represented by [mask].",
+        "answers": [
+            "Domino Recording Company"
+        ]
+    },
+    {
+        "question": "The Blueprint Dives's musci label is represented by [mask].",
+        "answers": [
+            "Century Media Records"
+        ]
+    },
+    {
+        "question": "Ten City's musci label is represented by [mask].",
+        "answers": [
+            "Atlantic Records"
+        ]
+    },
+    {
+        "question": "In Concert \u2013 Brandeis University 1963's musci label is represented by [mask].",
+        "answers": [
+            "Columbia Records"
+        ]
+    },
+    {
+        "question": "Songs for Japan's musci label is represented by [mask].",
+        "answers": [
+            "EMI"
+        ]
+    },
+    {
+        "question": "Collaboration's musci label is represented by [mask].",
+        "answers": [
+            "Sony"
+        ]
+    },
+    {
+        "question": "Mapenzi's musci label is represented by [mask].",
+        "answers": [
+            "Concord Records"
+        ]
+    },
+    {
+        "question": "Firefly's musci label is represented by [mask].",
+        "answers": [
+            "Concord Records"
+        ]
+    },
+    {
+        "question": "Misery Escape's musci label is represented by [mask].",
+        "answers": [
+            "Napalm Records"
+        ]
+    },
+    {
+        "question": "Evolution's musci label is represented by [mask].",
+        "answers": [
+            "Motown"
+        ]
+    },
+    {
+        "question": "All Things in Time's musci label is represented by [mask].",
+        "answers": [
+            "Philadelphia International Records"
+        ]
+    },
+    {
+        "question": "Flip & Fill's musci label is represented by [mask].",
+        "answers": [
+            "All Around the World Productions"
+        ]
+    },
+    {
+        "question": "Federico Aubele's musci label is represented by [mask].",
+        "answers": [
+            "ESL Music"
+        ]
+    },
+    {
+        "question": "Every Day I Have to Cry's musci label is represented by [mask].",
+        "answers": [
+            "Checker"
+        ]
+    },
+    {
+        "question": "Anchorless's musci label is represented by [mask].",
+        "answers": [
+            "Atlantic Records"
+        ]
+    },
+    {
+        "question": "Dimanches \u00e0 l'\u00c9lys\u00e9e's musci label is represented by [mask].",
+        "answers": [
+            "Barclay"
+        ]
+    },
+    {
+        "question": "Called to Arms's musci label is represented by [mask].",
+        "answers": [
+            "Tragic Hero Records"
+        ]
+    },
+    {
+        "question": "Charm City Devils's musci label is represented by [mask].",
+        "answers": [
+            "Eleven Seven Music"
+        ]
+    },
+    {
+        "question": "Plague Songs's musci label is represented by [mask].",
+        "answers": [
+            "4AD"
+        ]
+    },
+    {
+        "question": "Great Phone Calls Featuring Neil Hamburger's musci label is represented by [mask].",
+        "answers": [
+            "Amarillo Records"
+        ]
+    },
+    {
+        "question": "We're in Like Sin's musci label is represented by [mask].",
+        "answers": [
+            "Broken English"
+        ]
+    },
+    {
+        "question": "Welcome to Secret Time's musci label is represented by [mask].",
+        "answers": [
+            "Sony Music Entertainment Japan"
+        ]
+    },
+    {
+        "question": "Worldwide Underground's musci label is represented by [mask].",
+        "answers": [
+            "Motown"
+        ]
+    },
+    {
+        "question": "Everyday I Love You Less and Less's musci label is represented by [mask].",
+        "answers": [
+            "B-Unique Records"
+        ]
+    },
+    {
+        "question": "Sweet and Hot's musci label is represented by [mask].",
+        "answers": [
+            "Decca"
+        ]
+    },
+    {
+        "question": "Purple Hearts's musci label is represented by [mask].",
+        "answers": [
+            "Sunshine"
+        ]
+    },
+    {
+        "question": "Strange Weather's musci label is represented by [mask].",
+        "answers": [
+            "Island Records"
+        ]
+    },
+    {
+        "question": "Ginuwine's musci label is represented by [mask].",
+        "answers": [
+            "Sony Music",
+            "Epic",
+            "550 Music"
+        ]
+    },
+    {
+        "question": "This Beautiful Life's musci label is represented by [mask].",
+        "answers": [
+            "Interscope Records"
+        ]
+    },
+    {
+        "question": "Crawdaddy's musci label is represented by [mask].",
+        "answers": [
+            "Epic"
+        ]
+    },
+    {
+        "question": "Lookin' at You's musci label is represented by [mask].",
+        "answers": [
+            "306 Records"
+        ]
+    },
+    {
+        "question": "Set This Circus Down's musci label is represented by [mask].",
+        "answers": [
+            "Curb Records"
+        ]
+    },
+    {
+        "question": "This Providence's musci label is represented by [mask].",
+        "answers": [
+            "Fueled by Ramen"
+        ]
+    },
+    {
+        "question": "Phil Vassar's musci label is represented by [mask].",
+        "answers": [
+            "Arista Nashville"
+        ]
+    },
+    {
+        "question": "From the Heart's musci label is represented by [mask].",
+        "answers": [
+            "Epic"
+        ]
+    },
+    {
+        "question": "Dangerous Diamonds's musci label is represented by [mask].",
+        "answers": [
+            "Lion Music"
+        ]
+    },
+    {
+        "question": "Homer Banks's musci label is represented by [mask].",
+        "answers": [
+            "Stax"
+        ]
+    },
+    {
+        "question": "Anton Fier's musci label is represented by [mask].",
+        "answers": [
+            "Tzadik Records"
+        ]
+    },
+    {
+        "question": "Blow by Blow's musci label is represented by [mask].",
+        "answers": [
+            "Epic"
+        ]
+    },
+    {
+        "question": "Captain's musci label is represented by [mask].",
+        "answers": [
+            "EMI Records"
+        ]
+    },
+    {
+        "question": "Hag's musci label is represented by [mask].",
+        "answers": [
+            "Capitol Records"
+        ]
+    },
+    {
+        "question": "Praying for Time's musci label is represented by [mask].",
+        "answers": [
+            "Epic"
+        ]
+    },
+    {
+        "question": "Francesco Guccini's musci label is represented by [mask].",
+        "answers": [
+            "EMI"
+        ]
+    },
+    {
+        "question": "Uncle Green's musci label is represented by [mask].",
+        "answers": [
+            "Daemon Records"
+        ]
+    },
+    {
+        "question": "1983's musci label is represented by [mask].",
+        "answers": [
+            "Plug Research"
+        ]
+    },
+    {
+        "question": "Semisonic's musci label is represented by [mask].",
+        "answers": [
+            "MCA Records"
+        ]
+    },
+    {
+        "question": "Misc. Music's musci label is represented by [mask].",
+        "answers": [
+            "Shifty Disco"
+        ]
+    },
+    {
+        "question": "Running on Air's musci label is represented by [mask].",
+        "answers": [
+            "Illusive Sounds"
+        ]
+    },
+    {
+        "question": "You and Me's musci label is represented by [mask].",
+        "answers": [
+            "Def Jam Recordings"
+        ]
+    },
+    {
+        "question": "See Me in Shadow's musci label is represented by [mask].",
+        "answers": [
+            "Roadrunner Records"
+        ]
+    },
+    {
+        "question": "Tenor Conclave's musci label is represented by [mask].",
+        "answers": [
+            "Prestige"
+        ]
+    },
+    {
+        "question": "Canvas's musci label is represented by [mask].",
+        "answers": [
+            "Blue Note Records"
+        ]
+    },
+    {
+        "question": "House on the Hill's musci label is represented by [mask].",
+        "answers": [
+            "Woodsist"
+        ]
+    },
+    {
+        "question": "Night of the Furies's musci label is represented by [mask].",
+        "answers": [
+            "Merge Records"
+        ]
+    },
+    {
+        "question": "Lone Wolf's musci label is represented by [mask].",
+        "answers": [
+            "Curb Records",
+            "Warner Bros. Records"
+        ]
+    },
+    {
+        "question": "Breezin''s musci label is represented by [mask].",
+        "answers": [
+            "Warner Bros. Records"
+        ]
+    },
+    {
+        "question": "Live from Camp X-Ray's musci label is represented by [mask].",
+        "answers": [
+            "Vagrant Records"
+        ]
+    },
+    {
+        "question": "The Art of Partying's musci label is represented by [mask].",
+        "answers": [
+            "Earache Records"
+        ]
+    },
+    {
+        "question": "Something Special's musci label is represented by [mask].",
+        "answers": [
+            "Columbia Records"
+        ]
+    },
+    {
+        "question": "Barry Adamson's musci label is represented by [mask].",
+        "answers": [
+            "Mute Records"
+        ]
+    },
+    {
+        "question": "Gerrell Gaddis's musci label is represented by [mask].",
+        "answers": [
+            "Roc-A-Fella Records"
+        ]
+    },
+    {
+        "question": "Die Antwoord's musci label is represented by [mask].",
+        "answers": [
+            "Interscope Records"
+        ]
+    },
+    {
+        "question": "Digby Pearson's musci label is represented by [mask].",
+        "answers": [
+            "Earache Records"
+        ]
+    },
+    {
+        "question": "N\u00e1tt\u00fara's musci label is represented by [mask].",
+        "answers": [
+            "One Little Indian"
+        ]
+    },
+    {
+        "question": "Alto Saxophone Improvisations 1979's musci label is represented by [mask].",
+        "answers": [
+            "Arista"
+        ]
+    },
+    {
+        "question": "Ke\u010f sa raz o\u010di dohodn\u00fa's musci label is represented by [mask].",
+        "answers": [
+            "OPUS Records"
+        ]
+    },
+    {
+        "question": "Daron Norwood's musci label is represented by [mask].",
+        "answers": [
+            "Giant Records"
+        ]
+    },
+    {
+        "question": "Ed Drewett's musci label is represented by [mask].",
+        "answers": [
+            "Virgin Records"
+        ]
+    },
+    {
+        "question": "Electricidad's musci label is represented by [mask].",
+        "answers": [
+            "Warner Music Group"
+        ]
+    },
+    {
+        "question": "Sin Mirar Atras's musci label is represented by [mask].",
+        "answers": [
+            "Capitol Latin"
+        ]
+    },
+    {
+        "question": "Crunk Juice's musci label is represented by [mask].",
+        "answers": [
+            "BME Recordings",
+            "TVT Records"
+        ]
+    },
+    {
+        "question": "Bando Jonez's musci label is represented by [mask].",
+        "answers": [
+            "Epic"
+        ]
+    },
+    {
+        "question": "A Little More Magic's musci label is represented by [mask].",
+        "answers": [
+            "Elektra"
+        ]
+    },
+    {
+        "question": "Highland Glory's musci label is represented by [mask].",
+        "answers": [
+            "Massacre Records"
+        ]
+    },
+    {
+        "question": "Magnetic South's musci label is represented by [mask].",
+        "answers": [
+            "RCA Records"
+        ]
+    },
+    {
+        "question": "Batch's musci label is represented by [mask].",
+        "answers": [
+            "Cruz Records"
+        ]
+    },
+    {
+        "question": "Iyaz's musci label is represented by [mask].",
+        "answers": [
+            "Beluga Heights Records"
+        ]
+    },
+    {
+        "question": "Night of Hunters's musci label is represented by [mask].",
+        "answers": [
+            "Deutsche Grammophon"
+        ]
+    },
+    {
+        "question": "Just a Friend's musci label is represented by [mask].",
+        "answers": [
+            "Cold Chillin' Records"
+        ]
+    },
+    {
+        "question": "Sorry Suzanne's musci label is represented by [mask].",
+        "answers": [
+            "Parlophone"
+        ]
+    },
+    {
+        "question": "Real Emotional Trash's musci label is represented by [mask].",
+        "answers": [
+            "Matador Records"
+        ]
+    },
+    {
+        "question": "Blood of Kingu's musci label is represented by [mask].",
+        "answers": [
+            "Candlelight Records"
+        ]
+    },
+    {
+        "question": "Sylosis's musci label is represented by [mask].",
+        "answers": [
+            "Nuclear Blast"
+        ]
+    },
+    {
+        "question": "Mos Def's musci label is represented by [mask].",
+        "answers": [
+            "Rawkus Records"
+        ]
+    },
+    {
+        "question": "Gather in the Mushrooms's musci label is represented by [mask].",
+        "answers": [
+            "Pye Records"
+        ]
+    },
+    {
+        "question": "The Complete Duets's musci label is represented by [mask].",
+        "answers": [
+            "Motown"
+        ]
+    },
+    {
+        "question": "Badmotorfinger's musci label is represented by [mask].",
+        "answers": [
+            "A&M Records"
+        ]
+    },
+    {
+        "question": "Songs We Didn't Write's musci label is represented by [mask].",
+        "answers": [
+            "Tooth & Nail Records"
+        ]
+    },
+    {
+        "question": "Once More 'Round the Sun's musci label is represented by [mask].",
+        "answers": [
+            "Reprise Records"
+        ]
+    },
+    {
+        "question": "New Bad Things's musci label is represented by [mask].",
+        "answers": [
+            "Candy Ass Records"
+        ]
+    },
+    {
+        "question": "Electro-Shock Blues's musci label is represented by [mask].",
+        "answers": [
+            "DreamWorks Records"
+        ]
+    },
+    {
+        "question": "Remy Shand's musci label is represented by [mask].",
+        "answers": [
+            "Motown"
+        ]
+    },
+    {
+        "question": "Neu! '75's musci label is represented by [mask].",
+        "answers": [
+            "Brain Records"
+        ]
+    },
+    {
+        "question": "The Price You Pay's musci label is represented by [mask].",
+        "answers": [
+            "Virgin Records"
+        ]
+    },
+    {
+        "question": "The Essential Santana's musci label is represented by [mask].",
+        "answers": [
+            "Columbia Records"
+        ]
+    },
+    {
+        "question": "Oh My God's musci label is represented by [mask].",
+        "answers": [
+            "Drowned in Sound"
+        ]
+    },
+    {
+        "question": "New York Days's musci label is represented by [mask].",
+        "answers": [
+            "ECM Records"
+        ]
+    },
+    {
+        "question": "Mind Games's musci label is represented by [mask].",
+        "answers": [
+            "Apple"
+        ]
+    },
+    {
+        "question": "Forget What You Know's musci label is represented by [mask].",
+        "answers": [
+            "Columbia Records"
+        ]
+    },
+    {
+        "question": "Brandi Carlile's musci label is represented by [mask].",
+        "answers": [
+            "Columbia Records"
+        ]
+    },
+    {
+        "question": "Reference Point's musci label is represented by [mask].",
+        "answers": [
+            "GRP Records"
+        ]
+    },
+    {
+        "question": "Razorcuts's musci label is represented by [mask].",
+        "answers": [
+            "The Subway Organization",
+            "Creation Records"
+        ]
+    },
+    {
+        "question": "Under a Shady Tree's musci label is represented by [mask].",
+        "answers": [
+            "Capitol Records"
+        ]
+    },
+    {
+        "question": "Talahomi Way's musci label is represented by [mask].",
+        "answers": [
+            "Drag City"
+        ]
+    },
+    {
+        "question": "Revolution!'s musci label is represented by [mask].",
+        "answers": [
+            "Columbia Records"
+        ]
+    },
+    {
+        "question": "Gloria Williams's musci label is represented by [mask].",
+        "answers": [
+            "Chess Records"
+        ]
+    },
+    {
+        "question": "My Brain Says Stop, But My Heart Says Go!'s musci label is represented by [mask].",
+        "answers": [
+            "Tooth & Nail Records"
+        ]
+    },
+    {
+        "question": "Agony & Irony's musci label is represented by [mask].",
+        "answers": [
+            "Epic"
+        ]
+    },
+    {
+        "question": "Less Than Zero's musci label is represented by [mask].",
+        "answers": [
+            "Stiff Records"
+        ]
+    },
+    {
+        "question": "Historically Speaking's musci label is represented by [mask].",
+        "answers": [
+            "Prestige"
+        ]
+    },
+    {
+        "question": "The Organizer's musci label is represented by [mask].",
+        "answers": [
+            "DIW Records"
+        ]
+    },
+    {
+        "question": "When Love Takes Over's musci label is represented by [mask].",
+        "answers": [
+            "Virgin Records"
+        ]
+    },
+    {
+        "question": "Wrong's musci label is represented by [mask].",
+        "answers": [
+            "Alternative Tentacles"
+        ]
+    },
+    {
+        "question": "Shadows's musci label is represented by [mask].",
+        "answers": [
+            "Merge Records"
+        ]
+    },
+    {
+        "question": "Ace Troubleshooter's musci label is represented by [mask].",
+        "answers": [
+            "BEC Recordings"
+        ]
+    },
+    {
+        "question": "Kad fazani lete's musci label is represented by [mask].",
+        "answers": [
+            "Jugoton"
+        ]
+    },
+    {
+        "question": "Morcheeba's musci label is represented by [mask].",
+        "answers": [
+            "Play It Again Sam"
+        ]
+    },
+    {
+        "question": "Lilys's musci label is represented by [mask].",
+        "answers": [
+            "Slumberland Records"
+        ]
+    },
+    {
+        "question": "Cut Above the Rest's musci label is represented by [mask].",
+        "answers": [
+            "Polydor Records"
+        ]
+    },
+    {
+        "question": "Dirty Boots's musci label is represented by [mask].",
+        "answers": [
+            "Geffen Records"
+        ]
+    },
+    {
+        "question": "Where Do Broken Hearts Go's musci label is represented by [mask].",
+        "answers": [
+            "Arista"
+        ]
+    },
+    {
+        "question": "T\u00fdr's musci label is represented by [mask].",
+        "answers": [
+            "Napalm Records"
+        ]
+    },
+    {
+        "question": "Jazz from Hell's musci label is represented by [mask].",
+        "answers": [
+            "Barking Pumpkin Records"
+        ]
+    },
+    {
+        "question": "A Book of Songs for Anne Marie's musci label is represented by [mask].",
+        "answers": [
+            "Drag City"
+        ]
+    },
+    {
+        "question": "Boogie Body Land's musci label is represented by [mask].",
+        "answers": [
+            "Mercury Records"
+        ]
+    },
+    {
+        "question": "Rewired's musci label is represented by [mask].",
+        "answers": [
+            "Rhino Entertainment Company",
+            "Virgin Records"
+        ]
+    },
+    {
+        "question": "Mandrake's musci label is represented by [mask].",
+        "answers": [
+            "AFM Records"
+        ]
+    },
+    {
+        "question": "Dawn's musci label is represented by [mask].",
+        "answers": [
+            "Atlantic Records"
+        ]
+    },
+    {
+        "question": "The Birthday Party's musci label is represented by [mask].",
+        "answers": [
+            "Liberty"
+        ]
+    },
+    {
+        "question": "Personal Mountains's musci label is represented by [mask].",
+        "answers": [
+            "ECM Records"
+        ]
+    },
+    {
+        "question": "Beefeater's musci label is represented by [mask].",
+        "answers": [
+            "Dischord Records"
+        ]
+    },
+    {
+        "question": "Touched by a Polka's musci label is represented by [mask].",
+        "answers": [
+            "Rounder Records"
+        ]
+    },
+    {
+        "question": "Naty Botero's musci label is represented by [mask].",
+        "answers": [
+            "Sony BMG"
+        ]
+    },
+    {
+        "question": "Taboo's musci label is represented by [mask].",
+        "answers": [
+            "JVC Kenwood Victor Entertainment"
+        ]
+    },
+    {
+        "question": "Prizmmy's musci label is represented by [mask].",
+        "answers": [
+            "Avex Group"
+        ]
+    },
+    {
+        "question": "Unleashed's musci label is represented by [mask].",
+        "answers": [
+            "Sugar Hill Records"
+        ]
+    },
+    {
+        "question": "A Good Ground's musci label is represented by [mask].",
+        "answers": [
+            "Kanine Records"
+        ]
+    },
+    {
+        "question": "Face Up's musci label is represented by [mask].",
+        "answers": [
+            "Arista"
+        ]
+    },
+    {
+        "question": "WYSIWYG's musci label is represented by [mask].",
+        "answers": [
+            "EMI"
+        ]
+    },
+    {
+        "question": "Taru's musci label is represented by [mask].",
+        "answers": [
+            "Blue Note Records"
+        ]
+    },
+    {
+        "question": "Straight Ahead's musci label is represented by [mask].",
+        "answers": [
+            "Prestige"
+        ]
+    },
+    {
+        "question": "Backstage's musci label is represented by [mask].",
+        "answers": [
+            "Imperial"
+        ]
+    },
+    {
+        "question": "Vague Premonition's musci label is represented by [mask].",
+        "answers": [
+            "Sonic Unyon",
+            "Sub Pop"
+        ]
+    },
+    {
+        "question": "The Blues Brothers's musci label is represented by [mask].",
+        "answers": [
+            "Atlantic Records"
+        ]
+    },
+    {
+        "question": "The Young Ones's musci label is represented by [mask].",
+        "answers": [
+            "Columbia Graphophone Company Ltd."
+        ]
+    },
+    {
+        "question": "Taken by Force's musci label is represented by [mask].",
+        "answers": [
+            "RCA Records"
+        ]
+    },
+    {
+        "question": "Portrait of the Goddess's musci label is represented by [mask].",
+        "answers": [
+            "Indecision Records"
+        ]
+    },
+    {
+        "question": "Serve & Collect III's musci label is represented by [mask].",
+        "answers": [
+            "Entertainment One Music"
+        ]
+    },
+    {
+        "question": "Dungen 2's musci label is represented by [mask].",
+        "answers": [
+            "Subliminal Sounds"
+        ]
+    },
+    {
+        "question": "Get It On...Tonite's musci label is represented by [mask].",
+        "answers": [
+            "Def Jam Recordings"
+        ]
+    },
+    {
+        "question": "Baby I'm Yours's musci label is represented by [mask].",
+        "answers": [
+            "Atlantic Records"
+        ]
+    },
+    {
+        "question": "A Hope for Home's musci label is represented by [mask].",
+        "answers": [
+            "Facedown Records"
+        ]
+    },
+    {
+        "question": "It Would Be You's musci label is represented by [mask].",
+        "answers": [
+            "Decca"
+        ]
+    },
+    {
+        "question": "Chthonic's musci label is represented by [mask].",
+        "answers": [
+            "Spinefarm Records"
+        ]
+    },
+    {
+        "question": "Anakonda's musci label is represented by [mask].",
+        "answers": [
+            "Entertainment One Music"
+        ]
+    },
+    {
+        "question": "Le Vibrazioni's musci label is represented by [mask].",
+        "answers": [
+            "BMG Rights Management"
+        ]
+    },
+    {
+        "question": "Tash's musci label is represented by [mask].",
+        "answers": [
+            "Sony Music"
+        ]
+    },
+    {
+        "question": "High Winds, White Sky's musci label is represented by [mask].",
+        "answers": [
+            "True North Records"
+        ]
+    },
+    {
+        "question": "Blood Brothers's musci label is represented by [mask].",
+        "answers": [
+            "Babygrande Records"
+        ]
+    },
+    {
+        "question": "Doll Domination's musci label is represented by [mask].",
+        "answers": [
+            "Interscope Records"
+        ]
+    },
+    {
+        "question": "The Mystery of Compassion's musci label is represented by [mask].",
+        "answers": [
+            "Black Saint/Soul Note"
+        ]
+    },
+    {
+        "question": "Ball of Confusion's musci label is represented by [mask].",
+        "answers": [
+            "Motown"
+        ]
+    },
+    {
+        "question": "George Olsen's musci label is represented by [mask].",
+        "answers": [
+            "Victor Talking Machine Company"
+        ]
+    },
+    {
+        "question": "Unique's musci label is represented by [mask].",
+        "answers": [
+            "Ariola"
+        ]
+    },
+    {
+        "question": "Collecting Sunlight's musci label is represented by [mask].",
+        "answers": [
+            "Sony Music"
+        ]
+    },
+    {
+        "question": "Carl Belew's musci label is represented by [mask].",
+        "answers": [
+            "Decca"
+        ]
+    },
+    {
+        "question": "Asphalt Ballet's musci label is represented by [mask].",
+        "answers": [
+            "Virgin Records"
+        ]
+    },
+    {
+        "question": "The Spirit's in It's musci label is represented by [mask].",
+        "answers": [
+            "Philadelphia International Records"
+        ]
+    },
+    {
+        "question": "The Miracle Mile's musci label is represented by [mask].",
+        "answers": [
+            "Warner Music Canada"
+        ]
+    },
+    {
+        "question": "Mathematics's musci label is represented by [mask].",
+        "answers": [
+            "Heavenly Recordings"
+        ]
+    },
+    {
+        "question": "Under the Milky Way's musci label is represented by [mask].",
+        "answers": [
+            "Mushroom Records"
+        ]
+    },
+    {
+        "question": "Karen Girl's's musci label is represented by [mask].",
+        "answers": [
+            "NBCUniversal Entertainment Japan LLC"
+        ]
+    },
+    {
+        "question": "Heart Like a Gun's musci label is represented by [mask].",
+        "answers": [
+            "Atlantic Records"
+        ]
+    },
+    {
+        "question": "Merrill at Midnight's musci label is represented by [mask].",
+        "answers": [
+            "EmArcy"
+        ]
+    },
+    {
+        "question": "Red Rose for Gregory's musci label is represented by [mask].",
+        "answers": [
+            "RAS Records"
+        ]
+    },
+    {
+        "question": "Ian Moore's musci label is represented by [mask].",
+        "answers": [
+            "Capricorn Records"
+        ]
+    },
+    {
+        "question": "All Women Are Bitches's musci label is represented by [mask].",
+        "answers": [
+            "K Records"
+        ]
+    },
+    {
+        "question": "Jimmy Somerville's musci label is represented by [mask].",
+        "answers": [
+            "London Records"
+        ]
+    },
+    {
+        "question": "It's Alright's musci label is represented by [mask].",
+        "answers": [
+            "Volcano Entertainment"
+        ]
+    },
+    {
+        "question": "Wolfpac's musci label is represented by [mask].",
+        "answers": [
+            "Megaforce Records"
+        ]
+    },
+    {
+        "question": "Kiss the Bunny's musci label is represented by [mask].",
+        "answers": [
+            "Fearless Records"
+        ]
+    },
+    {
+        "question": "Muse's musci label is represented by [mask].",
+        "answers": [
+            "Warner Music Group"
+        ]
+    },
+    {
+        "question": "Sparkle and Fade's musci label is represented by [mask].",
+        "answers": [
+            "Capitol Records"
+        ]
+    },
+    {
+        "question": "Hank Crawford's musci label is represented by [mask].",
+        "answers": [
+            "Milestone Records",
+            "Atlantic Records"
+        ]
+    },
+    {
+        "question": "After the Drama's musci label is represented by [mask].",
+        "answers": [
+            "Capitol Records"
+        ]
+    },
+    {
+        "question": "The Tenors's musci label is represented by [mask].",
+        "answers": [
+            "Universal Music Group"
+        ]
+    },
+    {
+        "question": "Mostly Coltrane's musci label is represented by [mask].",
+        "answers": [
+            "ECM Records"
+        ]
+    },
+    {
+        "question": "Alexander Tucker's musci label is represented by [mask].",
+        "answers": [
+            "ATP Recordings"
+        ]
+    },
+    {
+        "question": "It Ain't What U Wear, It's How U Play It's musci label is represented by [mask].",
+        "answers": [
+            "Motown"
+        ]
+    },
+    {
+        "question": "Plumb's musci label is represented by [mask].",
+        "answers": [
+            "Curb Records"
+        ]
+    },
+    {
+        "question": "Pegz's musci label is represented by [mask].",
+        "answers": [
+            "Obese Records"
+        ]
+    },
+    {
+        "question": "Drums Unlimited's musci label is represented by [mask].",
+        "answers": [
+            "Atlantic Records"
+        ]
+    },
+    {
+        "question": "Misguided Roses's musci label is represented by [mask].",
+        "answers": [
+            "Lava Records"
+        ]
+    },
+    {
+        "question": "Dagger Mouth's musci label is represented by [mask].",
+        "answers": [
+            "Suburban Noize Records"
+        ]
+    },
+    {
+        "question": "Cracking Under Pressure's musci label is represented by [mask].",
+        "answers": [
+            "MCA Records"
+        ]
+    },
+    {
+        "question": "The Outer Limits's musci label is represented by [mask].",
+        "answers": [
+            "MCA Records"
+        ]
+    },
+    {
+        "question": "Rocky Loves Emily's musci label is represented by [mask].",
+        "answers": [
+            "Tooth & Nail Records"
+        ]
+    },
+    {
+        "question": "Chronicles's musci label is represented by [mask].",
+        "answers": [
+            "Polydor Records"
+        ]
+    },
+    {
+        "question": "Cyclotron's musci label is represented by [mask].",
+        "answers": [
+            "Avant Records"
+        ]
+    },
+    {
+        "question": "Rhythm and Booze's musci label is represented by [mask].",
+        "answers": [
+            "Suburban Noize Records"
+        ]
+    },
+    {
+        "question": "Ricochet's musci label is represented by [mask].",
+        "answers": [
+            "Columbia Records"
+        ]
+    },
+    {
+        "question": "Apocalypso's musci label is represented by [mask].",
+        "answers": [
+            "Modular Recordings"
+        ]
+    },
+    {
+        "question": "Favourite Worst Nightmare's musci label is represented by [mask].",
+        "answers": [
+            "Domino Recording Company"
+        ]
+    },
+    {
+        "question": "Templars: In Sacred Blood's musci label is represented by [mask].",
+        "answers": [
+            "Tzadik Records"
+        ]
+    },
+    {
+        "question": "Laser Inc's musci label is represented by [mask].",
+        "answers": [
+            "Warner Music Group"
+        ]
+    },
+    {
+        "question": "Yeah! Meccha Holiday's musci label is represented by [mask].",
+        "answers": [
+            "Zetima"
+        ]
+    },
+    {
+        "question": "Saint Low's musci label is represented by [mask].",
+        "answers": [
+            "Cooking Vinyl"
+        ]
+    },
+    {
+        "question": "LoveLikeFire's musci label is represented by [mask].",
+        "answers": [
+            "Heist or Hit Records"
+        ]
+    },
+    {
+        "question": "You Are Not Alone's musci label is represented by [mask].",
+        "answers": [
+            "ANTI-"
+        ]
+    },
+    {
+        "question": "Days of Wine and Roses and Other TV Requests's musci label is represented by [mask].",
+        "answers": [
+            "Columbia Records"
+        ]
+    },
+    {
+        "question": "As the Palaces Burn's musci label is represented by [mask].",
+        "answers": [
+            "Prosthetic Records"
+        ]
+    },
+    {
+        "question": "Band of Brothers's musci label is represented by [mask].",
+        "answers": [
+            "Eleven Seven Music"
+        ]
+    },
+    {
+        "question": "Night of the Living Dead's musci label is represented by [mask].",
+        "answers": [
+            "Plan 9 Records"
+        ]
+    },
+    {
+        "question": "Courage's musci label is represented by [mask].",
+        "answers": [
+            "Rock Records"
+        ]
+    },
+    {
+        "question": "The Standells's musci label is represented by [mask].",
+        "answers": [
+            "Capitol Records"
+        ]
+    },
+    {
+        "question": "Pleased to Meet You's musci label is represented by [mask].",
+        "answers": [
+            "Mercury Records"
+        ]
+    },
+    {
+        "question": "S.O.N.O.G.R.A.M.'s musci label is represented by [mask].",
+        "answers": [
+            "One Be Lo"
+        ]
+    },
+    {
+        "question": "Hamza Namira's musci label is represented by [mask].",
+        "answers": [
+            "Awakening Records"
+        ]
+    },
+    {
+        "question": "Gucci Gucci's musci label is represented by [mask].",
+        "answers": [
+            "Columbia Records"
+        ]
+    },
+    {
+        "question": "Third Day's musci label is represented by [mask].",
+        "answers": [
+            "Reunion Records"
+        ]
+    },
+    {
+        "question": "The Paris Sisters's musci label is represented by [mask].",
+        "answers": [
+            "Decca"
+        ]
+    },
+    {
+        "question": "Ridel High's musci label is represented by [mask].",
+        "answers": [
+            "A&M Records"
+        ]
+    },
+    {
+        "question": "Bad as Me's musci label is represented by [mask].",
+        "answers": [
+            "ANTI-"
+        ]
+    },
+    {
+        "question": "Fresh Berry's's musci label is represented by [mask].",
+        "answers": [
+            "Chess Records"
+        ]
+    },
+    {
+        "question": "Ai no Album 8's musci label is represented by [mask].",
+        "answers": [
+            "Piccolo Town"
+        ]
+    },
+    {
+        "question": "Hardcore Jollies's musci label is represented by [mask].",
+        "answers": [
+            "Warner Bros. Records"
+        ]
+    },
+    {
+        "question": "Time Together's musci label is represented by [mask].",
+        "answers": [
+            "Shanachie Records"
+        ]
+    },
+    {
+        "question": "Love Unlimited's musci label is represented by [mask].",
+        "answers": [
+            "Uni",
+            "MCA Records"
+        ]
+    },
+    {
+        "question": "Round 2's musci label is represented by [mask].",
+        "answers": [
+            "Capitol Records"
+        ]
+    },
+    {
+        "question": "Persian Risk's musci label is represented by [mask].",
+        "answers": [
+            "Neat Records"
+        ]
+    },
+    {
+        "question": "Blot's musci label is represented by [mask].",
+        "answers": [
+            "Tabu Recordings"
+        ]
+    },
+    {
+        "question": "Olly Murs's musci label is represented by [mask].",
+        "answers": [
+            "Epic"
+        ]
+    },
+    {
+        "question": "Pink Squares's musci label is represented by [mask].",
+        "answers": [
+            "XL Recordings"
+        ]
+    },
+    {
+        "question": "Western Underground's musci label is represented by [mask].",
+        "answers": [
+            "Liberty"
+        ]
+    },
+    {
+        "question": "Down Along the Cove's musci label is represented by [mask].",
+        "answers": [
+            "Columbia Records"
+        ]
+    },
+    {
+        "question": "Pot Luck's musci label is represented by [mask].",
+        "answers": [
+            "RCA Records"
+        ]
+    },
+    {
+        "question": "Women's musci label is represented by [mask].",
+        "answers": [
+            "Flemish Eye"
+        ]
+    },
+    {
+        "question": "Trafik's musci label is represented by [mask].",
+        "answers": [
+            "Global Underground"
+        ]
+    },
+    {
+        "question": "Alex & Sierra's musci label is represented by [mask].",
+        "answers": [
+            "Syco Music"
+        ]
+    },
+    {
+        "question": "Haloo Helsinki!'s musci label is represented by [mask].",
+        "answers": [
+            "EMI Records"
+        ]
+    },
+    {
+        "question": "Celebration's musci label is represented by [mask].",
+        "answers": [
+            "Warner Bros. Records"
+        ]
+    },
+    {
+        "question": "Dis Is da Drum's musci label is represented by [mask].",
+        "answers": [
+            "Mercury Records"
+        ]
+    },
+    {
+        "question": "A Chorus of Storytellers's musci label is represented by [mask].",
+        "answers": [
+            "Sub Pop"
+        ]
+    },
+    {
+        "question": "Z-1's musci label is represented by [mask].",
+        "answers": [
+            "EMI Music Japan"
+        ]
+    },
+    {
+        "question": "Two Compositions (Trio) 1998's musci label is represented by [mask].",
+        "answers": [
+            "Leo Records"
+        ]
+    },
+    {
+        "question": "Primitive's musci label is represented by [mask].",
+        "answers": [
+            "Roadrunner Records"
+        ]
+    },
+    {
+        "question": "James Blake's musci label is represented by [mask].",
+        "answers": [
+            "A&M Records"
+        ]
+    },
+    {
+        "question": "12 X 5's musci label is represented by [mask].",
+        "answers": [
+            "London Records"
+        ]
+    },
+    {
+        "question": "Weekend's musci label is represented by [mask].",
+        "answers": [
+            "Slumberland Records"
+        ]
+    },
+    {
+        "question": "Ain't Nothing Like the Real Thing's musci label is represented by [mask].",
+        "answers": [
+            "Motown"
+        ]
+    },
+    {
+        "question": "Loose Blues's musci label is represented by [mask].",
+        "answers": [
+            "Milestone Records"
+        ]
+    },
+    {
+        "question": "Parallel Lines's musci label is represented by [mask].",
+        "answers": [
+            "Chrysalis Records"
+        ]
+    },
+    {
+        "question": "Eyedea's musci label is represented by [mask].",
+        "answers": [
+            "Rhymesayers Entertainment"
+        ]
+    },
+    {
+        "question": "In the Minds of Evil's musci label is represented by [mask].",
+        "answers": [
+            "Century Media Records"
+        ]
+    },
+    {
+        "question": "Enlightened Rogues's musci label is represented by [mask].",
+        "answers": [
+            "Capricorn Records"
+        ]
+    },
+    {
+        "question": "Someday My Blues Will Cover the Earth's musci label is represented by [mask].",
+        "answers": [
+            "4AD"
+        ]
+    },
+    {
+        "question": "Velocity Girl's musci label is represented by [mask].",
+        "answers": [
+            "Sub Pop"
+        ]
+    },
+    {
+        "question": "Tony's musci label is represented by [mask].",
+        "answers": [
+            "Columbia Records"
+        ]
+    },
+    {
+        "question": "Jadon Lavik's musci label is represented by [mask].",
+        "answers": [
+            "BEC Recordings"
+        ]
+    },
+    {
+        "question": "The Holy Modal Rounders's musci label is represented by [mask].",
+        "answers": [
+            "Elektra"
+        ]
+    },
+    {
+        "question": "5to Piso's musci label is represented by [mask].",
+        "answers": [
+            "Warner Music Group"
+        ]
+    },
+    {
+        "question": "Don't Look Down's musci label is represented by [mask].",
+        "answers": [
+            "A&M Records"
+        ]
+    },
+    {
+        "question": "Songs for Insects's musci label is represented by [mask].",
+        "answers": [
+            "Metal Blade Records"
+        ]
+    },
+    {
+        "question": "The Blues Don't Change's musci label is represented by [mask].",
+        "answers": [
+            "Stax"
+        ]
+    },
+    {
+        "question": "Steve Holy's musci label is represented by [mask].",
+        "answers": [
+            "Curb Records"
+        ]
+    },
+    {
+        "question": "Concrete Jungle's musci label is represented by [mask].",
+        "answers": [
+            "Giant Records"
+        ]
+    },
+    {
+        "question": "Magia's musci label is represented by [mask].",
+        "answers": [
+            "Sony Music"
+        ]
+    },
+    {
+        "question": "Lights's musci label is represented by [mask].",
+        "answers": [
+            "Polydor Records"
+        ]
+    },
+    {
+        "question": "Vision Valley's musci label is represented by [mask].",
+        "answers": [
+            "EMI Records"
+        ]
+    },
+    {
+        "question": "Blues for Fred's musci label is represented by [mask].",
+        "answers": [
+            "Pablo Records"
+        ]
+    },
+    {
+        "question": "Open Excursions's musci label is represented by [mask].",
+        "answers": [
+            "Curling Legs"
+        ]
+    },
+    {
+        "question": "II's musci label is represented by [mask].",
+        "answers": [
+            "Motown"
+        ]
+    },
+    {
+        "question": "The Siegel\u2013Schwall Band's musci label is represented by [mask].",
+        "answers": [
+            "Wooden Nickel Records"
+        ]
+    },
+    {
+        "question": "On the Radio's musci label is represented by [mask].",
+        "answers": [
+            "Casablanca Records"
+        ]
+    },
+    {
+        "question": "The Real Roxanne's musci label is represented by [mask].",
+        "answers": [
+            "Select Records"
+        ]
+    },
+    {
+        "question": "Live over Europe 2007's musci label is represented by [mask].",
+        "answers": [
+            "Virgin Records"
+        ]
+    },
+    {
+        "question": "Ad Astra per Aspera's musci label is represented by [mask].",
+        "answers": [
+            "Gotee Records"
+        ]
+    },
+    {
+        "question": "Movin' & Groovin''s musci label is represented by [mask].",
+        "answers": [
+            "Blue Note Records"
+        ]
+    },
+    {
+        "question": "Welcome to My Nightmare's musci label is represented by [mask].",
+        "answers": [
+            "Atlantic Records"
+        ]
+    },
+    {
+        "question": "Or Give Me Death's musci label is represented by [mask].",
+        "answers": [
+            "Barsuk Records"
+        ]
+    },
+    {
+        "question": "The Sound of Sunshine's musci label is represented by [mask].",
+        "answers": [
+            "Capitol Records"
+        ]
+    },
+    {
+        "question": "Warrior Soul's musci label is represented by [mask].",
+        "answers": [
+            "Geffen Records"
+        ]
+    },
+    {
+        "question": "Ja Rule's musci label is represented by [mask].",
+        "answers": [
+            "The Inc. Records"
+        ]
+    },
+    {
+        "question": "1969's musci label is represented by [mask].",
+        "answers": [
+            "Fake Four Inc."
+        ]
+    },
+    {
+        "question": "Gods and Monsters's musci label is represented by [mask].",
+        "answers": [
+            "Metropolis Records"
+        ]
+    },
+    {
+        "question": "Love a Little Stronger's musci label is represented by [mask].",
+        "answers": [
+            "Arista"
+        ]
+    },
+    {
+        "question": "Once Upon a Time in the West's musci label is represented by [mask].",
+        "answers": [
+            "Warner Music Group"
+        ]
+    },
+    {
+        "question": "And the Crowd Goes Wild's musci label is represented by [mask].",
+        "answers": [
+            "Universal Music Group Nashville"
+        ]
+    },
+    {
+        "question": "The Aquarium's musci label is represented by [mask].",
+        "answers": [
+            "Dischord Records"
+        ]
+    },
+    {
+        "question": "Cool Kids's musci label is represented by [mask].",
+        "answers": [
+            "Atlantic Records"
+        ]
+    },
+    {
+        "question": "Brothers Osborne's musci label is represented by [mask].",
+        "answers": [
+            "Capitol Records Nashville"
+        ]
+    },
+    {
+        "question": "Glasser's musci label is represented by [mask].",
+        "answers": [
+            "True Panther Sounds"
+        ]
+    },
+    {
+        "question": "Paul Kantner's musci label is represented by [mask].",
+        "answers": [
+            "RCA Records"
+        ]
+    },
+    {
+        "question": "Petula's musci label is represented by [mask].",
+        "answers": [
+            "Warner Bros. Records"
+        ]
+    },
+    {
+        "question": "A Little Taste's musci label is represented by [mask].",
+        "answers": [
+            "Riverside Records"
+        ]
+    },
+    {
+        "question": "Bites's musci label is represented by [mask].",
+        "answers": [
+            "Nettwerk"
+        ]
+    },
+    {
+        "question": "The Eternal Triangle's musci label is represented by [mask].",
+        "answers": [
+            "Blue Note Records"
+        ]
+    },
+    {
+        "question": "Arashi Single Collection 1999\u20132001's musci label is represented by [mask].",
+        "answers": [
+            "J Storm"
+        ]
+    },
+    {
+        "question": "Dwarves's musci label is represented by [mask].",
+        "answers": [
+            "Epitaph Records"
+        ]
+    },
+    {
+        "question": "Johnny Woods's musci label is represented by [mask].",
+        "answers": [
+            "Arhoolie Records"
+        ]
+    },
+    {
+        "question": "K-Much's musci label is represented by [mask].",
+        "answers": [
+            "Chrome Entertainment"
+        ]
+    },
+    {
+        "question": "The Crackdown's musci label is represented by [mask].",
+        "answers": [
+            "Virgin Records",
+            "Some Bizzare Records"
+        ]
+    },
+    {
+        "question": "Eisbrecher's musci label is represented by [mask].",
+        "answers": [
+            "Dancing Ferret",
+            "ZYX Music"
+        ]
+    },
+    {
+        "question": "Twirl's musci label is represented by [mask].",
+        "answers": [
+            "Arcturian Gate"
+        ]
+    },
+    {
+        "question": "Crush's musci label is represented by [mask].",
+        "answers": [
+            "Bella Union"
+        ]
+    },
+    {
+        "question": "Linda Ronstadt's musci label is represented by [mask].",
+        "answers": [
+            "Capitol Records",
+            "Asylum Records"
+        ]
+    },
+    {
+        "question": "Ugly/Heartless's musci label is represented by [mask].",
+        "answers": [
+            "Pluto Records"
+        ]
+    },
+    {
+        "question": "Stickup Kid's musci label is represented by [mask].",
+        "answers": [
+            "Adeline Records"
+        ]
+    },
+    {
+        "question": "Paranormalized's musci label is represented by [mask].",
+        "answers": [
+            "Sub Pop"
+        ]
+    },
+    {
+        "question": "Show You Off's musci label is represented by [mask].",
+        "answers": [
+            "Warner Bros. Records"
+        ]
+    },
+    {
+        "question": "Humans's musci label is represented by [mask].",
+        "answers": [
+            "I.R.S. Records"
+        ]
+    },
+    {
+        "question": "Suiticide's musci label is represented by [mask].",
+        "answers": [
+            "Fat Wreck Chords"
+        ]
+    },
+    {
+        "question": "Life 'n Perspectives of a Genuine Crossover's musci label is represented by [mask].",
+        "answers": [
+            "Arista"
+        ]
+    },
+    {
+        "question": "Parting the Sea Between Brightness and Me's musci label is represented by [mask].",
+        "answers": [
+            "Deathwish Inc."
+        ]
+    },
+    {
+        "question": "The Turtles Present the Battle of the Bands's musci label is represented by [mask].",
+        "answers": [
+            "White Whale Records"
+        ]
+    },
+    {
+        "question": "The Best of Sepultura's musci label is represented by [mask].",
+        "answers": [
+            "Roadrunner Records"
+        ]
+    },
+    {
+        "question": "The Death of Cool's musci label is represented by [mask].",
+        "answers": [
+            "One Little Indian"
+        ]
+    },
+    {
+        "question": "Your Personal Touch's musci label is represented by [mask].",
+        "answers": [
+            "RCA Records"
+        ]
+    },
+    {
+        "question": "Brice Conrad's musci label is represented by [mask].",
+        "answers": [
+            "Universal Music Group"
+        ]
+    },
+    {
+        "question": "Buffalo Springfield's musci label is represented by [mask].",
+        "answers": [
+            "Atco Records"
+        ]
+    },
+    {
+        "question": "Jozef Cleber's musci label is represented by [mask].",
+        "answers": [
+            "Phonogram"
+        ]
+    },
+    {
+        "question": "Your Old Standby's musci label is represented by [mask].",
+        "answers": [
+            "Motown"
+        ]
+    },
+    {
+        "question": "Hunter Hayes's musci label is represented by [mask].",
+        "answers": [
+            "Atlantic Records"
+        ]
+    },
+    {
+        "question": "The Gap's musci label is represented by [mask].",
+        "answers": [
+            "Jade Tree"
+        ]
+    },
+    {
+        "question": "Mr. Music Head's musci label is represented by [mask].",
+        "answers": [
+            "Atlantic Records"
+        ]
+    },
+    {
+        "question": "Gebel Barkal's musci label is represented by [mask].",
+        "answers": [
+            "Sub Pop"
+        ]
+    },
+    {
+        "question": "Time Remembers One Time Once's musci label is represented by [mask].",
+        "answers": [
+            "ECM Records"
+        ]
+    },
+    {
+        "question": "Let Love Win's musci label is represented by [mask].",
+        "answers": [
+            "BEC Recordings"
+        ]
+    },
+    {
+        "question": "Godsville's musci label is represented by [mask].",
+        "answers": [
+            "Diggin' in the Crates Crew"
+        ]
+    },
+    {
+        "question": "The Soulful Piano of Junior Mance's musci label is represented by [mask].",
+        "answers": [
+            "Riverside Records"
+        ]
+    },
+    {
+        "question": "So Long, Astoria's musci label is represented by [mask].",
+        "answers": [
+            "Columbia Records"
+        ]
+    },
+    {
+        "question": "Drinking Gasoline's musci label is represented by [mask].",
+        "answers": [
+            "Virgin Records"
+        ]
+    },
+    {
+        "question": "Hack's musci label is represented by [mask].",
+        "answers": [
+            "Tommy Boy Records"
+        ]
+    },
+    {
+        "question": "Built from Scratch's musci label is represented by [mask].",
+        "answers": [
+            "Suburban Noize Records"
+        ]
+    },
+    {
+        "question": "The Warrior's Code's musci label is represented by [mask].",
+        "answers": [
+            "Hellcat Records"
+        ]
+    },
+    {
+        "question": "Comin' On Strong's musci label is represented by [mask].",
+        "answers": [
+            "Argo Records"
+        ]
+    },
+    {
+        "question": "The Great Southern Trendkill's musci label is represented by [mask].",
+        "answers": [
+            "East West Records"
+        ]
+    },
+    {
+        "question": "Halls of Frozen North's musci label is represented by [mask].",
+        "answers": [
+            "Massacre Records"
+        ]
+    },
+    {
+        "question": "Homerun's musci label is represented by [mask].",
+        "answers": [
+            "Polydor Records"
+        ]
+    },
+    {
+        "question": "Love Won't Wait's musci label is represented by [mask].",
+        "answers": [
+            "RCA Records"
+        ]
+    },
+    {
+        "question": "For Life's musci label is represented by [mask].",
+        "answers": [
+            "Uptown Records"
+        ]
+    },
+    {
+        "question": "Destroy What You Enjoy's musci label is represented by [mask].",
+        "answers": [
+            "DRT Entertainment"
+        ]
+    },
+    {
+        "question": "Bookends's musci label is represented by [mask].",
+        "answers": [
+            "Columbia Records"
+        ]
+    },
+    {
+        "question": "Sny anio\u0142\u00f3w's musci label is represented by [mask].",
+        "answers": [
+            "Musea"
+        ]
+    },
+    {
+        "question": "Out of Step's musci label is represented by [mask].",
+        "answers": [
+            "Dischord Records"
+        ]
+    },
+    {
+        "question": "Bag It Up's musci label is represented by [mask].",
+        "answers": [
+            "EMI"
+        ]
+    },
+    {
+        "question": "The View from the Inside's musci label is represented by [mask].",
+        "answers": [
+            "Blue Note Records"
+        ]
+    },
+    {
+        "question": "A Long Time Coming's musci label is represented by [mask].",
+        "answers": [
+            "RCA Records"
+        ]
+    },
+    {
+        "question": "Let My Children Hear Music's musci label is represented by [mask].",
+        "answers": [
+            "Columbia Records"
+        ]
+    },
+    {
+        "question": "Until I Feel Nothing's musci label is represented by [mask].",
+        "answers": [
+            "Victory Records"
+        ]
+    },
+    {
+        "question": "Boy's musci label is represented by [mask].",
+        "answers": [
+            "Rhythm Zone"
+        ]
+    },
+    {
+        "question": "Tristeza's musci label is represented by [mask].",
+        "answers": [
+            "Better Looking Records"
+        ]
+    },
+    {
+        "question": "Iron Mountain Depot's musci label is represented by [mask].",
+        "answers": [
+            "RCA Records"
+        ]
+    },
+    {
+        "question": "+'s musci label is represented by [mask].",
+        "answers": [
+            "Atlantic Records"
+        ]
+    },
+    {
+        "question": "Sticks and Stones and Broken Bones's musci label is represented by [mask].",
+        "answers": [
+            "Geffen Records"
+        ]
+    },
+    {
+        "question": "Whip-Smart's musci label is represented by [mask].",
+        "answers": [
+            "Matador Records"
+        ]
+    },
+    {
+        "question": "Yes Sir, I Can Boogie's musci label is represented by [mask].",
+        "answers": [
+            "RCA Records"
+        ]
+    },
+    {
+        "question": "Love Is Bubble's musci label is represented by [mask].",
+        "answers": [
+            "Warner Music Group"
+        ]
+    },
+    {
+        "question": "The Promised's musci label is represented by [mask].",
+        "answers": [
+            "Virgin Records"
+        ]
+    },
+    {
+        "question": "Los Pikadientes de Caborca's musci label is represented by [mask].",
+        "answers": [
+            "Sony BMG"
+        ]
+    },
+    {
+        "question": "Kontraritam's musci label is represented by [mask].",
+        "answers": [
+            "Jugoton"
+        ]
+    },
+    {
+        "question": "Richie Hawtin's musci label is represented by [mask].",
+        "answers": [
+            "Plus 8"
+        ]
+    },
+    {
+        "question": "Sera Cahoone's musci label is represented by [mask].",
+        "answers": [
+            "Sub Pop"
+        ]
+    },
+    {
+        "question": "Mark Chesnutt's musci label is represented by [mask].",
+        "answers": [
+            "Decca"
+        ]
+    },
+    {
+        "question": "Vibrations's musci label is represented by [mask].",
+        "answers": [
+            "Blue Note Records"
+        ]
+    }
+]

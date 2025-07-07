@@ -1,0 +1,6060 @@
+[
+    {
+        "question": "Carol II of Romania is married to [mask].",
+        "answers": [
+            "Zizi Lambrino",
+            "Helen of Greece and Denmark"
+        ]
+    },
+    {
+        "question": "Philip the Bold is married to [mask].",
+        "answers": [
+            "Margaret III, Countess of Flanders"
+        ]
+    },
+    {
+        "question": "Birgit Rosengren is married to [mask].",
+        "answers": [
+            "Elof Ahrle"
+        ]
+    },
+    {
+        "question": "Francis Coleman is married to [mask].",
+        "answers": [
+            "Ann Beach"
+        ]
+    },
+    {
+        "question": "Archduchess Maria Leopoldine of Austria-Este is married to [mask].",
+        "answers": [
+            "Charles Theodore, Elector of Bavaria"
+        ]
+    },
+    {
+        "question": "Mehmed the Conqueror is married to [mask].",
+        "answers": [
+            "M\u00fckrime Hatun"
+        ]
+    },
+    {
+        "question": "Willard Huyck is married to [mask].",
+        "answers": [
+            "Gloria Katz"
+        ]
+    },
+    {
+        "question": "Allan Manings is married to [mask].",
+        "answers": [
+            "Whitney Blake"
+        ]
+    },
+    {
+        "question": "Samir Soni is married to [mask].",
+        "answers": [
+            "Neelam Kothari"
+        ]
+    },
+    {
+        "question": "Empress Zhu Manyue is married to [mask].",
+        "answers": [
+            "Emperor Xuan of Northern Zhou"
+        ]
+    },
+    {
+        "question": "Katey Sagal is married to [mask].",
+        "answers": [
+            "Kurt Sutter"
+        ]
+    },
+    {
+        "question": "Kurt Vonnegut is married to [mask].",
+        "answers": [
+            "Jill Krementz"
+        ]
+    },
+    {
+        "question": "Princess Augusta of Hesse-Kassel is married to [mask].",
+        "answers": [
+            "Prince Adolphus"
+        ]
+    },
+    {
+        "question": "Samyuktha Varma is married to [mask].",
+        "answers": [
+            "Biju Menon"
+        ]
+    },
+    {
+        "question": "Princess Marie of Denmark is married to [mask].",
+        "answers": [
+            "Prince Joachim of Denmark"
+        ]
+    },
+    {
+        "question": "Marlon Brando is married to [mask].",
+        "answers": [
+            "Movita Castaneda",
+            "Anna Kashfi",
+            "Tarita Teriipaia"
+        ]
+    },
+    {
+        "question": "Goffredo Alessandrini is married to [mask].",
+        "answers": [
+            "Anna Magnani"
+        ]
+    },
+    {
+        "question": "Shamim Hilaly is married to [mask].",
+        "answers": [
+            "Zafar Hilaly"
+        ]
+    },
+    {
+        "question": "Margaret Drabble is married to [mask].",
+        "answers": [
+            "Michael Holroyd"
+        ]
+    },
+    {
+        "question": "Queen Uiin is married to [mask].",
+        "answers": [
+            "Seonjo of Joseon"
+        ]
+    },
+    {
+        "question": "Maria Muldaur is married to [mask].",
+        "answers": [
+            "Geoff Muldaur"
+        ]
+    },
+    {
+        "question": "Eileen Caddy is married to [mask].",
+        "answers": [
+            "Peter Caddy"
+        ]
+    },
+    {
+        "question": "Wolfgang Kieling is married to [mask].",
+        "answers": [
+            "Gisela Uhlen"
+        ]
+    },
+    {
+        "question": "Hiroyuki Nagato is married to [mask].",
+        "answers": [
+            "Y\u014dko Minamida"
+        ]
+    },
+    {
+        "question": "Hieronim Chodkiewicz is married to [mask].",
+        "answers": [
+            "Anna Tar\u0142o"
+        ]
+    },
+    {
+        "question": "David Johnston is married to [mask].",
+        "answers": [
+            "Sharon Johnston"
+        ]
+    },
+    {
+        "question": "Caresse Crosby is married to [mask].",
+        "answers": [
+            "Harry Crosby",
+            "Richard R. Peabody"
+        ]
+    },
+    {
+        "question": "Mike Nesbitt is married to [mask].",
+        "answers": [
+            "Lynda Bryans"
+        ]
+    },
+    {
+        "question": "Jennifer Aspen is married to [mask].",
+        "answers": [
+            "David O'Donnell"
+        ]
+    },
+    {
+        "question": "Cynthia Weil is married to [mask].",
+        "answers": [
+            "Barry Mann"
+        ]
+    },
+    {
+        "question": "Jack Welch is married to [mask].",
+        "answers": [
+            "Suzy Welch"
+        ]
+    },
+    {
+        "question": "William de la Pole, 1st Duke of Suffolk is married to [mask].",
+        "answers": [
+            "Alice de la Pole"
+        ]
+    },
+    {
+        "question": "Peter Paul Rubens is married to [mask].",
+        "answers": [
+            "Helena Fourment",
+            "Isabella Brant"
+        ]
+    },
+    {
+        "question": "Robert Frank is married to [mask].",
+        "answers": [
+            "Mary Frank"
+        ]
+    },
+    {
+        "question": "Elisabeth of Romania is married to [mask].",
+        "answers": [
+            "George II of Greece"
+        ]
+    },
+    {
+        "question": "Maud Gonne is married to [mask].",
+        "answers": [
+            "John MacBride"
+        ]
+    },
+    {
+        "question": "Errol Flynn is married to [mask].",
+        "answers": [
+            "Lili Damita",
+            "Patrice Wymore"
+        ]
+    },
+    {
+        "question": "Nonna Mordyukova is married to [mask].",
+        "answers": [
+            "Vyacheslav Tikhonov"
+        ]
+    },
+    {
+        "question": "Cleofa Malatesta is married to [mask].",
+        "answers": [
+            "Theodore II Palaiologos"
+        ]
+    },
+    {
+        "question": "Kitty Dukakis is married to [mask].",
+        "answers": [
+            "Michael Dukakis"
+        ]
+    },
+    {
+        "question": "Cleopatra Selene II is married to [mask].",
+        "answers": [
+            "Juba II"
+        ]
+    },
+    {
+        "question": "K\u00e4te Stresemann is married to [mask].",
+        "answers": [
+            "Gustav Stresemann"
+        ]
+    },
+    {
+        "question": "Eric Swanson is married to [mask].",
+        "answers": [
+            "Shana Madoff"
+        ]
+    },
+    {
+        "question": "Mayumi Sh\u014d is married to [mask].",
+        "answers": [
+            "Keiichi Nanba"
+        ]
+    },
+    {
+        "question": "Se\u00e1n Gleeson is married to [mask].",
+        "answers": [
+            "Stirling Gallacher"
+        ]
+    },
+    {
+        "question": "David Guetta is married to [mask].",
+        "answers": [
+            "Cathy Lob\u00e9"
+        ]
+    },
+    {
+        "question": "Lee Harvey Oswald is married to [mask].",
+        "answers": [
+            "Marina Oswald Porter"
+        ]
+    },
+    {
+        "question": "Ay\u015fe Haseki Sultan is married to [mask].",
+        "answers": [
+            "Murad IV"
+        ]
+    },
+    {
+        "question": "Marie-Claire Heureuse F\u00e9licit\u00e9 is married to [mask].",
+        "answers": [
+            "Jean-Jacques Dessalines"
+        ]
+    },
+    {
+        "question": "Tim McGraw is married to [mask].",
+        "answers": [
+            "Faith Hill"
+        ]
+    },
+    {
+        "question": "Neena Verma is married to [mask].",
+        "answers": [
+            "Vikram Verma"
+        ]
+    },
+    {
+        "question": "Beverley Cross is married to [mask].",
+        "answers": [
+            "Maggie Smith"
+        ]
+    },
+    {
+        "question": "Michael Wynn-Jones is married to [mask].",
+        "answers": [
+            "Delia Smith"
+        ]
+    },
+    {
+        "question": "Jacques Parizeau is married to [mask].",
+        "answers": [
+            "Lisette Lapointe"
+        ]
+    },
+    {
+        "question": "Mata Jito is married to [mask].",
+        "answers": [
+            "Guru Gobind Singh"
+        ]
+    },
+    {
+        "question": "Muzaffar Ali is married to [mask].",
+        "answers": [
+            "Subhashini Ali"
+        ]
+    },
+    {
+        "question": "Empress Murong is married to [mask].",
+        "answers": [
+            "Emperor Daowu of Northern Wei"
+        ]
+    },
+    {
+        "question": "Lidiya Fedoseyeva-Shukshina is married to [mask].",
+        "answers": [
+            "Vasily Shukshin"
+        ]
+    },
+    {
+        "question": "Prokopia is married to [mask].",
+        "answers": [
+            "Michael I Rangabe"
+        ]
+    },
+    {
+        "question": "Renate Hoy is married to [mask].",
+        "answers": [
+            "Brett Halsey"
+        ]
+    },
+    {
+        "question": "Joanna Kos-Krauze is married to [mask].",
+        "answers": [
+            "Krzysztof Krauze"
+        ]
+    },
+    {
+        "question": "Constance Garnett is married to [mask].",
+        "answers": [
+            "Edward Garnett"
+        ]
+    },
+    {
+        "question": "Ernest Aldrich Simpson is married to [mask].",
+        "answers": [
+            "Wallis Simpson"
+        ]
+    },
+    {
+        "question": "Courtney Love is married to [mask].",
+        "answers": [
+            "Kurt Cobain"
+        ]
+    },
+    {
+        "question": "Tara Platt is married to [mask].",
+        "answers": [
+            "Yuri Lowenthal"
+        ]
+    },
+    {
+        "question": "Catherine Galbraith is married to [mask].",
+        "answers": [
+            "John Kenneth Galbraith"
+        ]
+    },
+    {
+        "question": "Margherita Aldobrandini is married to [mask].",
+        "answers": [
+            "Ranuccio I Farnese"
+        ]
+    },
+    {
+        "question": "Maria Oakey Dewing is married to [mask].",
+        "answers": [
+            "Thomas Dewing"
+        ]
+    },
+    {
+        "question": "Ted Hughes is married to [mask].",
+        "answers": [
+            "Sylvia Plath"
+        ]
+    },
+    {
+        "question": "Gita Hall is married to [mask].",
+        "answers": [
+            "Barry Sullivan"
+        ]
+    },
+    {
+        "question": "M.A. Jalil Ananta is married to [mask].",
+        "answers": [
+            "Afiea Nusrat Barsha"
+        ]
+    },
+    {
+        "question": "John Jay O'Connor is married to [mask].",
+        "answers": [
+            "Sandra Day O'Connor"
+        ]
+    },
+    {
+        "question": "Tutankhamon is married to [mask].",
+        "answers": [
+            "Ankhesenamun"
+        ]
+    },
+    {
+        "question": "Nina Khrushcheva is married to [mask].",
+        "answers": [
+            "Nikita Khrushchev"
+        ]
+    },
+    {
+        "question": "Ntombi of Swaziland is married to [mask].",
+        "answers": [
+            "Sobhuza II"
+        ]
+    },
+    {
+        "question": "Bulle Ogier is married to [mask].",
+        "answers": [
+            "Barbet Schroeder"
+        ]
+    },
+    {
+        "question": "Julia Domna is married to [mask].",
+        "answers": [
+            "Septimius Severus"
+        ]
+    },
+    {
+        "question": "Anne of Bavaria is married to [mask].",
+        "answers": [
+            "Charles IV"
+        ]
+    },
+    {
+        "question": "Claudia Dey is married to [mask].",
+        "answers": [
+            "Don Kerr"
+        ]
+    },
+    {
+        "question": "Annapurna Devi is married to [mask].",
+        "answers": [
+            "Ravi Shankar"
+        ]
+    },
+    {
+        "question": "Nancy Benoit is married to [mask].",
+        "answers": [
+            "Chris Benoit"
+        ]
+    },
+    {
+        "question": "Sarah Millican is married to [mask].",
+        "answers": [
+            "Gary Delaney"
+        ]
+    },
+    {
+        "question": "Joumana Kidd is married to [mask].",
+        "answers": [
+            "Jason Kidd"
+        ]
+    },
+    {
+        "question": "Leontia is married to [mask].",
+        "answers": [
+            "Phocas"
+        ]
+    },
+    {
+        "question": "Marianne McAndrew is married to [mask].",
+        "answers": [
+            "Stewart Moss"
+        ]
+    },
+    {
+        "question": "Ai Maeda is married to [mask].",
+        "answers": [
+            "Ry\u014dtar\u014d Okiayu"
+        ]
+    },
+    {
+        "question": "Clara Beranger is married to [mask].",
+        "answers": [
+            "William Churchill deMille"
+        ]
+    },
+    {
+        "question": "Nancy Steinbeck is married to [mask].",
+        "answers": [
+            "John Steinbeck IV"
+        ]
+    },
+    {
+        "question": "Pomponia Caecilia Attica is married to [mask].",
+        "answers": [
+            "Marcus Vipsanius Agrippa"
+        ]
+    },
+    {
+        "question": "Princess Alexandrine of Baden is married to [mask].",
+        "answers": [
+            "Ernest II, Duke of Saxe-Coburg and Gotha"
+        ]
+    },
+    {
+        "question": "Tina Aumont is married to [mask].",
+        "answers": [
+            "Christian Marquand"
+        ]
+    },
+    {
+        "question": "Grand Duke Paul Alexandrovich of Russia is married to [mask].",
+        "answers": [
+            "Princess Olga Paley",
+            "Grand Duchess Alexandra Georgievna of Russia"
+        ]
+    },
+    {
+        "question": "Sergey Nikitin is married to [mask].",
+        "answers": [
+            "Tatyana Nikitina"
+        ]
+    },
+    {
+        "question": "Ruqaiya Sultan Begum is married to [mask].",
+        "answers": [
+            "Akbar"
+        ]
+    },
+    {
+        "question": "Nam June Paik is married to [mask].",
+        "answers": [
+            "Shigeko Kubota"
+        ]
+    },
+    {
+        "question": "Jane Henson is married to [mask].",
+        "answers": [
+            "Jim Henson"
+        ]
+    },
+    {
+        "question": "Myrto is married to [mask].",
+        "answers": [
+            "Socrates"
+        ]
+    },
+    {
+        "question": "Kamila Andini is married to [mask].",
+        "answers": [
+            "Ifa Isfansyah"
+        ]
+    },
+    {
+        "question": "Marella Agnelli is married to [mask].",
+        "answers": [
+            "Gianni Agnelli"
+        ]
+    },
+    {
+        "question": "Ray Singleton is married to [mask].",
+        "answers": [
+            "Berry Gordy"
+        ]
+    },
+    {
+        "question": "Yolande of Aragon is married to [mask].",
+        "answers": [
+            "Louis II of Naples"
+        ]
+    },
+    {
+        "question": "Elke Clijsters is married to [mask].",
+        "answers": [
+            "Jelle Van Damme"
+        ]
+    },
+    {
+        "question": "Neelima Azeem is married to [mask].",
+        "answers": [
+            "Rajesh Khattar",
+            "Pankaj Kapur"
+        ]
+    },
+    {
+        "question": "Bruce Byron is married to [mask].",
+        "answers": [
+            "Tanya Byron"
+        ]
+    },
+    {
+        "question": "G\u00fczin Dino is married to [mask].",
+        "answers": [
+            "Abidin Dino"
+        ]
+    },
+    {
+        "question": "Ramesh Sippy is married to [mask].",
+        "answers": [
+            "Kiran Juneja"
+        ]
+    },
+    {
+        "question": "Patience Jonathan is married to [mask].",
+        "answers": [
+            "Goodluck Jonathan"
+        ]
+    },
+    {
+        "question": "Irene Purcell is married to [mask].",
+        "answers": [
+            "Herbert Fisk Johnson, Jr."
+        ]
+    },
+    {
+        "question": "Thiago Lacerda is married to [mask].",
+        "answers": [
+            "Vanessa L\u00f3es"
+        ]
+    },
+    {
+        "question": "Cosimo I de' Medici, Grand Duke of Tuscany is married to [mask].",
+        "answers": [
+            "Eleanor of Toledo"
+        ]
+    },
+    {
+        "question": "Ermesinda of Bigorre is married to [mask].",
+        "answers": [
+            "Ramiro I of Aragon"
+        ]
+    },
+    {
+        "question": "Bess Meredyth is married to [mask].",
+        "answers": [
+            "Wilfred Lucas",
+            "Michael Curtiz"
+        ]
+    },
+    {
+        "question": "Kenji Nojima is married to [mask].",
+        "answers": [
+            "Chie Sawaguchi"
+        ]
+    },
+    {
+        "question": "Alfred L. Kroeber is married to [mask].",
+        "answers": [
+            "Theodora Kroeber"
+        ]
+    },
+    {
+        "question": "Cole Turner is married to [mask].",
+        "answers": [
+            "Phoebe Halliwell"
+        ]
+    },
+    {
+        "question": "Dora Serviarian Kuhn is married to [mask].",
+        "answers": [
+            "Robert Lawrence Kuhn"
+        ]
+    },
+    {
+        "question": "Autumn Phillips is married to [mask].",
+        "answers": [
+            "Peter Phillips"
+        ]
+    },
+    {
+        "question": "Paul Bern is married to [mask].",
+        "answers": [
+            "Jean Harlow"
+        ]
+    },
+    {
+        "question": "Don Harron is married to [mask].",
+        "answers": [
+            "Virginia Leith"
+        ]
+    },
+    {
+        "question": "Constantine the Great is married to [mask].",
+        "answers": [
+            "Minervina"
+        ]
+    },
+    {
+        "question": "Yury Grigorovich is married to [mask].",
+        "answers": [
+            "Natalia Bessmertnova"
+        ]
+    },
+    {
+        "question": "Charles Vyner Brooke is married to [mask].",
+        "answers": [
+            "Sylvia Brett"
+        ]
+    },
+    {
+        "question": "Alice Stewart Trillin is married to [mask].",
+        "answers": [
+            "Calvin Trillin"
+        ]
+    },
+    {
+        "question": "Maria Manuela, Princess of Portugal is married to [mask].",
+        "answers": [
+            "Philip II of Spain"
+        ]
+    },
+    {
+        "question": "Beatrice Beckett is married to [mask].",
+        "answers": [
+            "Anthony Eden"
+        ]
+    },
+    {
+        "question": "Freawaru is married to [mask].",
+        "answers": [
+            "Ingeld"
+        ]
+    },
+    {
+        "question": "Vijayakumar is married to [mask].",
+        "answers": [
+            "Manjula Vijayakumar"
+        ]
+    },
+    {
+        "question": "Constantine V is married to [mask].",
+        "answers": [
+            "Tzitzak"
+        ]
+    },
+    {
+        "question": "Jacob Eisenberg is married to [mask].",
+        "answers": [
+            "Ruth Brewer Eisenberg"
+        ]
+    },
+    {
+        "question": "Ella O'Neill is married to [mask].",
+        "answers": [
+            "James O'Neill"
+        ]
+    },
+    {
+        "question": "Stewart Farrar is married to [mask].",
+        "answers": [
+            "Janet Farrar"
+        ]
+    },
+    {
+        "question": "Elisabeth Farnese is married to [mask].",
+        "answers": [
+            "Philip V of Spain"
+        ]
+    },
+    {
+        "question": "Humphrey Bogart is married to [mask].",
+        "answers": [
+            "Mary Philips",
+            "Mayo Methot",
+            "Lauren Bacall"
+        ]
+    },
+    {
+        "question": "Cesare d'Este, Duke of Modena is married to [mask].",
+        "answers": [
+            "Virginia de' Medici"
+        ]
+    },
+    {
+        "question": "Betty White is married to [mask].",
+        "answers": [
+            "Allen Ludden"
+        ]
+    },
+    {
+        "question": "Ursula Mommens is married to [mask].",
+        "answers": [
+            "Julian Trevelyan"
+        ]
+    },
+    {
+        "question": "Howard Hughes is married to [mask].",
+        "answers": [
+            "Jean Peters"
+        ]
+    },
+    {
+        "question": "Isabella de Coucy is married to [mask].",
+        "answers": [
+            "Enguerrand VII, Lord of Coucy"
+        ]
+    },
+    {
+        "question": "Vasily Shukshin is married to [mask].",
+        "answers": [
+            "Lidiya Fedoseyeva-Shukshina"
+        ]
+    },
+    {
+        "question": "Daniel Johns is married to [mask].",
+        "answers": [
+            "Natalie Imbruglia"
+        ]
+    },
+    {
+        "question": "Shahar Banu Begum is married to [mask].",
+        "answers": [
+            "Muhammad Azam Shah"
+        ]
+    },
+    {
+        "question": "Empress Li is married to [mask].",
+        "answers": [
+            "Emperor Taizong of Song"
+        ]
+    },
+    {
+        "question": "Enrique G\u00f3mez Carrillo is married to [mask].",
+        "answers": [
+            "Raquel Meller"
+        ]
+    },
+    {
+        "question": "Bert Lytell is married to [mask].",
+        "answers": [
+            "Claire Windsor"
+        ]
+    },
+    {
+        "question": "Robert Symington Baker is married to [mask].",
+        "answers": [
+            "Arcadia Bandini de Stearns Baker"
+        ]
+    },
+    {
+        "question": "Abidin Dino is married to [mask].",
+        "answers": [
+            "G\u00fczin Dino"
+        ]
+    },
+    {
+        "question": "Empress Liang Na is married to [mask].",
+        "answers": [
+            "Emperor Shun of Han"
+        ]
+    },
+    {
+        "question": "Floyd Odlum is married to [mask].",
+        "answers": [
+            "Jacqueline Cochran"
+        ]
+    },
+    {
+        "question": "Tamara Shayne is married to [mask].",
+        "answers": [
+            "Akim Tamiroff"
+        ]
+    },
+    {
+        "question": "Dinsdale Landen is married to [mask].",
+        "answers": [
+            "Jennifer Daniel"
+        ]
+    },
+    {
+        "question": "Pauline LaFon Gore is married to [mask].",
+        "answers": [
+            "Albert Arnold Gore"
+        ]
+    },
+    {
+        "question": "Maria Fitzherbert is married to [mask].",
+        "answers": [
+            "George IV of the United Kingdom"
+        ]
+    },
+    {
+        "question": "Carl-Eduard von Bismarck is married to [mask].",
+        "answers": [
+            "Laura Harring"
+        ]
+    },
+    {
+        "question": "Michael Chamberlain is married to [mask].",
+        "answers": [
+            "Lindy Chamberlain-Creighton"
+        ]
+    },
+    {
+        "question": "Robert Beauvais is married to [mask].",
+        "answers": [
+            "Ginette Garcin"
+        ]
+    },
+    {
+        "question": "Gertrud Wilhelmine von Hindenburg is married to [mask].",
+        "answers": [
+            "Paul von Hindenburg"
+        ]
+    },
+    {
+        "question": "Jeff Gordon is married to [mask].",
+        "answers": [
+            "Ingrid Vandebosch"
+        ]
+    },
+    {
+        "question": "George P. Putnam is married to [mask].",
+        "answers": [
+            "Amelia Earhart"
+        ]
+    },
+    {
+        "question": "Sarah Palin is married to [mask].",
+        "answers": [
+            "Todd Palin"
+        ]
+    },
+    {
+        "question": "Mary Cromwell, Countess Fauconberg is married to [mask].",
+        "answers": [
+            "Thomas Belasyse, 1st Earl Fauconberg"
+        ]
+    },
+    {
+        "question": "Laius is married to [mask].",
+        "answers": [
+            "Jocasta"
+        ]
+    },
+    {
+        "question": "Amphitryon is married to [mask].",
+        "answers": [
+            "Alkmene"
+        ]
+    },
+    {
+        "question": "Rasoherina is married to [mask].",
+        "answers": [
+            "Rainilaiarivony",
+            "Radama II",
+            "Rainivoninahitriniony"
+        ]
+    },
+    {
+        "question": "Pamela Barnes is married to [mask].",
+        "answers": [
+            "Bobby Ewing"
+        ]
+    },
+    {
+        "question": "Gerald Ford is married to [mask].",
+        "answers": [
+            "Betty Ford"
+        ]
+    },
+    {
+        "question": "Kate Gosselin is married to [mask].",
+        "answers": [
+            "Jon Gosselin"
+        ]
+    },
+    {
+        "question": "Cameron Dye is married to [mask].",
+        "answers": [
+            "Laura San Giacomo"
+        ]
+    },
+    {
+        "question": "Romy Rosemont is married to [mask].",
+        "answers": [
+            "Stephen Root"
+        ]
+    },
+    {
+        "question": "Fujiwara no Onshi is married to [mask].",
+        "answers": [
+            "Daigo"
+        ]
+    },
+    {
+        "question": "Fay Maschler is married to [mask].",
+        "answers": [
+            "Tom Maschler"
+        ]
+    },
+    {
+        "question": "Masayuki Suo is married to [mask].",
+        "answers": [
+            "Tamiyo Kusakari"
+        ]
+    },
+    {
+        "question": "Elizabeth Taylor is married to [mask].",
+        "answers": [
+            "John Warner",
+            "Eddie Fisher",
+            "Mike Todd",
+            "Conrad Hilton, Jr."
+        ]
+    },
+    {
+        "question": "Dani Calabresa is married to [mask].",
+        "answers": [
+            "Marcelo Adnet"
+        ]
+    },
+    {
+        "question": "Marichen Altenburg is married to [mask].",
+        "answers": [
+            "Knud Ibsen"
+        ]
+    },
+    {
+        "question": "John Bessler is married to [mask].",
+        "answers": [
+            "Amy Klobuchar"
+        ]
+    },
+    {
+        "question": "Eric Schmidt is married to [mask].",
+        "answers": [
+            "Wendy Schmidt"
+        ]
+    },
+    {
+        "question": "C\u00e9sar Ram\u00edrez is married to [mask].",
+        "answers": [
+            "Alicia Vergel"
+        ]
+    },
+    {
+        "question": "Adolph de Meyer is married to [mask].",
+        "answers": [
+            "Olga de Meyer"
+        ]
+    },
+    {
+        "question": "Nick Cheung is married to [mask].",
+        "answers": [
+            "Esther Kwan"
+        ]
+    },
+    {
+        "question": "Cheryl Kennedy is married to [mask].",
+        "answers": [
+            "Tom Courtenay"
+        ]
+    },
+    {
+        "question": "Elvira of Castile is married to [mask].",
+        "answers": [
+            "Raymond IV, Count of Toulouse"
+        ]
+    },
+    {
+        "question": "Maria Alexandrovna Ulyanova is married to [mask].",
+        "answers": [
+            "Ilya Nikolaevich Ulyanov"
+        ]
+    },
+    {
+        "question": "Fr\u00f8ydis Armand is married to [mask].",
+        "answers": [
+            "Helge Jordal"
+        ]
+    },
+    {
+        "question": "Adil Shah is married to [mask].",
+        "answers": [
+            "Princess Ketevan of Kakheti"
+        ]
+    },
+    {
+        "question": "Olivia Tennet is married to [mask].",
+        "answers": [
+            "Milo Cawthorne"
+        ]
+    },
+    {
+        "question": "Thomas Nash is married to [mask].",
+        "answers": [
+            "Elizabeth Barnard"
+        ]
+    },
+    {
+        "question": "Aragorn is married to [mask].",
+        "answers": [
+            "Arwen"
+        ]
+    },
+    {
+        "question": "Peter Straughan is married to [mask].",
+        "answers": [
+            "Bridget O'Connor"
+        ]
+    },
+    {
+        "question": "Gwladys is married to [mask].",
+        "answers": [
+            "Gwynllyw"
+        ]
+    },
+    {
+        "question": "Zhuge Liang is married to [mask].",
+        "answers": [
+            "Huang Yueying"
+        ]
+    },
+    {
+        "question": "Ids Postma is married to [mask].",
+        "answers": [
+            "Anni Friesinger-Postma"
+        ]
+    },
+    {
+        "question": "John H. Kinzie is married to [mask].",
+        "answers": [
+            "Juliette Augusta Magill Kinzie"
+        ]
+    },
+    {
+        "question": "Fujiwara no Kenshi is married to [mask].",
+        "answers": [
+            "Emperor Shirakawa"
+        ]
+    },
+    {
+        "question": "John Gorton is married to [mask].",
+        "answers": [
+            "Bettina Gorton"
+        ]
+    },
+    {
+        "question": "Graeme Gibson is married to [mask].",
+        "answers": [
+            "Margaret Atwood"
+        ]
+    },
+    {
+        "question": "Barbara Feldon is married to [mask].",
+        "answers": [
+            "Burt Nodella"
+        ]
+    },
+    {
+        "question": "Fujiwara no Ch\u014dshi is married to [mask].",
+        "answers": [
+            "Go-Horikawa"
+        ]
+    },
+    {
+        "question": "Halle Berry is married to [mask].",
+        "answers": [
+            "Olivier Martinez"
+        ]
+    },
+    {
+        "question": "Amado Cortez is married to [mask].",
+        "answers": [
+            "Gloria Sevilla"
+        ]
+    },
+    {
+        "question": "Amos Bronson Alcott is married to [mask].",
+        "answers": [
+            "Abby May"
+        ]
+    },
+    {
+        "question": "Archduchess Maria Maddalena of Austria is married to [mask].",
+        "answers": [
+            "Cosimo II de' Medici"
+        ]
+    },
+    {
+        "question": "Andrzej Seweryn is married to [mask].",
+        "answers": [
+            "Krystyna Janda"
+        ]
+    },
+    {
+        "question": "Henry II of Castile is married to [mask].",
+        "answers": [
+            "Juana Manuel"
+        ]
+    },
+    {
+        "question": "John Hamburg is married to [mask].",
+        "answers": [
+            "Christina Kirk"
+        ]
+    },
+    {
+        "question": "Amal Clooney is married to [mask].",
+        "answers": [
+            "George Clooney"
+        ]
+    },
+    {
+        "question": "Anne Manne is married to [mask].",
+        "answers": [
+            "Robert Manne"
+        ]
+    },
+    {
+        "question": "Adele Morales is married to [mask].",
+        "answers": [
+            "Norman Mailer"
+        ]
+    },
+    {
+        "question": "Chit Mi of Prome is married to [mask].",
+        "answers": [
+            "Bayin Htwe"
+        ]
+    },
+    {
+        "question": "Brooke Logan is married to [mask].",
+        "answers": [
+            "Ridge Forrester",
+            "Eric Forrester"
+        ]
+    },
+    {
+        "question": "Aidan Quinn is married to [mask].",
+        "answers": [
+            "Elizabeth Bracco"
+        ]
+    },
+    {
+        "question": "Sergei Legat is married to [mask].",
+        "answers": [
+            "Marie Petipa"
+        ]
+    },
+    {
+        "question": "John McCain is married to [mask].",
+        "answers": [
+            "Cindy McCain"
+        ]
+    },
+    {
+        "question": "Carolyn Brandt is married to [mask].",
+        "answers": [
+            "Ray Dennis Steckler"
+        ]
+    },
+    {
+        "question": "Michael Williams is married to [mask].",
+        "answers": [
+            "Judi Dench"
+        ]
+    },
+    {
+        "question": "Grigory Potanin is married to [mask].",
+        "answers": [
+            "Aleksandra Potanina"
+        ]
+    },
+    {
+        "question": "Manco C\u00e1pac is married to [mask].",
+        "answers": [
+            "Mama Ocllo"
+        ]
+    },
+    {
+        "question": "Abhishek Bachchan is married to [mask].",
+        "answers": [
+            "Aishwarya Rai"
+        ]
+    },
+    {
+        "question": "Richard Leaf is married to [mask].",
+        "answers": [
+            "Tamsin Greig"
+        ]
+    },
+    {
+        "question": "Jacques d'Arc is married to [mask].",
+        "answers": [
+            "Isabelle Rom\u00e9e"
+        ]
+    },
+    {
+        "question": "William J. Blake is married to [mask].",
+        "answers": [
+            "Christina Stead"
+        ]
+    },
+    {
+        "question": "Shabana Azmi is married to [mask].",
+        "answers": [
+            "Javed Akhtar"
+        ]
+    },
+    {
+        "question": "Edward Albert is married to [mask].",
+        "answers": [
+            "Katherine Woodville"
+        ]
+    },
+    {
+        "question": "Valentinian III is married to [mask].",
+        "answers": [
+            "Licinia Eudoxia"
+        ]
+    },
+    {
+        "question": "Alexander I of Russia is married to [mask].",
+        "answers": [
+            "Elizabeth Alexeievna"
+        ]
+    },
+    {
+        "question": "Julius Caesar is married to [mask].",
+        "answers": [
+            "Cornelia the Younger",
+            "Calpurnia Pisonis"
+        ]
+    },
+    {
+        "question": "Gaius Claudius Marcellus Minor is married to [mask].",
+        "answers": [
+            "Octavia the Younger"
+        ]
+    },
+    {
+        "question": "Joseph Smith is married to [mask].",
+        "answers": [
+            "Emma Smith"
+        ]
+    },
+    {
+        "question": "Radama I is married to [mask].",
+        "answers": [
+            "Ranavalona I"
+        ]
+    },
+    {
+        "question": "Howard Lindsay is married to [mask].",
+        "answers": [
+            "Dorothy Stickney"
+        ]
+    },
+    {
+        "question": "Renato Salvatori is married to [mask].",
+        "answers": [
+            "Annie Girardot"
+        ]
+    },
+    {
+        "question": "Billy Rose is married to [mask].",
+        "answers": [
+            "Fanny Brice"
+        ]
+    },
+    {
+        "question": "Trevor Nunn is married to [mask].",
+        "answers": [
+            "Imogen Stubbs"
+        ]
+    },
+    {
+        "question": "Consort Wan is married to [mask].",
+        "answers": [
+            "Chenghua Emperor"
+        ]
+    },
+    {
+        "question": "Dirch Passer is married to [mask].",
+        "answers": [
+            "Sigrid Horne-Rasmussen"
+        ]
+    },
+    {
+        "question": "Stavros Niarchos is married to [mask].",
+        "answers": [
+            "Athina Livanos",
+            "Eugenia Livanos"
+        ]
+    },
+    {
+        "question": "Anne Jeffreys is married to [mask].",
+        "answers": [
+            "Robert Sterling"
+        ]
+    },
+    {
+        "question": "Hazel Brooks is married to [mask].",
+        "answers": [
+            "Cedric Gibbons"
+        ]
+    },
+    {
+        "question": "Laura Gemser is married to [mask].",
+        "answers": [
+            "Gabriele Tinti"
+        ]
+    },
+    {
+        "question": "Dragan Espenschied is married to [mask].",
+        "answers": [
+            "Olia Lialina"
+        ]
+    },
+    {
+        "question": "Karl Kennedy is married to [mask].",
+        "answers": [
+            "Susan Kennedy"
+        ]
+    },
+    {
+        "question": "Samira Shahbandar is married to [mask].",
+        "answers": [
+            "Saddam Hussein"
+        ]
+    },
+    {
+        "question": "Birgitte G\u00f8ye is married to [mask].",
+        "answers": [
+            "Herluf Trolle"
+        ]
+    },
+    {
+        "question": "Piers Dixon is married to [mask].",
+        "answers": [
+            "Edwina Sandys"
+        ]
+    },
+    {
+        "question": "Swanachild is married to [mask].",
+        "answers": [
+            "Charles Martel"
+        ]
+    },
+    {
+        "question": "Mini Mathur is married to [mask].",
+        "answers": [
+            "Kabir Khan"
+        ]
+    },
+    {
+        "question": "Carol McCain is married to [mask].",
+        "answers": [
+            "John McCain"
+        ]
+    },
+    {
+        "question": "Xerxes is married to [mask].",
+        "answers": [
+            "Amestris"
+        ]
+    },
+    {
+        "question": "Annie Oakley is married to [mask].",
+        "answers": [
+            "Frank E. Butler"
+        ]
+    },
+    {
+        "question": "Yaroslav the Wise is married to [mask].",
+        "answers": [
+            "Ingegerd Olofsdotter of Sweden"
+        ]
+    },
+    {
+        "question": "Karen Gillmor is married to [mask].",
+        "answers": [
+            "Paul Gillmor"
+        ]
+    },
+    {
+        "question": "Lisa Collins is married to [mask].",
+        "answers": [
+            "Billy Zane"
+        ]
+    },
+    {
+        "question": "John Beaufort, 1st Earl of Somerset is married to [mask].",
+        "answers": [
+            "Margaret Beaufort, Countess of Somerset"
+        ]
+    },
+    {
+        "question": "Caroline Benn is married to [mask].",
+        "answers": [
+            "Tony Benn"
+        ]
+    },
+    {
+        "question": "Senkichi Taniguchi is married to [mask].",
+        "answers": [
+            "Kaoru Yachigusa"
+        ]
+    },
+    {
+        "question": "Georges Renavent is married to [mask].",
+        "answers": [
+            "Selena Royle"
+        ]
+    },
+    {
+        "question": "Michael McKean is married to [mask].",
+        "answers": [
+            "Annette O'Toole"
+        ]
+    },
+    {
+        "question": "Yevdokiya Yusupova is married to [mask].",
+        "answers": [
+            "Peter von Biron"
+        ]
+    },
+    {
+        "question": "Patricia Medina is married to [mask].",
+        "answers": [
+            "Joseph Cotten"
+        ]
+    },
+    {
+        "question": "Peter Donaldson is married to [mask].",
+        "answers": [
+            "Sheila McCarthy"
+        ]
+    },
+    {
+        "question": "Percy F. Frankland is married to [mask].",
+        "answers": [
+            "Grace Frankland"
+        ]
+    },
+    {
+        "question": "Angelica Schuyler is married to [mask].",
+        "answers": [
+            "John Barker Church"
+        ]
+    },
+    {
+        "question": "Elena Varzi is married to [mask].",
+        "answers": [
+            "Raf Vallone"
+        ]
+    },
+    {
+        "question": "Katharine Graham is married to [mask].",
+        "answers": [
+            "Phil Graham"
+        ]
+    },
+    {
+        "question": "Wang Shenzhi is married to [mask].",
+        "answers": [
+            "Empress Dowager Huang"
+        ]
+    },
+    {
+        "question": "Gunther, Margrave of Merseburg is married to [mask].",
+        "answers": [
+            "Doubravka of Bohemia"
+        ]
+    },
+    {
+        "question": "William Marshal, 1st Earl of Pembroke is married to [mask].",
+        "answers": [
+            "Isabel de Clare, 4th Countess of Pembroke"
+        ]
+    },
+    {
+        "question": "Farah is married to [mask].",
+        "answers": [
+            "Sumeet Saigal"
+        ]
+    },
+    {
+        "question": "Ethel Skakel Kennedy is married to [mask].",
+        "answers": [
+            "Robert F. Kennedy"
+        ]
+    },
+    {
+        "question": "Marie-No\u00e9mi Cadiot is married to [mask].",
+        "answers": [
+            "Maurice Rouvier",
+            "Eliphas Levi"
+        ]
+    },
+    {
+        "question": "Taufiq Kiemas is married to [mask].",
+        "answers": [
+            "Megawati Sukarnoputri"
+        ]
+    },
+    {
+        "question": "Mako Midori is married to [mask].",
+        "answers": [
+            "Renji Ishibashi"
+        ]
+    },
+    {
+        "question": "Annie Walke is married to [mask].",
+        "answers": [
+            "Bernard Walke"
+        ]
+    },
+    {
+        "question": "Peter MacKay is married to [mask].",
+        "answers": [
+            "Nazanin Afshin-Jam"
+        ]
+    },
+    {
+        "question": "Josip Broz Tito is married to [mask].",
+        "answers": [
+            "Jovanka Broz"
+        ]
+    },
+    {
+        "question": "Josh Tickell is married to [mask].",
+        "answers": [
+            "Rebecca Harrell Tickell"
+        ]
+    },
+    {
+        "question": "Ingeborg of Denmark, Queen of France is married to [mask].",
+        "answers": [
+            "Philip II of France"
+        ]
+    },
+    {
+        "question": "Karin Stoltenberg is married to [mask].",
+        "answers": [
+            "Thorvald Stoltenberg"
+        ]
+    },
+    {
+        "question": "Vibia Sabina is married to [mask].",
+        "answers": [
+            "Hadrian"
+        ]
+    },
+    {
+        "question": "Ashot Taronites is married to [mask].",
+        "answers": [
+            "Miroslava of Bulgaria"
+        ]
+    },
+    {
+        "question": "Connie Chung is married to [mask].",
+        "answers": [
+            "Maury Povich"
+        ]
+    },
+    {
+        "question": "Michel d'Ornano is married to [mask].",
+        "answers": [
+            "Anne d'Ornano"
+        ]
+    },
+    {
+        "question": "John Beal is married to [mask].",
+        "answers": [
+            "Helen Craig"
+        ]
+    },
+    {
+        "question": "Lee Grant is married to [mask].",
+        "answers": [
+            "Arnold Manoff"
+        ]
+    },
+    {
+        "question": "Helmut Damerius is married to [mask].",
+        "answers": [
+            "Emmy Damerius-Koenen"
+        ]
+    },
+    {
+        "question": "Labotsibeni is married to [mask].",
+        "answers": [
+            "Mbandzeni"
+        ]
+    },
+    {
+        "question": "Charles Hill Mailes is married to [mask].",
+        "answers": [
+            "Claire McDowell"
+        ]
+    },
+    {
+        "question": "Boedil Thurgotsdatter is married to [mask].",
+        "answers": [
+            "Eric I of Denmark"
+        ]
+    },
+    {
+        "question": "Princess Helena Adelaide of Schleswig-Holstein-Sonderburg-Gl\u00fccksburg is married to [mask].",
+        "answers": [
+            "Prince Harald of Denmark"
+        ]
+    },
+    {
+        "question": "Angelina Beloff is married to [mask].",
+        "answers": [
+            "Diego Rivera"
+        ]
+    },
+    {
+        "question": "Charlotte Zolotow is married to [mask].",
+        "answers": [
+            "Maurice Zolotow"
+        ]
+    },
+    {
+        "question": "Sheila Martin is married to [mask].",
+        "answers": [
+            "Paul Martin"
+        ]
+    },
+    {
+        "question": "Willem de Kooning is married to [mask].",
+        "answers": [
+            "Elaine de Kooning"
+        ]
+    },
+    {
+        "question": "Princess Luisa Carlotta of Naples and Sicily is married to [mask].",
+        "answers": [
+            "Infante Francisco de Paula of Spain"
+        ]
+    },
+    {
+        "question": "Buffy Sainte-Marie is married to [mask].",
+        "answers": [
+            "Jack Nitzsche"
+        ]
+    },
+    {
+        "question": "Yvonne de Gaulle is married to [mask].",
+        "answers": [
+            "Charles de Gaulle"
+        ]
+    },
+    {
+        "question": "Zein al-Sharaf Talal is married to [mask].",
+        "answers": [
+            "Talal of Jordan"
+        ]
+    },
+    {
+        "question": "Consort Zhen is married to [mask].",
+        "answers": [
+            "Guangxu Emperor"
+        ]
+    },
+    {
+        "question": "John McEnery is married to [mask].",
+        "answers": [
+            "Stephanie Beacham"
+        ]
+    },
+    {
+        "question": "Jean Louis is married to [mask].",
+        "answers": [
+            "Loretta Young"
+        ]
+    },
+    {
+        "question": "Samuel Liddell MacGregor Mathers is married to [mask].",
+        "answers": [
+            "Moina Mathers"
+        ]
+    },
+    {
+        "question": "Toni Ribas is married to [mask].",
+        "answers": [
+            "Asa Akira"
+        ]
+    },
+    {
+        "question": "Kiyoko Fukuda is married to [mask].",
+        "answers": [
+            "Yasuo Fukuda"
+        ]
+    },
+    {
+        "question": "Agnes of Austria, Queen of Hungary is married to [mask].",
+        "answers": [
+            "Stephen III of Hungary"
+        ]
+    },
+    {
+        "question": "Elizabeth Kucinich is married to [mask].",
+        "answers": [
+            "Dennis Kucinich"
+        ]
+    },
+    {
+        "question": "Miriam Patchen is married to [mask].",
+        "answers": [
+            "Kenneth Patchen"
+        ]
+    },
+    {
+        "question": "Carla Bley is married to [mask].",
+        "answers": [
+            "Michael Mantler",
+            "Steve Swallow",
+            "Paul Bley"
+        ]
+    },
+    {
+        "question": "Jay Mohr is married to [mask].",
+        "answers": [
+            "Nikki Cox"
+        ]
+    },
+    {
+        "question": "Robert M. La Follette is married to [mask].",
+        "answers": [
+            "Belle Case La Follette"
+        ]
+    },
+    {
+        "question": "Elena Firsova is married to [mask].",
+        "answers": [
+            "Dmitri Smirnov"
+        ]
+    },
+    {
+        "question": "Asif Ali Zardari is married to [mask].",
+        "answers": [
+            "Benazir Bhutto"
+        ]
+    },
+    {
+        "question": "Lucy Gallardo is married to [mask].",
+        "answers": [
+            "Enrique Rambal"
+        ]
+    },
+    {
+        "question": "Malcolm X is married to [mask].",
+        "answers": [
+            "Betty Shabazz"
+        ]
+    },
+    {
+        "question": "Paul Buhle is married to [mask].",
+        "answers": [
+            "Mari Jo Buhle"
+        ]
+    },
+    {
+        "question": "Stan Shaffer is married to [mask].",
+        "answers": [
+            "Louise Robey"
+        ]
+    },
+    {
+        "question": "Rachel Ticotin is married to [mask].",
+        "answers": [
+            "Peter Strauss"
+        ]
+    },
+    {
+        "question": "Barbara of Cilli is married to [mask].",
+        "answers": [
+            "Sigismund"
+        ]
+    },
+    {
+        "question": "Erdmuthe Dorothea of Reuss-Ebersdorf is married to [mask].",
+        "answers": [
+            "Nicolaus Zinzendorf"
+        ]
+    },
+    {
+        "question": "Marius Petipa is married to [mask].",
+        "answers": [
+            "Mariia Surovshchikova-Petipa"
+        ]
+    },
+    {
+        "question": "Anthony Squire is married to [mask].",
+        "answers": [
+            "Shelagh Fraser"
+        ]
+    },
+    {
+        "question": "Shera Danese is married to [mask].",
+        "answers": [
+            "Peter Falk"
+        ]
+    },
+    {
+        "question": "Princess Eleonore Erdmuthe of Saxe-Eisenach is married to [mask].",
+        "answers": [
+            "John George IV, Elector of Saxony"
+        ]
+    },
+    {
+        "question": "Edward LeSaint is married to [mask].",
+        "answers": [
+            "Stella LeSaint"
+        ]
+    },
+    {
+        "question": "Bruce Cabot is married to [mask].",
+        "answers": [
+            "Adrienne Ames"
+        ]
+    },
+    {
+        "question": "Olga Kennard is married to [mask].",
+        "answers": [
+            "Arnold Burgen"
+        ]
+    },
+    {
+        "question": "Henry Stephenson is married to [mask].",
+        "answers": [
+            "Ann Shoemaker"
+        ]
+    },
+    {
+        "question": "Louisa Horton Hill is married to [mask].",
+        "answers": [
+            "George Roy Hill"
+        ]
+    },
+    {
+        "question": "Yury Bogolyubsky is married to [mask].",
+        "answers": [
+            "Tamar of Georgia"
+        ]
+    },
+    {
+        "question": "Agilulf is married to [mask].",
+        "answers": [
+            "Theodelinda"
+        ]
+    },
+    {
+        "question": "Yuli Daniel is married to [mask].",
+        "answers": [
+            "Larisa Bogoraz"
+        ]
+    },
+    {
+        "question": "Bud Lee is married to [mask].",
+        "answers": [
+            "Hyapatia Lee",
+            "Asia Carrera"
+        ]
+    },
+    {
+        "question": "Francine Racette is married to [mask].",
+        "answers": [
+            "Donald Sutherland"
+        ]
+    },
+    {
+        "question": "William Riker is married to [mask].",
+        "answers": [
+            "Deanna Troi"
+        ]
+    },
+    {
+        "question": "Grace Stafford is married to [mask].",
+        "answers": [
+            "Walter Lantz"
+        ]
+    },
+    {
+        "question": "Elias Disney is married to [mask].",
+        "answers": [
+            "Flora Call Disney"
+        ]
+    },
+    {
+        "question": "Lil Wayne is married to [mask].",
+        "answers": [
+            "Antonia Wright"
+        ]
+    },
+    {
+        "question": "Henrietta Howard, Countess of Suffolk is married to [mask].",
+        "answers": [
+            "George Berkeley"
+        ]
+    },
+    {
+        "question": "Lauren Savoy is married to [mask].",
+        "answers": [
+            "Paul Waaktaar-Savoy"
+        ]
+    },
+    {
+        "question": "Eremburga of Mortain is married to [mask].",
+        "answers": [
+            "Roger I of Sicily"
+        ]
+    },
+    {
+        "question": "Messalina is married to [mask].",
+        "answers": [
+            "Claudius"
+        ]
+    },
+    {
+        "question": "Addie McPhail is married to [mask].",
+        "answers": [
+            "Roscoe Arbuckle"
+        ]
+    },
+    {
+        "question": "Empress Dowager Cheng is married to [mask].",
+        "answers": [
+            "Shi Le"
+        ]
+    },
+    {
+        "question": "Emperor Taiwu of Northern Wei is married to [mask].",
+        "answers": [
+            "Empress Helian"
+        ]
+    },
+    {
+        "question": "Johannes Heesters is married to [mask].",
+        "answers": [
+            "Louisa Ghijs"
+        ]
+    },
+    {
+        "question": "Cornelia Wallace is married to [mask].",
+        "answers": [
+            "George Wallace"
+        ]
+    },
+    {
+        "question": "Suzanna Love is married to [mask].",
+        "answers": [
+            "Ulli Lommel"
+        ]
+    },
+    {
+        "question": "Blair Hughes-Stanton is married to [mask].",
+        "answers": [
+            "Gertrude Hermes"
+        ]
+    },
+    {
+        "question": "Darius II is married to [mask].",
+        "answers": [
+            "Parysatis"
+        ]
+    },
+    {
+        "question": "Chase Twichell is married to [mask].",
+        "answers": [
+            "Russell Banks"
+        ]
+    },
+    {
+        "question": "Laurance Rockefeller is married to [mask].",
+        "answers": [
+            "Mary French Rockefeller"
+        ]
+    },
+    {
+        "question": "Mario Merz is married to [mask].",
+        "answers": [
+            "Marisa Merz"
+        ]
+    },
+    {
+        "question": "Nicesipolis is married to [mask].",
+        "answers": [
+            "Philip II of Macedon"
+        ]
+    },
+    {
+        "question": "Charles Sanders Peirce is married to [mask].",
+        "answers": [
+            "Juliette Peirce"
+        ]
+    },
+    {
+        "question": "Elissa Aalto is married to [mask].",
+        "answers": [
+            "Alvar Aalto"
+        ]
+    },
+    {
+        "question": "Karl-Theodor zu Guttenberg is married to [mask].",
+        "answers": [
+            "Stephanie zu Guttenberg"
+        ]
+    },
+    {
+        "question": "Michael Thomas is married to [mask].",
+        "answers": [
+            "Selina Cadell"
+        ]
+    },
+    {
+        "question": "Maria Jacquemetton is married to [mask].",
+        "answers": [
+            "Andre Jacquemetton"
+        ]
+    },
+    {
+        "question": "Irena Koprowska is married to [mask].",
+        "answers": [
+            "Hilary Koprowski"
+        ]
+    },
+    {
+        "question": "Senta Berger is married to [mask].",
+        "answers": [
+            "Michael Verhoeven"
+        ]
+    },
+    {
+        "question": "Ollie Kirkby is married to [mask].",
+        "answers": [
+            "George Larkin"
+        ]
+    },
+    {
+        "question": "Peter Shaw is married to [mask].",
+        "answers": [
+            "Angela Lansbury"
+        ]
+    },
+    {
+        "question": "Susan Moody is married to [mask].",
+        "answers": [
+            "John Dalgleish Donaldson"
+        ]
+    },
+    {
+        "question": "Robert Crumb is married to [mask].",
+        "answers": [
+            "Aline Kominsky-Crumb"
+        ]
+    },
+    {
+        "question": "Aleksandra Sokolovskaya is married to [mask].",
+        "answers": [
+            "Leon Trotsky"
+        ]
+    },
+    {
+        "question": "Mary Paley Marshall is married to [mask].",
+        "answers": [
+            "Alfred Marshall"
+        ]
+    },
+    {
+        "question": "Steve Buscemi is married to [mask].",
+        "answers": [
+            "Jo Andres"
+        ]
+    },
+    {
+        "question": "Edmund Grey, 1st Earl of Kent is married to [mask].",
+        "answers": [
+            "Lady Katherine Percy"
+        ]
+    },
+    {
+        "question": "Arline Judge is married to [mask].",
+        "answers": [
+            "Dan Topping"
+        ]
+    },
+    {
+        "question": "Marion Freisler is married to [mask].",
+        "answers": [
+            "Roland Freisler"
+        ]
+    },
+    {
+        "question": "Alfonsina Orsini is married to [mask].",
+        "answers": [
+            "Piero the Unfortunate"
+        ]
+    },
+    {
+        "question": "Agnes of the Palatinate is married to [mask].",
+        "answers": [
+            "Otto II Wittelsbach"
+        ]
+    },
+    {
+        "question": "Guilla of Provence is married to [mask].",
+        "answers": [
+            "Rudolph I of Burgundy"
+        ]
+    },
+    {
+        "question": "Billie Burke is married to [mask].",
+        "answers": [
+            "Florenz Ziegfeld, Jr."
+        ]
+    },
+    {
+        "question": "Sheila MacRae is married to [mask].",
+        "answers": [
+            "Gordon MacRae"
+        ]
+    },
+    {
+        "question": "Princess Hitachi is married to [mask].",
+        "answers": [
+            "Prince Hitachi"
+        ]
+    },
+    {
+        "question": "Princess Alexia of Greece and Denmark is married to [mask].",
+        "answers": [
+            "Carlos Morales Quintana"
+        ]
+    },
+    {
+        "question": "Dirk I, Count of Holland is married to [mask].",
+        "answers": [
+            "Geva"
+        ]
+    },
+    {
+        "question": "Jessica Rankin is married to [mask].",
+        "answers": [
+            "Julie Mehretu"
+        ]
+    },
+    {
+        "question": "Geraldine O'Rawe is married to [mask].",
+        "answers": [
+            "Paul Sarossy"
+        ]
+    },
+    {
+        "question": "Enrica Soma is married to [mask].",
+        "answers": [
+            "John Huston"
+        ]
+    },
+    {
+        "question": "James Rubin is married to [mask].",
+        "answers": [
+            "Christiane Amanpour"
+        ]
+    },
+    {
+        "question": "Beate Eriksen is married to [mask].",
+        "answers": [
+            "Toralv Maurstad"
+        ]
+    },
+    {
+        "question": "Robert Erskine Childers is married to [mask].",
+        "answers": [
+            "Molly Childers"
+        ]
+    },
+    {
+        "question": "Charles Shyer is married to [mask].",
+        "answers": [
+            "Nancy Meyers"
+        ]
+    },
+    {
+        "question": "Per Theodor Haugen is married to [mask].",
+        "answers": [
+            "Sissel Sell\u00e6g"
+        ]
+    },
+    {
+        "question": "Laodice I is married to [mask].",
+        "answers": [
+            "Antiochus II Theos"
+        ]
+    },
+    {
+        "question": "John Orcsik is married to [mask].",
+        "answers": [
+            "Paula Duncan"
+        ]
+    },
+    {
+        "question": "Henry Hudson Kitson is married to [mask].",
+        "answers": [
+            "Theo Alice Ruggles Kitson"
+        ]
+    },
+    {
+        "question": "Mari Jo Buhle is married to [mask].",
+        "answers": [
+            "Paul Buhle"
+        ]
+    },
+    {
+        "question": "Gertrude of Hohenburg is married to [mask].",
+        "answers": [
+            "Rudolph I of Germany"
+        ]
+    },
+    {
+        "question": "Tiffany Grant is married to [mask].",
+        "answers": [
+            "Matt Greenfield"
+        ]
+    },
+    {
+        "question": "Empress Gao is married to [mask].",
+        "answers": [
+            "Emperor Xiaowu of Northern Wei"
+        ]
+    },
+    {
+        "question": "Solomon Mujuru is married to [mask].",
+        "answers": [
+            "Joice Mujuru"
+        ]
+    },
+    {
+        "question": "Marie Bell is married to [mask].",
+        "answers": [
+            "Jean Chevrier"
+        ]
+    },
+    {
+        "question": "Mark Gil is married to [mask].",
+        "answers": [
+            "Jaclyn Jose"
+        ]
+    },
+    {
+        "question": "Yoweri Kaguta Museveni is married to [mask].",
+        "answers": [
+            "Janet Museveni"
+        ]
+    },
+    {
+        "question": "Glynn Edwards is married to [mask].",
+        "answers": [
+            "Yootha Joyce"
+        ]
+    },
+    {
+        "question": "Ed Solomon is married to [mask].",
+        "answers": [
+            "Cynthia Cleese"
+        ]
+    },
+    {
+        "question": "Gis\u00e8le Lestrange is married to [mask].",
+        "answers": [
+            "Paul Celan"
+        ]
+    },
+    {
+        "question": "Francine Pascal is married to [mask].",
+        "answers": [
+            "John Pascal"
+        ]
+    },
+    {
+        "question": "Marija Lastauskien\u0117 is married to [mask].",
+        "answers": [
+            "Vaclau Lastouski"
+        ]
+    },
+    {
+        "question": "N\u00e9lida Romero is married to [mask].",
+        "answers": [
+            "Carlos Schlieper"
+        ]
+    },
+    {
+        "question": "Charles Laughton is married to [mask].",
+        "answers": [
+            "Elsa Lanchester"
+        ]
+    },
+    {
+        "question": "Richard Hilton is married to [mask].",
+        "answers": [
+            "Kathy Hilton"
+        ]
+    },
+    {
+        "question": "Kristen Pazik is married to [mask].",
+        "answers": [
+            "Andriy Shevchenko"
+        ]
+    },
+    {
+        "question": "Natali Morris is married to [mask].",
+        "answers": [
+            "Clayton Morris"
+        ]
+    },
+    {
+        "question": "Salim Khan is married to [mask].",
+        "answers": [
+            "Helen"
+        ]
+    },
+    {
+        "question": "Jared Kushner is married to [mask].",
+        "answers": [
+            "Ivanka Trump"
+        ]
+    },
+    {
+        "question": "Princess Cecylia Lubomirska is married to [mask].",
+        "answers": [
+            "Prince Gabriel of Bourbon-Two Sicilies"
+        ]
+    },
+    {
+        "question": "Shakti Anand is married to [mask].",
+        "answers": [
+            "Sai Deodhar"
+        ]
+    },
+    {
+        "question": "Vasilis Papakonstantinou is married to [mask].",
+        "answers": [
+            "Eleni Rantou"
+        ]
+    },
+    {
+        "question": "M\u00e9lin\u00e9e Manouchian is married to [mask].",
+        "answers": [
+            "Missak Manouchian"
+        ]
+    },
+    {
+        "question": "Dara Shikoh is married to [mask].",
+        "answers": [
+            "Nadira Banu Begum"
+        ]
+    },
+    {
+        "question": "Barangaroo is married to [mask].",
+        "answers": [
+            "Bennelong"
+        ]
+    },
+    {
+        "question": "Ted Griffin is married to [mask].",
+        "answers": [
+            "Sutton Foster"
+        ]
+    },
+    {
+        "question": "Brad Robinson is married to [mask].",
+        "answers": [
+            "Kerry Armstrong"
+        ]
+    },
+    {
+        "question": "Rajeshwari Sachdev is married to [mask].",
+        "answers": [
+            "Varun Badola"
+        ]
+    },
+    {
+        "question": "Miss Ellie Ewing is married to [mask].",
+        "answers": [
+            "Jock Ewing"
+        ]
+    },
+    {
+        "question": "Caroline Matilda of Great Britain is married to [mask].",
+        "answers": [
+            "Christian VII of Denmark"
+        ]
+    },
+    {
+        "question": "Nevvare Kad\u0131n Efendi is married to [mask].",
+        "answers": [
+            "Mehmed VI"
+        ]
+    },
+    {
+        "question": "Stewart Lee is married to [mask].",
+        "answers": [
+            "Bridget Christie"
+        ]
+    },
+    {
+        "question": "Imelda Marcos is married to [mask].",
+        "answers": [
+            "Ferdinand Marcos"
+        ]
+    },
+    {
+        "question": "Heraclius II of Georgia is married to [mask].",
+        "answers": [
+            "Darejan Dadiani"
+        ]
+    },
+    {
+        "question": "Maria Wetterstrand is married to [mask].",
+        "answers": [
+            "Ville Niinist\u00f6"
+        ]
+    },
+    {
+        "question": "Karla Homolka is married to [mask].",
+        "answers": [
+            "Paul Bernardo"
+        ]
+    },
+    {
+        "question": "Empress Feng Qing is married to [mask].",
+        "answers": [
+            "Emperor Xiaowen of Northern Wei"
+        ]
+    },
+    {
+        "question": "Nazneen Contractor is married to [mask].",
+        "answers": [
+            "Carlo Rota"
+        ]
+    },
+    {
+        "question": "Kathy Baker is married to [mask].",
+        "answers": [
+            "Steven Robman"
+        ]
+    },
+    {
+        "question": "Anthony Weiner is married to [mask].",
+        "answers": [
+            "Huma Abedin"
+        ]
+    },
+    {
+        "question": "Marie von Br\u00fchl is married to [mask].",
+        "answers": [
+            "Carl von Clausewitz"
+        ]
+    },
+    {
+        "question": "Don Perrin is married to [mask].",
+        "answers": [
+            "Margaret Weis"
+        ]
+    },
+    {
+        "question": "Babusha is married to [mask].",
+        "answers": [
+            "Khutughtu Khan"
+        ]
+    },
+    {
+        "question": "Annette Vadim is married to [mask].",
+        "answers": [
+            "Roger Vadim"
+        ]
+    },
+    {
+        "question": "Will Durant is married to [mask].",
+        "answers": [
+            "Ariel Durant"
+        ]
+    },
+    {
+        "question": "Isabella of Ibelin, Queen of Cyprus and Jerusalem is married to [mask].",
+        "answers": [
+            "Hugh III of Cyprus"
+        ]
+    },
+    {
+        "question": "Jane Frazee is married to [mask].",
+        "answers": [
+            "Glenn Tryon"
+        ]
+    },
+    {
+        "question": "Queen Silvia of Sweden is married to [mask].",
+        "answers": [
+            "Carl XVI Gustaf of Sweden"
+        ]
+    },
+    {
+        "question": "Linda Lovelace is married to [mask].",
+        "answers": [
+            "Chuck Traynor"
+        ]
+    },
+    {
+        "question": "Lanna Saunders is married to [mask].",
+        "answers": [
+            "Lawrence Pressman"
+        ]
+    },
+    {
+        "question": "Bastiaan Ragas is married to [mask].",
+        "answers": [
+            "Tooske Ragas"
+        ]
+    },
+    {
+        "question": "Tolui is married to [mask].",
+        "answers": [
+            "Sorghaghtani Beki"
+        ]
+    },
+    {
+        "question": "Serena is married to [mask].",
+        "answers": [
+            "Stilicho"
+        ]
+    },
+    {
+        "question": "Kasturba Gandhi is married to [mask].",
+        "answers": [
+            "Mohandas Karamchand Gandhi"
+        ]
+    },
+    {
+        "question": "Bridget Christie is married to [mask].",
+        "answers": [
+            "Stewart Lee"
+        ]
+    },
+    {
+        "question": "Jane Porter is married to [mask].",
+        "answers": [
+            "Tarzan"
+        ]
+    },
+    {
+        "question": "Anna-Louise Plowman is married to [mask].",
+        "answers": [
+            "Toby Stephens"
+        ]
+    },
+    {
+        "question": "Johann Lorenz Schmidt is married to [mask].",
+        "answers": [
+            "Anna Seghers"
+        ]
+    },
+    {
+        "question": "Alan Ferguson is married to [mask].",
+        "answers": [
+            "Solange Knowles"
+        ]
+    },
+    {
+        "question": "Grand Empress Dowager Shangguan is married to [mask].",
+        "answers": [
+            "Emperor Zhao of Han"
+        ]
+    },
+    {
+        "question": "Henrik Horn is married to [mask].",
+        "answers": [
+            "Beata Magdalena Wittenberg"
+        ]
+    },
+    {
+        "question": "Marie of Savoy, Duchess of Milan is married to [mask].",
+        "answers": [
+            "Filippo Maria Visconti"
+        ]
+    },
+    {
+        "question": "Margaret Trudeau is married to [mask].",
+        "answers": [
+            "Pierre Trudeau"
+        ]
+    },
+    {
+        "question": "Carrie Preston is married to [mask].",
+        "answers": [
+            "Michael Emerson"
+        ]
+    },
+    {
+        "question": "Margaret Abbott is married to [mask].",
+        "answers": [
+            "Finley Peter Dunne"
+        ]
+    },
+    {
+        "question": "Satyajit Ray is married to [mask].",
+        "answers": [
+            "Bijoya Ray"
+        ]
+    },
+    {
+        "question": "Mona Fastvold is married to [mask].",
+        "answers": [
+            "Sondre Lerche"
+        ]
+    },
+    {
+        "question": "Gian Gastone de' Medici is married to [mask].",
+        "answers": [
+            "Anna Maria Franziska of Saxe-Lauenburg"
+        ]
+    },
+    {
+        "question": "Stacia is married to [mask].",
+        "answers": [
+            "Roy Dyke"
+        ]
+    },
+    {
+        "question": "Nina Persson is married to [mask].",
+        "answers": [
+            "Nathan Larson"
+        ]
+    },
+    {
+        "question": "Charmian Clift is married to [mask].",
+        "answers": [
+            "George Johnston"
+        ]
+    },
+    {
+        "question": "Ximena Herrera is married to [mask].",
+        "answers": [
+            "Alex Sirvent"
+        ]
+    },
+    {
+        "question": "Emma Bardac is married to [mask].",
+        "answers": [
+            "Claude Debussy"
+        ]
+    },
+    {
+        "question": "Louis-Do de Lencquesaing is married to [mask].",
+        "answers": [
+            "Caroline Champetier"
+        ]
+    },
+    {
+        "question": "Amphissa is married to [mask].",
+        "answers": [
+            "Apollo"
+        ]
+    },
+    {
+        "question": "Wilde Oscar is married to [mask].",
+        "answers": [
+            "Nici Sterling"
+        ]
+    },
+    {
+        "question": "Hypermnestra is married to [mask].",
+        "answers": [
+            "Lynceus"
+        ]
+    },
+    {
+        "question": "Lauren Michelle Hill is married to [mask].",
+        "answers": [
+            "Sean Patrick Flanery"
+        ]
+    },
+    {
+        "question": "Hilda Gonz\u00e1lez de Duhalde is married to [mask].",
+        "answers": [
+            "Eduardo Duhalde"
+        ]
+    },
+    {
+        "question": "Isabella of France, Queen of Navarre is married to [mask].",
+        "answers": [
+            "Theobald II of Navarre"
+        ]
+    },
+    {
+        "question": "Svetlana Medvedeva is married to [mask].",
+        "answers": [
+            "Dmitry Medvedev"
+        ]
+    },
+    {
+        "question": "Pilar Seurat is married to [mask].",
+        "answers": [
+            "Don Devlin"
+        ]
+    },
+    {
+        "question": "Claude Chabrol is married to [mask].",
+        "answers": [
+            "St\u00e9phane Audran"
+        ]
+    },
+    {
+        "question": "Aamina Sheikh is married to [mask].",
+        "answers": [
+            "Mohib Mirza"
+        ]
+    },
+    {
+        "question": "Chiron is married to [mask].",
+        "answers": [
+            "Chariclo"
+        ]
+    },
+    {
+        "question": "Hak Ja Han is married to [mask].",
+        "answers": [
+            "Sun Myung Moon"
+        ]
+    },
+    {
+        "question": "Margaret of France is married to [mask].",
+        "answers": [
+            "Edward I of England"
+        ]
+    },
+    {
+        "question": "Joyce Banda is married to [mask].",
+        "answers": [
+            "Richard Banda"
+        ]
+    },
+    {
+        "question": "Isabella of Hainault is married to [mask].",
+        "answers": [
+            "Philip II of France"
+        ]
+    },
+    {
+        "question": "Margaret Tallichet is married to [mask].",
+        "answers": [
+            "William Wyler"
+        ]
+    },
+    {
+        "question": "Idrieus is married to [mask].",
+        "answers": [
+            "Ada of Caria"
+        ]
+    },
+    {
+        "question": "Billie Dove is married to [mask].",
+        "answers": [
+            "Irvin Willat"
+        ]
+    },
+    {
+        "question": "Emperor Ming of Liu Song is married to [mask].",
+        "answers": [
+            "Consort Chen Farong",
+            "Consort Chen Miaodeng"
+        ]
+    },
+    {
+        "question": "Blake Edwards is married to [mask].",
+        "answers": [
+            "Julie Andrews"
+        ]
+    },
+    {
+        "question": "Peter Shand Kydd is married to [mask].",
+        "answers": [
+            "Frances Shand Kydd"
+        ]
+    },
+    {
+        "question": "Jenny Lumet is married to [mask].",
+        "answers": [
+            "Bobby Cannavale"
+        ]
+    },
+    {
+        "question": "Lady Charlotte Guest is married to [mask].",
+        "answers": [
+            "John Josiah Guest"
+        ]
+    },
+    {
+        "question": "Natalia Pushkina is married to [mask].",
+        "answers": [
+            "Alexander Pushkin"
+        ]
+    },
+    {
+        "question": "Thomas Lionel Hodgkin is married to [mask].",
+        "answers": [
+            "Dorothy Hodgkin"
+        ]
+    },
+    {
+        "question": "Benjamin Harrison is married to [mask].",
+        "answers": [
+            "Caroline Harrison",
+            "Mary Dimmick Harrison"
+        ]
+    },
+    {
+        "question": "Zeenat Karzai is married to [mask].",
+        "answers": [
+            "Hamid Karzai"
+        ]
+    },
+    {
+        "question": "Mezide Mestan Kad\u0131nefendi is married to [mask].",
+        "answers": [
+            "Abdul Hamid II"
+        ]
+    },
+    {
+        "question": "Derek Farr is married to [mask].",
+        "answers": [
+            "Muriel Pavlow"
+        ]
+    },
+    {
+        "question": "James Joyce is married to [mask].",
+        "answers": [
+            "Nora Barnacle"
+        ]
+    },
+    {
+        "question": "Charles T. Hayden is married to [mask].",
+        "answers": [
+            "Sallie Davis Hayden"
+        ]
+    },
+    {
+        "question": "Ramai Hayward is married to [mask].",
+        "answers": [
+            "Rudall Hayward"
+        ]
+    },
+    {
+        "question": "J. R. Ewing is married to [mask].",
+        "answers": [
+            "Sue Ellen Ewing"
+        ]
+    },
+    {
+        "question": "Loni Hancock is married to [mask].",
+        "answers": [
+            "Tom Bates"
+        ]
+    },
+    {
+        "question": "Caio Blat is married to [mask].",
+        "answers": [
+            "Maria Ribeiro"
+        ]
+    },
+    {
+        "question": "Milton Resnick is married to [mask].",
+        "answers": [
+            "Pat Passlof"
+        ]
+    },
+    {
+        "question": "Isabella of Portugal is married to [mask].",
+        "answers": [
+            "Charles V"
+        ]
+    },
+    {
+        "question": "Maria Ley-Piscator is married to [mask].",
+        "answers": [
+            "Erwin Piscator"
+        ]
+    },
+    {
+        "question": "Alexander of Greece is married to [mask].",
+        "answers": [
+            "Aspasia Manos"
+        ]
+    },
+    {
+        "question": "Menelaus is married to [mask].",
+        "answers": [
+            "Helen of Troy"
+        ]
+    },
+    {
+        "question": "Veriko Anjaparidze is married to [mask].",
+        "answers": [
+            "Mikheil Chiaureli"
+        ]
+    },
+    {
+        "question": "Miguel Ferrer is married to [mask].",
+        "answers": [
+            "Leilani Sarelle"
+        ]
+    },
+    {
+        "question": "Edward Mallory is married to [mask].",
+        "answers": [
+            "Susanne Zenor",
+            "Joyce Bulifant"
+        ]
+    },
+    {
+        "question": "Archduchess Maria Theresa of Austria-Este is married to [mask].",
+        "answers": [
+            "Henri, Count of Chambord"
+        ]
+    },
+    {
+        "question": "Scoot McNairy is married to [mask].",
+        "answers": [
+            "Whitney Able"
+        ]
+    },
+    {
+        "question": "Anthony Cox is married to [mask].",
+        "answers": [
+            "Yoko Ono"
+        ]
+    },
+    {
+        "question": "Skalpovich is married to [mask].",
+        "answers": [
+            "Indila"
+        ]
+    },
+    {
+        "question": "Roman Abramovich is married to [mask].",
+        "answers": [
+            "Dasha Zhukova"
+        ]
+    },
+    {
+        "question": "Linus Pauling is married to [mask].",
+        "answers": [
+            "Ava Helen Pauling"
+        ]
+    },
+    {
+        "question": "Caroline Aherne is married to [mask].",
+        "answers": [
+            "Peter Hook"
+        ]
+    },
+    {
+        "question": "Victoria, Princess Royal is married to [mask].",
+        "answers": [
+            "Friedrich III of Germany"
+        ]
+    },
+    {
+        "question": "Godfrey IV, Duke of Lower Lorraine is married to [mask].",
+        "answers": [
+            "Matilda of Tuscany"
+        ]
+    },
+    {
+        "question": "Sir Henry Stafford is married to [mask].",
+        "answers": [
+            "Lady Margaret Beaufort"
+        ]
+    },
+    {
+        "question": "Tripti Mitra is married to [mask].",
+        "answers": [
+            "Sombhu Mitra"
+        ]
+    },
+    {
+        "question": "Helvidius Priscus is married to [mask].",
+        "answers": [
+            "Fannia"
+        ]
+    },
+    {
+        "question": "William IV of the United Kingdom is married to [mask].",
+        "answers": [
+            "Adelaide of Saxe-Meiningen"
+        ]
+    },
+    {
+        "question": "Marco Enr\u00edquez-Ominami is married to [mask].",
+        "answers": [
+            "Karen Doggenweiler"
+        ]
+    },
+    {
+        "question": "Benny Andersson is married to [mask].",
+        "answers": [
+            "Anni-Frid Lyngstad"
+        ]
+    },
+    {
+        "question": "Shachi is married to [mask].",
+        "answers": [
+            "Indra"
+        ]
+    },
+    {
+        "question": "Clayton Morris is married to [mask].",
+        "answers": [
+            "Natali Morris"
+        ]
+    },
+    {
+        "question": "Mary Pinchot Meyer is married to [mask].",
+        "answers": [
+            "Cord Meyer"
+        ]
+    },
+    {
+        "question": "Tiger Woods is married to [mask].",
+        "answers": [
+            "Elin Nordegren"
+        ]
+    },
+    {
+        "question": "Harry Shearer is married to [mask].",
+        "answers": [
+            "Judith Owen"
+        ]
+    },
+    {
+        "question": "Victoria Foyt is married to [mask].",
+        "answers": [
+            "Henry Jaglom"
+        ]
+    },
+    {
+        "question": "Yvonne Vall\u00e9e is married to [mask].",
+        "answers": [
+            "Maurice Chevalier"
+        ]
+    },
+    {
+        "question": "Gorgophone is married to [mask].",
+        "answers": [
+            "Oebalus"
+        ]
+    },
+    {
+        "question": "Robert Browning is married to [mask].",
+        "answers": [
+            "Elizabeth Barrett Browning"
+        ]
+    },
+    {
+        "question": "Marie-Claude Vaillant-Couturier is married to [mask].",
+        "answers": [
+            "Pierre Villon"
+        ]
+    },
+    {
+        "question": "Tamar of Georgia is married to [mask].",
+        "answers": [
+            "Yury Bogolyubsky",
+            "David Soslan"
+        ]
+    },
+    {
+        "question": "George Jivajirao Scindia is married to [mask].",
+        "answers": [
+            "Vijayaraje Scindia"
+        ]
+    },
+    {
+        "question": "Carloman I is married to [mask].",
+        "answers": [
+            "Gerberga, Queen of the Franks"
+        ]
+    },
+    {
+        "question": "Lord Worplesdon is married to [mask].",
+        "answers": [
+            "Aunt Agatha"
+        ]
+    },
+    {
+        "question": "Hazel Lavery is married to [mask].",
+        "answers": [
+            "John Lavery"
+        ]
+    },
+    {
+        "question": "Hank Baskett is married to [mask].",
+        "answers": [
+            "Kendra Wilkinson"
+        ]
+    },
+    {
+        "question": "Christian-Jaque is married to [mask].",
+        "answers": [
+            "Martine Carol"
+        ]
+    },
+    {
+        "question": "Kamehameha IV is married to [mask].",
+        "answers": [
+            "Queen Emma of Hawaii"
+        ]
+    },
+    {
+        "question": "Gu Changwei is married to [mask].",
+        "answers": [
+            "Jiang Wenli"
+        ]
+    },
+    {
+        "question": "Mut is married to [mask].",
+        "answers": [
+            "Amun"
+        ]
+    },
+    {
+        "question": "So Seo-no is married to [mask].",
+        "answers": [
+            "King Dongmyeong of Goguryeo"
+        ]
+    },
+    {
+        "question": "Frances Lear is married to [mask].",
+        "answers": [
+            "Norman Lear"
+        ]
+    },
+    {
+        "question": "Ann-Margret is married to [mask].",
+        "answers": [
+            "Roger Smith"
+        ]
+    },
+    {
+        "question": "Helen Mar Kimball is married to [mask].",
+        "answers": [
+            "Joseph Smith"
+        ]
+    },
+    {
+        "question": "Christine Brooke-Rose is married to [mask].",
+        "answers": [
+            "Jerzy Pietrkiewicz"
+        ]
+    },
+    {
+        "question": "Ye Li is married to [mask].",
+        "answers": [
+            "Yao Ming"
+        ]
+    },
+    {
+        "question": "Arwen is married to [mask].",
+        "answers": [
+            "Aragorn"
+        ]
+    },
+    {
+        "question": "Gao Yun is married to [mask].",
+        "answers": [
+            "Empress Li"
+        ]
+    },
+    {
+        "question": "Dayawati Modi is married to [mask].",
+        "answers": [
+            "Gujarmal Modi"
+        ]
+    },
+    {
+        "question": "Michelle Kaufman is married to [mask].",
+        "answers": [
+            "Dave Barry"
+        ]
+    },
+    {
+        "question": "Damaspia is married to [mask].",
+        "answers": [
+            "Artaxerxes I of Persia"
+        ]
+    },
+    {
+        "question": "Larry David is married to [mask].",
+        "answers": [
+            "Laurie David"
+        ]
+    },
+    {
+        "question": "Josephine Culbertson is married to [mask].",
+        "answers": [
+            "Ely Culbertson"
+        ]
+    },
+    {
+        "question": "Anna Komnene is married to [mask].",
+        "answers": [
+            "Nikephoros Bryennios the Younger"
+        ]
+    },
+    {
+        "question": "Marcus Aemilius Scaurus is married to [mask].",
+        "answers": [
+            "Caecilia Metella Dalmatica"
+        ]
+    },
+    {
+        "question": "Margaret Holles, Duchess of Newcastle-upon-Tyne is married to [mask].",
+        "answers": [
+            "John Holles, 1st Duke of Newcastle"
+        ]
+    },
+    {
+        "question": "Masaki Sumitani is married to [mask].",
+        "answers": [
+            "Anna Suzuki"
+        ]
+    },
+    {
+        "question": "Husayn ibn Ali is married to [mask].",
+        "answers": [
+            "Shahrbanu"
+        ]
+    },
+    {
+        "question": "Coco Austin is married to [mask].",
+        "answers": [
+            "Ice-T"
+        ]
+    },
+    {
+        "question": "Empress Song is married to [mask].",
+        "answers": [
+            "Emperor Ling of Han"
+        ]
+    },
+    {
+        "question": "Kazu-no-miya Chikako-naishinn\u014d is married to [mask].",
+        "answers": [
+            "Tokugawa Iemochi"
+        ]
+    },
+    {
+        "question": "Hadidjah is married to [mask].",
+        "answers": [
+            "Sardi"
+        ]
+    },
+    {
+        "question": "Paul Gross is married to [mask].",
+        "answers": [
+            "Martha Burns"
+        ]
+    },
+    {
+        "question": "Ethelreda, daughter of Gospatric is married to [mask].",
+        "answers": [
+            "Duncan II of Scotland"
+        ]
+    },
+    {
+        "question": "Howard Dean is married to [mask].",
+        "answers": [
+            "Judith Steinberg Dean"
+        ]
+    },
+    {
+        "question": "Gary Morton is married to [mask].",
+        "answers": [
+            "Lucille Ball"
+        ]
+    },
+    {
+        "question": "Farida of Egypt is married to [mask].",
+        "answers": [
+            "Farouk of Egypt"
+        ]
+    },
+    {
+        "question": "Joseph Needham is married to [mask].",
+        "answers": [
+            "Lu Gwei-djen",
+            "Dorothy M. Needham"
+        ]
+    },
+    {
+        "question": "Lars Hanson is married to [mask].",
+        "answers": [
+            "Karin Molander"
+        ]
+    },
+    {
+        "question": "Paul Martin is married to [mask].",
+        "answers": [
+            "Sheila Martin"
+        ]
+    },
+    {
+        "question": "Dolly Thakore is married to [mask].",
+        "answers": [
+            "Alyque Padamsee"
+        ]
+    },
+    {
+        "question": "Ad\u00e9la\u00efde Binart is married to [mask].",
+        "answers": [
+            "Alexandre Lenoir"
+        ]
+    },
+    {
+        "question": "Subhashini Ali is married to [mask].",
+        "answers": [
+            "Muzaffar Ali"
+        ]
+    },
+    {
+        "question": "Denise Scott Brown is married to [mask].",
+        "answers": [
+            "Robert Venturi"
+        ]
+    },
+    {
+        "question": "Clotilde is married to [mask].",
+        "answers": [
+            "Clovis I"
+        ]
+    },
+    {
+        "question": "Rudolph I of Burgundy is married to [mask].",
+        "answers": [
+            "Guilla of Provence"
+        ]
+    },
+    {
+        "question": "Galadriel is married to [mask].",
+        "answers": [
+            "Celeborn"
+        ]
+    },
+    {
+        "question": "Elizabeth Schuyler Hamilton is married to [mask].",
+        "answers": [
+            "Alexander Hamilton"
+        ]
+    },
+    {
+        "question": "Ermesinde, Countess of Luxembourg is married to [mask].",
+        "answers": [
+            "Waleran III, Duke of Limburg"
+        ]
+    },
+    {
+        "question": "Danish Taimoor is married to [mask].",
+        "answers": [
+            "Aiza Khan"
+        ]
+    },
+    {
+        "question": "Philippine Welser is married to [mask].",
+        "answers": [
+            "Ferdinand II, Archduke of Austria"
+        ]
+    },
+    {
+        "question": "Jagadish Mohanty is married to [mask].",
+        "answers": [
+            "Sarojini Sahoo"
+        ]
+    },
+    {
+        "question": "Rachida Brakni is married to [mask].",
+        "answers": [
+            "Eric Cantona"
+        ]
+    },
+    {
+        "question": "Ginette Garcin is married to [mask].",
+        "answers": [
+            "Robert Beauvais"
+        ]
+    },
+    {
+        "question": "Christopher de Leon is married to [mask].",
+        "answers": [
+            "Sandy Andolong"
+        ]
+    },
+    {
+        "question": "Jiang Yuan is married to [mask].",
+        "answers": [
+            "Emperor K\u00f9"
+        ]
+    },
+    {
+        "question": "Mallika Sukumaran is married to [mask].",
+        "answers": [
+            "Jagathy Sreekumar"
+        ]
+    },
+    {
+        "question": "Eadgyth is married to [mask].",
+        "answers": [
+            "Otto I the chicken"
+        ]
+    },
+    {
+        "question": "Antonio Aguilar is married to [mask].",
+        "answers": [
+            "Flor Silvestre"
+        ]
+    },
+    {
+        "question": "Amparo Soler Leal is married to [mask].",
+        "answers": [
+            "Adolfo Marsillach"
+        ]
+    },
+    {
+        "question": "Ali MacGraw is married to [mask].",
+        "answers": [
+            "Steve McQueen"
+        ]
+    },
+    {
+        "question": "Filipa Moniz Perestrelo is married to [mask].",
+        "answers": [
+            "Christopher Columbus"
+        ]
+    },
+    {
+        "question": "Kevin Corrigan is married to [mask].",
+        "answers": [
+            "Elizabeth Berridge"
+        ]
+    },
+    {
+        "question": "Coosje van Bruggen is married to [mask].",
+        "answers": [
+            "Claes Oldenburg"
+        ]
+    },
+    {
+        "question": "Tunku Kurshiah is married to [mask].",
+        "answers": [
+            "Abdul Rahman of Negeri Sembilan"
+        ]
+    },
+    {
+        "question": "David Mamet is married to [mask].",
+        "answers": [
+            "Rebecca Pidgeon"
+        ]
+    },
+    {
+        "question": "Elpinice is married to [mask].",
+        "answers": [
+            "Callias II"
+        ]
+    },
+    {
+        "question": "Eliza McCardle Johnson is married to [mask].",
+        "answers": [
+            "Andrew Johnson"
+        ]
+    },
+    {
+        "question": "Cecelia Ager is married to [mask].",
+        "answers": [
+            "Milton Ager"
+        ]
+    },
+    {
+        "question": "Hu Jia is married to [mask].",
+        "answers": [
+            "Zeng Jinyan"
+        ]
+    },
+    {
+        "question": "Henutmire is married to [mask].",
+        "answers": [
+            "Ramesses II"
+        ]
+    },
+    {
+        "question": "Jean Chevrier is married to [mask].",
+        "answers": [
+            "Marie Bell"
+        ]
+    },
+    {
+        "question": "Peter III of Russia is married to [mask].",
+        "answers": [
+            "Catherine II of Russia"
+        ]
+    },
+    {
+        "question": "Hywel Simons is married to [mask].",
+        "answers": [
+            "Sarah Tansey"
+        ]
+    },
+    {
+        "question": "Roger Fouts is married to [mask].",
+        "answers": [
+            "Deborah Fouts"
+        ]
+    },
+    {
+        "question": "Mette-Marit, Crown Princess of Norway is married to [mask].",
+        "answers": [
+            "Haakon, Crown Prince of Norway"
+        ]
+    },
+    {
+        "question": "Chen Shubao is married to [mask].",
+        "answers": [
+            "Consort Zhang Lihua",
+            "Empress Shen Wuhua"
+        ]
+    },
+    {
+        "question": "Margaret Beaufort, Countess of Somerset is married to [mask].",
+        "answers": [
+            "John Beaufort, 1st Earl of Somerset"
+        ]
+    },
+    {
+        "question": "Marcia Furnilla is married to [mask].",
+        "answers": [
+            "Titus"
+        ]
+    },
+    {
+        "question": "Queen Dowager Shi is married to [mask].",
+        "answers": [
+            "Yang Xingmi"
+        ]
+    },
+    {
+        "question": "Wilhelm II is married to [mask].",
+        "answers": [
+            "Hermine Reuss of Greiz",
+            "Augusta Victoria of Schleswig-Holstein"
+        ]
+    },
+    {
+        "question": "Gao Wei is married to [mask].",
+        "answers": [
+            "Empress Hul\u00fc",
+            "Feng Xiaolian"
+        ]
+    },
+    {
+        "question": "Drusus Julius Caesar is married to [mask].",
+        "answers": [
+            "Livilla"
+        ]
+    },
+    {
+        "question": "Mary Vaux Walcott is married to [mask].",
+        "answers": [
+            "Charles Doolittle Walcott"
+        ]
+    },
+    {
+        "question": "Isabella of France is married to [mask].",
+        "answers": [
+            "Edward II of England"
+        ]
+    },
+    {
+        "question": "Elizabeth Raleigh is married to [mask].",
+        "answers": [
+            "Walter Raleigh"
+        ]
+    },
+    {
+        "question": "Yvonne Gilan is married to [mask].",
+        "answers": [
+            "Michael Gill"
+        ]
+    },
+    {
+        "question": "Eadburh is married to [mask].",
+        "answers": [
+            "Beorhtric"
+        ]
+    },
+    {
+        "question": "Filizten Han\u0131m is married to [mask].",
+        "answers": [
+            "Murad V"
+        ]
+    },
+    {
+        "question": "Gurmeet Choudhary is married to [mask].",
+        "answers": [
+            "Debina Bonnerjee"
+        ]
+    },
+    {
+        "question": "Debra Feuer is married to [mask].",
+        "answers": [
+            "Mickey Rourke"
+        ]
+    },
+    {
+        "question": "Jack Rosenthal is married to [mask].",
+        "answers": [
+            "Maureen Lipman"
+        ]
+    },
+    {
+        "question": "Amarinder Singh is married to [mask].",
+        "answers": [
+            "Preneet Kaur"
+        ]
+    },
+    {
+        "question": "Olive Cotton is married to [mask].",
+        "answers": [
+            "Max Dupain"
+        ]
+    },
+    {
+        "question": "Maria Barbara Bach is married to [mask].",
+        "answers": [
+            "Johann Sebastian Bach"
+        ]
+    },
+    {
+        "question": "Sahila Chadha is married to [mask].",
+        "answers": [
+            "Nimai Bali"
+        ]
+    },
+    {
+        "question": "Mary Pellatt is married to [mask].",
+        "answers": [
+            "Henry Pellatt"
+        ]
+    },
+    {
+        "question": "Ashley Judd is married to [mask].",
+        "answers": [
+            "Dario Franchitti"
+        ]
+    },
+    {
+        "question": "Rose Friedman is married to [mask].",
+        "answers": [
+            "Milton Friedman"
+        ]
+    },
+    {
+        "question": "Margaret Bentinck, Duchess of Portland is married to [mask].",
+        "answers": [
+            "William Bentinck, 2nd Duke of Portland"
+        ]
+    },
+    {
+        "question": "Eudoxia of Moscow is married to [mask].",
+        "answers": [
+            "Dmitry Donskoy"
+        ]
+    },
+    {
+        "question": "Lugalbanda is married to [mask].",
+        "answers": [
+            "Ninsun"
+        ]
+    },
+    {
+        "question": "Renata Kallosh is married to [mask].",
+        "answers": [
+            "Andrei Linde"
+        ]
+    },
+    {
+        "question": "Nancy Morgan is married to [mask].",
+        "answers": [
+            "John Ritter"
+        ]
+    },
+    {
+        "question": "Nicholas Kazan is married to [mask].",
+        "answers": [
+            "Robin Swicord"
+        ]
+    },
+    {
+        "question": "Gloria Swanson is married to [mask].",
+        "answers": [
+            "Wallace Beery"
+        ]
+    },
+    {
+        "question": "Tushka Bergen is married to [mask].",
+        "answers": [
+            "John Vause"
+        ]
+    },
+    {
+        "question": "Pattie Menzies is married to [mask].",
+        "answers": [
+            "Robert Menzies"
+        ]
+    },
+    {
+        "question": "John Stuart Mill is married to [mask].",
+        "answers": [
+            "Harriet Taylor Mill"
+        ]
+    },
+    {
+        "question": "Fujiwara no Kanshi is married to [mask].",
+        "answers": [
+            "Go-Reizei"
+        ]
+    },
+    {
+        "question": "Tareq Salahi is married to [mask].",
+        "answers": [
+            "Michaele Salahi"
+        ]
+    },
+    {
+        "question": "Sabine Thalbach is married to [mask].",
+        "answers": [
+            "Benno Besson"
+        ]
+    },
+    {
+        "question": "Maud of Savoy is married to [mask].",
+        "answers": [
+            "Afonso I of Portugal"
+        ]
+    },
+    {
+        "question": "Steven Bochco is married to [mask].",
+        "answers": [
+            "Barbara Bosson"
+        ]
+    },
+    {
+        "question": "Roger Spottiswoode is married to [mask].",
+        "answers": [
+            "Holly Palance"
+        ]
+    },
+    {
+        "question": "Christie Brinkley is married to [mask].",
+        "answers": [
+            "Billy Joel"
+        ]
+    },
+    {
+        "question": "George Burns is married to [mask].",
+        "answers": [
+            "Gracie Allen"
+        ]
+    },
+    {
+        "question": "Umm ul-Banin is married to [mask].",
+        "answers": [
+            "Al\u012b ibn Abu \u1e6c\u0101lib"
+        ]
+    },
+    {
+        "question": "Caroline John is married to [mask].",
+        "answers": [
+            "Geoffrey Beevers"
+        ]
+    },
+    {
+        "question": "Sancha of Castile, Queen of Aragon is married to [mask].",
+        "answers": [
+            "Alfonso II of Aragon"
+        ]
+    },
+    {
+        "question": "Tanna Frederick is married to [mask].",
+        "answers": [
+            "Henry Jaglom"
+        ]
+    },
+    {
+        "question": "John Kerry is married to [mask].",
+        "answers": [
+            "Teresa Heinz Kerry"
+        ]
+    },
+    {
+        "question": "Jeanne Th\u00e9r\u00e8se du Han is married to [mask].",
+        "answers": [
+            "Granville Elliott"
+        ]
+    },
+    {
+        "question": "Kathryn Bigelow is married to [mask].",
+        "answers": [
+            "James Cameron"
+        ]
+    },
+    {
+        "question": "Wolf Albach-Retty is married to [mask].",
+        "answers": [
+            "Trude Marlen",
+            "Magda Schneider"
+        ]
+    },
+    {
+        "question": "Eva Ahnert-Rohlfs is married to [mask].",
+        "answers": [
+            "Paul Oswald Ahnert"
+        ]
+    },
+    {
+        "question": "Paul Graham is married to [mask].",
+        "answers": [
+            "Jessica Livingston"
+        ]
+    },
+    {
+        "question": "Hunter Foster is married to [mask].",
+        "answers": [
+            "Jennifer Cody"
+        ]
+    },
+    {
+        "question": "Queen Margarita of Bulgaria is married to [mask].",
+        "answers": [
+            "Simeon Saxe-Coburg-Gotha"
+        ]
+    },
+    {
+        "question": "Cacht ingen Ragnaill is married to [mask].",
+        "answers": [
+            "Donnchad mac Briain"
+        ]
+    },
+    {
+        "question": "Sombhu Mitra is married to [mask].",
+        "answers": [
+            "Tripti Mitra"
+        ]
+    },
+    {
+        "question": "Louise Homer is married to [mask].",
+        "answers": [
+            "Sidney Homer, Sr."
+        ]
+    },
+    {
+        "question": "Christian Krohg is married to [mask].",
+        "answers": [
+            "Oda Krohg"
+        ]
+    },
+    {
+        "question": "Euphemia de Ross is married to [mask].",
+        "answers": [
+            "Robert II of Scotland"
+        ]
+    },
+    {
+        "question": "Anne Rud is married to [mask].",
+        "answers": [
+            "Henrich Krummedige"
+        ]
+    },
+    {
+        "question": "Acamapichtli is married to [mask].",
+        "answers": [
+            "Tezcatlan Miyahuatzin"
+        ]
+    },
+    {
+        "question": "Mahasweta Devi is married to [mask].",
+        "answers": [
+            "Bijon Bhattacharya"
+        ]
+    },
+    {
+        "question": "Natalia Sedova is married to [mask].",
+        "answers": [
+            "Leon Trotsky"
+        ]
+    },
+    {
+        "question": "Marie Victoire de Noailles is married to [mask].",
+        "answers": [
+            "Louis Alexandre, Count of Toulouse"
+        ]
+    },
+    {
+        "question": "Sture Lagerwall is married to [mask].",
+        "answers": [
+            "Guje Lagerwall"
+        ]
+    },
+    {
+        "question": "James Wong Howe is married to [mask].",
+        "answers": [
+            "Sanora Babb"
+        ]
+    },
+    {
+        "question": "Porsha Williams is married to [mask].",
+        "answers": [
+            "Kordell Stewart"
+        ]
+    },
+    {
+        "question": "Matthew Freud is married to [mask].",
+        "answers": [
+            "Elisabeth Murdoch"
+        ]
+    },
+    {
+        "question": "Empress Xiao'aizhe is married to [mask].",
+        "answers": [
+            "Tianqi Emperor"
+        ]
+    },
+    {
+        "question": "Julie London is married to [mask].",
+        "answers": [
+            "Jack Webb",
+            "Bobby Troup"
+        ]
+    },
+    {
+        "question": "Vyacheslav Tikhonov is married to [mask].",
+        "answers": [
+            "Nonna Mordyukova"
+        ]
+    },
+    {
+        "question": "Priscilla Presley is married to [mask].",
+        "answers": [
+            "Elvis Presley"
+        ]
+    },
+    {
+        "question": "Eudokia Makrembolitissa is married to [mask].",
+        "answers": [
+            "Romanos IV Diogenes",
+            "Constantine X Doukas"
+        ]
+    },
+    {
+        "question": "Christa Miller is married to [mask].",
+        "answers": [
+            "Bill Lawrence"
+        ]
+    },
+    {
+        "question": "Sarah Lyttelton, Baroness Lyttelton is married to [mask].",
+        "answers": [
+            "William Lyttelton, 3rd Baron Lyttelton"
+        ]
+    },
+    {
+        "question": "Albert IV, Duke of Bavaria is married to [mask].",
+        "answers": [
+            "Kunigunde of Austria"
+        ]
+    },
+    {
+        "question": "Ernie Kovacs is married to [mask].",
+        "answers": [
+            "Edie Adams"
+        ]
+    },
+    {
+        "question": "Bart Freundlich is married to [mask].",
+        "answers": [
+            "Julianne Moore"
+        ]
+    },
+    {
+        "question": "Jeff Celentano is married to [mask].",
+        "answers": [
+            "Musetta Vander"
+        ]
+    },
+    {
+        "question": "Princess Durru Shehvar is married to [mask].",
+        "answers": [
+            "Azam Jah"
+        ]
+    },
+    {
+        "question": "Isaac Asimov is married to [mask].",
+        "answers": [
+            "Janet Asimov"
+        ]
+    },
+    {
+        "question": "Lyudmila Putina is married to [mask].",
+        "answers": [
+            "Vladimir Putin"
+        ]
+    },
+    {
+        "question": "Jackson Pollock is married to [mask].",
+        "answers": [
+            "Lee Krasner"
+        ]
+    },
+    {
+        "question": "Joan Bennett is married to [mask].",
+        "answers": [
+            "Walter Wanger"
+        ]
+    },
+    {
+        "question": "Ernest Augustus of Hanover is married to [mask].",
+        "answers": [
+            "Frederica of Mecklenburg-Strelitz"
+        ]
+    },
+    {
+        "question": "Amy Poehler is married to [mask].",
+        "answers": [
+            "Will Arnett"
+        ]
+    },
+    {
+        "question": "Johann Reinhard III, Count of Hanau-Lichtenberg is married to [mask].",
+        "answers": [
+            "Dorothea Friederike of Brandenburg-Ansbach"
+        ]
+    },
+    {
+        "question": "\u00c8ve Curie is married to [mask].",
+        "answers": [
+            "Henry Richardson Labouisse"
+        ]
+    },
+    {
+        "question": "Carmen Electra is married to [mask].",
+        "answers": [
+            "Dennis Rodman",
+            "Dave Navarro"
+        ]
+    },
+    {
+        "question": "Carmel Tebbutt is married to [mask].",
+        "answers": [
+            "Anthony Albanese"
+        ]
+    },
+    {
+        "question": "David Birney is married to [mask].",
+        "answers": [
+            "Meredith Baxter"
+        ]
+    },
+    {
+        "question": "Bertha Crawford Hubbard is married to [mask].",
+        "answers": [
+            "Elbert Green Hubbard"
+        ]
+    },
+    {
+        "question": "Queen Ingyeong is married to [mask].",
+        "answers": [
+            "Sukjong of Joseon"
+        ]
+    },
+    {
+        "question": "Roxana is married to [mask].",
+        "answers": [
+            "Alexander the Great"
+        ]
+    },
+    {
+        "question": "DeWolf Hopper is married to [mask].",
+        "answers": [
+            "Hedda Hopper"
+        ]
+    },
+    {
+        "question": "Aulus Caecina Paetus is married to [mask].",
+        "answers": [
+            "Arria"
+        ]
+    },
+    {
+        "question": "Gisela of Hungary is married to [mask].",
+        "answers": [
+            "Stephen I of Hungary"
+        ]
+    },
+    {
+        "question": "Empress Zhang is married to [mask].",
+        "answers": [
+            "Cao Fang"
+        ]
+    },
+    {
+        "question": "Nannina de' Medici is married to [mask].",
+        "answers": [
+            "Bernardo Rucellai"
+        ]
+    },
+    {
+        "question": "Zizi Lambrino is married to [mask].",
+        "answers": [
+            "Carol II of Romania"
+        ]
+    },
+    {
+        "question": "Okaji no Kata is married to [mask].",
+        "answers": [
+            "Tokugawa Ieyasu"
+        ]
+    },
+    {
+        "question": "Eddie Gutierrez is married to [mask].",
+        "answers": [
+            "Pilita Corrales"
+        ]
+    },
+    {
+        "question": "George Middleton is married to [mask].",
+        "answers": [
+            "Fola La Follette"
+        ]
+    },
+    {
+        "question": "Lewis Moran is married to [mask].",
+        "answers": [
+            "Judy Moran"
+        ]
+    },
+    {
+        "question": "Mirella Freni is married to [mask].",
+        "answers": [
+            "Nicolai Ghiaurov"
+        ]
+    },
+    {
+        "question": "Rukmini is married to [mask].",
+        "answers": [
+            "Krishna"
+        ]
+    },
+    {
+        "question": "Pujie is married to [mask].",
+        "answers": [
+            "Hiro Saga"
+        ]
+    },
+    {
+        "question": "Meresankh IV is married to [mask].",
+        "answers": [
+            "Menkauhor Kaiu",
+            "Djedkare Isesi"
+        ]
+    },
+    {
+        "question": "Tso Wong Man-yin is married to [mask].",
+        "answers": [
+            "Tso Wung-Wai"
+        ]
+    },
+    {
+        "question": "Judith is married to [mask].",
+        "answers": [
+            "Esau"
+        ]
+    },
+    {
+        "question": "Bhushan Kumar is married to [mask].",
+        "answers": [
+            "Divya Khosla Kumar"
+        ]
+    },
+    {
+        "question": "Elizabeth Bracco is married to [mask].",
+        "answers": [
+            "Aidan Quinn"
+        ]
+    },
+    {
+        "question": "Emperor Xuan of Northern Zhou is married to [mask].",
+        "answers": [
+            "Empress Chen Yueyi",
+            "Empress Yuchi Chifan",
+            "Yang Lihua",
+            "Empress Zhu Manyue"
+        ]
+    },
+    {
+        "question": "Elon Musk is married to [mask].",
+        "answers": [
+            "Talulah Riley"
+        ]
+    },
+    {
+        "question": "Morphia of Melitene is married to [mask].",
+        "answers": [
+            "Baldwin II of Jerusalem"
+        ]
+    },
+    {
+        "question": "Euphrosyne Parepa-Rosa is married to [mask].",
+        "answers": [
+            "Carl Rosa"
+        ]
+    },
+    {
+        "question": "Frederick VI of Denmark is married to [mask].",
+        "answers": [
+            "Marie of Hesse-Kassel"
+        ]
+    },
+    {
+        "question": "Michiko Nomura is married to [mask].",
+        "answers": [
+            "Kenji Utsumi"
+        ]
+    },
+    {
+        "question": "Josh Randall is married to [mask].",
+        "answers": [
+            "Claire Rankin"
+        ]
+    },
+    {
+        "question": "Ethel D. Jacobs is married to [mask].",
+        "answers": [
+            "Hirsch Jacobs"
+        ]
+    },
+    {
+        "question": "Olive Diefenbaker is married to [mask].",
+        "answers": [
+            "John Diefenbaker"
+        ]
+    },
+    {
+        "question": "Lucy Montgomery is married to [mask].",
+        "answers": [
+            "Rhys Thomas"
+        ]
+    },
+    {
+        "question": "Shushanik is married to [mask].",
+        "answers": [
+            "Varsken of Gogarene"
+        ]
+    },
+    {
+        "question": "Berenice is married to [mask].",
+        "answers": [
+            "Aristobulus IV"
+        ]
+    },
+    {
+        "question": "Lisbet Palme is married to [mask].",
+        "answers": [
+            "Olof Palme"
+        ]
+    },
+    {
+        "question": "Gunnhild, Mother of Kings is married to [mask].",
+        "answers": [
+            "Eric Bloodaxe"
+        ]
+    },
+    {
+        "question": "Libby Holman is married to [mask].",
+        "answers": [
+            "Louis Schanker",
+            "Zachary Smith Reynolds"
+        ]
+    },
+    {
+        "question": "Erskine Caldwell is married to [mask].",
+        "answers": [
+            "Margaret Bourke-White"
+        ]
+    },
+    {
+        "question": "Yash Chopra is married to [mask].",
+        "answers": [
+            "Pamela Chopra"
+        ]
+    },
+    {
+        "question": "Andrei Linde is married to [mask].",
+        "answers": [
+            "Renata Kallosh"
+        ]
+    },
+    {
+        "question": "Alice Mak is married to [mask].",
+        "answers": [
+            "Brian Tse"
+        ]
+    },
+    {
+        "question": "John Conduitt is married to [mask].",
+        "answers": [
+            "Catherine Barton"
+        ]
+    },
+    {
+        "question": "Max Mallowan is married to [mask].",
+        "answers": [
+            "Agatha Christie"
+        ]
+    },
+    {
+        "question": "Theodosia Trollope is married to [mask].",
+        "answers": [
+            "Thomas Adolphus Trollope"
+        ]
+    },
+    {
+        "question": "Herb Edelman is married to [mask].",
+        "answers": [
+            "Louise Sorel"
+        ]
+    },
+    {
+        "question": "Marie Louise, Duchess of Parma is married to [mask].",
+        "answers": [
+            "Napoleon",
+            "Adam Albert von Neipperg"
+        ]
+    },
+    {
+        "question": "Justin Kiriakis is married to [mask].",
+        "answers": [
+            "Adrienne Johnson Kiriakis"
+        ]
+    },
+    {
+        "question": "Selena is married to [mask].",
+        "answers": [
+            "Chris P\u00e9rez"
+        ]
+    },
+    {
+        "question": "Pythodorida of Pontus is married to [mask].",
+        "answers": [
+            "Polemon I of Pontus"
+        ]
+    },
+    {
+        "question": "Sandy Welch is married to [mask].",
+        "answers": [
+            "Stephen Poliakoff"
+        ]
+    },
+    {
+        "question": "Catherine Gregg is married to [mask].",
+        "answers": [
+            "Hugh Gregg"
+        ]
+    },
+    {
+        "question": "Murong Chui is married to [mask].",
+        "answers": [
+            "Empress Duan Yuanfei",
+            "Empress Dowager Duan"
+        ]
+    },
+    {
+        "question": "Verna Arvey is married to [mask].",
+        "answers": [
+            "William Grant Still"
+        ]
+    },
+    {
+        "question": "Valentin Yumashev is married to [mask].",
+        "answers": [
+            "Tatyana Yumasheva"
+        ]
+    },
+    {
+        "question": "Anita Wood is married to [mask].",
+        "answers": [
+            "Johnny Brewer"
+        ]
+    },
+    {
+        "question": "Denise Chong is married to [mask].",
+        "answers": [
+            "Roger Smith"
+        ]
+    },
+    {
+        "question": "Ariadna Scriabina is married to [mask].",
+        "answers": [
+            "Dovid Knut"
+        ]
+    },
+    {
+        "question": "Alice Davenport is married to [mask].",
+        "answers": [
+            "Harry Davenport"
+        ]
+    },
+    {
+        "question": "James Brolin is married to [mask].",
+        "answers": [
+            "Barbra Streisand"
+        ]
+    },
+    {
+        "question": "Klyment Kvitka is married to [mask].",
+        "answers": [
+            "Lesya Ukrainka"
+        ]
+    },
+    {
+        "question": "Ilia Kulik is married to [mask].",
+        "answers": [
+            "Ekaterina Gordeeva"
+        ]
+    },
+    {
+        "question": "James Stockdale is married to [mask].",
+        "answers": [
+            "Sybil Stockdale"
+        ]
+    },
+    {
+        "question": "Boudica is married to [mask].",
+        "answers": [
+            "Prasutagus"
+        ]
+    },
+    {
+        "question": "Dante Ferretti is married to [mask].",
+        "answers": [
+            "Francesca Lo Schiavo"
+        ]
+    },
+    {
+        "question": "Elliott Gould is married to [mask].",
+        "answers": [
+            "Barbra Streisand"
+        ]
+    },
+    {
+        "question": "Ruth Churchill is married to [mask].",
+        "answers": [
+            "Oliver Churchill"
+        ]
+    },
+    {
+        "question": "Martin Harris is married to [mask].",
+        "answers": [
+            "Lucy Harris"
+        ]
+    },
+    {
+        "question": "Cyd Charisse is married to [mask].",
+        "answers": [
+            "Tony Martin"
+        ]
+    },
+    {
+        "question": "Ngapoi Ngawang Jigme is married to [mask].",
+        "answers": [
+            "Ngapoi Cedain Zhoigar"
+        ]
+    },
+    {
+        "question": "Sujata Keshavan is married to [mask].",
+        "answers": [
+            "Ramachandra Guha"
+        ]
+    },
+    {
+        "question": "Joseph Stalin is married to [mask].",
+        "answers": [
+            "Nadezhda Alliluyeva"
+        ]
+    },
+    {
+        "question": "Margaret Leijonhufvud is married to [mask].",
+        "answers": [
+            "Gustav I of Sweden"
+        ]
+    },
+    {
+        "question": "Janette Howard is married to [mask].",
+        "answers": [
+            "John Howard"
+        ]
+    },
+    {
+        "question": "Orson Pratt is married to [mask].",
+        "answers": [
+            "Sarah Marinda Bates Pratt"
+        ]
+    },
+    {
+        "question": "Karin Hardt is married to [mask].",
+        "answers": [
+            "Rolf von Goth",
+            "Erich Waschneck"
+        ]
+    },
+    {
+        "question": "Noble Lady Shun is married to [mask].",
+        "answers": [
+            "Qianlong Emperor"
+        ]
+    },
+    {
+        "question": "Edwin Edwards is married to [mask].",
+        "answers": [
+            "Elaine Schwartzenburg Edwards"
+        ]
+    },
+    {
+        "question": "Valeria is married to [mask].",
+        "answers": [
+            "Lucius Cornelius Sulla"
+        ]
+    },
+    {
+        "question": "Emperor Konoe is married to [mask].",
+        "answers": [
+            "Fujiwara no Tashi",
+            "Fujiwara no Shimeko"
+        ]
+    },
+    {
+        "question": "Lady Cynthia Mosley is married to [mask].",
+        "answers": [
+            "Oswald Mosley"
+        ]
+    },
+    {
+        "question": "Sagarika Ghose is married to [mask].",
+        "answers": [
+            "Rajdeep Sardesai"
+        ]
+    },
+    {
+        "question": "James George Scott is married to [mask].",
+        "answers": [
+            "Geraldine Mitton"
+        ]
+    },
+    {
+        "question": "Atia is married to [mask].",
+        "answers": [
+            "Lucius Marcius Philippus"
+        ]
+    },
+    {
+        "question": "George Szekeres is married to [mask].",
+        "answers": [
+            "Esther Szekeres"
+        ]
+    },
+    {
+        "question": "Princess Antonia of Luxembourg is married to [mask].",
+        "answers": [
+            "Rupprecht, Crown Prince of Bavaria"
+        ]
+    },
+    {
+        "question": "Ant\u00f4nio Pitanga is married to [mask].",
+        "answers": [
+            "Benedita da Silva"
+        ]
+    },
+    {
+        "question": "Hedvig Eleonora of Holstein-Gottorp is married to [mask].",
+        "answers": [
+            "Charles X Gustav of Sweden"
+        ]
+    },
+    {
+        "question": "Edna Manley is married to [mask].",
+        "answers": [
+            "Norman Manley"
+        ]
+    },
+    {
+        "question": "Dhruvadevi is married to [mask].",
+        "answers": [
+            "Ramagupta",
+            "Chandragupta II"
+        ]
+    },
+    {
+        "question": "Clark Gable is married to [mask].",
+        "answers": [
+            "Josephine Dillon",
+            "Sylvia Ashley",
+            "Carole Lombard"
+        ]
+    },
+    {
+        "question": "Iah is married to [mask].",
+        "answers": [
+            "Intef III"
+        ]
+    },
+    {
+        "question": "Leo Marks is married to [mask].",
+        "answers": [
+            "Elena Gaussen"
+        ]
+    },
+    {
+        "question": "Leon Golub is married to [mask].",
+        "answers": [
+            "Nancy Spero"
+        ]
+    },
+    {
+        "question": "Tom Horton is married to [mask].",
+        "answers": [
+            "Alice Horton"
+        ]
+    },
+    {
+        "question": "Murong De is married to [mask].",
+        "answers": [
+            "Empress Duan Jifei"
+        ]
+    },
+    {
+        "question": "Charles Sutherland Elton is married to [mask].",
+        "answers": [
+            "E. J. Scovell"
+        ]
+    },
+    {
+        "question": "Elin Nordegren is married to [mask].",
+        "answers": [
+            "Tiger Woods"
+        ]
+    },
+    {
+        "question": "Henriette Pauss is married to [mask].",
+        "answers": [
+            "Bernhard Pauss"
+        ]
+    },
+    {
+        "question": "Larisa Trembovler is married to [mask].",
+        "answers": [
+            "Yigal Amir"
+        ]
+    },
+    {
+        "question": "Abigail is married to [mask].",
+        "answers": [
+            "David",
+            "Nabal"
+        ]
+    },
+    {
+        "question": "John R. Reilly is married to [mask].",
+        "answers": [
+            "Margaret Warner"
+        ]
+    },
+    {
+        "question": "Hassa bint Ahmed Al Sudairi is married to [mask].",
+        "answers": [
+            "Ibn Saud"
+        ]
+    },
+    {
+        "question": "Mark Rosenberg is married to [mask].",
+        "answers": [
+            "Paula Weinstein"
+        ]
+    },
+    {
+        "question": "Marcian is married to [mask].",
+        "answers": [
+            "Pulcheria"
+        ]
+    },
+    {
+        "question": "Shu Qi is married to [mask].",
+        "answers": [
+            "Stephen Fung"
+        ]
+    },
+    {
+        "question": "Freddy Moore is married to [mask].",
+        "answers": [
+            "Demi Moore"
+        ]
+    },
+    {
+        "question": "Ryan Phillippe is married to [mask].",
+        "answers": [
+            "Reese Witherspoon"
+        ]
+    },
+    {
+        "question": "Geraldine Brooks is married to [mask].",
+        "answers": [
+            "Budd Schulberg"
+        ]
+    },
+    {
+        "question": "Bharathi Vishnuvardhan is married to [mask].",
+        "answers": [
+            "Vishnuvardhan"
+        ]
+    },
+    {
+        "question": "Carlotta Grisi is married to [mask].",
+        "answers": [
+            "Jules Perrot"
+        ]
+    },
+    {
+        "question": "Fiorella Kostoris is married to [mask].",
+        "answers": [
+            "Tommaso Padoa-Schioppa"
+        ]
+    },
+    {
+        "question": "Sande Zeig is married to [mask].",
+        "answers": [
+            "Monique Wittig"
+        ]
+    },
+    {
+        "question": "Alfred Janson is married to [mask].",
+        "answers": [
+            "Grynet Molvig"
+        ]
+    },
+    {
+        "question": "Barbara Bennett is married to [mask].",
+        "answers": [
+            "Morton Downey"
+        ]
+    },
+    {
+        "question": "Lynn Bari is married to [mask].",
+        "answers": [
+            "Sidney Luft"
+        ]
+    },
+    {
+        "question": "John Diefenbaker is married to [mask].",
+        "answers": [
+            "Edna Diefenbaker",
+            "Olive Diefenbaker"
+        ]
+    },
+    {
+        "question": "Talitha Getty is married to [mask].",
+        "answers": [
+            "John Paul Getty Jr."
+        ]
+    },
+    {
+        "question": "Fredrik Reinfeldt is married to [mask].",
+        "answers": [
+            "Filippa Reinfeldt"
+        ]
+    },
+    {
+        "question": "Yumi Matsutoya is married to [mask].",
+        "answers": [
+            "Masataka Matsutoya"
+        ]
+    },
+    {
+        "question": "Melissa Stribling is married to [mask].",
+        "answers": [
+            "Basil Dearden"
+        ]
+    },
+    {
+        "question": "Helena Lekapene is married to [mask].",
+        "answers": [
+            "Constantine VII"
+        ]
+    },
+    {
+        "question": "Azlan Shah of Perak is married to [mask].",
+        "answers": [
+            "Tuanku Bainun"
+        ]
+    },
+    {
+        "question": "Raghu Ram is married to [mask].",
+        "answers": [
+            "Sugandha Garg"
+        ]
+    },
+    {
+        "question": "Gaius Caesar is married to [mask].",
+        "answers": [
+            "Livilla"
+        ]
+    },
+    {
+        "question": "Eudoxia Streshneva is married to [mask].",
+        "answers": [
+            "Michael I of Russia"
+        ]
+    },
+    {
+        "question": "Millie Perkins is married to [mask].",
+        "answers": [
+            "Robert Thom"
+        ]
+    },
+    {
+        "question": "Imperial Noble Consort Gongshun is married to [mask].",
+        "answers": [
+            "Jiaqing Emperor"
+        ]
+    },
+    {
+        "question": "Anne Rice is married to [mask].",
+        "answers": [
+            "Stan Rice"
+        ]
+    },
+    {
+        "question": "Jenny Platt is married to [mask].",
+        "answers": [
+            "Rupert Hill"
+        ]
+    },
+    {
+        "question": "Lloyd Kaufman is married to [mask].",
+        "answers": [
+            "Pat Swinney Kaufman"
+        ]
+    },
+    {
+        "question": "Bob Dylan is married to [mask].",
+        "answers": [
+            "Carolyn Dennis",
+            "Sara Dylan"
+        ]
+    },
+    {
+        "question": "Wilfried Seyferth is married to [mask].",
+        "answers": [
+            "Eva Ingeborg Scholz"
+        ]
+    },
+    {
+        "question": "Maria Dyer is married to [mask].",
+        "answers": [
+            "Samuel Dyer"
+        ]
+    },
+    {
+        "question": "Karomama A is married to [mask].",
+        "answers": [
+            "Shoshenq I"
+        ]
+    },
+    {
+        "question": "Haleh Esfandiari is married to [mask].",
+        "answers": [
+            "Shaul Bakhash"
+        ]
+    },
+    {
+        "question": "Michael Ondaatje is married to [mask].",
+        "answers": [
+            "Linda Spalding"
+        ]
+    },
+    {
+        "question": "Queen Janggyeong is married to [mask].",
+        "answers": [
+            "Jungjong of Joseon"
+        ]
+    },
+    {
+        "question": "Grant Withers is married to [mask].",
+        "answers": [
+            "Loretta Young"
+        ]
+    },
+    {
+        "question": "Chaim Weizmann is married to [mask].",
+        "answers": [
+            "Vera Weizmann"
+        ]
+    },
+    {
+        "question": "Adela of Meissen is married to [mask].",
+        "answers": [
+            "Sweyn III of Denmark"
+        ]
+    },
+    {
+        "question": "Cevherriz Han\u0131mefendi is married to [mask].",
+        "answers": [
+            "Murad V"
+        ]
+    },
+    {
+        "question": "Ruth Dayan is married to [mask].",
+        "answers": [
+            "Moshe Dayan"
+        ]
+    },
+    {
+        "question": "Djamaluddin Malik is married to [mask].",
+        "answers": [
+            "Elly Yunara"
+        ]
+    },
+    {
+        "question": "Miss Elizabeth is married to [mask].",
+        "answers": [
+            "Randy Savage"
+        ]
+    },
+    {
+        "question": "Cao Pi is married to [mask].",
+        "answers": [
+            "Guo N\u00fcwang",
+            "Lady Zhen"
+        ]
+    },
+    {
+        "question": "Rusudan of Circassia is married to [mask].",
+        "answers": [
+            "Vakhtang VI of Kartli"
+        ]
+    },
+    {
+        "question": "Claudia Cardinale is married to [mask].",
+        "answers": [
+            "Franco Cristaldi"
+        ]
+    },
+    {
+        "question": "Sharon Prabhakar is married to [mask].",
+        "answers": [
+            "Alyque Padamsee"
+        ]
+    },
+    {
+        "question": "Jed Whedon is married to [mask].",
+        "answers": [
+            "Maurissa Tancharoen"
+        ]
+    },
+    {
+        "question": "Empress Yifu is married to [mask].",
+        "answers": [
+            "Emperor Wen of Western Wei"
+        ]
+    },
+    {
+        "question": "Shaleen Bhanot is married to [mask].",
+        "answers": [
+            "Daljeet Kaur Bhanot"
+        ]
+    },
+    {
+        "question": "Robert Daws is married to [mask].",
+        "answers": [
+            "Amy Robbins"
+        ]
+    },
+    {
+        "question": "Fernand Sardou is married to [mask].",
+        "answers": [
+            "Jackie Sardou"
+        ]
+    },
+    {
+        "question": "Katie Koczynski is married to [mask].",
+        "answers": [
+            "Bill Demong"
+        ]
+    },
+    {
+        "question": "Jack Dromey is married to [mask].",
+        "answers": [
+            "Harriet Harman"
+        ]
+    },
+    {
+        "question": "Joan of The Tower is married to [mask].",
+        "answers": [
+            "David II of Scotland"
+        ]
+    },
+    {
+        "question": "Mamie Van Doren is married to [mask].",
+        "answers": [
+            "Ray Anthony"
+        ]
+    },
+    {
+        "question": "Glen Retief is married to [mask].",
+        "answers": [
+            "Peterson Toscano"
+        ]
+    },
+    {
+        "question": "Stanley LeFevre Krebs is married to [mask].",
+        "answers": [
+            "Marjorie Main"
+        ]
+    },
+    {
+        "question": "Edith Roosevelt is married to [mask].",
+        "answers": [
+            "Theodore Roosevelt"
+        ]
+    },
+    {
+        "question": "Cynane is married to [mask].",
+        "answers": [
+            "Amyntas IV of Macedon"
+        ]
+    },
+    {
+        "question": "Brian Austin Green is married to [mask].",
+        "answers": [
+            "Megan Fox"
+        ]
+    },
+    {
+        "question": "Lady Xuanhua is married to [mask].",
+        "answers": [
+            "Emperor Wen of Sui"
+        ]
+    },
+    {
+        "question": "Cornelia the Younger is married to [mask].",
+        "answers": [
+            "Julius Caesar"
+        ]
+    },
+    {
+        "question": "David Bordwell is married to [mask].",
+        "answers": [
+            "Kristin Thompson"
+        ]
+    },
+    {
+        "question": "Cosima Wagner is married to [mask].",
+        "answers": [
+            "Richard Wagner",
+            "Hans von B\u00fclow"
+        ]
+    },
+    {
+        "question": "Collier Young is married to [mask].",
+        "answers": [
+            "Joan Fontaine",
+            "Ida Lupino"
+        ]
+    },
+    {
+        "question": "DJ Gina Turner is married to [mask].",
+        "answers": [
+            "Laidback Luke"
+        ]
+    },
+    {
+        "question": "Nikolai Burlyayev is married to [mask].",
+        "answers": [
+            "Natalya Bondarchuk"
+        ]
+    },
+    {
+        "question": "John Justin is married to [mask].",
+        "answers": [
+            "Barbara Murray"
+        ]
+    },
+    {
+        "question": "Vera de Bosset is married to [mask].",
+        "answers": [
+            "Igor Stravinsky"
+        ]
+    },
+    {
+        "question": "Prince Friso of Orange-Nassau is married to [mask].",
+        "answers": [
+            "Princess Mabel of Orange-Nassau"
+        ]
+    },
+    {
+        "question": "David Peck Todd is married to [mask].",
+        "answers": [
+            "Mabel Loomis Todd"
+        ]
+    },
+    {
+        "question": "Delia Smith is married to [mask].",
+        "answers": [
+            "Michael Wynn-Jones"
+        ]
+    },
+    {
+        "question": "Carole Lombard is married to [mask].",
+        "answers": [
+            "Clark Gable",
+            "William Powell"
+        ]
+    },
+    {
+        "question": "Marshall Neilan is married to [mask].",
+        "answers": [
+            "Blanche Sweet"
+        ]
+    },
+    {
+        "question": "Steven Price is married to [mask].",
+        "answers": [
+            "Esi Edugyan"
+        ]
+    },
+    {
+        "question": "Ellaline Terriss is married to [mask].",
+        "answers": [
+            "Seymour Hicks"
+        ]
+    },
+    {
+        "question": "Jon Rubinstein is married to [mask].",
+        "answers": [
+            "Karen Richardson"
+        ]
+    },
+    {
+        "question": "Harry Fowler is married to [mask].",
+        "answers": [
+            "Joan Dowling"
+        ]
+    },
+    {
+        "question": "Gustaf V of Sweden is married to [mask].",
+        "answers": [
+            "Victoria of Baden"
+        ]
+    },
+    {
+        "question": "Alexander Gennadiyevich Zaitsev is married to [mask].",
+        "answers": [
+            "Irina Rodnina"
+        ]
+    },
+    {
+        "question": "Gloria Stivic is married to [mask].",
+        "answers": [
+            "Michael Stivic"
+        ]
+    },
+    {
+        "question": "Joseph Edward Mayer is married to [mask].",
+        "answers": [
+            "Maria Goeppert Mayer"
+        ]
+    },
+    {
+        "question": "Augustus is married to [mask].",
+        "answers": [
+            "Livia",
+            "Scribonia"
+        ]
+    },
+    {
+        "question": "Pierre Alcover is married to [mask].",
+        "answers": [
+            "Gabrielle Colonna-Romano"
+        ]
+    },
+    {
+        "question": "Lady Randolph Churchill is married to [mask].",
+        "answers": [
+            "Lord Randolph Churchill",
+            "George Cornwallis-West"
+        ]
+    },
+    {
+        "question": "Ambalika is married to [mask].",
+        "answers": [
+            "Vichitravirya"
+        ]
+    },
+    {
+        "question": "Nikephoros Bryennios the Younger is married to [mask].",
+        "answers": [
+            "Anna Komnene"
+        ]
+    },
+    {
+        "question": "Fran Myers is married to [mask].",
+        "answers": [
+            "Roger Newman"
+        ]
+    },
+    {
+        "question": "Betty Ford is married to [mask].",
+        "answers": [
+            "Gerald Ford"
+        ]
+    },
+    {
+        "question": "Saraswathi Gora is married to [mask].",
+        "answers": [
+            "Goparaju Ramachandra Rao"
+        ]
+    },
+    {
+        "question": "Phyllis Seckler is married to [mask].",
+        "answers": [
+            "Grady Louis McMurtry"
+        ]
+    },
+    {
+        "question": "Henry Browne Blackwell is married to [mask].",
+        "answers": [
+            "Lucy Stone"
+        ]
+    },
+    {
+        "question": "George XII of Georgia is married to [mask].",
+        "answers": [
+            "Mariam Tsitsishvili"
+        ]
+    },
+    {
+        "question": "Amanda Palmer is married to [mask].",
+        "answers": [
+            "Neil Gaiman"
+        ]
+    },
+    {
+        "question": "Neferu II is married to [mask].",
+        "answers": [
+            "Mentuhotep II"
+        ]
+    },
+    {
+        "question": "Harry James is married to [mask].",
+        "answers": [
+            "Betty Grable"
+        ]
+    },
+    {
+        "question": "John Simm is married to [mask].",
+        "answers": [
+            "Kate Magowan"
+        ]
+    },
+    {
+        "question": "Bobby Russell is married to [mask].",
+        "answers": [
+            "Vicki Lawrence"
+        ]
+    },
+    {
+        "question": "Carolyn Cassady is married to [mask].",
+        "answers": [
+            "Neal Cassady"
+        ]
+    },
+    {
+        "question": "Daniel C. Esty is married to [mask].",
+        "answers": [
+            "Elizabeth Esty"
+        ]
+    },
+    {
+        "question": "Gordon Jackson is married to [mask].",
+        "answers": [
+            "Rona Anderson"
+        ]
+    },
+    {
+        "question": "Melora Harte is married to [mask].",
+        "answers": [
+            "Steve Kramer"
+        ]
+    },
+    {
+        "question": "Iffat Al-Thunayan is married to [mask].",
+        "answers": [
+            "Faisal of Saudi Arabia"
+        ]
+    },
+    {
+        "question": "Harrison Grey Fiske is married to [mask].",
+        "answers": [
+            "Minnie Maddern Fiske"
+        ]
+    },
+    {
+        "question": "Sheri Moon Zombie is married to [mask].",
+        "answers": [
+            "Rob Zombie"
+        ]
+    },
+    {
+        "question": "Brady Smith is married to [mask].",
+        "answers": [
+            "Tiffani Thiessen"
+        ]
+    },
+    {
+        "question": "Dorothy Stratten is married to [mask].",
+        "answers": [
+            "Paul Snider"
+        ]
+    },
+    {
+        "question": "Jackie Burroughs is married to [mask].",
+        "answers": [
+            "Zal Yanovsky"
+        ]
+    },
+    {
+        "question": "Maria of the Palatinate-Simmern is married to [mask].",
+        "answers": [
+            "Charles IX of Sweden"
+        ]
+    },
+    {
+        "question": "Mariam of Vaspurakan is married to [mask].",
+        "answers": [
+            "George I of Georgia"
+        ]
+    },
+    {
+        "question": "Gustavo Alatriste is married to [mask].",
+        "answers": [
+            "Ariadna Welter",
+            "Silvia Pinal"
+        ]
+    },
+    {
+        "question": "Amanda Hesser is married to [mask].",
+        "answers": [
+            "Tad Friend"
+        ]
+    },
+    {
+        "question": "Carole Crist is married to [mask].",
+        "answers": [
+            "Charlie Crist"
+        ]
+    },
+    {
+        "question": "Elizabeth le Despenser is married to [mask].",
+        "answers": [
+            "John FitzAlan, 2nd Baron Arundel"
+        ]
+    },
+    {
+        "question": "Basil Dearden is married to [mask].",
+        "answers": [
+            "Melissa Stribling"
+        ]
+    },
+    {
+        "question": "William Clito is married to [mask].",
+        "answers": [
+            "Sibylla of Anjou"
+        ]
+    },
+    {
+        "question": "Marion Marshall is married to [mask].",
+        "answers": [
+            "Robert Wagner",
+            "Stanley Donen"
+        ]
+    },
+    {
+        "question": "Lucretia is married to [mask].",
+        "answers": [
+            "Lucius Tarquinius Collatinus"
+        ]
+    },
+    {
+        "question": "Parvati is married to [mask].",
+        "answers": [
+            "Shiva"
+        ]
+    },
+    {
+        "question": "Kathleen Supov\u00e9 is married to [mask].",
+        "answers": [
+            "Randall Woolf"
+        ]
+    },
+    {
+        "question": "Arnold Burgen is married to [mask].",
+        "answers": [
+            "Olga Kennard"
+        ]
+    },
+    {
+        "question": "Jack Cassidy is married to [mask].",
+        "answers": [
+            "Shirley Jones"
+        ]
+    },
+    {
+        "question": "Nancy Bauer is married to [mask].",
+        "answers": [
+            "Bill Bauer"
+        ]
+    },
+    {
+        "question": "Edmond de Talleyrand-P\u00e9rigord is married to [mask].",
+        "answers": [
+            "Princess Dorothea of Courland"
+        ]
+    },
+    {
+        "question": "Kathryn Harrison is married to [mask].",
+        "answers": [
+            "Colin Harrison"
+        ]
+    },
+    {
+        "question": "Barbara Sidney, Countess of Leicester is married to [mask].",
+        "answers": [
+            "Robert Sidney, 1st Earl of Leicester"
+        ]
+    },
+    {
+        "question": "Twosret is married to [mask].",
+        "answers": [
+            "Seti II"
+        ]
+    },
+    {
+        "question": "Louis Gonzaga is married to [mask].",
+        "answers": [
+            "Henriette of Cleves"
+        ]
+    },
+    {
+        "question": "Brad Paisley is married to [mask].",
+        "answers": [
+            "Kimberly Williams-Paisley"
+        ]
+    },
+    {
+        "question": "Hajime Mizoguchi is married to [mask].",
+        "answers": [
+            "Yoko Kanno"
+        ]
+    },
+    {
+        "question": "Spider-man is married to [mask].",
+        "answers": [
+            "Mary Jane Watson"
+        ]
+    },
+    {
+        "question": "Muhammad Ali Jinnah is married to [mask].",
+        "answers": [
+            "Rattanbai Jinnah"
+        ]
+    },
+    {
+        "question": "Milosh is married to [mask].",
+        "answers": [
+            "Alexa Nikolas"
+        ]
+    },
+    {
+        "question": "Sarah Childress Polk is married to [mask].",
+        "answers": [
+            "James K. Polk"
+        ]
+    },
+    {
+        "question": "Marcela Vacarezza is married to [mask].",
+        "answers": [
+            "Rafael Araneda"
+        ]
+    },
+    {
+        "question": "Tachibana no Kachiko is married to [mask].",
+        "answers": [
+            "Emperor Saga"
+        ]
+    },
+    {
+        "question": "Blanche Barton is married to [mask].",
+        "answers": [
+            "Anton LaVey"
+        ]
+    },
+    {
+        "question": "Tina Fey is married to [mask].",
+        "answers": [
+            "Jeff Richmond"
+        ]
+    },
+    {
+        "question": "Chelsea Noble is married to [mask].",
+        "answers": [
+            "Kirk Cameron"
+        ]
+    },
+    {
+        "question": "John Franklin is married to [mask].",
+        "answers": [
+            "Jane Franklin"
+        ]
+    },
+    {
+        "question": "Freada Kapor Klein is married to [mask].",
+        "answers": [
+            "Mitch Kapor"
+        ]
+    },
+    {
+        "question": "Betsy Drake is married to [mask].",
+        "answers": [
+            "Cary Grant"
+        ]
+    },
+    {
+        "question": "Jean-Marc Germain is married to [mask].",
+        "answers": [
+            "Anne Hidalgo"
+        ]
+    },
+    {
+        "question": "Louis Frederick I, Prince of Schwarzburg-Rudolstadt is married to [mask].",
+        "answers": [
+            "Anna Sophie of Saxe-Gotha-Altenburg"
+        ]
+    },
+    {
+        "question": "Iryna Khalip is married to [mask].",
+        "answers": [
+            "Andrei Sannikov"
+        ]
+    },
+    {
+        "question": "Merlyn Mantle is married to [mask].",
+        "answers": [
+            "Mickey Mantle"
+        ]
+    },
+    {
+        "question": "Henry Morgentaler is married to [mask].",
+        "answers": [
+            "Chava Rosenfarb"
+        ]
+    },
+    {
+        "question": "Paul Anka is married to [mask].",
+        "answers": [
+            "Anna Anka"
+        ]
+    },
+    {
+        "question": "Errikos Kontarinis is married to [mask].",
+        "answers": [
+            "Marika Nezer"
+        ]
+    },
+    {
+        "question": "Zwentibold is married to [mask].",
+        "answers": [
+            "Oda of Saxony"
+        ]
+    },
+    {
+        "question": "Maria Pacolli is married to [mask].",
+        "answers": [
+            "Behgjet Pacolli"
+        ]
+    },
+    {
+        "question": "Ernest I, Duke of Saxe-Coburg and Gotha is married to [mask].",
+        "answers": [
+            "Duchess Marie of W\u00fcrttemberg"
+        ]
+    },
+    {
+        "question": "Mali Harries is married to [mask].",
+        "answers": [
+            "Matthew Gravelle"
+        ]
+    },
+    {
+        "question": "Friedrich III of Germany is married to [mask].",
+        "answers": [
+            "Victoria, Princess Royal"
+        ]
+    },
+    {
+        "question": "Sharon Johnston is married to [mask].",
+        "answers": [
+            "David Johnston"
+        ]
+    },
+    {
+        "question": "Elizabeth Cromwell is married to [mask].",
+        "answers": [
+            "Oliver Cromwell"
+        ]
+    },
+    {
+        "question": "Michael Gill is married to [mask].",
+        "answers": [
+            "Yvonne Gilan"
+        ]
+    },
+    {
+        "question": "Margo Johns is married to [mask].",
+        "answers": [
+            "William Franklyn"
+        ]
+    },
+    {
+        "question": "Princess Li Jingshou is married to [mask].",
+        "answers": [
+            "Juqu Mujian"
+        ]
+    },
+    {
+        "question": "Dorothy Stickney is married to [mask].",
+        "answers": [
+            "Howard Lindsay"
+        ]
+    },
+    {
+        "question": "Ian Hallard is married to [mask].",
+        "answers": [
+            "Mark Gatiss"
+        ]
+    },
+    {
+        "question": "Sophia Magdalena of Denmark is married to [mask].",
+        "answers": [
+            "Gustav III of Sweden"
+        ]
+    },
+    {
+        "question": "Emperor Shirakawa is married to [mask].",
+        "answers": [
+            "Fujiwara no Kenshi"
+        ]
+    },
+    {
+        "question": "Alice Bradley Sheldon is married to [mask].",
+        "answers": [
+            "Huntington D. Sheldon"
+        ]
+    },
+    {
+        "question": "Emperor Wen of Liu Song is married to [mask].",
+        "answers": [
+            "Empress Dowager Lu Huinan"
+        ]
+    },
+    {
+        "question": "Euphrosyne Doukaina Kamatera is married to [mask].",
+        "answers": [
+            "Alexios III Angelos"
+        ]
+    },
+    {
+        "question": "Nuk\u00e2ka Coster-Waldau is married to [mask].",
+        "answers": [
+            "Nikolaj Coster-Waldau"
+        ]
+    },
+    {
+        "question": "Ginny Fiennes is married to [mask].",
+        "answers": [
+            "Ranulph Fiennes"
+        ]
+    },
+    {
+        "question": "Charles Fillmore is married to [mask].",
+        "answers": [
+            "Myrtle Fillmore"
+        ]
+    },
+    {
+        "question": "Randhir Kapoor is married to [mask].",
+        "answers": [
+            "Babita"
+        ]
+    },
+    {
+        "question": "Princess Fengyi is married to [mask].",
+        "answers": [
+            "Gao Cheng"
+        ]
+    },
+    {
+        "question": "Miles Davis is married to [mask].",
+        "answers": [
+            "Cicely Tyson"
+        ]
+    },
+    {
+        "question": "Deepak Balraj Vij is married to [mask].",
+        "answers": [
+            "Kishori Shahane"
+        ]
+    },
+    {
+        "question": "Jean Erdman is married to [mask].",
+        "answers": [
+            "Joseph Campbell"
+        ]
+    },
+    {
+        "question": "Gregoria de Jes\u00fas is married to [mask].",
+        "answers": [
+            "Julio Nakpil"
+        ]
+    },
+    {
+        "question": "William Asher is married to [mask].",
+        "answers": [
+            "Elizabeth Montgomery"
+        ]
+    },
+    {
+        "question": "John William Waterhouse is married to [mask].",
+        "answers": [
+            "Esther Kenworthy Waterhouse"
+        ]
+    },
+    {
+        "question": "Yuka Sait\u014d is married to [mask].",
+        "answers": [
+            "Takeshi Kusao"
+        ]
+    },
+    {
+        "question": "Alexios III Angelos is married to [mask].",
+        "answers": [
+            "Euphrosyne Doukaina Kamatera"
+        ]
+    },
+    {
+        "question": "Christopher Pratt is married to [mask].",
+        "answers": [
+            "Mary Pratt"
+        ]
+    },
+    {
+        "question": "Yasir Nawaz is married to [mask].",
+        "answers": [
+            "Nida Yasir"
+        ]
+    },
+    {
+        "question": "Isadore Goldsmith is married to [mask].",
+        "answers": [
+            "Vera Caspary"
+        ]
+    },
+    {
+        "question": "William Faversham is married to [mask].",
+        "answers": [
+            "Julie Opp"
+        ]
+    },
+    {
+        "question": "Marshall Eriksen is married to [mask].",
+        "answers": [
+            "Lily Aldrin"
+        ]
+    },
+    {
+        "question": "Abbey Bartlet is married to [mask].",
+        "answers": [
+            "Josiah Bartlet"
+        ]
+    },
+    {
+        "question": "Consort Qi (Qing Dynasty) is married to [mask].",
+        "answers": [
+            "Yongzheng Emperor"
+        ]
+    },
+    {
+        "question": "Henry Schoolcraft is married to [mask].",
+        "answers": [
+            "Jane Johnston Schoolcraft"
+        ]
+    },
+    {
+        "question": "Ad-Rock is married to [mask].",
+        "answers": [
+            "Kathleen Hanna"
+        ]
+    },
+    {
+        "question": "Rosal\u00eda Mera is married to [mask].",
+        "answers": [
+            "Amancio Ortega"
+        ]
+    },
+    {
+        "question": "Robert Blake is married to [mask].",
+        "answers": [
+            "Bonnie Lee Bakley"
+        ]
+    },
+    {
+        "question": "Leopold Mozart is married to [mask].",
+        "answers": [
+            "Anna Maria Mozart"
+        ]
+    },
+    {
+        "question": "Luke Bullen is married to [mask].",
+        "answers": [
+            "KT Tunstall"
+        ]
+    },
+    {
+        "question": "Leon de Winter is married to [mask].",
+        "answers": [
+            "Jessica Durlacher"
+        ]
+    },
+    {
+        "question": "Kunal Khemu is married to [mask].",
+        "answers": [
+            "Soha Ali Khan"
+        ]
+    },
+    {
+        "question": "Alice Barnham is married to [mask].",
+        "answers": [
+            "Francis Bacon"
+        ]
+    },
+    {
+        "question": "Han Hye-jin is married to [mask].",
+        "answers": [
+            "Ki Sung-yueng"
+        ]
+    },
+    {
+        "question": "Jan Waters is married to [mask].",
+        "answers": [
+            "Peter Gilmore"
+        ]
+    },
+    {
+        "question": "Bakaffa is married to [mask].",
+        "answers": [
+            "Mentewab"
+        ]
+    },
+    {
+        "question": "Jaime Chik is married to [mask].",
+        "answers": [
+            "Michael Miu"
+        ]
+    },
+    {
+        "question": "Hipparete is married to [mask].",
+        "answers": [
+            "Alcibiades"
+        ]
+    },
+    {
+        "question": "Shashi Kapoor is married to [mask].",
+        "answers": [
+            "Jennifer Kendal"
+        ]
+    },
+    {
+        "question": "Tom Troscianko is married to [mask].",
+        "answers": [
+            "Susan Blackmore"
+        ]
+    },
+    {
+        "question": "Alexander Hamilton is married to [mask].",
+        "answers": [
+            "Elizabeth Schuyler Hamilton"
+        ]
+    }
+]
