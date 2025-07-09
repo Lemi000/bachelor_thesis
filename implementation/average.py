@@ -1,6 +1,7 @@
 import json
 from bert_score import BERTScorer
 
+#make json file with top 2 probable predictions with averaged out probability from json file with sampled predictions 
 def average(num, path):
     scorer = BERTScorer(model_type='bert-base-uncased')
     with open(f'outputs/P{num}.{path}.sample.x.json', mode='r', encoding='utf-8') as input_file:

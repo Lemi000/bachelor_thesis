@@ -50,6 +50,7 @@ with open(f'evaluation/P{num}.{path}.json', mode='r', encoding='utf-8') as input
     plt.show()'''
 
 
+#make list with guess1 and list with guess2 for all 4 models
 with open(f'evaluation/P{num}.llama_32_3b.x.json', mode='r', encoding='utf-8') as l3b_file, open(f'evaluation/P{num}.llama_31_8b.x.json', mode='r', encoding='utf-8') as l8b_file, open(f'evaluation/P{num}.llama_31_70b.x.json', mode='r', encoding='utf-8') as l70b_file, open(f'evaluation/P{num}.llama_31_405b.x.json', mode='r', encoding='utf-8') as l405b_file:
     l3b = json.load(l3b_file)
     l8b = json.load(l8b_file)

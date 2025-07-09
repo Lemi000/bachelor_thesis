@@ -2,6 +2,7 @@ import json
 from bert_score import BERTScorer
 
 
+#find prdictions exactly same as answer
 def exactMatch(num, path):
     with open(f'outputs/P{num}.{path}.top2.json', mode='r', encoding='utf-8') as input_file:
         input_data = json.load(input_file)
@@ -27,6 +28,7 @@ def exactMatch(num, path):
         print(f"Final result\nguess1: {first}\nguess2: {second}")
 
 
+#find predcitons which have same words in answers or the other way around
 def wordsInWords(num, path):
     with open(f'outputs/P{num}.{path}.top2.json', mode='r', encoding='utf-8') as input_file:
         input_data = json.load(input_file)
@@ -54,6 +56,7 @@ def wordsInWords(num, path):
         print(f"Final result\nguess1: {first}\nguess2: {second}")
 
 
+#make json file with BERTScore for each top 2 predictions
 def bertscore(num, path):
     scorer = BERTScorer(model_type='bert-base-uncased')
     with open(f'outputs/P{num}.{path}.top2.json', mode='r', encoding='utf-8') as input_file:

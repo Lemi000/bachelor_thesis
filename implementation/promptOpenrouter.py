@@ -30,6 +30,7 @@ def response(question, model_name):
     )
     return completion'''
 
+#get response from LM
 def response(question, model_name):
     url = "https://openrouter.ai/api/v1/chat/completions"
     headers = {"Authorization": f"Bearer {api_key}"}
@@ -49,6 +50,7 @@ def response(question, model_name):
     return requests.post(url, headers=headers, json=data).json()
 
 
+#get logprobe
 def probability(completion):
     logprob_total=0.
     for i, logprob in enumerate(completion['choices'][0]['logprobs']['content']):
@@ -63,6 +65,7 @@ print(completion)
 #print(probability(completion))
 '''
 
+#make json file with 10 predictions for each question
 def sample(num, model_name, path):
     with open(f'dataset/test/P{num}.test.filter.x.json', mode='r', encoding='utf-8') as input_file:
         with open(f'outputs/P{num}.{path}.sample.x.json', mode='w', encoding='utf-8') as output_file:
