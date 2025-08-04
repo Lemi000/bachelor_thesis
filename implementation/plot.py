@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import json
 
-num = 26
+num = 264
 
 #makes csv file with precision, recall and f1 for both 2 guesses
 '''
@@ -109,17 +109,18 @@ def top2Plot():
 
 
 #bar plots of guess1 and guess2 with f1 bertscore >=0.8
-def freqPlot():
+def ratePlot():
     count = []
     for x in model_list:
         x = list(filter(lambda y: y is not None and y >= 0.8, x))
-        count.append(len(x))
+        count.append(len(x)/50)
 
     plt.bar(model_name_list, count, color = ['red', 'red', 'orange', 'orange', 'green', 'green', 'blue', 'blue'])
-    plt.title(f"P{num}; Frequency of Predictions with BERTScore F1 ≥ 0.8 in QA Format")
+    plt.title(f"P{num}; BERTScore F1 ≥ 0.8 Prediction Rate in QA Format")
     plt.xlabel("Model Name")
-    plt.ylabel("Frequency")
-    plt.savefig(f'plot/freq/P{num}.x.png', dpi=300)
+    plt.ylabel("Proportion of Predictions")
+    plt.ylim(0,0.8)
+    plt.savefig(f'plot/rate/P{num}.x.png', dpi=300)
 
 
 #bar plot on the number of f1 >=0.8 of guess1 depending on the gap of probabilities between guess1 and guess2
@@ -182,6 +183,6 @@ def gapPlot():
     plt.ylabel("Proportion of Predictions (F1 ≥ 0.8)")
     plt.savefig(f'plot/gap/P{num}.llama_31_405b.png', dpi=300)
 
-top2Plot()
-#freqPlot()
+#top2Plot()
+#ratePlot()
 #gapPlot()
