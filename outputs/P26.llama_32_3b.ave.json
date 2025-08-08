@@ -1,0 +1,1990 @@
+[
+    {
+        "question": "Gwladys is married to [mask].",
+        "answer": "Gwynllyw",
+        "guesses": [
+            {
+                "guess": "John.",
+                "probability": 0.2474
+            },
+            {
+                "guess": "John",
+                "probability": 0.2117
+            },
+            {
+                "guess": "a man",
+                "probability": 0.0795
+            },
+            {
+                "guess": "Walter",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "Se\u00e1n Gleeson is married to [mask].",
+        "answer": "Stirling Gallacher",
+        "guesses": [
+            {
+                "guess": "no information",
+                "probability": 0.0148
+            },
+            {
+                "guess": "none",
+                "probability": 0.0143
+            },
+            {
+                "guess": "Lorcan",
+                "probability": 0.0022
+            },
+            {
+                "guess": "Irish actress Phyll",
+                "probability": 0.0008
+            },
+            {
+                "guess": "Chlo\u00eb Pirrie",
+                "probability": 0.0003
+            },
+            {
+                "guess": "No information is provided,",
+                "probability": 0.0002
+            },
+            {
+                "guess": "n\u00e9e Keenan",
+                "probability": 0.0001
+            },
+            {
+                "guess": "Sister",
+                "probability": 0.0
+            },
+            {
+                "guess": "Diarmuid \u00d3",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "Annette Vadim is married to [mask].",
+        "answer": "Roger Vadim",
+        "guesses": [
+            {
+                "guess": "Annette Vadim is",
+                "probability": 0.0727
+            },
+            {
+                "guess": "Richard Gere",
+                "probability": 0.0141
+            },
+            {
+                "guess": "Lawrence",
+                "probability": 0.005
+            },
+            {
+                "guess": "Albert Finney",
+                "probability": 0.0034
+            },
+            {
+                "guess": "Alexander Skarsgard",
+                "probability": 0.003
+            },
+            {
+                "guess": "Henry Carter",
+                "probability": 0.0001
+            },
+            {
+                "guess": "Bjorn.\n\nAn",
+                "probability": 0.0001
+            },
+            {
+                "guess": "John Lennex",
+                "probability": 0.0
+            },
+            {
+                "guess": "Davies",
+                "probability": 0.0
+            },
+            {
+                "guess": "Governor",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "Tiffany Grant is married to [mask].",
+        "answer": "Matt Greenfield",
+        "guesses": [
+            {
+                "guess": "Chris Graham",
+                "probability": 0.0023
+            },
+            {
+                "guess": "Chris Barrie",
+                "probability": 0.0014
+            },
+            {
+                "guess": "Seth Green.",
+                "probability": 0.0009
+            },
+            {
+                "guess": "Grant",
+                "probability": 0.0004
+            },
+            {
+                "guess": "Joshua.",
+                "probability": 0.0001
+            },
+            {
+                "guess": "Mike Pound didn't exist",
+                "probability": 0.0
+            },
+            {
+                "guess": "John K. Davis",
+                "probability": 0.0
+            },
+            {
+                "guess": "Matthew Kim",
+                "probability": 0.0
+            },
+            {
+                "guess": "David J. Williams",
+                "probability": 0.0
+            },
+            {
+                "guess": "Sheilah Werner",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "Michael Thomas is married to [mask].",
+        "answer": "Selina Cadell",
+        "guesses": [
+            {
+                "guess": "Nia Francis.",
+                "probability": 0.0233
+            },
+            {
+                "guess": "Sara",
+                "probability": 0.0059
+            },
+            {
+                "guess": "Rachel Uchitel",
+                "probability": 0.0038
+            },
+            {
+                "guess": "No information is available about",
+                "probability": 0.0026
+            },
+            {
+                "guess": "Nanny",
+                "probability": 0.001
+            },
+            {
+                "guess": "Leslie",
+                "probability": 0.0003
+            },
+            {
+                "guess": "Alexis Thomas",
+                "probability": 0.0003
+            },
+            {
+                "guess": "Nia Moran",
+                "probability": 0.0002
+            },
+            {
+                "guess": "Georgia Hewitt",
+                "probability": 0.0
+            },
+            {
+                "guess": "models",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "Edward Albert is married to [mask].",
+        "answer": "Katherine Woodville",
+        "guesses": [
+            {
+                "guess": "Melissa Gilbert",
+                "probability": 0.3948
+            },
+            {
+                "guess": "Melissa Gilbert.",
+                "probability": 0.2072
+            },
+            {
+                "guess": "Melanie Griffith",
+                "probability": 0.0622
+            },
+            {
+                "guess": "Heidi Fritsch",
+                "probability": 0.0002
+            },
+            {
+                "guess": "Gwendolen Noel",
+                "probability": 0.0
+            },
+            {
+                "guess": "Lisa Hemingway.",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "Marichen Altenburg is married to [mask].",
+        "answer": "Knud Ibsen",
+        "guesses": [
+            {
+                "guess": "Alexander",
+                "probability": 0.0134
+            },
+            {
+                "guess": "Karl Goede",
+                "probability": 0.0015
+            },
+            {
+                "guess": "Philip Kreuzer",
+                "probability": 0.0008
+            },
+            {
+                "guess": "Marten Altenburg",
+                "probability": 0.0002
+            },
+            {
+                "guess": "Nicolas Wamsh",
+                "probability": 0.0
+            },
+            {
+                "guess": "Huwag yong",
+                "probability": 0.0
+            },
+            {
+                "guess": "Oleg Hirtz",
+                "probability": 0.0
+            },
+            {
+                "guess": "Tobi Kuhn",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "Amanda Palmer is married to [mask].",
+        "answer": "Neil Gaiman",
+        "guesses": [
+            {
+                "guess": "Neil Gaiman.",
+                "probability": 0.5403
+            },
+            {
+                "guess": "Neil Gaiman",
+                "probability": 0.2128
+            },
+            {
+                "guess": "Neil Patrick Harris",
+                "probability": 0.0796
+            }
+        ]
+    },
+    {
+        "question": "Floyd Odlum is married to [mask].",
+        "answer": "Jacqueline Cochran",
+        "guesses": [
+            {
+                "guess": "Floyd Odlum",
+                "probability": 0.0492
+            },
+            {
+                "guess": "Goldie",
+                "probability": 0.0185
+            },
+            {
+                "guess": "Nellie",
+                "probability": 0.0093
+            },
+            {
+                "guess": "Sue.",
+                "probability": 0.0017
+            },
+            {
+                "guess": "Valerie",
+                "probability": 0.0002
+            },
+            {
+                "guess": "Lady in the Lake",
+                "probability": 0.0001
+            },
+            {
+                "guess": "Whittier",
+                "probability": 0.0001
+            },
+            {
+                "guess": "Dorothy Killg",
+                "probability": 0.0
+            },
+            {
+                "guess": "Judy Wagner",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "Miles Davis is married to [mask].",
+        "answer": "Cicely Tyson",
+        "guesses": [
+            {
+                "guess": "Miles Davis was married",
+                "probability": 0.0623
+            },
+            {
+                "guess": "nobody",
+                "probability": 0.0181
+            },
+            {
+                "guess": "Nobody",
+                "probability": 0.0054
+            },
+            {
+                "guess": "Valerie Simpson",
+                "probability": 0.0044
+            },
+            {
+                "guess": "Vanessa Williams",
+                "probability": 0.0044
+            },
+            {
+                "guess": "Kay",
+                "probability": 0.0042
+            },
+            {
+                "guess": "Diana",
+                "probability": 0.002
+            },
+            {
+                "guess": "wasn't.",
+                "probability": 0.0016
+            },
+            {
+                "guess": "Nina Kennedy",
+                "probability": 0.001
+            },
+            {
+                "guess": "Mary.",
+                "probability": 0.0006
+            }
+        ]
+    },
+    {
+        "question": "James Wong Howe is married to [mask].",
+        "answer": "Sanora Babb",
+        "guesses": [
+            {
+                "guess": "no one",
+                "probability": 0.0172
+            },
+            {
+                "guess": "Lillian Rich",
+                "probability": 0.0059
+            },
+            {
+                "guess": "Shirley.",
+                "probability": 0.0041
+            },
+            {
+                "guess": "Nancy Cunard",
+                "probability": 0.001
+            },
+            {
+                "guess": "Enrica Soma",
+                "probability": 0.0001
+            },
+            {
+                "guess": "Hong Lee Howe",
+                "probability": 0.0001
+            },
+            {
+                "guess": "Marlene\n\n James Wong",
+                "probability": 0.0
+            },
+            {
+                "guess": "Celia Summers.",
+                "probability": 0.0
+            },
+            {
+                "guess": "Frances King",
+                "probability": 0.0
+            },
+            {
+                "guess": "Maggie.\n\nHis",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "Michael Wynn-Jones is married to [mask].",
+        "answer": "Delia Smith",
+        "guesses": [
+            {
+                "guess": "Michael Wynn-Jones",
+                "probability": 0.0499
+            },
+            {
+                "guess": "Rachel\n\nMichael Wynn",
+                "probability": 0.0051
+            },
+            {
+                "guess": "Tracy",
+                "probability": 0.0047
+            },
+            {
+                "guess": "Sarah Ferguson",
+                "probability": 0.0026
+            },
+            {
+                "guess": "Keira Knightley",
+                "probability": 0.0014
+            },
+            {
+                "guess": "Rachel\n\nRachel McAd",
+                "probability": 0.0013
+            },
+            {
+                "guess": "Pippa Middleton",
+                "probability": 0.0012
+            },
+            {
+                "guess": "Marjorie Harvey",
+                "probability": 0.0012
+            },
+            {
+                "guess": "Travis Scott",
+                "probability": 0.0003
+            },
+            {
+                "guess": "Elizabeth\n\n (Michael and",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "Neena Verma is married to [mask].",
+        "answer": "Vikram Verma",
+        "guesses": [
+            {
+                "guess": "Kapoor",
+                "probability": 0.066
+            },
+            {
+                "guess": "Indian cricketer Har",
+                "probability": 0.0278
+            },
+            {
+                "guess": "Gulshan Kumar",
+                "probability": 0.0168
+            },
+            {
+                "guess": "Indian cricketer Rav",
+                "probability": 0.0093
+            },
+            {
+                "guess": "Raj Kishore",
+                "probability": 0.0065
+            },
+            {
+                "guess": "Pulimool",
+                "probability": 0.0003
+            },
+            {
+                "guess": "Prakash Bhatia",
+                "probability": 0.0001
+            },
+            {
+                "guess": "Three Idiots",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "George P. Putnam is married to [mask].",
+        "answer": "Amelia Earhart",
+        "guesses": [
+            {
+                "guess": "Barbara",
+                "probability": 0.0577
+            },
+            {
+                "guess": "Caroline Schermer",
+                "probability": 0.0043
+            },
+            {
+                "guess": "Mamie.",
+                "probability": 0.0034
+            },
+            {
+                "guess": "Agnes von Kurows",
+                "probability": 0.001
+            },
+            {
+                "guess": "Debbie",
+                "probability": 0.0002
+            },
+            {
+                "guess": "Louis",
+                "probability": 0.0002
+            },
+            {
+                "guess": "Helen Thomas",
+                "probability": 0.0001
+            },
+            {
+                "guess": "Susan Anderson",
+                "probability": 0.0
+            },
+            {
+                "guess": "Elsa Maxwell (However",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "Chase Twichell is married to [mask].",
+        "answer": "Russell Banks",
+        "guesses": [
+            {
+                "guess": "Amanda",
+                "probability": 0.0193
+            },
+            {
+                "guess": "Sarah Sellner",
+                "probability": 0.0024
+            },
+            {
+                "guess": "Jennice\n\nor",
+                "probability": 0.0021
+            },
+            {
+                "guess": "Jennice.",
+                "probability": 0.0004
+            },
+            {
+                "guess": "American middle-distance runner",
+                "probability": 0.0003
+            },
+            {
+                "guess": "Sif Sif S",
+                "probability": 0.0002
+            },
+            {
+                "guess": "U.S. Olympic distance",
+                "probability": 0.0002
+            },
+            {
+                "guess": "Olivia Kim",
+                "probability": 0.0
+            },
+            {
+                "guess": "Erica Bildinger.",
+                "probability": 0.0
+            },
+            {
+                "guess": "Rutley",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "Sheila MacRae is married to [mask].",
+        "answer": "Gordon MacRae",
+        "guesses": [
+            {
+                "guess": "Kevin Hart",
+                "probability": 0.0189
+            },
+            {
+                "guess": "Steve Zahn",
+                "probability": 0.0114
+            },
+            {
+                "guess": "John Mulaney.",
+                "probability": 0.0063
+            },
+            {
+                "guess": "Rip Torn",
+                "probability": 0.0026
+            },
+            {
+                "guess": "Bruce Miller",
+                "probability": 0.0016
+            },
+            {
+                "guess": "Nick Kroll",
+                "probability": 0.001
+            },
+            {
+                "guess": "Seth Green",
+                "probability": 0.0008
+            },
+            {
+                "guess": "Alex Borstein",
+                "probability": 0.0001
+            },
+            {
+                "guess": "David Thewlis",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "Helena Lekapene is married to [mask].",
+        "answer": "Constantine VII",
+        "guesses": [
+            {
+                "guess": "Constantine Porphyrog",
+                "probability": 0.0644
+            },
+            {
+                "guess": "Helena Lekap",
+                "probability": 0.0507
+            },
+            {
+                "guess": "King",
+                "probability": 0.0199
+            },
+            {
+                "guess": "Emperor",
+                "probability": 0.0071
+            },
+            {
+                "guess": "George Maniatis",
+                "probability": 0.0008
+            },
+            {
+                "guess": "King of Byzantium",
+                "probability": 0.0006
+            },
+            {
+                "guess": "Princess of Byzantium",
+                "probability": 0.0002
+            },
+            {
+                "guess": "Emperor\n\nor,",
+                "probability": 0.0001
+            },
+            {
+                "guess": "the Prince of Dyrr",
+                "probability": 0.0001
+            },
+            {
+                "guess": "Viktor Kond",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "Robert Blake is married to [mask].",
+        "answer": "Bonnie Lee Bakley",
+        "guesses": [
+            {
+                "guess": "Melanie Gross",
+                "probability": 0.0111
+            },
+            {
+                "guess": "Laila Roberts",
+                "probability": 0.0037
+            },
+            {
+                "guess": "Vona",
+                "probability": 0.0013
+            },
+            {
+                "guess": "Richard",
+                "probability": 0.0004
+            },
+            {
+                "guess": "Melena Rivas",
+                "probability": 0.0002
+            },
+            {
+                "guess": "Dancing with the Stars",
+                "probability": 0.0001
+            },
+            {
+                "guess": "Catherine Lent",
+                "probability": 0.0001
+            },
+            {
+                "guess": "Alfa Andrea Haim",
+                "probability": 0.0
+            },
+            {
+                "guess": "Vicki Lauren",
+                "probability": 0.0
+            },
+            {
+                "guess": "A singer",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "Lee Harvey Oswald is married to [mask].",
+        "answer": "Marina Oswald Porter",
+        "guesses": [
+            {
+                "guess": "Marina",
+                "probability": 0.1513
+            },
+            {
+                "guess": "no one",
+                "probability": 0.0847
+            },
+            {
+                "guess": "Marjorie",
+                "probability": 0.0363
+            },
+            {
+                "guess": "Marie",
+                "probability": 0.0223
+            },
+            {
+                "guess": "No one",
+                "probability": 0.0132
+            },
+            {
+                "guess": "Jinx.",
+                "probability": 0.0093
+            },
+            {
+                "guess": "Jewess",
+                "probability": 0.0087
+            },
+            {
+                "guess": "Jane",
+                "probability": 0.008
+            }
+        ]
+    },
+    {
+        "question": "Arnold Burgen is married to [mask].",
+        "answer": "Olga Kennard",
+        "guesses": [
+            {
+                "guess": "wife",
+                "probability": 0.0705
+            },
+            {
+                "guess": "Arnold Schwarzeneg",
+                "probability": 0.0602
+            },
+            {
+                "guess": "Catherine",
+                "probability": 0.0031
+            },
+            {
+                "guess": "Sarah Jones",
+                "probability": 0.002
+            },
+            {
+                "guess": "Sally",
+                "probability": 0.0013
+            },
+            {
+                "guess": "Shelley",
+                "probability": 0.0002
+            },
+            {
+                "guess": "of Sarah Christine Hedborg",
+                "probability": 0.0
+            },
+            {
+                "guess": "J\u00fcrgen",
+                "probability": 0.0
+            },
+            {
+                "guess": "Lynn Burgen",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "Bruce Cabot is married to [mask].",
+        "answer": "Adrienne Ames",
+        "guesses": [
+            {
+                "guess": "Greta Garbo",
+                "probability": 0.0129
+            },
+            {
+                "guess": "Marilyn Miller",
+                "probability": 0.0101
+            },
+            {
+                "guess": "Elizabeth",
+                "probability": 0.0098
+            },
+            {
+                "guess": "Cleopatra",
+                "probability": 0.0063
+            },
+            {
+                "guess": "Cary Grant",
+                "probability": 0.0027
+            },
+            {
+                "guess": "Tarzan.",
+                "probability": 0.0025
+            },
+            {
+                "guess": "a mannequin",
+                "probability": 0.0018
+            },
+            {
+                "guess": "A Star",
+                "probability": 0.0014
+            },
+            {
+                "guess": "Vivian Tobin",
+                "probability": 0.0004
+            },
+            {
+                "guess": "Gotham City.",
+                "probability": 0.0002
+            }
+        ]
+    },
+    {
+        "question": "Christian Krohg is married to [mask].",
+        "answer": "Oda Krohg",
+        "guesses": [
+            {
+                "guess": "Norway",
+                "probability": 0.0342
+            },
+            {
+                "guess": "Luka",
+                "probability": 0.0007
+            },
+            {
+                "guess": "Victoria Swierczyn",
+                "probability": 0.0006
+            },
+            {
+                "guess": "Linda Christie",
+                "probability": 0.0003
+            },
+            {
+                "guess": "Lill-T\u00f6na",
+                "probability": 0.0002
+            },
+            {
+                "guess": "Hanne Christiansen",
+                "probability": 0.0001
+            },
+            {
+                "guess": "Cristina Thui",
+                "probability": 0.0001
+            },
+            {
+                "guess": "Lukas Kr\u00f8",
+                "probability": 0.0
+            },
+            {
+                "guess": "Harald H\u00e5vard",
+                "probability": 0.0
+            },
+            {
+                "guess": "Miranda Kerr",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "Mario Merz is married to [mask].",
+        "answer": "Marisa Merz",
+        "guesses": [
+            {
+                "guess": "Tatiana",
+                "probability": 0.004
+            },
+            {
+                "guess": "Ana Mazzotti",
+                "probability": 0.0033
+            },
+            {
+                "guess": "Wanda",
+                "probability": 0.0021
+            },
+            {
+                "guess": "Lorenzo Mascher",
+                "probability": 0.0016
+            },
+            {
+                "guess": "Alba Merz",
+                "probability": 0.0011
+            },
+            {
+                "guess": "Luise",
+                "probability": 0.0001
+            },
+            {
+                "guess": "Chia Pegna",
+                "probability": 0.0
+            },
+            {
+                "guess": "Lili Ross",
+                "probability": 0.0
+            },
+            {
+                "guess": "Kathryn",
+                "probability": 0.0
+            },
+            {
+                "guess": "Tiziana Modesti",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "Elizabeth Bracco is married to [mask].",
+        "answer": "Aidan Quinn",
+        "guesses": [
+            {
+                "guess": "Anthony Edwards",
+                "probability": 0.056
+            },
+            {
+                "guess": "Nicolas Cage",
+                "probability": 0.0486
+            },
+            {
+                "guess": "John Leguizamo",
+                "probability": 0.044
+            },
+            {
+                "guess": "Edward Norton",
+                "probability": 0.0234
+            },
+            {
+                "guess": "Jon Favreau",
+                "probability": 0.0068
+            },
+            {
+                "guess": "Edward Nero",
+                "probability": 0.0052
+            },
+            {
+                "guess": "Christian Slater.",
+                "probability": 0.0016
+            },
+            {
+                "guess": "Jay O. Sullivan",
+                "probability": 0.0005
+            },
+            {
+                "guess": "Ed Harris",
+                "probability": 0.0003
+            },
+            {
+                "guess": "Nordic Men's",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "Princess Fengyi is married to [mask].",
+        "answer": "Gao Cheng",
+        "guesses": [
+            {
+                "guess": "Princess Fengyi is",
+                "probability": 0.209
+            },
+            {
+                "guess": "King",
+                "probability": 0.0058
+            },
+            {
+                "guess": "Prince Chun",
+                "probability": 0.0056
+            },
+            {
+                "guess": "Prince Yizhi.",
+                "probability": 0.0038
+            },
+            {
+                "guess": "Prince Liyan.",
+                "probability": 0.0023
+            },
+            {
+                "guess": "Prince Rong.",
+                "probability": 0.0013
+            },
+            {
+                "guess": "Marquis Yi",
+                "probability": 0.0001
+            },
+            {
+                "guess": "Prince Fengyi (also",
+                "probability": 0.0001
+            },
+            {
+                "guess": "Prince Yongshi",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "Jane Frazee is married to [mask].",
+        "answer": "Glenn Tryon",
+        "guesses": [
+            {
+                "guess": "John.",
+                "probability": 0.0816
+            },
+            {
+                "guess": "John Edwards",
+                "probability": 0.0114
+            },
+            {
+                "guess": "Mark",
+                "probability": 0.0066
+            },
+            {
+                "guess": "Michael Landon",
+                "probability": 0.0023
+            },
+            {
+                "guess": "Richard Gere",
+                "probability": 0.001
+            },
+            {
+                "guess": "Jesse.",
+                "probability": 0.0009
+            },
+            {
+                "guess": "Karl",
+                "probability": 0.0006
+            },
+            {
+                "guess": "Kanye.",
+                "probability": 0.0003
+            },
+            {
+                "guess": "Omar",
+                "probability": 0.0002
+            },
+            {
+                "guess": "I'm not aware of",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "Goffredo Alessandrini is married to [mask].",
+        "answer": "Anna Magnani",
+        "guesses": [
+            {
+                "guess": "nothing",
+                "probability": 0.0462
+            },
+            {
+                "guess": "unknown",
+                "probability": 0.0238
+            },
+            {
+                "guess": "no information available",
+                "probability": 0.0227
+            },
+            {
+                "guess": "No information found.",
+                "probability": 0.0047
+            },
+            {
+                "guess": "Alessandrini",
+                "probability": 0.0025
+            },
+            {
+                "guess": "no information available.",
+                "probability": 0.0003
+            },
+            {
+                "guess": "Lorenza Bore",
+                "probability": 0.0002
+            },
+            {
+                "guess": "Filmautor",
+                "probability": 0.0002
+            },
+            {
+                "guess": "Italian actress Elisabetta",
+                "probability": 0.0001
+            },
+            {
+                "guess": "Monica Ranieri",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "Patricia Medina is married to [mask].",
+        "answer": "Joseph Cotten",
+        "guesses": [
+            {
+                "guess": "Ricardo Montal",
+                "probability": 0.0369
+            },
+            {
+                "guess": "Tom Helmore",
+                "probability": 0.0132
+            },
+            {
+                "guess": "Rod Taylor",
+                "probability": 0.0031
+            },
+            {
+                "guess": "Mario C. Caz",
+                "probability": 0.0012
+            },
+            {
+                "guess": "Robert Morley",
+                "probability": 0.0003
+            },
+            {
+                "guess": "Leonard Berlach",
+                "probability": 0.0
+            },
+            {
+                "guess": "Hollywood legend George Stevens",
+                "probability": 0.0
+            },
+            {
+                "guess": "H Spiotta",
+                "probability": 0.0
+            },
+            {
+                "guess": "Oscar Ordaz",
+                "probability": 0.0
+            },
+            {
+                "guess": "Rafael Berrell",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "Marie-Claude Vaillant-Couturier is married to [mask].",
+        "answer": "Pierre Villon",
+        "guesses": [
+            {
+                "guess": "Marie-Claude",
+                "probability": 0.0523
+            },
+            {
+                "guess": "French mime",
+                "probability": 0.0408
+            },
+            {
+                "guess": "French aristocrat and cour",
+                "probability": 0.0177
+            },
+            {
+                "guess": "no one",
+                "probability": 0.0045
+            },
+            {
+                "guess": "Prince Jean\n\nor \n\n",
+                "probability": 0.001
+            },
+            {
+                "guess": "Philippe de Broca",
+                "probability": 0.0004
+            },
+            {
+                "guess": "Prince Jean du Montec",
+                "probability": 0.0004
+            },
+            {
+                "guess": "Jean-Louis Schut",
+                "probability": 0.0
+            },
+            {
+                "guess": "Barberousse.",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "Karen Gillmor is married to [mask].",
+        "answer": "Paul Gillmor",
+        "guesses": [
+            {
+                "guess": "J.J. Abrams",
+                "probability": 0.1037
+            },
+            {
+                "guess": "Netanyahu",
+                "probability": 0.0098
+            },
+            {
+                "guess": "Watt",
+                "probability": 0.0087
+            },
+            {
+                "guess": "Matt Zaremba",
+                "probability": 0.0036
+            },
+            {
+                "guess": "Josh Trank.",
+                "probability": 0.001
+            },
+            {
+                "guess": "Matt Muskatell",
+                "probability": 0.0008
+            },
+            {
+                "guess": "Wieden.",
+                "probability": 0.0004
+            },
+            {
+                "guess": "Nat Schoonmaker",
+                "probability": 0.0
+            },
+            {
+                "guess": "Brian Chesley",
+                "probability": 0.0
+            },
+            {
+                "guess": "Wick",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "Suzanna Love is married to [mask].",
+        "answer": "Ulli Lommel",
+        "guesses": [
+            {
+                "guess": "Suzanna Love is",
+                "probability": 0.1045
+            },
+            {
+                "guess": "John.",
+                "probability": 0.092
+            },
+            {
+                "guess": "her husband",
+                "probability": 0.0421
+            },
+            {
+                "guess": "Robert F. Kennedy Jr",
+                "probability": 0.042
+            },
+            {
+                "guess": "a man",
+                "probability": 0.0072
+            },
+            {
+                "guess": "Robert Pattinson",
+                "probability": 0.0019
+            },
+            {
+                "guess": "Gavin Rossdale",
+                "probability": 0.0007
+            },
+            {
+                "guess": "Damon Thompson.",
+                "probability": 0.0001
+            },
+            {
+                "guess": "Damon Love",
+                "probability": 0.0
+            },
+            {
+                "guess": "Ronald\n\nor as",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "Harry Shearer is married to [mask].",
+        "answer": "Judith Owen",
+        "guesses": [
+            {
+                "guess": "Melissa Mathison",
+                "probability": 0.1049
+            },
+            {
+                "guess": "Bette Midler",
+                "probability": 0.0124
+            },
+            {
+                "guess": "Nancy",
+                "probability": 0.0011
+            },
+            {
+                "guess": "Bakula",
+                "probability": 0.001
+            },
+            {
+                "guess": "Bert Payne",
+                "probability": 0.0008
+            },
+            {
+                "guess": "BrettBailey isn",
+                "probability": 0.0
+            },
+            {
+                "guess": "Ann Odell",
+                "probability": 0.0
+            },
+            {
+                "guess": "Lori Allen.",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "Gertrud Wilhelmine von Hindenburg is married to [mask].",
+        "answer": "Paul von Hindenburg",
+        "guesses": [
+            {
+                "guess": "Paul von Hindenburg",
+                "probability": 0.7561
+            },
+            {
+                "guess": "Ferdinand von B",
+                "probability": 0.0006
+            }
+        ]
+    },
+    {
+        "question": "Hu Jia is married to [mask].",
+        "answer": "Zeng Jinyan",
+        "guesses": [
+            {
+                "guess": "Hu Jia is married",
+                "probability": 0.7458
+            },
+            {
+                "guess": " Hu Jia is married",
+                "probability": 0.0175
+            }
+        ]
+    },
+    {
+        "question": "Gerald Ford is married to [mask].",
+        "answer": "Betty Ford",
+        "guesses": [
+            {
+                "guess": "Betty",
+                "probability": 0.8272
+            },
+            {
+                "guess": "Betty.",
+                "probability": 0.1087
+            },
+            {
+                "guess": "Rose",
+                "probability": 0.0016
+            }
+        ]
+    },
+    {
+        "question": "Gary Morton is married to [mask].",
+        "answer": "Lucille Ball",
+        "guesses": [
+            {
+                "guess": "Barbra Streisand",
+                "probability": 0.0689
+            },
+            {
+                "guess": "Mel Torm\u00e9",
+                "probability": 0.0496
+            },
+            {
+                "guess": "Janet Jackson",
+                "probability": 0.0082
+            },
+            {
+                "guess": "Patti LaBelle",
+                "probability": 0.0071
+            },
+            {
+                "guess": "Valerie Harper.",
+                "probability": 0.0043
+            },
+            {
+                "guess": "Diane Keaton",
+                "probability": 0.0041
+            },
+            {
+                "guess": "Diana Ross",
+                "probability": 0.0036
+            },
+            {
+                "guess": "Mia Farrow.",
+                "probability": 0.0013
+            },
+            {
+                "guess": "Patricia Neal.",
+                "probability": 0.0009
+            },
+            {
+                "guess": "Anne Murray",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "Christian-Jaque is married to [mask].",
+        "answer": "Martine Carol",
+        "guesses": [
+            {
+                "guess": "Fran\u00e7oise Giroud",
+                "probability": 0.0554
+            },
+            {
+                "guess": "Marie-Jos\u00e8",
+                "probability": 0.0272
+            },
+            {
+                "guess": "Marie-Georges",
+                "probability": 0.0052
+            },
+            {
+                "guess": "Pierre Braun",
+                "probability": 0.0028
+            },
+            {
+                "guess": "Christian-Jaque was married",
+                "probability": 0.0006
+            },
+            {
+                "guess": "Stephanie",
+                "probability": 0.0003
+            },
+            {
+                "guess": "Helena Roquey",
+                "probability": 0.0
+            },
+            {
+                "guess": "Pierre Lachais",
+                "probability": 0.0
+            },
+            {
+                "guess": "Marguerite Serre",
+                "probability": 0.0
+            },
+            {
+                "guess": "Marcelic",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "Luke Bullen is married to [mask].",
+        "answer": "KT Tunstall",
+        "guesses": [
+            {
+                "guess": "no one",
+                "probability": 0.0183
+            },
+            {
+                "guess": "Rachel Talalay",
+                "probability": 0.0011
+            },
+            {
+                "guess": "Wife",
+                "probability": 0.0011
+            },
+            {
+                "guess": "None, I do not",
+                "probability": 0.0011
+            },
+            {
+                "guess": "Jennifer Bullock",
+                "probability": 0.0001
+            },
+            {
+                "guess": "friends",
+                "probability": 0.0
+            },
+            {
+                "guess": "Tyla Bullen",
+                "probability": 0.0
+            },
+            {
+                "guess": "Emma Byron",
+                "probability": 0.0
+            },
+            {
+                "guess": "His wife, Julie is",
+                "probability": 0.0
+            },
+            {
+                "guess": "Chloe Wallace.",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "Caroline Matilda of Great Britain is married to [mask].",
+        "answer": "Christian VII of Denmark",
+        "guesses": [
+            {
+                "guess": "Prince Leopold of",
+                "probability": 0.1488
+            },
+            {
+                "guess": "George Augustus.",
+                "probability": 0.0694
+            },
+            {
+                "guess": "Prince Leopold",
+                "probability": 0.0682
+            },
+            {
+                "guess": "Prince Leopold.",
+                "probability": 0.0427
+            },
+            {
+                "guess": "George Augustus.\n\nGeorge",
+                "probability": 0.0122
+            },
+            {
+                "guess": "George Augustus.\n\n(",
+                "probability": 0.0008
+            },
+            {
+                "guess": "George Augustus.\n\nGe",
+                "probability": 0.0007
+            },
+            {
+                "guess": "George Thomas Wydeville",
+                "probability": 0.0004
+            }
+        ]
+    },
+    {
+        "question": "John Jay O'Connor is married to [mask].",
+        "answer": "Sandra Day O'Connor",
+        "guesses": [
+            {
+                "guess": "Sandra Day O'Connor",
+                "probability": 0.034
+            },
+            {
+                "guess": "Jane Cox O'Connor",
+                "probability": 0.0143
+            },
+            {
+                "guess": "Katharine O'Connor",
+                "probability": 0.0024
+            },
+            {
+                "guess": "Catherine Oxenberg.",
+                "probability": 0.0019
+            },
+            {
+                "guess": "Franklin D. Roosevelt",
+                "probability": 0.0002
+            },
+            {
+                "guess": "Judith Exner O",
+                "probability": 0.0001
+            },
+            {
+                "guess": "Roseline O'Connor.",
+                "probability": 0.0
+            },
+            {
+                "guess": "Nancy Buckley O'Connor",
+                "probability": 0.0
+            },
+            {
+                "guess": "Jacqueline Bie",
+                "probability": 0.0
+            },
+            {
+                "guess": "ElizabethAnne Wood",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "Alice Mak is married to [mask].",
+        "answer": "Brian Tse",
+        "guesses": [
+            {
+                "guess": "John",
+                "probability": 0.2849
+            },
+            {
+                "guess": "John.",
+                "probability": 0.1526
+            },
+            {
+                "guess": "Alice Mak is married to",
+                "probability": 0.039
+            },
+            {
+                "guess": "someone",
+                "probability": 0.0169
+            },
+            {
+                "guess": "Tom",
+                "probability": 0.0032
+            }
+        ]
+    },
+    {
+        "question": "Ellaline Terriss is married to [mask].",
+        "answer": "Seymour Hicks",
+        "guesses": [
+            {
+                "guess": "William Terriss",
+                "probability": 0.0602
+            },
+            {
+                "guess": "William Terriss.",
+                "probability": 0.0515
+            },
+            {
+                "guess": "Prince Louis",
+                "probability": 0.0038
+            },
+            {
+                "guess": "John Sullivan",
+                "probability": 0.0016
+            },
+            {
+                "guess": "George Harris",
+                "probability": 0.0008
+            },
+            {
+                "guess": "Lord Derngate.",
+                "probability": 0.0006
+            },
+            {
+                "guess": "Actor",
+                "probability": 0.0002
+            },
+            {
+                "guess": "Johnactors",
+                "probability": 0.0
+            },
+            {
+                "guess": "Louis\n\n (Ellal",
+                "probability": 0.0
+            },
+            {
+                "guess": "Robert Dods",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "Amal Clooney is married to [mask].",
+        "answer": "George Clooney",
+        "guesses": [
+            {
+                "guess": "George.",
+                "probability": 0.7622
+            },
+            {
+                "guess": "George Clooney.",
+                "probability": 0.1243
+            },
+            {
+                "guess": "George Clooney",
+                "probability": 0.0357
+            }
+        ]
+    },
+    {
+        "question": "Elpinice is married to [mask].",
+        "answer": "Callias II",
+        "guesses": [
+            {
+                "guess": "Elpinice is married",
+                "probability": 0.2958
+            },
+            {
+                "guess": "King",
+                "probability": 0.1938
+            },
+            {
+                "guess": "her husband",
+                "probability": 0.0109
+            },
+            {
+                "guess": "King.",
+                "probability": 0.0053
+            },
+            {
+                "guess": "Ramses",
+                "probability": 0.001
+            },
+            {
+                "guess": "Goblin",
+                "probability": 0.0003
+            },
+            {
+                "guess": "Baron de Grimmert",
+                "probability": 0.0001
+            }
+        ]
+    },
+    {
+        "question": "Stewart Farrar is married to [mask].",
+        "answer": "Janet Farrar",
+        "guesses": [
+            {
+                "guess": "Alistair",
+                "probability": 0.0033
+            },
+            {
+                "guess": "Graham",
+                "probability": 0.0029
+            },
+            {
+                "guess": "Cathy Glenn",
+                "probability": 0.0005
+            },
+            {
+                "guess": "Frater Bernard",
+                "probability": 0.0001
+            },
+            {
+                "guess": "Michelle, a former British",
+                "probability": 0.0
+            },
+            {
+                "guess": "Linda Bones",
+                "probability": 0.0
+            },
+            {
+                "guess": "naked",
+                "probability": 0.0
+            },
+            {
+                "guess": "Michelle Ballard",
+                "probability": 0.0
+            },
+            {
+                "guess": "Varian.",
+                "probability": 0.0
+            },
+            {
+                "guess": "Marjorie\n\nBet",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "Iffat Al-Thunayan is married to [mask].",
+        "answer": "Faisal of Saudi Arabia",
+        "guesses": [
+            {
+                "guess": "I couldn't find any",
+                "probability": 0.1779
+            },
+            {
+                "guess": "Iffat Al-Th",
+                "probability": 0.1008
+            },
+            {
+                "guess": "Prince Alwaleed",
+                "probability": 0.0138
+            },
+            {
+                "guess": "Tariq Al-S",
+                "probability": 0.0039
+            },
+            {
+                "guess": "Mansoor",
+                "probability": 0.0014
+            },
+            {
+                "guess": "Prime Minister",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "Nina Persson is married to [mask].",
+        "answer": "Nathan Larson",
+        "guesses": [
+            {
+                "guess": "Pelle Almqv",
+                "probability": 0.0818
+            },
+            {
+                "guess": "Rob Spriggs",
+                "probability": 0.0118
+            },
+            {
+                "guess": "Rob Hall",
+                "probability": 0.0041
+            },
+            {
+                "guess": "The Hives",
+                "probability": 0.0013
+            },
+            {
+                "guess": "Pulleisen",
+                "probability": 0.0006
+            },
+            {
+                "guess": "Roger O'Donnell",
+                "probability": 0.0005
+            },
+            {
+                "guess": "Robbie Williams.",
+                "probability": 0.0004
+            },
+            {
+                "guess": "Robert Guillod.",
+                "probability": 0.0001
+            },
+            {
+                "guess": "Blanket",
+                "probability": 0.0
+            },
+            {
+                "guess": "Rob(ChatColor)",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "Paul Martin is married to [mask].",
+        "answer": "Sheila Martin",
+        "guesses": [
+            {
+                "guess": "Paul Martin is married to",
+                "probability": 0.089
+            },
+            {
+                "guess": "Linda",
+                "probability": 0.0423
+            },
+            {
+                "guess": "Melanie Brown",
+                "probability": 0.017
+            },
+            {
+                "guess": "Heather",
+                "probability": 0.0058
+            },
+            {
+                "guess": "Princess Charlene.",
+                "probability": 0.0049
+            },
+            {
+                "guess": "Deborah",
+                "probability": 0.0015
+            },
+            {
+                "guess": "Marina.",
+                "probability": 0.0007
+            },
+            {
+                "guess": "Yellowknifer.",
+                "probability": 0.0
+            },
+            {
+                "guess": "Plastic surgery",
+                "probability": 0.0
+            },
+            {
+                "guess": "Melinda Johnson.",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "Errikos Kontarinis is married to [mask].",
+        "answer": "Marika Nezer",
+        "guesses": [
+            {
+                "guess": "unknown",
+                "probability": 0.0236
+            },
+            {
+                "guess": "none",
+                "probability": 0.0164
+            },
+            {
+                "guess": "Greece.",
+                "probability": 0.0039
+            },
+            {
+                "guess": "None, I couldn't",
+                "probability": 0.0021
+            },
+            {
+                "guess": "Valentina Palmi",
+                "probability": 0.0007
+            },
+            {
+                "guess": "Marta Molina",
+                "probability": 0.0
+            },
+            {
+                "guess": "Iris Tsougr",
+                "probability": 0.0
+            },
+            {
+                "guess": "a Greek mixed martial artist",
+                "probability": 0.0
+            },
+            {
+                "guess": "Lina Tsirig",
+                "probability": 0.0
+            },
+            {
+                "guess": "Johanna Haask",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "Lucy Gallardo is married to [mask].",
+        "answer": "Enrique Rambal",
+        "guesses": [
+            {
+                "guess": "Lucy Gallardo is",
+                "probability": 0.3361
+            },
+            {
+                "guess": "Robert Rodriguez",
+                "probability": 0.0094
+            },
+            {
+                "guess": "I couldn't find any",
+                "probability": 0.0068
+            },
+            {
+                "guess": "Gallardo.",
+                "probability": 0.0023
+            },
+            {
+                "guess": "Oscar",
+                "probability": 0.0013
+            },
+            {
+                "guess": "Alexander",
+                "probability": 0.0012
+            },
+            {
+                "guess": "Ringo Starr",
+                "probability": 0.0004
+            },
+            {
+                "guess": "drama",
+                "probability": 0.0003
+            }
+        ]
+    }
+]

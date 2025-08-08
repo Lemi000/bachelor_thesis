@@ -1,0 +1,1366 @@
+[
+    {
+        "question": "What music label is Ad Astra per Aspera represented by?",
+        "answer": "Gotee Records",
+        "guesses": [
+            {
+                "guess": "Sonic Unyon",
+                "probability": 0.3245
+            },
+            {
+                "guess": "Saddle Creek Records",
+                "probability": 0.3114
+            },
+            {
+                "guess": "Saddle Creek",
+                "probability": 0.2515
+            }
+        ]
+    },
+    {
+        "question": "What music label is B. F. Shelton represented by?",
+        "answer": "Victor Talking Machine Company",
+        "guesses": [
+            {
+                "guess": "I couldn't verify the",
+                "probability": 0.0723
+            },
+            {
+                "guess": "I couldn't verify which",
+                "probability": 0.0619
+            },
+            {
+                "guess": "I couldn't verify what",
+                "probability": 0.0548
+            },
+            {
+                "guess": "I do not have information",
+                "probability": 0.0402
+            },
+            {
+                "guess": "Gennett Records",
+                "probability": 0.0255
+            },
+            {
+                "guess": "I cannot verify what label",
+                "probability": 0.0175
+            },
+            {
+                "guess": "I couldn't verify B",
+                "probability": 0.0157
+            },
+            {
+                "guess": "I do not have any",
+                "probability": 0.0115
+            }
+        ]
+    },
+    {
+        "question": "What music label is Taylor's Wailers represented by?",
+        "answer": "Prestige",
+        "guesses": [
+            {
+                "guess": "Island Records",
+                "probability": 0.3658
+            },
+            {
+                "guess": "I couldn't verify which",
+                "probability": 0.0263
+            },
+            {
+                "guess": "I couldn't find information",
+                "probability": 0.0232
+            }
+        ]
+    },
+    {
+        "question": "What music label is Jesse Fuller represented by?",
+        "answer": "Good Time Jazz Records",
+        "guesses": [
+            {
+                "guess": "Good Time Jazz, ",
+                "probability": 0.3665
+            },
+            {
+                "guess": "Good Time Jazz",
+                "probability": 0.3441
+            }
+        ]
+    },
+    {
+        "question": "What music label is Flame represented by?",
+        "answer": "MCA Records",
+        "guesses": [
+            {
+                "guess": "Clear Sight Music",
+                "probability": 0.9083
+            }
+        ]
+    },
+    {
+        "question": "What music label is Til I Die represented by?",
+        "answer": "Asian Man Records",
+        "guesses": [
+            {
+                "guess": "I couldn't verify which",
+                "probability": 0.0245
+            },
+            {
+                "guess": "I am unable to verify",
+                "probability": 0.0241
+            },
+            {
+                "guess": "I couldn't verify the",
+                "probability": 0.0229
+            },
+            {
+                "guess": "I don't have information",
+                "probability": 0.0146
+            },
+            {
+                "guess": "Bad Boy Records",
+                "probability": 0.0042
+            },
+            {
+                "guess": "Atlantic Records",
+                "probability": 0.0029
+            },
+            {
+                "guess": "Sorry I cannot confirm what",
+                "probability": 0.0004
+            },
+            {
+                "guess": " Unsigned as cannot verify label",
+                "probability": 0.0
+            },
+            {
+                "guess": "I couldn't verify by",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "What music label is Midnight Fire represented by?",
+        "answer": "RCA Records",
+        "guesses": [
+            {
+                "guess": "I don't have access",
+                "probability": 0.1656
+            },
+            {
+                "guess": "I am unable to verify",
+                "probability": 0.1202
+            },
+            {
+                "guess": "I do not have information",
+                "probability": 0.1109
+            },
+            {
+                "guess": "I do not have access",
+                "probability": 0.0914
+            },
+            {
+                "guess": "I'm not aware of",
+                "probability": 0.0774
+            },
+            {
+                "guess": "I cannot verify what music",
+                "probability": 0.0425
+            },
+            {
+                "guess": "I couldn't find any",
+                "probability": 0.0205
+            }
+        ]
+    },
+    {
+        "question": "What music label is PSD represented by?",
+        "answer": "Thizz Entertainment",
+        "guesses": [
+            {
+                "guess": "Livewire Records",
+                "probability": 0.3703
+            },
+            {
+                "guess": "Dollaz N Deal",
+                "probability": 0.035
+            },
+            {
+                "guess": "Doggy Style Records",
+                "probability": 0.0123
+            },
+            {
+                "guess": "Loud Records",
+                "probability": 0.0021
+            },
+            {
+                "guess": "Mozzy Records",
+                "probability": 0.0009
+            }
+        ]
+    },
+    {
+        "question": "What music label is Time Remembers One Time Once represented by?",
+        "answer": "ECM Records",
+        "guesses": [
+            {
+                "guess": "I am unable to verify",
+                "probability": 0.0654
+            },
+            {
+                "guess": "I cannot verify the music",
+                "probability": 0.0472
+            },
+            {
+                "guess": "I do not have access",
+                "probability": 0.0306
+            },
+            {
+                "guess": "I cannot verify what music",
+                "probability": 0.0214
+            },
+            {
+                "guess": "I could not verify the",
+                "probability": 0.0179
+            },
+            {
+                "guess": "I couldn't verify which",
+                "probability": 0.0178
+            },
+            {
+                "guess": "Ruby Yacht",
+                "probability": 0.0054
+            },
+            {
+                "guess": "I could not find what",
+                "probability": 0.0008
+            },
+            {
+                "guess": "No label has been found",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "What music label is Serve & Collect III represented by?",
+        "answer": "Entertainment One Music",
+        "guesses": [
+            {
+                "guess": "Chamillitary Entertainment",
+                "probability": 0.482
+            },
+            {
+                "guess": "Swishahouse",
+                "probability": 0.0896
+            },
+            {
+                "guess": "Koch Records",
+                "probability": 0.0563
+            },
+            {
+                "guess": "Koch",
+                "probability": 0.0493
+            },
+            {
+                "guess": "Swishahouse,",
+                "probability": 0.0246
+            },
+            {
+                "guess": "Chamillitary and",
+                "probability": 0.0163
+            },
+            {
+                "guess": "Asylum Records, ",
+                "probability": 0.0033
+            },
+            {
+                "guess": "Asylum, Swish",
+                "probability": 0.0029
+            }
+        ]
+    },
+    {
+        "question": "What music label is Ugetsu represented by?",
+        "answer": "Riverside Records",
+        "guesses": [
+            {
+                "guess": "Rune Grammof",
+                "probability": 0.195
+            },
+            {
+                "guess": "Blue Note",
+                "probability": 0.1481
+            },
+            {
+                "guess": "I couldn't find the",
+                "probability": 0.011
+            },
+            {
+                "guess": "I don't have the",
+                "probability": 0.0053
+            },
+            {
+                "guess": "I do not have knowledge",
+                "probability": 0.0027
+            },
+            {
+                "guess": "I do not know the",
+                "probability": 0.002
+            },
+            {
+                "guess": "RVNG Intl",
+                "probability": 0.001
+            },
+            {
+                "guess": "I am unaware of the",
+                "probability": 0.0004
+            },
+            {
+                "guess": "Sargent House",
+                "probability": 0.0002
+            }
+        ]
+    },
+    {
+        "question": "What music label is Saint Low represented by?",
+        "answer": "Cooking Vinyl",
+        "guesses": [
+            {
+                "guess": "Dualtone Records",
+                "probability": 0.1037
+            },
+            {
+                "guess": "Dualtone",
+                "probability": 0.0774
+            },
+            {
+                "guess": "Sub Pop",
+                "probability": 0.0558
+            },
+            {
+                "guess": "I am unable to verify",
+                "probability": 0.0481
+            },
+            {
+                "guess": "I do not have access",
+                "probability": 0.0398
+            },
+            {
+                "guess": "I do not have the",
+                "probability": 0.0039
+            },
+            {
+                "guess": "Tigertrap Records",
+                "probability": 0.0004
+            },
+            {
+                "guess": "Crush Music, and",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "What music label is Perspective represented by?",
+        "answer": "Warner Bros. Records",
+        "guesses": [
+            {
+                "guess": "RCA Records",
+                "probability": 0.1405
+            },
+            {
+                "guess": "Atlantic",
+                "probability": 0.1403
+            },
+            {
+                "guess": "Rhymesayers",
+                "probability": 0.0809
+            },
+            {
+                "guess": "I do not have access",
+                "probability": 0.0148
+            },
+            {
+                "guess": "Rhyme & Reason (",
+                "probability": 0.0075
+            },
+            {
+                "guess": " RCA Records",
+                "probability": 0.0032
+            },
+            {
+                "guess": "Maverick",
+                "probability": 0.0003
+            },
+            {
+                "guess": "Geffen",
+                "probability": 0.0001
+            }
+        ]
+    },
+    {
+        "question": "What music label is They're Only Chasing Safety represented by?",
+        "answer": "Solid State Records",
+        "guesses": [
+            {
+                "guess": "Solid State Records",
+                "probability": 0.4646
+            },
+            {
+                "guess": "Solid State Records.",
+                "probability": 0.4098
+            }
+        ]
+    },
+    {
+        "question": "What music label is Light Years Away represented by?",
+        "answer": "Prism Records",
+        "guesses": [
+            {
+                "guess": "I am unable to verify",
+                "probability": 0.0826
+            },
+            {
+                "guess": "I do not have access",
+                "probability": 0.0698
+            },
+            {
+                "guess": "I do not have information",
+                "probability": 0.0549
+            },
+            {
+                "guess": "I don't have any",
+                "probability": 0.0303
+            },
+            {
+                "guess": "I don't have access",
+                "probability": 0.028
+            },
+            {
+                "guess": "I couldn't verify which",
+                "probability": 0.0164
+            },
+            {
+                "guess": "Universal",
+                "probability": 0.0048
+            }
+        ]
+    },
+    {
+        "question": "What music label is Split represented by?",
+        "answer": "Stardumb Records",
+        "guesses": [
+            {
+                "guess": "Universal Music Group",
+                "probability": 0.1929
+            },
+            {
+                "guess": "Independent",
+                "probability": 0.0486
+            },
+            {
+                "guess": "Lava Records",
+                "probability": 0.0252
+            },
+            {
+                "guess": "Lethal Theory",
+                "probability": 0.0124
+            },
+            {
+                "guess": "Lava Records and Republic",
+                "probability": 0.0087
+            },
+            {
+                "guess": "Inner Ear Records",
+                "probability": 0.0032
+            },
+            {
+                "guess": "There isn't enough information",
+                "probability": 0.001
+            },
+            {
+                "guess": "I cant provide the music",
+                "probability": 0.0
+            },
+            {
+                "guess": "Laboratory  and ",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "What music label is Valerie Wellington represented by?",
+        "answer": "Flying Fish Records",
+        "guesses": [
+            {
+                "guess": "Alligator Records",
+                "probability": 0.6913
+            },
+            {
+                "guess": "Earwig Music",
+                "probability": 0.1395
+            },
+            {
+                "guess": "Earwig",
+                "probability": 0.1008
+            },
+            {
+                "guess": "Earwig Records",
+                "probability": 0.0041
+            }
+        ]
+    },
+    {
+        "question": "What music label is Trailer Trash Tracys represented by?",
+        "answer": "Domino Recording Company",
+        "guesses": [
+            {
+                "guess": "Double Denim Records",
+                "probability": 0.4527
+            },
+            {
+                "guess": "Double Six Records",
+                "probability": 0.3201
+            },
+            {
+                "guess": "Double Denim",
+                "probability": 0.0161
+            }
+        ]
+    },
+    {
+        "question": "What music label is Gather in the Mushrooms represented by?",
+        "answer": "Pye Records",
+        "guesses": [
+            {
+                "guess": "Decca Records",
+                "probability": 0.1709
+            },
+            {
+                "guess": "Liberty Records",
+                "probability": 0.1022
+            },
+            {
+                "guess": "I am unable to verify",
+                "probability": 0.0453
+            },
+            {
+                "guess": "Deram Records",
+                "probability": 0.0133
+            },
+            {
+                "guess": "I was unable to verify",
+                "probability": 0.0001
+            }
+        ]
+    },
+    {
+        "question": "What music label is Ridel High represented by?",
+        "answer": "A&M Records",
+        "guesses": [
+            {
+                "guess": "Epitaph Records",
+                "probability": 0.0555
+            },
+            {
+                "guess": "I don't have any",
+                "probability": 0.0327
+            },
+            {
+                "guess": "I couldn't verify the",
+                "probability": 0.0263
+            },
+            {
+                "guess": "I couldn't verify what",
+                "probability": 0.0124
+            },
+            {
+                "guess": "I do not know the",
+                "probability": 0.0024
+            },
+            {
+                "guess": "Tha Alumni",
+                "probability": 0.0013
+            },
+            {
+                "guess": "I could not find what",
+                "probability": 0.0007
+            },
+            {
+                "guess": "EMI Records",
+                "probability": 0.0004
+            },
+            {
+                "guess": "I cannot confirm the music",
+                "probability": 0.0003
+            },
+            {
+                "guess": "Unknown label",
+                "probability": 0.0002
+            }
+        ]
+    },
+    {
+        "question": "What music label is I, Jonathan represented by?",
+        "answer": "Rounder Records",
+        "guesses": [
+            {
+                "guess": "Matador Records",
+                "probability": 0.4432
+            },
+            {
+                "guess": "Matador",
+                "probability": 0.0541
+            },
+            {
+                "guess": "Matador Records and Domino",
+                "probability": 0.0301
+            }
+        ]
+    },
+    {
+        "question": "What music label is Under the Milky Way represented by?",
+        "answer": "Mushroom Records",
+        "guesses": [
+            {
+                "guess": "Arista Records and",
+                "probability": 0.2828
+            },
+            {
+                "guess": "Arista Records",
+                "probability": 0.1402
+            },
+            {
+                "guess": "Arista",
+                "probability": 0.1142
+            },
+            {
+                "guess": "Arista Records,",
+                "probability": 0.0875
+            },
+            {
+                "guess": "Arista and Ar",
+                "probability": 0.0346
+            },
+            {
+                "guess": "Arista Records.",
+                "probability": 0.0189
+            },
+            {
+                "guess": "Artera, Sub Pop",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "What music label is Soft and Beautiful represented by?",
+        "answer": "Columbia Records",
+        "guesses": [
+            {
+                "guess": "Stax",
+                "probability": 0.286
+            },
+            {
+                "guess": "Stax Records",
+                "probability": 0.1821
+            },
+            {
+                "guess": "Denon Records",
+                "probability": 0.1001
+            },
+            {
+                "guess": "Independent",
+                "probability": 0.0615
+            },
+            {
+                "guess": "Brunswick",
+                "probability": 0.0223
+            },
+            {
+                "guess": "I couldn't find any",
+                "probability": 0.0059
+            },
+            {
+                "guess": "I don't have access",
+                "probability": 0.002
+            }
+        ]
+    },
+    {
+        "question": "What music label is The Aquarium represented by?",
+        "answer": "Dischord Records",
+        "guesses": [
+            {
+                "guess": "Dischord Records",
+                "probability": 0.847
+            },
+            {
+                "guess": "Dischord Records.",
+                "probability": 0.1115
+            }
+        ]
+    },
+    {
+        "question": "What music label is Yes Sir, I Can Boogie represented by?",
+        "answer": "RCA Records",
+        "guesses": [
+            {
+                "guess": "Sony Music",
+                "probability": 0.4007
+            },
+            {
+                "guess": "RCA Records",
+                "probability": 0.0675
+            },
+            {
+                "guess": "Sony",
+                "probability": 0.0632
+            },
+            {
+                "guess": "Sony/ATV Music",
+                "probability": 0.0349
+            },
+            {
+                "guess": "Epic Records",
+                "probability": 0.0179
+            },
+            {
+                "guess": "EMI",
+                "probability": 0.014
+            },
+            {
+                "guess": "Vale Music  under",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "What music label is Larry Harlow represented by?",
+        "answer": "Fania Records",
+        "guesses": [
+            {
+                "guess": "Fania Records",
+                "probability": 0.7967
+            }
+        ]
+    },
+    {
+        "question": "What music label is Here I Go Again represented by?",
+        "answer": "Parlophone",
+        "guesses": [
+            {
+                "guess": "Geffen Records and",
+                "probability": 0.066
+            },
+            {
+                "guess": "EMI",
+                "probability": 0.045
+            },
+            {
+                "guess": "EMI Records and Ge",
+                "probability": 0.0409
+            },
+            {
+                "guess": "EMI, Geffen",
+                "probability": 0.0379
+            },
+            {
+                "guess": "Geffen Records,",
+                "probability": 0.0343
+            },
+            {
+                "guess": "EMI, and Ge",
+                "probability": 0.0204
+            },
+            {
+                "guess": "Parlophone and ",
+                "probability": 0.009
+            },
+            {
+                "guess": "Parlophone",
+                "probability": 0.0062
+            },
+            {
+                "guess": "Parlophone and E",
+                "probability": 0.0008
+            }
+        ]
+    },
+    {
+        "question": "What music label is Constant Future represented by?",
+        "answer": "Jagjaguwar",
+        "guesses": [
+            {
+                "guess": "Jagjaguwar",
+                "probability": 0.8587
+            },
+            {
+                "guess": "Sorry, I am unable",
+                "probability": 0.0055
+            }
+        ]
+    },
+    {
+        "question": "What music label is Yeah! Meccha Holiday represented by?",
+        "answer": "Zetima",
+        "guesses": [
+            {
+                "guess": "Avex",
+                "probability": 0.4103
+            },
+            {
+                "guess": "Avex Trax",
+                "probability": 0.2397
+            },
+            {
+                "guess": "Toy's Factory",
+                "probability": 0.0809
+            },
+            {
+                "guess": "Epic Records Japan",
+                "probability": 0.0012
+            }
+        ]
+    },
+    {
+        "question": "What music label is No Me Queda M\u00e1s represented by?",
+        "answer": "Capitol Latin",
+        "guesses": [
+            {
+                "guess": "EMI Latin",
+                "probability": 0.8067
+            },
+            {
+                "guess": "EMI Latin, then",
+                "probability": 0.0188
+            }
+        ]
+    },
+    {
+        "question": "What music label is Romeo and Juliet represented by?",
+        "answer": "RCA Records",
+        "guesses": [
+            {
+                "guess": "No Fear Records",
+                "probability": 0.1893
+            },
+            {
+                "guess": "No music label",
+                "probability": 0.0893
+            },
+            {
+                "guess": "There is no music label",
+                "probability": 0.06
+            },
+            {
+                "guess": "EMI",
+                "probability": 0.0178
+            },
+            {
+                "guess": "Virgin Records",
+                "probability": 0.0123
+            },
+            {
+                "guess": "Chappell & Co",
+                "probability": 0.0058
+            }
+        ]
+    },
+    {
+        "question": "What music label is Sjukdom represented by?",
+        "answer": "Prophecy Productions",
+        "guesses": [
+            {
+                "guess": "Osmose Productions",
+                "probability": 0.4494
+            },
+            {
+                "guess": "Sorry, but I do",
+                "probability": 0.0352
+            },
+            {
+                "guess": "Sorry, I do not",
+                "probability": 0.0271
+            },
+            {
+                "guess": "Sorry, I cannot verify",
+                "probability": 0.0111
+            },
+            {
+                "guess": "I couldn't verify which",
+                "probability": 0.0076
+            }
+        ]
+    },
+    {
+        "question": "What music label is Tristeza represented by?",
+        "answer": "Better Looking Records",
+        "guesses": [
+            {
+                "guess": "Better Looking Records",
+                "probability": 0.8484
+            }
+        ]
+    },
+    {
+        "question": "What music label is Hole in the Sun represented by?",
+        "answer": "Frontiers Records",
+        "guesses": [
+            {
+                "guess": "Bad Taste",
+                "probability": 0.0304
+            },
+            {
+                "guess": "I do not have information",
+                "probability": 0.0179
+            },
+            {
+                "guess": "I do not have any",
+                "probability": 0.017
+            },
+            {
+                "guess": "I do not have the",
+                "probability": 0.0103
+            },
+            {
+                "guess": "Spinefarm",
+                "probability": 0.0049
+            },
+            {
+                "guess": "I couldn't find that",
+                "probability": 0.0026
+            },
+            {
+                "guess": "Liberation Records",
+                "probability": 0.0017
+            },
+            {
+                "guess": "TBA",
+                "probability": 0.0009
+            },
+            {
+                "guess": "Samurai Artist and Sell",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "What music label is Jerry Jaye represented by?",
+        "answer": "Columbia Records",
+        "guesses": [
+            {
+                "guess": "Hi Records",
+                "probability": 0.8588
+            }
+        ]
+    },
+    {
+        "question": "What music label is Civil War represented by?",
+        "answer": "Fat Wreck Chords",
+        "guesses": [
+            {
+                "guess": "Napalm Records",
+                "probability": 0.6875
+            },
+            {
+                "guess": "Napalm Records.",
+                "probability": 0.3191
+            }
+        ]
+    },
+    {
+        "question": "What music label is SYR5 represented by?",
+        "answer": "Sonic Youth Recordings",
+        "guesses": [
+            {
+                "guess": "Sonic Youth Recordings",
+                "probability": 0.5148
+            },
+            {
+                "guess": "SYR Records",
+                "probability": 0.3899
+            },
+            {
+                "guess": "Syr Records",
+                "probability": 0.0363
+            },
+            {
+                "guess": "Syr, or ",
+                "probability": 0.0033
+            }
+        ]
+    },
+    {
+        "question": "What music label is Classic Queen represented by?",
+        "answer": "Hollywood Records",
+        "guesses": [
+            {
+                "guess": "Hollywood Records.",
+                "probability": 0.6093
+            },
+            {
+                "guess": "Hollywood Records",
+                "probability": 0.3849
+            }
+        ]
+    },
+    {
+        "question": "What music label is Do Nothing 'til You Hear from Me represented by?",
+        "answer": "Riverside Records",
+        "guesses": [
+            {
+                "guess": "Bluebird Records",
+                "probability": 0.2973
+            },
+            {
+                "guess": "Blue Note Records",
+                "probability": 0.1362
+            },
+            {
+                "guess": "Warner Bros. Records",
+                "probability": 0.015
+            },
+            {
+                "guess": "RCA Records",
+                "probability": 0.0134
+            },
+            {
+                "guess": "Verve",
+                "probability": 0.0116
+            }
+        ]
+    },
+    {
+        "question": "What music label is Lucid Interval represented by?",
+        "answer": "Relapse Records",
+        "guesses": [
+            {
+                "guess": "Relapse Records",
+                "probability": 0.7061
+            },
+            {
+                "guess": "Earache Records",
+                "probability": 0.3628
+            },
+            {
+                "guess": "Roadrunner Records",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "What music label is Numbers represented by?",
+        "answer": "Cracker Barrel",
+        "guesses": [
+            {
+                "guess": "Rinse",
+                "probability": 0.2871
+            },
+            {
+                "guess": "LuckyMe",
+                "probability": 0.1117
+            },
+            {
+                "guess": "Because Music",
+                "probability": 0.0634
+            },
+            {
+                "guess": " Warp Records",
+                "probability": 0.019
+            },
+            {
+                "guess": "Glasgow-based label",
+                "probability": 0.0026
+            }
+        ]
+    },
+    {
+        "question": "What music label is Return to the Past represented by?",
+        "answer": "Lance King",
+        "guesses": [
+            {
+                "guess": "I don't have any",
+                "probability": 0.1314
+            },
+            {
+                "guess": "I do not have information",
+                "probability": 0.0506
+            },
+            {
+                "guess": "I cannot verify the music",
+                "probability": 0.0426
+            },
+            {
+                "guess": "I do not have any",
+                "probability": 0.0288
+            },
+            {
+                "guess": "I couldn't verify what",
+                "probability": 0.0266
+            },
+            {
+                "guess": "I do not have access",
+                "probability": 0.0254
+            },
+            {
+                "guess": "I can't verify the",
+                "probability": 0.0042
+            },
+            {
+                "guess": "I couldn't find information",
+                "probability": 0.0036
+            },
+            {
+                "guess": "I'm unable to verify",
+                "probability": 0.002
+            },
+            {
+                "guess": "I cannot verify Return to",
+                "probability": 0.0013
+            }
+        ]
+    },
+    {
+        "question": "What music label is Hardcore Jollies represented by?",
+        "answer": "Warner Bros. Records",
+        "guesses": [
+            {
+                "guess": "Warner Bros",
+                "probability": 0.2123
+            },
+            {
+                "guess": "I am unable to verify",
+                "probability": 0.0773
+            },
+            {
+                "guess": "Warner Bros Records",
+                "probability": 0.051
+            },
+            {
+                "guess": "I do not have access",
+                "probability": 0.0406
+            },
+            {
+                "guess": "Stax Records",
+                "probability": 0.0312
+            }
+        ]
+    },
+    {
+        "question": "What music label is Strangeland represented by?",
+        "answer": "Island Records",
+        "guesses": [
+            {
+                "guess": "Strange Music",
+                "probability": 0.4797
+            },
+            {
+                "guess": "Psychopathic Records",
+                "probability": 0.4425
+            },
+            {
+                "guess": "Psychopathic Records.",
+                "probability": 0.0397
+            }
+        ]
+    },
+    {
+        "question": "What music label is Dehumanizer represented by?",
+        "answer": "Polydor Records",
+        "guesses": [
+            {
+                "guess": "Reprise Records",
+                "probability": 0.3818
+            },
+            {
+                "guess": "Reprise",
+                "probability": 0.1369
+            },
+            {
+                "guess": "Reprise and  E",
+                "probability": 0.0456
+            },
+            {
+                "guess": "Reprise Records, ",
+                "probability": 0.0419
+            },
+            {
+                "guess": "Reprise Records and ",
+                "probability": 0.038
+            },
+            {
+                "guess": "Reprise Records and also",
+                "probability": 0.0294
+            },
+            {
+                "guess": "Reprise,  E",
+                "probability": 0.028
+            }
+        ]
+    },
+    {
+        "question": "What music label is Dimanches \u00e0 l'\u00c9lys\u00e9e represented by?",
+        "answer": "Barclay",
+        "guesses": [
+            {
+                "guess": "I am unable to verify",
+                "probability": 0.0344
+            },
+            {
+                "guess": "I do not have access",
+                "probability": 0.0317
+            },
+            {
+                "guess": "Erato",
+                "probability": 0.0278
+            },
+            {
+                "guess": "CBS Disques",
+                "probability": 0.0207
+            },
+            {
+                "guess": "EMI",
+                "probability": 0.0185
+            },
+            {
+                "guess": "I don't have information",
+                "probability": 0.0082
+            },
+            {
+                "guess": "I couldn't find any",
+                "probability": 0.0054
+            },
+            {
+                "guess": "Can't find any information",
+                "probability": 0.0003
+            }
+        ]
+    },
+    {
+        "question": "What music label is Naty Botero represented by?",
+        "answer": "Sony BMG",
+        "guesses": [
+            {
+                "guess": "Sony Music Colombia",
+                "probability": 0.3137
+            },
+            {
+                "guess": "EMI",
+                "probability": 0.2932
+            },
+            {
+                "guess": "Sony Music Colombia, E",
+                "probability": 0.0779
+            },
+            {
+                "guess": "EMI Latin",
+                "probability": 0.0689
+            },
+            {
+                "guess": "Sony Music Colombia and E",
+                "probability": 0.045
+            },
+            {
+                "guess": "Epsa Music",
+                "probability": 0.0344
+            },
+            {
+                "guess": "Sony Music",
+                "probability": 0.0192
+            }
+        ]
+    },
+    {
+        "question": "What music label is Metamorphosis represented by?",
+        "answer": "ABKCO Records",
+        "guesses": [
+            {
+                "guess": "BMG Rights Management",
+                "probability": 0.2353
+            },
+            {
+                "guess": "BMG",
+                "probability": 0.1648
+            },
+            {
+                "guess": "Universal",
+                "probability": 0.0544
+            },
+            {
+                "guess": "I do not have information",
+                "probability": 0.0364
+            },
+            {
+                "guess": "I do not have access",
+                "probability": 0.0281
+            },
+            {
+                "guess": "I'm sorry but I",
+                "probability": 0.0027
+            },
+            {
+                "guess": "Oreade Music",
+                "probability": 0.0002
+            },
+            {
+                "guess": "No info on label found",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "What music label is Life Sentence to Love represented by?",
+        "answer": "MCA Records",
+        "guesses": [
+            {
+                "guess": "I couldn't verify the",
+                "probability": 0.0366
+            },
+            {
+                "guess": "I do not have access",
+                "probability": 0.0358
+            },
+            {
+                "guess": "Epitaph",
+                "probability": 0.0283
+            },
+            {
+                "guess": "I was unable to verify",
+                "probability": 0.0104
+            },
+            {
+                "guess": "I cannot verify the music",
+                "probability": 0.0098
+            },
+            {
+                "guess": "I could not verify the",
+                "probability": 0.0093
+            },
+            {
+                "guess": "Third Man Records",
+                "probability": 0.0034
+            }
+        ]
+    },
+    {
+        "question": "What music label is Platitude represented by?",
+        "answer": "Scarlet Records",
+        "guesses": [
+            {
+                "guess": "Scarlet Records",
+                "probability": 0.4287
+            },
+            {
+                "guess": "Seventh Records",
+                "probability": 0.1361
+            },
+            {
+                "guess": " Scarlet Records",
+                "probability": 0.125
+            },
+            {
+                "guess": "Nightingale Records",
+                "probability": 0.094
+            }
+        ]
+    }
+]

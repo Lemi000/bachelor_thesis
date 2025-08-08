@@ -2,9 +2,10 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import json
 
-num = 264
+num = 26
+format = ".x" # "" for CS format, ".x" for QA format
 
-#makes csv file with precision, recall and f1 for both 2 guesses
+# makes csv file with precision, recall and f1 for both 2 guesses
 '''
 path = "llama_31_8b"
 with open(f'evaluation/P{num}.{path}.json', mode='r', encoding='utf-8') as input_file:
@@ -51,7 +52,7 @@ with open(f'evaluation/P{num}.{path}.json', mode='r', encoding='utf-8') as input
 
 
 #make list with guess1 and list with guess2 for all 4 models
-with open(f'evaluation/P{num}.llama_32_3b.x.json', mode='r', encoding='utf-8') as l3b_file, open(f'evaluation/P{num}.llama_31_8b.x.json', mode='r', encoding='utf-8') as l8b_file, open(f'evaluation/P{num}.llama_31_70b.x.json', mode='r', encoding='utf-8') as l70b_file, open(f'evaluation/P{num}.llama_31_405b.x.json', mode='r', encoding='utf-8') as l405b_file:
+with open(f'evaluation/P{num}.llama_32_3b{format}.json', mode='r', encoding='utf-8') as l3b_file, open(f'evaluation/P{num}.llama_31_8b{format}.json', mode='r', encoding='utf-8') as l8b_file, open(f'evaluation/P{num}.llama_31_70b{format}.json', mode='r', encoding='utf-8') as l70b_file, open(f'evaluation/P{num}.llama_31_405b{format}.json', mode='r', encoding='utf-8') as l405b_file:
     l3b = json.load(l3b_file)
     l8b = json.load(l8b_file)
     l70b = json.load(l70b_file)
@@ -100,7 +101,6 @@ for a,b,c,d in zip(l3b, l8b, l70b, l405b):
 def top2Plot():
     plt.scatter(range(1,51), list3, s=20, label="Top Prediction")
     plt.scatter(range(1,51), list3_2, s=20, label="Second Prediction")
-    plt.title(f"P{num} Llama 3.2 3B:\nBERTScore F1 Evaluation of Top 2 Probable Predictions in QA Format")
     plt.xlabel("Question Index")
     plt.ylabel("F1 Score")
     plt.legend()
@@ -114,13 +114,13 @@ def ratePlot():
     for x in model_list:
         x = list(filter(lambda y: y is not None and y >= 0.8, x))
         count.append(len(x)/50)
-
-    plt.bar(model_name_list, count, color = ['red', 'red', 'orange', 'orange', 'green', 'green', 'blue', 'blue'])
-    plt.title(f"P{num}; BERTScore F1 ≥ 0.8 Prediction Rate in QA Format")
+        
+    '''plt.bar(model_name_list, count, color = ['red', 'red', 'orange', 'orange', 'green', 'green', 'blue', 'blue'])
     plt.xlabel("Model Name")
     plt.ylabel("Proportion of Predictions")
     plt.ylim(0,0.8)
-    plt.savefig(f'plot/rate/P{num}.x.png', dpi=300)
+    plt.savefig(f'plot/rate/P{num}.x.png', dpi=300)'''
+    print(count)
 
 
 #bar plot on the number of f1 >=0.8 of guess1 depending on the gap of probabilities between guess1 and guess2
@@ -178,11 +178,19 @@ def gapPlot():
     for x, y in zip(count, countf1):
         y_axis.append(y/x if y != 0 else None)
     plt.scatter(x_axis, y_axis, color='blue')
-    plt.title(f"P{num} Llama 3.1 405B: Proportion of Predictions with F1 ≥ 0.8 vs.\nTop-Second Probability Gap")
     plt.xlabel("Gap between Top and Second Prediction")
     plt.ylabel("Proportion of Predictions (F1 ≥ 0.8)")
     plt.savefig(f'plot/gap/P{num}.llama_31_405b.png', dpi=300)
 
+def check():
+    for i in range(len(model_list)//2):
+        j = 1
+        for first, second in zip(model_list[i*2], model_list[i*2+1]):
+            if first is not None and first >= 0.8 and second is not None and second >= 0.8:
+                print(i," ", j, " ", first, " ", second)
+            j+=1
+
 #top2Plot()
 #ratePlot()
 #gapPlot()
+check()

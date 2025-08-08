@@ -1,14 +1,14 @@
 import json
-from bert_score import BERTScorer
+#from bert_score import BERTScorer
 
 #make json file with top 2 probable predictions with averaged out probability from json file with sampled predictions 
-def average(num, path):
-    scorer = BERTScorer(model_type='bert-base-uncased')
-    with open(f'outputs/P{num}.{path}.sample.x.json', mode='r', encoding='utf-8') as input_file:
+def average(num, path, format):
+    #scorer = BERTScorer(model_type='bert-base-uncased')
+    with open(f'outputs/P{num}.{path}.sample{format}.json', mode='r', encoding='utf-8') as input_file:
         input_data = json.load(input_file)
         output_data = []
 
-        with open (f'outputs/P{num}.{path}.top2.x.json', mode='w', encoding='utf-8') as output_file:
+        with open (f'outputs/P{num}.{path}.ave{format}.json', mode='w', encoding='utf-8') as output_file:
             for entry in input_data:
                 question = entry['question']
                 answer = entry['answer']
@@ -39,13 +39,14 @@ def average(num, path):
                                         'probability': prob})
                 
                 guesses = sorted(guesses, key=lambda x: x['probability'], reverse=True)
-                while len(guesses) > 1:
+
+                '''while len(guesses) > 1:
                     score = scorer.score([guesses[0]['guess']], [guesses[1]['guess']])[2].mean().item()
                     if score >= 0.8:
                         guesses.pop(1)
                     else:
                         guesses = guesses[:2]
-                        break
+                        break'''
                     
                 data = {'question': question,
                         'answer': answer,

@@ -1,0 +1,914 @@
+[
+    {
+        "question": "Who is Gwladys married to?",
+        "answer": "Gwynllyw",
+        "guesses": [
+            {
+                "guess": "I don't have information",
+                "probability": 0.0998
+            },
+            {
+                "guess": "I don't have any",
+                "probability": 0.0865
+            },
+            {
+                "guess": "I do not have information",
+                "probability": 0.0443
+            },
+            {
+                "guess": "I do not have enough",
+                "probability": 0.0345
+            },
+            {
+                "guess": "Raymond  or ",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "Who is Se\u00e1n Gleeson married to?",
+        "answer": "Stirling Gallacher",
+        "guesses": [
+            {
+                "guess": "Stirling Gallacher",
+                "probability": 0.9029
+            }
+        ]
+    },
+    {
+        "question": "Who is Annette Vadim married to?",
+        "answer": "Roger Vadim",
+        "guesses": [
+            {
+                "guess": "Christian Vadim",
+                "probability": 0.2377
+            },
+            {
+                "guess": "Annette Vadim was",
+                "probability": 0.1295
+            },
+            {
+                "guess": "Christian Vadim and then",
+                "probability": 0.0243
+            },
+            {
+                "guess": "Christian Vadim is An",
+                "probability": 0.0047
+            },
+            {
+                "guess": "Not married, Annette",
+                "probability": 0.0002
+            }
+        ]
+    },
+    {
+        "question": "Who is Tiffany Grant married to?",
+        "answer": "Matt Greenfield",
+        "guesses": [
+            {
+                "guess": "Craig Walsh",
+                "probability": 0.539
+            },
+            {
+                "guess": "Matt Greenfield",
+                "probability": 0.3039
+            },
+            {
+                "guess": "Craig Walsh.",
+                "probability": 0.0301
+            }
+        ]
+    },
+    {
+        "question": "Who is Michael Thomas married to?",
+        "answer": "Selina Cadell",
+        "guesses": [
+            {
+                "guess": "Lauren Thomas",
+                "probability": 0.3997
+            },
+            {
+                "guess": "Lauren Nichol Thomas",
+                "probability": 0.0303
+            },
+            {
+                "guess": "Lauren Grippo Thomas",
+                "probability": 0.0273
+            },
+            {
+                "guess": "Not Available",
+                "probability": 0.0261
+            },
+            {
+                "guess": "Lauren Tannehill",
+                "probability": 0.0184
+            },
+            {
+                "guess": "Married to Lauren Thomas",
+                "probability": 0.0079
+            },
+            {
+                "guess": "I cannot verify who Michael",
+                "probability": 0.0044
+            },
+            {
+                "guess": "Lauren McCrea",
+                "probability": 0.0005
+            }
+        ]
+    },
+    {
+        "question": "Who is Edward Albert married to?",
+        "answer": "Katherine Woodville",
+        "guesses": [
+            {
+                "guess": "Katherine Woodville",
+                "probability": 0.8412
+            }
+        ]
+    },
+    {
+        "question": "Who is Marichen Altenburg married to?",
+        "answer": "Knud Ibsen",
+        "guesses": [
+            {
+                "guess": "Johan Sebastian Welhaven",
+                "probability": 0.5124
+            },
+            {
+                "guess": "Johan Altenburg",
+                "probability": 0.331
+            },
+            {
+                "guess": "Henrik Wergeland",
+                "probability": 0.2227
+            },
+            {
+                "guess": "Johan Koren",
+                "probability": 0.0442
+            },
+            {
+                "guess": "Not Known",
+                "probability": 0.0001
+            }
+        ]
+    },
+    {
+        "question": "Who is Amanda Palmer married to?",
+        "answer": "Neil Gaiman",
+        "guesses": [
+            {
+                "guess": "Neil Gaiman",
+                "probability": 0.8378
+            },
+            {
+                "guess": "Neil Gaiman.",
+                "probability": 0.1824
+            }
+        ]
+    },
+    {
+        "question": "Who is Floyd Odlum married to?",
+        "answer": "Jacqueline Cochran",
+        "guesses": [
+            {
+                "guess": "Jacqueline Cochran",
+                "probability": 0.9907
+            }
+        ]
+    },
+    {
+        "question": "Who is Miles Davis married to?",
+        "answer": "Cicely Tyson",
+        "guesses": [
+            {
+                "guess": "Betty Mabry",
+                "probability": 0.3505
+            },
+            {
+                "guess": "Cicely Tyson,",
+                "probability": 0.2408
+            },
+            {
+                "guess": "Cicely Tyson",
+                "probability": 0.1214
+            },
+            {
+                "guess": "Three times to:\n\n1",
+                "probability": 0.0046
+            },
+            {
+                "guess": "Three times \n\n1.",
+                "probability": 0.0006
+            }
+        ]
+    },
+    {
+        "question": "Who is James Wong Howe married to?",
+        "answer": "Sanora Babb",
+        "guesses": [
+            {
+                "guess": "Sanora Babb",
+                "probability": 0.9443
+            }
+        ]
+    },
+    {
+        "question": "Who is Michael Wynn-Jones married to?",
+        "answer": "Delia Smith",
+        "guesses": [
+            {
+                "guess": "Carolyn Wynn-J",
+                "probability": 0.3343
+            },
+            {
+                "guess": "Alison Wynn-J",
+                "probability": 0.0335
+            },
+            {
+                "guess": "Carol Nash",
+                "probability": 0.0175
+            },
+            {
+                "guess": "Carolyn  (altern",
+                "probability": 0.0009
+            }
+        ]
+    },
+    {
+        "question": "Who is Neena Verma married to?",
+        "answer": "Vikram Verma",
+        "guesses": [
+            {
+                "guess": "Arunoday Singh",
+                "probability": 0.1649
+            },
+            {
+                "guess": "Arunoday Singh's",
+                "probability": 0.0712
+            },
+            {
+                "guess": "I do not have access",
+                "probability": 0.0643
+            },
+            {
+                "guess": "I am unable to verify",
+                "probability": 0.0407
+            },
+            {
+                "guess": "I don't have that",
+                "probability": 0.0052
+            },
+            {
+                "guess": "Arunodoyer Pr",
+                "probability": 0.0
+            }
+        ]
+    },
+    {
+        "question": "Who is George P. Putnam married to?",
+        "answer": "Amelia Earhart",
+        "guesses": [
+            {
+                "guess": "Amelia Earhart",
+                "probability": 0.8398
+            },
+            {
+                "guess": "Amelia Earhart.",
+                "probability": 0.1585
+            }
+        ]
+    },
+    {
+        "question": "Who is Chase Twichell married to?",
+        "answer": "Russell Banks",
+        "guesses": [
+            {
+                "guess": "Russell Banks",
+                "probability": 0.8735
+            }
+        ]
+    },
+    {
+        "question": "Who is Sheila MacRae married to?",
+        "answer": "Gordon MacRae",
+        "guesses": [
+            {
+                "guess": "Gordon MacRae",
+                "probability": 0.9553
+            }
+        ]
+    },
+    {
+        "question": "Who is Helena Lekapene married to?",
+        "answer": "Constantine VII",
+        "guesses": [
+            {
+                "guess": "Constantine IX Monom",
+                "probability": 0.4542
+            },
+            {
+                "guess": "Constantine VII",
+                "probability": 0.4135
+            },
+            {
+                "guess": "Stephen Lekapenos",
+                "probability": 0.0113
+            }
+        ]
+    },
+    {
+        "question": "Who is Robert Blake married to?",
+        "answer": "Bonnie Lee Bakley",
+        "guesses": [
+            {
+                "guess": "Bonnie Lee Bakley",
+                "probability": 0.6988
+            }
+        ]
+    },
+    {
+        "question": "Who is Lee Harvey Oswald married to?",
+        "answer": "Marina Oswald Porter",
+        "guesses": [
+            {
+                "guess": "Marina Prusak",
+                "probability": 0.5173
+            },
+            {
+                "guess": "Marina Nikolayev",
+                "probability": 0.442
+            }
+        ]
+    },
+    {
+        "question": "Who is Arnold Burgen married to?",
+        "answer": "Olga Kennard",
+        "guesses": [
+            {
+                "guess": "Olga Kennard",
+                "probability": 0.9632
+            }
+        ]
+    },
+    {
+        "question": "Who is Bruce Cabot married to?",
+        "answer": "Adrienne Ames",
+        "guesses": [
+            {
+                "guess": "Adrienne Ames",
+                "probability": 0.2892
+            },
+            {
+                "guess": "Gracy Mary Mather",
+                "probability": 0.0519
+            },
+            {
+                "guess": "Adrienne Ames,",
+                "probability": 0.0502
+            },
+            {
+                "guess": "Adrienne Ames and",
+                "probability": 0.0244
+            },
+            {
+                "guess": "Annette M. Cab",
+                "probability": 0.0033
+            },
+            {
+                "guess": "I don't have information",
+                "probability": 0.0033
+            }
+        ]
+    },
+    {
+        "question": "Who is Christian Krohg married to?",
+        "answer": "Oda Krohg",
+        "guesses": [
+            {
+                "guess": "Oda Krohg",
+                "probability": 0.8765
+            }
+        ]
+    },
+    {
+        "question": "Who is Mario Merz married to?",
+        "answer": "Marisa Merz",
+        "guesses": [
+            {
+                "guess": "Marisa Merz",
+                "probability": 0.8973
+            },
+            {
+                "guess": "Marianne Merz",
+                "probability": 0.0336
+            }
+        ]
+    },
+    {
+        "question": "Who is Elizabeth Bracco married to?",
+        "answer": "Aidan Quinn",
+        "guesses": [
+            {
+                "guess": "Aidan Quinn",
+                "probability": 0.9517
+            }
+        ]
+    },
+    {
+        "question": "Who is Princess Fengyi married to?",
+        "answer": "Gao Cheng",
+        "guesses": [
+            {
+                "guess": "Yongrong",
+                "probability": 0.1434
+            },
+            {
+                "guess": "Yongqi",
+                "probability": 0.1275
+            },
+            {
+                "guess": "I do not have information",
+                "probability": 0.0951
+            },
+            {
+                "guess": "I do not have access",
+                "probability": 0.0867
+            },
+            {
+                "guess": "Prince Yixuan",
+                "probability": 0.0217
+            },
+            {
+                "guess": "I couldn't verify who",
+                "probability": 0.0056
+            },
+            {
+                "guess": "I cannot verify who is",
+                "probability": 0.0021
+            },
+            {
+                "guess": "I'm not aware of",
+                "probability": 0.001
+            },
+            {
+                "guess": "Yongqi, Prince",
+                "probability": 0.0004
+            }
+        ]
+    },
+    {
+        "question": "Who is Jane Frazee married to?",
+        "answer": "Glenn Tryon",
+        "guesses": [
+            {
+                "guess": "Glenn Tryon",
+                "probability": 0.956
+            }
+        ]
+    },
+    {
+        "question": "Who is Goffredo Alessandrini married to?",
+        "answer": "Anna Magnani",
+        "guesses": [
+            {
+                "guess": "Anna Magnani",
+                "probability": 0.851
+            }
+        ]
+    },
+    {
+        "question": "Who is Patricia Medina married to?",
+        "answer": "Joseph Cotten",
+        "guesses": [
+            {
+                "guess": "Joseph Cotten",
+                "probability": 0.7361
+            },
+            {
+                "guess": "Joseph Cotten, then",
+                "probability": 0.1119
+            },
+            {
+                "guess": "Joseph Cotten and then",
+                "probability": 0.0111
+            }
+        ]
+    },
+    {
+        "question": "Who is Marie-Claude Vaillant-Couturier married to?",
+        "answer": "Pierre Villon",
+        "guesses": [
+            {
+                "guess": "Pierre Villon",
+                "probability": 0.4494
+            },
+            {
+                "guess": "Pierre Villon then",
+                "probability": 0.1937
+            },
+            {
+                "guess": "Christian  Pineau",
+                "probability": 0.0913
+            },
+            {
+                "guess": "Pierre Villon,",
+                "probability": 0.0586
+            }
+        ]
+    },
+    {
+        "question": "Who is Karen Gillmor married to?",
+        "answer": "Paul Gillmor",
+        "guesses": [
+            {
+                "guess": "Frank  Gillmor",
+                "probability": 0.2693
+            },
+            {
+                "guess": "Franklin County  Commissioner",
+                "probability": 0.0853
+            },
+            {
+                "guess": "Franklin  Gillmor",
+                "probability": 0.0805
+            },
+            {
+                "guess": "Franklin County Commissioner,",
+                "probability": 0.0351
+            },
+            {
+                "guess": "Frank  LaRose",
+                "probability": 0.0262
+            },
+            {
+                "guess": "Franklin County  Common",
+                "probability": 0.0222
+            },
+            {
+                "guess": "Franklin County Commissioner ",
+                "probability": 0.0132
+            },
+            {
+                "guess": "Franklin L. \"",
+                "probability": 0.0072
+            }
+        ]
+    },
+    {
+        "question": "Who is Suzanna Love married to?",
+        "answer": "Ulli Lommel",
+        "guesses": [
+            {
+                "guess": "Ulli Lommel",
+                "probability": 0.9853
+            }
+        ]
+    },
+    {
+        "question": "Who is Harry Shearer married to?",
+        "answer": "Judith Owen",
+        "guesses": [
+            {
+                "guess": "Judith Owen",
+                "probability": 0.9602
+            }
+        ]
+    },
+    {
+        "question": "Who is Gertrud Wilhelmine von Hindenburg married to?",
+        "answer": "Paul von Hindenburg",
+        "guesses": [
+            {
+                "guess": "Paul von Hindenburg",
+                "probability": 0.9282
+            }
+        ]
+    },
+    {
+        "question": "Who is Hu Jia married to?",
+        "answer": "Zeng Jinyan",
+        "guesses": [
+            {
+                "guess": "Zeng Jinyan",
+                "probability": 0.9996
+            }
+        ]
+    },
+    {
+        "question": "Who is Gerald Ford married to?",
+        "answer": "Betty Ford",
+        "guesses": [
+            {
+                "guess": "Betty Warren Ford",
+                "probability": 0.3639
+            },
+            {
+                "guess": "Elizabeth \"Betty\"",
+                "probability": 0.2464
+            },
+            {
+                "guess": "Elizabeth Bloomer Warren (",
+                "probability": 0.0768
+            }
+        ]
+    },
+    {
+        "question": "Who is Gary Morton married to?",
+        "answer": "Lucille Ball",
+        "guesses": [
+            {
+                "guess": "Lucille Ball",
+                "probability": 0.7637
+            },
+            {
+                "guess": "Lucille Ball.",
+                "probability": 0.1166
+            },
+            {
+                "guess": "Suzanne Somers",
+                "probability": 0.1004
+            }
+        ]
+    },
+    {
+        "question": "Who is Christian-Jaque married to?",
+        "answer": "Martine Carol",
+        "guesses": [
+            {
+                "guess": "Christian-Jaque was married",
+                "probability": 0.5589
+            },
+            {
+                "guess": "Simone Renant,",
+                "probability": 0.0385
+            },
+            {
+                "guess": "Denise Morlot then",
+                "probability": 0.0328
+            },
+            {
+                "guess": "Martine Carol",
+                "probability": 0.018
+            }
+        ]
+    },
+    {
+        "question": "Who is Luke Bullen married to?",
+        "answer": "KT Tunstall",
+        "guesses": [
+            {
+                "guess": "KT Tunstall",
+                "probability": 0.6261
+            },
+            {
+                "guess": "KT Tunstall.",
+                "probability": 0.1719
+            }
+        ]
+    },
+    {
+        "question": "Who is Caroline Matilda of Great Britain married to?",
+        "answer": "Christian VII of Denmark",
+        "guesses": [
+            {
+                "guess": "Christian VII of Denmark-N",
+                "probability": 0.7588
+            },
+            {
+                "guess": "King Christian VII of Denmark",
+                "probability": 0.2374
+            }
+        ]
+    },
+    {
+        "question": "Who is John Jay O'Connor married to?",
+        "answer": "Sandra Day O'Connor",
+        "guesses": [
+            {
+                "guess": "Sandra Day O'Connor",
+                "probability": 0.9931
+            }
+        ]
+    },
+    {
+        "question": "Who is Alice Mak married to?",
+        "answer": "Brian Tse",
+        "guesses": [
+            {
+                "guess": "Silas Chou",
+                "probability": 0.3052
+            },
+            {
+                "guess": "Silvio Wong",
+                "probability": 0.1242
+            },
+            {
+                "guess": "Silvia Wong",
+                "probability": 0.0939
+            },
+            {
+                "guess": "Joseph Wong",
+                "probability": 0.0377
+            },
+            {
+                "guess": "Silas Lee",
+                "probability": 0.032
+            },
+            {
+                "guess": "Silvia Chan's brother",
+                "probability": 0.0139
+            },
+            {
+                "guess": "Silvia Lee",
+                "probability": 0.005
+            },
+            {
+                "guess": "Silvia Wong's ex",
+                "probability": 0.0013
+            }
+        ]
+    },
+    {
+        "question": "Who is Ellaline Terriss married to?",
+        "answer": "Seymour Hicks",
+        "guesses": [
+            {
+                "guess": "Seymour Hicks",
+                "probability": 0.7031
+            },
+            {
+                "guess": "Seymour Hicks.",
+                "probability": 0.3467
+            }
+        ]
+    },
+    {
+        "question": "Who is Amal Clooney married to?",
+        "answer": "George Clooney",
+        "guesses": [
+            {
+                "guess": "George Clooney",
+                "probability": 0.5446
+            },
+            {
+                "guess": "George Clooney.",
+                "probability": 0.5215
+            }
+        ]
+    },
+    {
+        "question": "Who is Elpinice married to?",
+        "answer": "Callias II",
+        "guesses": [
+            {
+                "guess": "Cimon",
+                "probability": 0.4618
+            },
+            {
+                "guess": "Callias",
+                "probability": 0.3933
+            },
+            {
+                "guess": "Callias.",
+                "probability": 0.1808
+            }
+        ]
+    },
+    {
+        "question": "Who is Stewart Farrar married to?",
+        "answer": "Janet Farrar",
+        "guesses": [
+            {
+                "guess": "Janet Farrar",
+                "probability": 0.8506
+            }
+        ]
+    },
+    {
+        "question": "Who is Iffat Al-Thunayan married to?",
+        "answer": "Faisal of Saudi Arabia",
+        "guesses": [
+            {
+                "guess": "King Faisal of Saudi",
+                "probability": 0.7185
+            },
+            {
+                "guess": "King Fahd of Saudi",
+                "probability": 0.4018
+            },
+            {
+                "guess": "King Fahd",
+                "probability": 0.3591
+            },
+            {
+                "guess": "King Fahd.",
+                "probability": 0.0572
+            }
+        ]
+    },
+    {
+        "question": "Who is Nina Persson married to?",
+        "answer": "Nathan Larson",
+        "guesses": [
+            {
+                "guess": "Nathan Larson",
+                "probability": 0.6078
+            },
+            {
+                "guess": "Daniel Johansson",
+                "probability": 0.2984
+            },
+            {
+                "guess": "Daniel Johannesson",
+                "probability": 0.0226
+            },
+            {
+                "guess": "Daniel Johansson, then",
+                "probability": 0.0045
+            }
+        ]
+    },
+    {
+        "question": "Who is Paul Martin married to?",
+        "answer": "Sheila Martin",
+        "guesses": [
+            {
+                "guess": "Sheila Cowan",
+                "probability": 0.7991
+            },
+            {
+                "guess": "Sheila Cowan.",
+                "probability": 0.2231
+            }
+        ]
+    },
+    {
+        "question": "Who is Errikos Kontarinis married to?",
+        "answer": "Marika Nezer",
+        "guesses": [
+            {
+                "guess": "I cannot verify who Er",
+                "probability": 0.1444
+            },
+            {
+                "guess": "I don't have information",
+                "probability": 0.0685
+            },
+            {
+                "guess": "I do not have information",
+                "probability": 0.0675
+            },
+            {
+                "guess": "I do not have any",
+                "probability": 0.0596
+            },
+            {
+                "guess": "I don't have any",
+                "probability": 0.02
+            },
+            {
+                "guess": "I cant verify who Er",
+                "probability": 0.0007
+            },
+            {
+                "guess": "No information is available about",
+                "probability": 0.0001
+            }
+        ]
+    },
+    {
+        "question": "Who is Lucy Gallardo married to?",
+        "answer": "Enrique Rambal",
+        "guesses": [
+            {
+                "guess": "I cannot verify who Lucy",
+                "probability": 0.1409
+            },
+            {
+                "guess": "Guillermo Murray",
+                "probability": 0.1042
+            },
+            {
+                "guess": "I do not have access",
+                "probability": 0.1017
+            },
+            {
+                "guess": "I do not have information",
+                "probability": 0.0858
+            },
+            {
+                "guess": "I don't have information",
+                "probability": 0.0326
+            },
+            {
+                "guess": "I could not verify who",
+                "probability": 0.0236
+            },
+            {
+                "guess": "Lucy Gallardo is",
+                "probability": 0.0067
+            }
+        ]
+    }
+]

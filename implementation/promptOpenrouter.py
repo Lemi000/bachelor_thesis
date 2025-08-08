@@ -66,9 +66,9 @@ print(completion)
 '''
 
 #make json file with 10 predictions for each question
-def sample(num, model_name, path):
-    with open(f'dataset/test/P{num}.test.filter.x.json', mode='r', encoding='utf-8') as input_file:
-        with open(f'outputs/P{num}.{path}.sample.x.json', mode='w', encoding='utf-8') as output_file:
+def sample(num, model_name, path, format):
+    with open(f'dataset/test/P{num}.test.filter{format}.json', mode='r', encoding='utf-8') as input_file:
+        with open(f'outputs/P{num}.{path}.sample{format}.json', mode='w', encoding='utf-8') as output_file:
             input_data = json.load(input_file)
             output_data = []
             i=1

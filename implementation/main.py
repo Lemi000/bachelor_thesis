@@ -4,31 +4,48 @@ from average import average
 from evaluate import bertscore
 
 
-def main(num, model_name):
+def main(num, model_name, format):
     with open ('dataset/table.json', mode='r', encoding='utf-8') as table:
         data = json.load(table)
         for entry in data:
             if model_name == entry['name']:
                 code = entry['code']
                 path = entry['path']
-                #sample(num, code, path)
-                #average(num, path)
-                bertscore(num, path)
+                #sample(num, code, path, format)
+                average(num, path, format)
+                #bertscore(num, path, format)
                 break
 
-'''main(26, "META_LLAMA_32_3B")
-main(50, "META_LLAMA_32_3B")
-main(176, "META_LLAMA_32_3B")
-main(264, "META_LLAMA_32_3B")
-main(26, "META_LLAMA_31_8B")
-main(50, "META_LLAMA_31_8B")
-main(176, "META_LLAMA_31_8B")
-main(264, "META_LLAMA_31_8B")
-main(26, "META_LLAMA_31_70B")
-main(50, "META_LLAMA_31_70B")
-main(176, "META_LLAMA_31_70B")
-main(264, "META_LLAMA_31_70B")
-main(26, "META_LLAMA_31_405B")
-main(50, "META_LLAMA_31_405B")
-main(176, "META_LLAMA_31_405B")
-main(264, "META_LLAMA_31_405B")'''
+main(26, "META_LLAMA_32_3B", "")
+main(50, "META_LLAMA_32_3B", "")
+main(176, "META_LLAMA_32_3B", "")
+main(264, "META_LLAMA_32_3B", "")
+main(26, "META_LLAMA_31_8B", "")
+main(50, "META_LLAMA_31_8B", "")
+main(176, "META_LLAMA_31_8B", "")
+main(264, "META_LLAMA_31_8B", "")
+main(26, "META_LLAMA_31_70B", "")
+main(50, "META_LLAMA_31_70B", "")
+main(176, "META_LLAMA_31_70B", "")
+main(264, "META_LLAMA_31_70B", "")
+main(26, "META_LLAMA_31_405B", "")
+main(50, "META_LLAMA_31_405B", "")
+main(176, "META_LLAMA_31_405B", "")
+main(264, "META_LLAMA_31_405B", "")
+
+main(26, "META_LLAMA_32_3B", ".x")
+main(50, "META_LLAMA_32_3B", ".x")
+main(176, "META_LLAMA_32_3B", ".x")
+main(264, "META_LLAMA_32_3B", ".x")
+main(26, "META_LLAMA_31_8B", ".x")
+main(50, "META_LLAMA_31_8B", ".x")
+main(176, "META_LLAMA_31_8B", ".x")
+main(264, "META_LLAMA_31_8B", ".x")
+main(26, "META_LLAMA_31_70B", ".x")
+main(50, "META_LLAMA_31_70B", ".x")
+main(176, "META_LLAMA_31_70B", ".x")
+main(264, "META_LLAMA_31_70B", ".x")
+main(26, "META_LLAMA_31_405B", ".x")
+main(50, "META_LLAMA_31_405B", ".x")
+main(176, "META_LLAMA_31_405B", ".x")
+main(264, "META_LLAMA_31_405B", ".x")
