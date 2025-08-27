@@ -3,668 +3,980 @@
         "question": "Which company is German submarine U-506 produced by?",
         "answer": "Deutsche Werft",
         "guesses": [
-            {
-                "guess": "Kriegsmarine",
-                "probability": 0.45
-            }
+            [
+                {
+                    "guess": "Kriegsmarine",
+                    "probability": 0.45
+                },
+                {
+                    "guess": "Kriegsmarinew",
+                    "probability": 0.1852
+                }
+            ]
         ]
     },
     {
         "question": "Which company is SS Prinz Adalbert produced by?",
         "answer": "Bremer Vulkan",
         "guesses": [
-            {
-                "guess": "Deutsche Werft",
-                "probability": 0.1114
-            },
-            {
-                "guess": "Blohm+Voss",
-                "probability": 0.0961
-            }
+            [
+                {
+                    "guess": "Deutsche Werft",
+                    "probability": 0.1114
+                }
+            ],
+            [
+                {
+                    "guess": "Blohm+Voss",
+                    "probability": 0.0961
+                },
+                {
+                    "guess": "Blohm + Voss",
+                    "probability": 0.058
+                }
+            ]
         ]
     },
     {
         "question": "Which company is HMS H42 produced by?",
         "answer": "Armstrong Whitworth",
         "guesses": [
-            {
-                "guess": "BAE Systems",
-                "probability": 0.0179
-            },
-            {
-                "guess": "HMS H42 was",
-                "probability": 0.0131
-            }
+            [
+                {
+                    "guess": "BAE Systems",
+                    "probability": 0.0179
+                }
+            ],
+            [
+                {
+                    "guess": "HMS H42 was",
+                    "probability": 0.0131
+                }
+            ]
         ]
     },
     {
         "question": "Which company is PLZ-45 produced by?",
         "answer": "Norinco",
         "guesses": [
-            {
-                "guess": "Norinco",
-                "probability": 0.3223
-            },
-            {
-                "guess": "Qianwei",
-                "probability": 0.0025
-            }
+            [
+                {
+                    "guess": "Norinco",
+                    "probability": 0.3223
+                }
+            ],
+            [
+                {
+                    "guess": "Qianwei",
+                    "probability": 0.0025
+                }
+            ]
         ]
     },
     {
         "question": "Which company is Yamaha YZ250F produced by?",
         "answer": "Yamaha Motor Company",
         "guesses": [
-            {
-                "guess": "Yamaha",
-                "probability": 0.5558
-            },
-            {
-                "guess": "Yamaha Motor Company.",
-                "probability": 0.218
-            }
+            [
+                {
+                    "guess": "Yamaha",
+                    "probability": 0.5558
+                }
+            ],
+            [
+                {
+                    "guess": "Yamaha Motor Company.",
+                    "probability": 0.218
+                },
+                {
+                    "guess": "Yamaha Motor Company",
+                    "probability": 0.103
+                },
+                {
+                    "guess": "Yamaha Motor Co.,",
+                    "probability": 0.0976
+                },
+                {
+                    "guess": "Yamaha Motor Co.",
+                    "probability": 0.0976
+                }
+            ]
         ]
     },
     {
         "question": "Which company is Suzuki SV 650 produced by?",
         "answer": "Suzuki",
         "guesses": [
-            {
-                "guess": "Suzuki",
-                "probability": 0.6574
-            },
-            {
-                "guess": "Suzuki.",
-                "probability": 0.5493
-            }
+            [
+                {
+                    "guess": "Suzuki",
+                    "probability": 0.6574
+                },
+                {
+                    "guess": "Suzuki.",
+                    "probability": 0.5493
+                }
+            ]
         ]
     },
     {
         "question": "Which company is Una-class submarine produced by?",
         "answer": "Brodosplit",
         "guesses": [
-            {
-                "guess": "Rubin Design Bureau",
-                "probability": 0.0177
-            },
-            {
-                "guess": "Varshavsky Ship",
-                "probability": 0.0027
-            }
+            [
+                {
+                    "guess": "Rubin Design Bureau",
+                    "probability": 0.0177
+                }
+            ],
+            [
+                {
+                    "guess": "Varshavsky Ship",
+                    "probability": 0.0027
+                }
+            ]
         ]
     },
     {
         "question": "Which company is MV Chetzemoka produced by?",
         "answer": "Vigor Shipyards",
         "guesses": [
-            {
-                "guess": "MV Chetzemoka",
-                "probability": 0.0043
-            },
-            {
-                "guess": "Fincantieri",
-                "probability": 0.0034
-            }
+            [
+                {
+                    "guess": "MV Chetzemoka",
+                    "probability": 0.0043
+                }
+            ],
+            [
+                {
+                    "guess": "Fincantieri",
+                    "probability": 0.0034
+                }
+            ]
         ]
     },
     {
         "question": "Which company is BMW New Six produced by?",
         "answer": "Arman Ansari",
         "guesses": [
-            {
-                "guess": "BMW",
-                "probability": 0.7706
-            },
-            {
-                "guess": "BMW.",
-                "probability": 0.14
-            }
+            [
+                {
+                    "guess": "BMW",
+                    "probability": 0.7706
+                },
+                {
+                    "guess": "BMW.",
+                    "probability": 0.14
+                }
+            ]
         ]
     },
     {
         "question": "Which company is Panasonic Lumix DMC-FZ72 produced by?",
         "answer": "Panasonic Corporation",
         "guesses": [
-            {
-                "guess": "Panasonic",
-                "probability": 0.6895
-            }
+            [
+                {
+                    "guess": "Panasonic",
+                    "probability": 0.6895
+                },
+                {
+                    "guess": "Panasonic.",
+                    "probability": 0.5311
+                }
+            ]
         ]
     },
     {
         "question": "Which company is Aerocar produced by?",
         "answer": "Aerocar International",
         "guesses": [
-            {
-                "guess": "Aerocar Corporation",
-                "probability": 0.0456
-            },
-            {
-                "guess": "Mignet",
-                "probability": 0.0209
-            }
+            [
+                {
+                    "guess": "Aerocar Corporation",
+                    "probability": 0.0456
+                },
+                {
+                    "guess": "Aerocar Inc",
+                    "probability": 0.0429
+                },
+                {
+                    "guess": "Aerocar International",
+                    "probability": 0.0417
+                }
+            ],
+            [
+                {
+                    "guess": "Mignet",
+                    "probability": 0.0209
+                }
+            ]
         ]
     },
     {
         "question": "Which company is HMS Nairana produced by?",
         "answer": "John Brown & Company",
         "guesses": [
-            {
-                "guess": "Airfix",
-                "probability": 0.0562
-            },
-            {
-                "guess": "HMS Nairana",
-                "probability": 0.0541
-            }
+            [
+                {
+                    "guess": "Airfix",
+                    "probability": 0.0562
+                }
+            ],
+            [
+                {
+                    "guess": "HMS Nairana",
+                    "probability": 0.0541
+                }
+            ]
         ]
     },
     {
         "question": "Which company is Yamaha MT-01 produced by?",
         "answer": "Yamaha Motor Company",
         "guesses": [
-            {
-                "guess": "Yamaha",
-                "probability": 0.8801
-            }
+            [
+                {
+                    "guess": "Yamaha",
+                    "probability": 0.8801
+                }
+            ]
         ]
     },
     {
         "question": "Which company is RMS Mauretania produced by?",
         "answer": "Swan Hunter",
         "guesses": [
-            {
-                "guess": "Harland and Wolff.",
-                "probability": 0.3085
-            },
-            {
-                "guess": "Cunard Line",
-                "probability": 0.0326
-            }
+            [
+                {
+                    "guess": "Harland and Wolff.",
+                    "probability": 0.3085
+                },
+                {
+                    "guess": "Harland and Wolff",
+                    "probability": 0.2756
+                }
+            ],
+            [
+                {
+                    "guess": "Cunard Line",
+                    "probability": 0.0326
+                }
+            ]
         ]
     },
     {
         "question": "Which company is AIDAsol produced by?",
         "answer": "Meyer Werft",
         "guesses": [
-            {
-                "guess": "MSC Cruises",
-                "probability": 0.3134
-            },
-            {
-                "guess": "AIDA Cruises",
-                "probability": 0.1224
-            }
+            [
+                {
+                    "guess": "MSC Cruises",
+                    "probability": 0.3134
+                }
+            ],
+            [
+                {
+                    "guess": "AIDA Cruises",
+                    "probability": 0.1224
+                }
+            ]
         ]
     },
     {
         "question": "Which company is Panasonic Q produced by?",
         "answer": "Panasonic Corporation",
         "guesses": [
-            {
-                "guess": "Panasonic",
-                "probability": 0.7267
-            }
+            [
+                {
+                    "guess": "Panasonic",
+                    "probability": 0.7267
+                },
+                {
+                    "guess": "Panasonic.",
+                    "probability": 0.5044
+                }
+            ]
         ]
     },
     {
         "question": "Which company is MRWA A class produced by?",
         "answer": "Kitson and Company",
         "guesses": [
-            {
-                "guess": "Mazda",
-                "probability": 0.025
-            },
-            {
-                "guess": "Scania.",
-                "probability": 0.0072
-            }
+            [
+                {
+                    "guess": "Mazda",
+                    "probability": 0.025
+                }
+            ],
+            [
+                {
+                    "guess": "Scania.",
+                    "probability": 0.0072
+                }
+            ]
         ]
     },
     {
         "question": "Which company is Lotus Mark IX produced by?",
         "answer": "Lotus Cars",
         "guesses": [
-            {
-                "guess": "Lotus",
-                "probability": 0.7154
-            },
-            {
-                "guess": "Lotus.",
-                "probability": 0.1915
-            }
+            [
+                {
+                    "guess": "Lotus",
+                    "probability": 0.7154
+                },
+                {
+                    "guess": "Lotus.",
+                    "probability": 0.1915
+                }
+            ],
+            [
+                {
+                    "guess": "Rolls-Royce",
+                    "probability": 0.0573
+                }
+            ]
         ]
     },
     {
         "question": "Which company is Olympus \u00b5 1030 SW produced by?",
         "answer": "Olympus",
         "guesses": [
-            {
-                "guess": "Olympus",
-                "probability": 0.6684
-            },
-            {
-                "guess": "Olympus.",
-                "probability": 0.3369
-            }
+            [
+                {
+                    "guess": "Olympus",
+                    "probability": 0.6684
+                },
+                {
+                    "guess": "Olympus.",
+                    "probability": 0.3369
+                }
+            ]
         ]
     },
     {
         "question": "Which company is Yamaha Zuma 125 produced by?",
         "answer": "Yamaha Motor Company",
         "guesses": [
-            {
-                "guess": "Yamaha",
-                "probability": 0.8116
-            },
-            {
-                "guess": "Yamaha.",
-                "probability": 0.0909
-            }
+            [
+                {
+                    "guess": "Yamaha",
+                    "probability": 0.8116
+                },
+                {
+                    "guess": "Yamaha.",
+                    "probability": 0.0909
+                }
+            ]
         ]
     },
     {
         "question": "Which company is Mazda6 produced by?",
         "answer": "Mazda",
         "guesses": [
-            {
-                "guess": "Mazda",
-                "probability": 0.8762
-            }
+            [
+                {
+                    "guess": "Mazda",
+                    "probability": 0.8762
+                }
+            ]
         ]
     },
     {
         "question": "Which company is K class produced by?",
         "answer": "General Dynamics Electric Boat",
         "guesses": [
-            {
-                "guess": "Kawasaki",
-                "probability": 0.0765
-            },
-            {
-                "guess": "Siemens",
-                "probability": 0.0268
-            }
+            [
+                {
+                    "guess": "Kawasaki",
+                    "probability": 0.0765
+                }
+            ],
+            [
+                {
+                    "guess": "Siemens",
+                    "probability": 0.0268
+                }
+            ]
         ]
     },
     {
         "question": "Which company is JNR Class ED75 produced by?",
         "answer": "Toshiba",
         "guesses": [
-            {
-                "guess": "Japanese National Railways (",
-                "probability": 0.1402
-            },
-            {
-                "guess": "East Japan Railway Company",
-                "probability": 0.1389
-            }
+            [
+                {
+                    "guess": "Japanese National Railways (",
+                    "probability": 0.1402
+                },
+                {
+                    "guess": "Japanese National Railways",
+                    "probability": 0.1266
+                },
+                {
+                    "guess": "Japanese National Railways.",
+                    "probability": 0.0584
+                },
+                {
+                    "guess": "Japan National Railways (",
+                    "probability": 0.0501
+                },
+                {
+                    "guess": "Japanese National Railways/J",
+                    "probability": 0.0001
+                }
+            ],
+            [
+                {
+                    "guess": "East Japan Railway Company",
+                    "probability": 0.1389
+                },
+                {
+                    "guess": "East Japan Railway Company (",
+                    "probability": 0.043
+                }
+            ]
         ]
     },
     {
         "question": "Which company is Texas and New Orleans 975 produced by?",
         "answer": "American Locomotive Company",
         "guesses": [
-            {
-                "guess": "Seagram's",
-                "probability": 0.0416
-            },
-            {
-                "guess": "Texas and New Orleans",
-                "probability": 0.0122
-            }
+            [
+                {
+                    "guess": "Seagram's",
+                    "probability": 0.0416
+                }
+            ],
+            [
+                {
+                    "guess": "Texas and New Orleans",
+                    "probability": 0.0122
+                }
+            ]
         ]
     },
     {
         "question": "Which company is HMS Dragon produced by?",
         "answer": "Cammell Laird",
         "guesses": [
-            {
-                "guess": "BAE Systems",
-                "probability": 0.2612
-            },
-            {
-                "guess": "BMT Defence Services",
-                "probability": 0.0514
-            }
+            [
+                {
+                    "guess": "BAE Systems",
+                    "probability": 0.2612
+                },
+                {
+                    "guess": "BAE Systems.",
+                    "probability": 0.028
+                }
+            ],
+            [
+                {
+                    "guess": "BMT Defence Services",
+                    "probability": 0.0514
+                },
+                {
+                    "guess": "BMT Defence Services \n\n",
+                    "probability": 0.0053
+                }
+            ]
         ]
     },
     {
         "question": "Which company is USS Bergall produced by?",
         "answer": "General Dynamics Electric Boat",
         "guesses": [
-            {
-                "guess": "General Dynamics Electric Boat",
-                "probability": 0.4521
-            },
-            {
-                "guess": "USS Bergall (",
-                "probability": 0.2703
-            }
+            [
+                {
+                    "guess": "General Dynamics Electric Boat",
+                    "probability": 0.4521
+                }
+            ],
+            [
+                {
+                    "guess": "USS Bergall (",
+                    "probability": 0.2703
+                },
+                {
+                    "guess": "USS Bergall was",
+                    "probability": 0.0285
+                }
+            ]
         ]
     },
     {
         "question": "Which company is China Railways CRH380A produced by?",
         "answer": "CSR Corporation Limited",
         "guesses": [
-            {
-                "guess": "China Railways CRH",
-                "probability": 0.217
-            },
-            {
-                "guess": "China Railway Corporation",
-                "probability": 0.0502
-            }
+            [
+                {
+                    "guess": "China Railways CRH",
+                    "probability": 0.217
+                }
+            ],
+            [
+                {
+                    "guess": "China Railway Corporation",
+                    "probability": 0.0502
+                },
+                {
+                    "guess": "China Railway Corporation, specifically",
+                    "probability": 0.0054
+                },
+                {
+                    "guess": "China Railway Corporation (under",
+                    "probability": 0.0049
+                }
+            ]
         ]
     },
     {
         "question": "Which company is HMS Talisman produced by?",
         "answer": "Cammell Laird",
         "guesses": [
-            {
-                "guess": "Revell",
-                "probability": 0.1291
-            },
-            {
-                "guess": "Airfix",
-                "probability": 0.079
-            }
+            [
+                {
+                    "guess": "Revell",
+                    "probability": 0.1291
+                },
+                {
+                    "guess": "Revell.",
+                    "probability": 0.0312
+                }
+            ],
+            [
+                {
+                    "guess": "Airfix",
+                    "probability": 0.079
+                },
+                {
+                    "guess": "Airfix.",
+                    "probability": 0.0423
+                }
+            ]
         ]
     },
     {
         "question": "Which company is Pentax *ist D produced by?",
         "answer": "Pentax",
         "guesses": [
-            {
-                "guess": "Ricoh",
-                "probability": 0.5266
-            },
-            {
-                "guess": "Ricoh.",
-                "probability": 0.2603
-            }
+            [
+                {
+                    "guess": "Ricoh",
+                    "probability": 0.5266
+                },
+                {
+                    "guess": "Ricoh.",
+                    "probability": 0.2603
+                }
+            ],
+            [
+                {
+                    "guess": "Hoya",
+                    "probability": 0.2569
+                }
+            ]
         ]
     },
     {
         "question": "Which company is BMW 303 produced by?",
         "answer": "Arman Ansari",
         "guesses": [
-            {
-                "guess": "BMW",
-                "probability": 0.2593
-            },
-            {
-                "guess": "Citro\u00ebn",
-                "probability": 0.0056
-            }
+            [
+                {
+                    "guess": "BMW",
+                    "probability": 0.2593
+                }
+            ],
+            [
+                {
+                    "guess": "Renault",
+                    "probability": 0.1619
+                }
+            ]
         ]
     },
     {
         "question": "Which company is Vektor R4 produced by?",
         "answer": "Denel Land Systems",
         "guesses": [
-            {
-                "guess": "Vektor R4 is",
-                "probability": 0.3112
-            },
-            {
-                "guess": "AK-47",
-                "probability": 0.0001
-            }
+            [
+                {
+                    "guess": "Vektor R4 is",
+                    "probability": 0.3112
+                },
+                {
+                    "guess": "Vektor R4",
+                    "probability": 0.2936
+                }
+            ],
+            [
+                {
+                    "guess": "AK-47",
+                    "probability": 0.0001
+                }
+            ]
         ]
     },
     {
         "question": "Which company is HMCS Chebogue produced by?",
         "answer": "Yarrow Shipbuilders",
         "guesses": [
-            {
-                "guess": "Halifax Shipyard (",
-                "probability": 0.0223
-            },
-            {
-                "guess": "Vosper Thornyc",
-                "probability": 0.0137
-            }
+            [
+                {
+                    "guess": "Halifax Shipyard (",
+                    "probability": 0.0223
+                },
+                {
+                    "guess": "Halifax Shipyard,",
+                    "probability": 0.0125
+                }
+            ],
+            [
+                {
+                    "guess": "Vosper Thornyc",
+                    "probability": 0.0137
+                }
+            ]
         ]
     },
     {
         "question": "Which company is HMS Grafton produced by?",
         "answer": "Deptford Dockyard",
         "guesses": [
-            {
-                "guess": "Revell",
-                "probability": 0.1255
-            },
-            {
-                "guess": "HMS Grafton",
-                "probability": 0.0635
-            }
+            [
+                {
+                    "guess": "Revell",
+                    "probability": 0.1255
+                }
+            ],
+            [
+                {
+                    "guess": "HMS Grafton",
+                    "probability": 0.0635
+                }
+            ]
         ]
     },
     {
         "question": "Which company is Panasonic Lumix DMC-LX3 produced by?",
         "answer": "Panasonic Corporation",
         "guesses": [
-            {
-                "guess": "Panasonic",
-                "probability": 0.739
-            }
+            [
+                {
+                    "guess": "Panasonic",
+                    "probability": 0.739
+                },
+                {
+                    "guess": "Panasonic.",
+                    "probability": 0.5641
+                }
+            ]
         ]
     },
     {
         "question": "Which company is Victor produced by?",
         "answer": "Handley Page",
         "guesses": [
-            {
-                "guess": "Capcom",
-                "probability": 0.1094
-            },
-            {
-                "guess": "Square Enix",
-                "probability": 0.0649
-            }
+            [
+                {
+                    "guess": "Capcom",
+                    "probability": 0.1094
+                }
+            ],
+            [
+                {
+                    "guess": "Square Enix",
+                    "probability": 0.0649
+                },
+                {
+                    "guess": "Square Enix.",
+                    "probability": 0.0145
+                }
+            ]
         ]
     },
     {
         "question": "Which company is Yamaha AT1 produced by?",
         "answer": "Yamaha Motor Company",
         "guesses": [
-            {
-                "guess": "Yamaha",
-                "probability": 0.8568
-            }
+            [
+                {
+                    "guess": "Yamaha",
+                    "probability": 0.8568
+                }
+            ]
         ]
     },
     {
         "question": "Which company is A-Rosa Aqua produced by?",
         "answer": "Neptun Werft",
         "guesses": [
-            {
-                "guess": "A-Rosa Aqua is",
-                "probability": 0.4238
-            },
-            {
-                "guess": "A-ROSA River",
-                "probability": 0.1693
-            }
+            [
+                {
+                    "guess": "A-Rosa Aqua is",
+                    "probability": 0.4238
+                }
+            ],
+            [
+                {
+                    "guess": "A-ROSA River",
+                    "probability": 0.1693
+                }
+            ]
         ]
     },
     {
         "question": "Which company is Ferrari Mythos produced by?",
         "answer": "Ferrari",
         "guesses": [
-            {
-                "guess": "Pininfarina",
-                "probability": 0.268
-            },
-            {
-                "guess": "Ferrari Mythos",
-                "probability": 0.1918
-            }
+            [
+                {
+                    "guess": "Pininfarina",
+                    "probability": 0.268
+                },
+                {
+                    "guess": "Pininfarina Concepts",
+                    "probability": 0.0006
+                }
+            ],
+            [
+                {
+                    "guess": "Ferrari Mythos",
+                    "probability": 0.1918
+                }
+            ]
         ]
     },
     {
         "question": "Which company is BMW X1 produced by?",
         "answer": "Arman Ansari",
         "guesses": [
-            {
-                "guess": "BMW",
-                "probability": 0.9166
-            },
-            {
-                "guess": "BMW.",
-                "probability": 0.1771
-            }
+            [
+                {
+                    "guess": "BMW",
+                    "probability": 0.9166
+                },
+                {
+                    "guess": "BMW.",
+                    "probability": 0.1771
+                }
+            ]
         ]
     },
     {
         "question": "Which company is Alfa Romeo 1750 produced by?",
         "answer": "Alfa Romeo",
         "guesses": [
-            {
-                "guess": "Alfa Romeo",
-                "probability": 0.5882
-            },
-            {
-                "guess": "Alfa Romeo.",
-                "probability": 0.1226
-            }
+            [
+                {
+                    "guess": "Alfa Romeo",
+                    "probability": 0.5882
+                },
+                {
+                    "guess": "Alfa Romeo.",
+                    "probability": 0.1226
+                }
+            ],
+            [
+                {
+                    "guess": "Nissan",
+                    "probability": 0.0666
+                }
+            ]
         ]
     },
     {
         "question": "Which company is Space Shuttle Solid Rocket Booster produced by?",
         "answer": "Alliant Techsystems",
         "guesses": [
-            {
-                "guess": "Morton Thiokol",
-                "probability": 0.5139
-            },
-            {
-                "guess": "Northrop Grumman",
-                "probability": 0.0287
-            }
+            [
+                {
+                    "guess": "Morton Thiokol",
+                    "probability": 0.5139
+                },
+                {
+                    "guess": "Morton Thiokol (",
+                    "probability": 0.4432
+                },
+                {
+                    "guess": "Morton Thiokol/",
+                    "probability": 0.006
+                }
+            ],
+            [
+                {
+                    "guess": "Northrop Grumman",
+                    "probability": 0.0287
+                }
+            ]
         ]
     },
     {
         "question": "Which company is USS Wabash produced by?",
         "answer": "Fore River Shipyard",
         "guesses": [
-            {
-                "guess": "Hasbro",
-                "probability": 0.0995
-            },
-            {
-                "guess": "Revell",
-                "probability": 0.0147
-            }
+            [
+                {
+                    "guess": "Hasbro",
+                    "probability": 0.0995
+                }
+            ],
+            [
+                {
+                    "guess": "Revell",
+                    "probability": 0.0147
+                }
+            ]
         ]
     },
     {
         "question": "Which company is Yamaha RX-Z produced by?",
         "answer": "Yamaha Motor Company",
         "guesses": [
-            {
-                "guess": "Yamaha",
-                "probability": 0.7887
-            },
-            {
-                "guess": "Yamaha.",
-                "probability": 0.2085
-            }
+            [
+                {
+                    "guess": "Yamaha",
+                    "probability": 0.7887
+                },
+                {
+                    "guess": "Yamaha.",
+                    "probability": 0.2085
+                }
+            ]
         ]
     },
     {
         "question": "Which company is HMS Zetland produced by?",
         "answer": "Yarrow Shipbuilders",
         "guesses": [
-            {
-                "guess": "Vosper Thornyc",
-                "probability": 0.0464
-            },
-            {
-                "guess": "Ailsa Shipbuilding",
-                "probability": 0.0119
-            }
+            [
+                {
+                    "guess": "Vosper Thornyc",
+                    "probability": 0.0464
+                }
+            ],
+            [
+                {
+                    "guess": "Ailsa Shipbuilding",
+                    "probability": 0.0119
+                }
+            ]
         ]
     },
     {
         "question": "Which company is Berliner-Joyce XF3J produced by?",
         "answer": "Berliner-Joyce",
         "guesses": [
-            {
-                "guess": "Berliner-Joyce",
-                "probability": 0.9966
-            }
+            [
+                {
+                    "guess": "Berliner-Joyce",
+                    "probability": 0.9966
+                }
+            ]
         ]
     },
     {
         "question": "Which company is Lincoln Continental produced by?",
         "answer": "Lincoln Motor Company",
         "guesses": [
-            {
-                "guess": "Ford",
-                "probability": 0.7279
-            },
-            {
-                "guess": "Ford Motor Company",
-                "probability": 0.3048
-            }
+            [
+                {
+                    "guess": "Ford",
+                    "probability": 0.7279
+                }
+            ],
+            [
+                {
+                    "guess": "Ford Motor Company",
+                    "probability": 0.3048
+                }
+            ]
         ]
     },
     {
         "question": "Which company is Dewoitine D.371 produced by?",
         "answer": "Dewoitine",
         "guesses": [
-            {
-                "guess": "Dewoitine",
-                "probability": 0.4076
-            },
-            {
-                "guess": "Soci\u00e9t\u00e9 des Av",
-                "probability": 0.0353
-            }
+            [
+                {
+                    "guess": "Dewoitine",
+                    "probability": 0.4076
+                },
+                {
+                    "guess": " Dewoitine",
+                    "probability": 0.003
+                }
+            ],
+            [
+                {
+                    "guess": "Soci\u00e9t\u00e9 des Av",
+                    "probability": 0.0353
+                },
+                {
+                    "guess": "Soci\u00e9t\u00e9 A\u00e9ri",
+                    "probability": 0.0351
+                },
+                {
+                    "guess": "Soci\u00e9t\u00e9 des av",
+                    "probability": 0.0004
+                }
+            ]
         ]
     },
     {
         "question": "Which company is Grumman AF Guardian produced by?",
         "answer": "Grumman",
         "guesses": [
-            {
-                "guess": "Grumman",
-                "probability": 0.4275
-            },
-            {
-                "guess": "Lockheed",
-                "probability": 0.2485
-            }
+            [
+                {
+                    "guess": "Grumman",
+                    "probability": 0.4275
+                },
+                {
+                    "guess": "Grumman.",
+                    "probability": 0.108
+                }
+            ],
+            [
+                {
+                    "guess": "Lockheed",
+                    "probability": 0.2485
+                }
+            ]
         ]
     },
     {
         "question": "Which company is Yamaha DT200 produced by?",
         "answer": "Yamaha Motor Company",
         "guesses": [
-            {
-                "guess": "Yamaha",
-                "probability": 0.8709
-            },
-            {
-                "guess": "Yamaha.",
-                "probability": 0.2671
-            }
+            [
+                {
+                    "guess": "Yamaha",
+                    "probability": 0.8709
+                },
+                {
+                    "guess": "Yamaha.",
+                    "probability": 0.2671
+                }
+            ]
         ]
     },
     {
         "question": "Which company is Suzuki GSV-R produced by?",
         "answer": "Suzuki",
         "guesses": [
-            {
-                "guess": "Suzuki",
-                "probability": 0.7593
-            },
-            {
-                "guess": "Suzuki.",
-                "probability": 0.1567
-            }
+            [
+                {
+                    "guess": "Suzuki",
+                    "probability": 0.7593
+                },
+                {
+                    "guess": "Suzuki.",
+                    "probability": 0.1567
+                }
+            ]
         ]
     }
 ]

@@ -59,7 +59,7 @@ def wordsInWords(num, path):
 #make json file with BERTScore for each top 2 predictions
 def bertscore(num, path, format):
     scorer = BERTScorer(model_type='bert-base-uncased')
-    with open(f'outputs/P{num}.{path}{format}.top2.json', mode='r', encoding='utf-8') as input_file:
+    with open(f'outputs/P{num}.{path}.top2{format}.json', mode='r', encoding='utf-8') as input_file:
         with open(f'evaluation/P{num}.{path}{format}.json', mode='w', encoding='utf-8') as output_file:
             input_data = json.load(input_file)
             output_data = []

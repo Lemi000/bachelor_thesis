@@ -1,8 +1,8 @@
 import json
-from promptOpenrouter import sample
+from prompt import sample
 from average import average
 from evaluate import bertscore
-
+from cluster import cluster
 
 def main(num, model_name, format):
     with open ('dataset/table.json', mode='r', encoding='utf-8') as table:
@@ -12,8 +12,8 @@ def main(num, model_name, format):
                 code = entry['code']
                 path = entry['path']
                 #sample(num, code, path, format)
-                average(num, path, format)
-                #bertscore(num, path, format)
+                #average(num, path, format)
+                cluster(num, path, format)
                 break
 
 main(26, "META_LLAMA_32_3B", "")
