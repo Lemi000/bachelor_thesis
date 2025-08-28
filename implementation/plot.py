@@ -2,8 +2,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import json
 
-num = 26
-format = ".x" # "" for CS format, ".x" for QA format
+'''num = 26
+format = ".x" # "" for CS format, ".x" for QA format'''
 
 # makes csv file with precision, recall and f1 for both 2 guesses
 '''
@@ -77,64 +77,68 @@ def ratePlot():
     print(count)
 
 
-#bar plot on the number of f1 >=0.8 of guess1 depending on the gap of probabilities between guess1 and guess2
-def gapPlot():
+# scatter plot on the number of score >= 0.8 of guess1 depending on the gap of probabilities between guess1 and guess2
+def gapPlot(num, path, format):
     x_axis = ["≤0.1","≤0.2","≤0.3","≤0.4","≤0.5","≤0.6","≤0.7","≤0.8","≤0.9","≤1"]
     count = [0,0,0,0,0,0,0,0,0,0] #count the number of guesses depending on the prob gap
-    countf1 = [0,0,0,0,0,0,0,0,0,0]   #count the number of guesses wiht f1 >= 0.8 depending on the prob gap
-    for entry, f1 in zip(l405b, list405):
-        guesses = entry['guesses']
-        prob1 = guesses[0]['probability']
-        prob2 = guesses[1]['probability'] if len(guesses) == 2 else 0
-        gap = prob1 - prob2
-
-        if gap <= 0.1:
-            count[0]+=1
-            if f1 >= 0.8:
-                countf1[0]+=1
-        elif gap <= 0.2:
-            count[1]+=1
-            if f1 >= 0.8:
-                countf1[1]+=1
-        elif gap <= 0.3:
-            count[2]+=1
-            if f1 >= 0.8:
-                countf1[2]+=1
-        elif gap <= 0.4:
-            count[3]+=1
-            if f1 >= 0.8:
-                countf1[3]+=1
-        elif gap <= 0.5:
-            count[4]+=1
-            if f1 >= 0.8:
-                countf1[4]+=1
-        elif gap <= 0.6:
-            count[5]+=1
-            if f1 >= 0.8:
-                countf1[5]+=1
-        elif gap <= 0.7:
-            count[6]+=1
-            if f1 >= 0.8:
-                countf1[6]+=1
-        elif gap <= 0.8:
-            count[7]+=1
-            if f1 >= 0.8:
-                countf1[7]+=1
-        elif gap <= 0.9:
-            count[8]+=1
-            if f1 >= 0.8:
-                countf1[8]+=1
-        else:
-            count[9]+=1
-            if f1 >= 0.8:
-                countf1[9]+=1
+    count_right = [0,0,0,0,0,0,0,0,0,0]   #count the number of guesses with score >= 0.8 depending on the prob gap
+    with open(f'score/P{num}.{path}{format}.json', mode='r', encoding='utf-8') as file:
+        data = json.load(file)
+        for entry in data:
+            prob1 = entry[0]['prob']
+            prob2 = entry[1]['prob'] if len(entry) == 2 else 0
+            gap = prob1 - prob2
+            score = entry[0]['score']
+            if gap <= 0.1:
+                count[0]+=1
+                if score >= 0.8:
+                    count_right[0]+=1
+            elif gap <= 0.2:
+                count[1]+=1
+                if score >= 0.8:
+                    count_right[1]+=1
+            elif gap <= 0.3:
+                count[2]+=1
+                if score >= 0.8:
+                    count_right[2]+=1
+            elif gap <= 0.4:
+                count[3]+=1
+                if score >= 0.8:
+                    count_right[3]+=1
+            elif gap <= 0.5:
+                count[4]+=1
+                if score >= 0.8:
+                    count_right[4]+=1
+            elif gap <= 0.6:
+                count[5]+=1
+                if score >= 0.8:
+                    count_right[5]+=1
+            elif gap <= 0.7:
+                count[6]+=1
+                if score >= 0.8:
+                    count_right[6]+=1
+            elif gap <= 0.8:
+                count[7]+=1
+                if score >= 0.8:
+                    count_right[7]+=1
+            elif gap <= 0.9:
+                count[8]+=1
+                if score >= 0.8:
+                    count_right[8]+=1
+            else:
+                count[9]+=1
+                if score >= 0.8:
+                    count_right[9]+=1
     y_axis = []
-    for x, y in zip(count, countf1):
-        y_axis.append(y/x if y != 0 else None)
+    for x, y in zip(count, count_right):
+        y_axis.append(y/x if x != 0 else None)
+    print(y_axis)
+
+    '''plt.figure()
     plt.scatter(x_axis, y_axis, color='blue')
     plt.xlabel("Gap between Top and Second Prediction")
-    plt.ylabel("Proportion of Predictions (F1 ≥ 0.8)")
-    plt.savefig(f'plot/gap/P{num}.llama_31_405b.png', dpi=300)
+    plt.ylabel("Proportion of Predictions (score ≥ 0.8)")
+    plt.savefig(f'plot/gap/P{num}.{path}{format}.png', dpi=300)'''
 
 def check():
     for i in range(len(model_list)//2):
