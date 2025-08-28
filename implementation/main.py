@@ -3,6 +3,8 @@ from prompt import sample
 from average import average
 from cluster import cluster
 from evaluate import evaluate
+from evaluate import perse
+from plot import first
 
 def main(num, model_name, format):
     with open ('dataset/table.json', mode='r', encoding='utf-8') as table:
@@ -14,7 +16,9 @@ def main(num, model_name, format):
                 #sample(num, code, path, format)
                 #average(num, path, format)
                 #cluster(num, path, format)
-                evaluate(num, path, format)
+                #evaluate(num, path, format)
+                #perse(num, path, format)
+                first(num, path, format)
                 break
 
 main(26, "META_LLAMA_32_3B", "")

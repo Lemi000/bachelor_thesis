@@ -124,3 +124,21 @@ def evaluate(num, path, format):
                 data[i]['guesses'][j].insert(0,cos_sim)
         with open(f'evaluation/P{num}.{path}{format}.json', mode='w', encoding='utf-8') as output_file:
             json.dump(data, output_file, indent=4)
+
+def perse(num, path, format):
+    with open(f'evaluation/P{num}.{path}{format}.json', mode='r', encoding='utf-8') as input_file:
+        input_data = json.load(input_file)
+        output_data = []
+        for entry in input_data:
+            guesses = entry['guesses']
+            l = []
+            for guess in guesses:
+                score = guess[0]
+                prob = guess[1]['probability']
+                e = {'score': score,
+                     'prob': prob}
+                l.append(e)
+            output_data.append(l)
+        
+        with open(f'score/P{num}.{path}{format}.json', mode='w', encoding='utf-8') as output_file:
+            json.dump(output_data, output_file, indent=4)

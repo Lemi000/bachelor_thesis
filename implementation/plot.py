@@ -49,52 +49,6 @@ with open(f'evaluation/P{num}.{path}.json', mode='r', encoding='utf-8') as input
     df = pd.read_csv('plot/P26.llama_31_8b.csv')
     df.plot()
     plt.show()'''
-
-
-#make list with guess1 and list with guess2 for all 4 models
-with open(f'evaluation/P{num}.llama_32_3b{format}.json', mode='r', encoding='utf-8') as l3b_file, open(f'evaluation/P{num}.llama_31_8b{format}.json', mode='r', encoding='utf-8') as l8b_file, open(f'evaluation/P{num}.llama_31_70b{format}.json', mode='r', encoding='utf-8') as l70b_file, open(f'evaluation/P{num}.llama_31_405b{format}.json', mode='r', encoding='utf-8') as l405b_file:
-    l3b = json.load(l3b_file)
-    l8b = json.load(l8b_file)
-    l70b = json.load(l70b_file)
-    l405b = json.load(l405b_file)
-
-list3 = []  #list with 3b guess1 f1 values
-list3_2 = []    #list with 3b guess2 f1 values (when no entry -> None)
-list8 = []
-list8_2 = []
-list70 = []
-list70_2 = []
-list405 = []
-list405_2 = []
-
-model_list = [list3, list3_2, list8, list8_2, list70, list70_2, list405, list405_2]
-model_name_list = ["3B 1", "3B 2", "8B 1", "8B 2", "70B 1", "70B 2", "405B 1", "405B 2"]
-
-for a,b,c,d in zip(l3b, l8b, l70b, l405b):
-    ag = a['guesses']
-    bg = b['guesses']
-    cg = c['guesses']
-    dg = d['guesses']
-    list3.append(ag[0]['f1'])
-    list8.append(bg[0]['f1'])
-    list70.append(cg[0]['f1'])
-    list405.append(dg[0]['f1'])
-    if len(ag) == 2:
-        list3_2.append(ag[1]['f1'])
-    else:
-        list3_2.append(None)
-    if len(bg) == 2:
-        list8_2.append(bg[1]['f1'])
-    else:
-        list8_2.append(None)
-    if len(cg) == 2:
-        list70_2.append(cg[1]['f1'])
-    else:
-        list70_2.append(None)
-    if len(dg) == 2:
-        list405_2.append(dg[1]['f1'])
-    else:
-        list405_2.append(None)
     
 
 #scatter plots of guess1 and guess2
@@ -190,7 +144,17 @@ def check():
                 print(i," ", j, " ", first, " ", second)
             j+=1
 
+# how many of first guess are right
+def first(num, path, format):
+    count = 0
+    with open(f'score/P{num}.{path}{format}.json', mode='r', encoding='utf-8') as file:
+        data = json.load(file)
+        for entry in data:
+            if entry[0]['score'] >= 0.8:
+                count+=1
+    print(f'{num}',f'{path}',f'{format}', count/50)
+
 #top2Plot()
 #ratePlot()
 #gapPlot()
-check()
+#check()
