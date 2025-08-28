@@ -76,6 +76,7 @@ def dataToGraph(num, path, format):
             result = sorted(result, key=lambda x: getScore(list(x)[0], list(x)[1]), reverse=True)
             #continue...
 
+# get the f1 bertscore of two sequences
 def getScore(a, b):
     scorer = BERTScorer(model_type='bert-base-uncased')
     P, R, F1 = scorer.score([a], [b])

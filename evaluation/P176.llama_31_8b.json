@@ -3,944 +3,1039 @@
         "question": "German submarine U-506 is produced by [mask].",
         "answer": "Deutsche Werft",
         "guesses": [
-            {
-                "guess": "Kriegsmarinew",
-                "probability": 0.4176,
-                "precision": 0.5127,
-                "recall": 0.5505,
-                "f1": 0.531
-            },
-            {
-                "guess": "Deutsche Werft",
-                "probability": 0.244,
-                "precision": 1.0,
-                "recall": 1.0,
-                "f1": 1.0
-            }
+            [
+                0.3599,
+                {
+                    "guess": "Kriegsmarinew",
+                    "probability": 0.4176
+                },
+                {
+                    "guess": "Kriegsmarine",
+                    "probability": 0.0336
+                }
+            ],
+            [
+                0.9949,
+                {
+                    "guess": "Deutsche Werft",
+                    "probability": 0.244
+                },
+                {
+                    "guess": "Deutsche Werft.",
+                    "probability": 0.078
+                }
+            ]
         ]
     },
     {
         "question": "SS Prinz Adalbert is produced by [mask].",
         "answer": "Bremer Vulkan",
         "guesses": [
-            {
-                "guess": "AG Vulcan",
-                "probability": 0.1412,
-                "precision": 0.5307,
-                "recall": 0.3777,
-                "f1": 0.4413
-            },
-            {
-                "guess": "AG Weser",
-                "probability": 0.1403,
-                "precision": 0.5361,
-                "recall": 0.4854,
-                "f1": 0.5095
-            }
+            [
+                0.3309,
+                {
+                    "guess": "AG Vulcan",
+                    "probability": 0.1412
+                },
+                {
+                    "guess": "AG Vulcan.",
+                    "probability": 0.0354
+                }
+            ],
+            [
+                0.1969,
+                {
+                    "guess": "AG Weser",
+                    "probability": 0.1403
+                }
+            ]
         ]
     },
     {
         "question": "HMS H42 is produced by [mask].",
         "answer": "Armstrong Whitworth",
         "guesses": [
-            {
-                "guess": "Vickers-Armstrong",
-                "probability": 0.5214,
-                "precision": 0.5222,
-                "recall": 0.4716,
-                "f1": 0.4956
-            },
-            {
-                "guess": "Yarrow Shipbuilders",
-                "probability": 0.1145,
-                "precision": 0.4181,
-                "recall": 0.4508,
-                "f1": 0.4338
-            }
+            [
+                0.5163,
+                {
+                    "guess": "Vickers-Armstrong",
+                    "probability": 0.5214
+                }
+            ],
+            [
+                0.104,
+                {
+                    "guess": "Yarrow Shipbuilders",
+                    "probability": 0.1145
+                },
+                {
+                    "guess": "Yarrow Shipbuilders.",
+                    "probability": 0.021
+                }
+            ]
         ]
     },
     {
         "question": "PLZ-45 is produced by [mask].",
         "answer": "Norinco",
         "guesses": [
-            {
-                "guess": "China",
-                "probability": 0.4585,
-                "precision": 0.5355,
-                "recall": 0.2799,
-                "f1": 0.3676
-            },
-            {
-                "guess": "China North Industries Group Corporation",
-                "probability": 0.04,
-                "precision": 0.35,
-                "recall": 0.3594,
-                "f1": 0.3547
-            }
+            [
+                0.2315,
+                {
+                    "guess": "China",
+                    "probability": 0.4585
+                }
+            ],
+            [
+                0.3662,
+                {
+                    "guess": "China North Industries Group Corporation",
+                    "probability": 0.04
+                }
+            ]
         ]
     },
     {
         "question": "Yamaha YZ250F is produced by [mask].",
         "answer": "Yamaha Motor Company",
         "guesses": [
-            {
-                "guess": "Yamaha",
-                "probability": 0.5762,
-                "precision": 0.5884,
-                "recall": 0.4566,
-                "f1": 0.5142
-            },
-            {
-                "guess": "Yamaha Motor Company",
-                "probability": 0.1073,
-                "precision": 1.0,
-                "recall": 1.0,
-                "f1": 1.0
-            }
+            [
+                0.7526,
+                {
+                    "guess": "Yamaha",
+                    "probability": 0.5762
+                }
+            ],
+            [
+                0.9819,
+                {
+                    "guess": "Yamaha Motor Company",
+                    "probability": 0.1073
+                },
+                {
+                    "guess": "Yamaha Motor Co.,",
+                    "probability": 0.0797
+                }
+            ]
         ]
     },
     {
         "question": "Suzuki SV 650 is produced by [mask].",
         "answer": "Suzuki",
         "guesses": [
-            {
-                "guess": "Suzuki",
-                "probability": 0.733,
-                "precision": 1.0,
-                "recall": 1.0,
-                "f1": 1.0
-            },
-            {
-                "guess": "Suzuki.",
-                "probability": 0.1187,
-                "precision": 0.6593,
-                "recall": 0.7919,
-                "f1": 0.7195
-            }
+            [
+                0.9909,
+                {
+                    "guess": "Suzuki",
+                    "probability": 0.733
+                },
+                {
+                    "guess": "Suzuki.",
+                    "probability": 0.1187
+                }
+            ]
         ]
     },
     {
         "question": "Una-class submarine is produced by [mask].",
         "answer": "Brodosplit",
         "guesses": [
-            {
-                "guess": "China",
-                "probability": 0.4083,
-                "precision": 0.4248,
-                "recall": 0.2713,
-                "f1": 0.3311
-            },
-            {
-                "guess": "Russia",
-                "probability": 0.2881,
-                "precision": 0.3916,
-                "recall": 0.276,
-                "f1": 0.3238
-            }
+            [
+                0.1545,
+                {
+                    "guess": "China",
+                    "probability": 0.4083
+                }
+            ],
+            [
+                0.1116,
+                {
+                    "guess": "Russia",
+                    "probability": 0.2881
+                },
+                {
+                    "guess": "Russia.",
+                    "probability": 0.0131
+                }
+            ]
         ]
     },
     {
         "question": "MV Chetzemoka is produced by [mask].",
         "answer": "Vigor Shipyards",
         "guesses": [
-            {
-                "guess": "Puget Sound Naval Ship",
-                "probability": 0.0315,
-                "precision": 0.4385,
-                "recall": 0.4609,
-                "f1": 0.4494
-            },
-            {
-                "guess": "Puget Sound Navigation Company",
-                "probability": 0.0182,
-                "precision": 0.4727,
-                "recall": 0.5178,
-                "f1": 0.4942
-            }
+            [
+                0.3846,
+                {
+                    "guess": "Puget Sound Naval Ship",
+                    "probability": 0.0315
+                }
+            ],
+            [
+                0.331,
+                {
+                    "guess": "Puget Sound Navigation Company",
+                    "probability": 0.0182
+                }
+            ]
         ]
     },
     {
         "question": "BMW New Six is produced by [mask].",
         "answer": "Arman Ansari",
         "guesses": [
-            {
-                "guess": "BMW New Six is produced",
-                "probability": 0.5606,
-                "precision": 0.3362,
-                "recall": 0.2866,
-                "f1": 0.3094
-            }
+            [
+                0.0865,
+                {
+                    "guess": "BMW New Six is produced",
+                    "probability": 0.5606
+                }
+            ]
         ]
     },
     {
         "question": "Panasonic Lumix DMC-FZ72 is produced by [mask].",
         "answer": "Panasonic Corporation",
         "guesses": [
-            {
-                "guess": "Panasonic",
-                "probability": 0.8657,
-                "precision": 0.843,
-                "recall": 0.8019,
-                "f1": 0.8219
-            }
+            [
+                0.854,
+                {
+                    "guess": "Panasonic",
+                    "probability": 0.8657
+                }
+            ]
         ]
     },
     {
         "question": "Aerocar is produced by [mask].",
         "answer": "Aerocar International",
         "guesses": [
-            {
-                "guess": "Aerocar is",
-                "probability": 0.1437,
-                "precision": 0.6785,
-                "recall": 0.6785,
-                "f1": 0.6785
-            },
-            {
-                "guess": "Cessna",
-                "probability": 0.0197,
-                "precision": 0.4686,
-                "recall": 0.3694,
-                "f1": 0.4131
-            }
+            [
+                0.7682,
+                {
+                    "guess": "Aerocar is",
+                    "probability": 0.1437
+                }
+            ],
+            [
+                0.5012,
+                {
+                    "guess": "Cessna",
+                    "probability": 0.0197
+                }
+            ]
         ]
     },
     {
         "question": "HMS Nairana is produced by [mask].",
         "answer": "John Brown & Company",
         "guesses": [
-            {
-                "guess": "Vickers-Armstrong",
-                "probability": 0.1029,
-                "precision": 0.3917,
-                "recall": 0.3565,
-                "f1": 0.3733
-            },
-            {
-                "guess": "Yarrow Shipbuilders.",
-                "probability": 0.0122,
-                "precision": 0.4042,
-                "recall": 0.3874,
-                "f1": 0.3956
-            }
+            [
+                0.1812,
+                {
+                    "guess": "Vickers-Armstrong",
+                    "probability": 0.1029
+                }
+            ],
+            [
+                0.3067,
+                {
+                    "guess": "Yarrow Shipbuilders.",
+                    "probability": 0.0122
+                }
+            ]
         ]
     },
     {
         "question": "Yamaha MT-01 is produced by [mask].",
         "answer": "Yamaha Motor Company",
         "guesses": [
-            {
-                "guess": "Yamaha",
-                "probability": 0.902,
-                "precision": 0.5884,
-                "recall": 0.4566,
-                "f1": 0.5142
-            },
-            {
-                "guess": "Yamaha MT-01",
-                "probability": 0.1273,
-                "precision": 0.4998,
-                "recall": 0.5417,
-                "f1": 0.5199
-            }
+            [
+                0.7349,
+                {
+                    "guess": "Yamaha",
+                    "probability": 0.902
+                },
+                {
+                    "guess": "Yamaha MT-01",
+                    "probability": 0.1273
+                }
+            ]
         ]
     },
     {
         "question": "RMS Mauretania is produced by [mask].",
         "answer": "Swan Hunter",
         "guesses": [
-            {
-                "guess": "Harland and Wolff",
-                "probability": 0.5165,
-                "precision": 0.2935,
-                "recall": 0.3307,
-                "f1": 0.311
-            },
-            {
-                "guess": "Cunard Line",
-                "probability": 0.113,
-                "precision": 0.3728,
-                "recall": 0.3976,
-                "f1": 0.3848
-            }
+            [
+                0.1804,
+                {
+                    "guess": "Harland and Wolff",
+                    "probability": 0.5165
+                },
+                {
+                    "guess": "Harland and Wolff.",
+                    "probability": 0.1969
+                }
+            ],
+            [
+                0.2104,
+                {
+                    "guess": "Cunard Line",
+                    "probability": 0.113
+                }
+            ]
         ]
     },
     {
         "question": "AIDAsol is produced by [mask].",
         "answer": "Meyer Werft",
         "guesses": [
-            {
-                "guess": "AIDA Cruises",
-                "probability": 0.3131,
-                "precision": 0.3696,
-                "recall": 0.3129,
-                "f1": 0.3389
-            },
-            {
-                "guess": "MSC Cruises",
-                "probability": 0.1456,
-                "precision": 0.3221,
-                "recall": 0.2394,
-                "f1": 0.2746
-            }
+            [
+                0.1283,
+                {
+                    "guess": "AIDA Cruises",
+                    "probability": 0.3131
+                },
+                {
+                    "guess": "AIDA Cruises.",
+                    "probability": 0.218
+                }
+            ],
+            [
+                0.1548,
+                {
+                    "guess": "MSC Cruises",
+                    "probability": 0.1456
+                }
+            ]
         ]
     },
     {
         "question": "Panasonic Q is produced by [mask].",
         "answer": "Panasonic Corporation",
         "guesses": [
-            {
-                "guess": "Panasonic",
-                "probability": 0.5364,
-                "precision": 0.843,
-                "recall": 0.8019,
-                "f1": 0.8219
-            },
-            {
-                "guess": "QOSMIO",
-                "probability": 0.0,
-                "precision": 0.4083,
-                "recall": 0.4112,
-                "f1": 0.4098
-            }
+            [
+                0.8421,
+                {
+                    "guess": "Panasonic",
+                    "probability": 0.5364
+                },
+                {
+                    "guess": "Panasonic.",
+                    "probability": 0.2082
+                }
+            ],
+            [
+                0.2094,
+                {
+                    "guess": "QOSMIO",
+                    "probability": 0.0
+                }
+            ]
         ]
     },
     {
         "question": "MRWA A class is produced by [mask].",
         "answer": "Kitson and Company",
         "guesses": [
-            {
-                "guess": "Mitsubishi Fuso",
-                "probability": 0.0515,
-                "precision": 0.3521,
-                "recall": 0.3506,
-                "f1": 0.3514
-            },
-            {
-                "guess": "The Ministry of Railways",
-                "probability": 0.0168,
-                "precision": 0.3087,
-                "recall": 0.2913,
-                "f1": 0.2998
-            }
+            [
+                0.1514,
+                {
+                    "guess": "Mitsubishi Fuso",
+                    "probability": 0.0515
+                }
+            ],
+            [
+                0.3206,
+                {
+                    "guess": "The Ministry of Railways",
+                    "probability": 0.0168
+                },
+                {
+                    "guess": "Ministry of Railways",
+                    "probability": 0.0049
+                }
+            ]
         ]
     },
     {
         "question": "Lotus Mark IX is produced by [mask].",
         "answer": "Lotus Cars",
         "guesses": [
-            {
-                "guess": "Lotus",
-                "probability": 0.2192,
-                "precision": 0.7036,
-                "recall": 0.5868,
-                "f1": 0.6399
-            },
-            {
-                "guess": "Aston Martin",
-                "probability": 0.0303,
-                "precision": 0.5655,
-                "recall": 0.5655,
-                "f1": 0.5655
-            }
+            [
+                0.8028,
+                {
+                    "guess": "Lotus",
+                    "probability": 0.2192
+                }
+            ],
+            [
+                0.4711,
+                {
+                    "guess": "Aston Martin",
+                    "probability": 0.0303
+                }
+            ]
         ]
     },
     {
         "question": "Olympus \u00b5 1030 SW is produced by [mask].",
         "answer": "Olympus",
         "guesses": [
-            {
-                "guess": "Olympus",
-                "probability": 0.9453,
-                "precision": 1.0,
-                "recall": 1.0,
-                "f1": 1.0
-            }
+            [
+                1.0,
+                {
+                    "guess": "Olympus",
+                    "probability": 0.9453
+                }
+            ]
         ]
     },
     {
         "question": "Yamaha Zuma 125 is produced by [mask].",
         "answer": "Yamaha Motor Company",
         "guesses": [
-            {
-                "guess": "Yamaha",
-                "probability": 0.8469,
-                "precision": 0.5884,
-                "recall": 0.4566,
-                "f1": 0.5142
-            },
-            {
-                "guess": "Yamaha Motor Company",
-                "probability": 0.0457,
-                "precision": 1.0,
-                "recall": 1.0,
-                "f1": 1.0
-            }
+            [
+                0.7526,
+                {
+                    "guess": "Yamaha",
+                    "probability": 0.8469
+                }
+            ],
+            [
+                1.0,
+                {
+                    "guess": "Yamaha Motor Company",
+                    "probability": 0.0457
+                }
+            ]
         ]
     },
     {
         "question": "Mazda6 is produced by [mask].",
         "answer": "Mazda",
         "guesses": [
-            {
-                "guess": "Mazda",
-                "probability": 0.789,
-                "precision": 1.0,
-                "recall": 1.0,
-                "f1": 1.0
-            },
-            {
-                "guess": "Mazda Motor Corporation",
-                "probability": 0.1346,
-                "precision": 0.3661,
-                "recall": 0.4891,
-                "f1": 0.4187
-            }
+            [
+                1.0,
+                {
+                    "guess": "Mazda",
+                    "probability": 0.789
+                }
+            ],
+            [
+                0.7672,
+                {
+                    "guess": "Mazda Motor Corporation",
+                    "probability": 0.1346
+                },
+                {
+                    "guess": "Mazda Manufacturing Corporation",
+                    "probability": 0.0115
+                }
+            ]
         ]
     },
     {
         "question": "K class is produced by [mask].",
         "answer": "General Dynamics Electric Boat",
         "guesses": [
-            {
-                "guess": "K-class submarines",
-                "probability": 0.0094,
-                "precision": 0.4079,
-                "recall": 0.3918,
-                "f1": 0.3997
-            },
-            {
-                "guess": "Bristol.",
-                "probability": 0.0088,
-                "precision": 0.4002,
-                "recall": 0.3387,
-                "f1": 0.3669
-            }
+            [
+                0.3422,
+                {
+                    "guess": "K-class submarines",
+                    "probability": 0.0094
+                }
+            ],
+            [
+                0.026,
+                {
+                    "guess": "Bristol.",
+                    "probability": 0.0088
+                }
+            ]
         ]
     },
     {
         "question": "JNR Class ED75 is produced by [mask].",
         "answer": "Toshiba",
         "guesses": [
-            {
-                "guess": "Hitachi",
-                "probability": 0.3294,
-                "precision": 0.6866,
-                "recall": 0.6022,
-                "f1": 0.6416
-            },
-            {
-                "guess": "Kawasaki Heavy Industries",
-                "probability": 0.2902,
-                "precision": 0.5287,
-                "recall": 0.5576,
-                "f1": 0.5428
-            }
+            [
+                0.3604,
+                {
+                    "guess": "Hitachi",
+                    "probability": 0.3294
+                },
+                {
+                    "guess": "Hitachi.",
+                    "probability": 0.0368
+                }
+            ],
+            [
+                0.1605,
+                {
+                    "guess": "Kawasaki Heavy Industries",
+                    "probability": 0.2902
+                }
+            ]
         ]
     },
     {
         "question": "Texas and New Orleans 975 is produced by [mask].",
         "answer": "American Locomotive Company",
         "guesses": [
-            {
-                "guess": "Louis Armstrong",
-                "probability": 0.0496,
-                "precision": 0.3844,
-                "recall": 0.3021,
-                "f1": 0.3384
-            },
-            {
-                "guess": "Kanye West",
-                "probability": 0.0044,
-                "precision": 0.292,
-                "recall": 0.2466,
-                "f1": 0.2674
-            }
+            [
+                0.178,
+                {
+                    "guess": "Louis Armstrong",
+                    "probability": 0.0496
+                }
+            ],
+            [
+                0.1282,
+                {
+                    "guess": "Kanye West",
+                    "probability": 0.0044
+                }
+            ]
         ]
     },
     {
         "question": "HMS Dragon is produced by [mask].",
         "answer": "Cammell Laird",
         "guesses": [
-            {
-                "guess": "BAE Systems",
-                "probability": 0.1384,
-                "precision": 0.4896,
-                "recall": 0.392,
-                "f1": 0.4354
-            },
-            {
-                "guess": "Blyth Shipbuilding",
-                "probability": 0.0719,
-                "precision": 0.4735,
-                "recall": 0.4623,
-                "f1": 0.4678
-            }
+            [
+                0.2272,
+                {
+                    "guess": "BAE Systems",
+                    "probability": 0.1384
+                }
+            ],
+            [
+                0.1862,
+                {
+                    "guess": "Blyth Shipbuilding",
+                    "probability": 0.0719
+                }
+            ]
         ]
     },
     {
         "question": "USS Bergall is produced by [mask].",
         "answer": "General Dynamics Electric Boat",
         "guesses": [
-            {
-                "guess": "General Dynamics Electric Boat",
-                "probability": 0.2997,
-                "precision": 1.0,
-                "recall": 1.0,
-                "f1": 1.0
-            },
-            {
-                "guess": "Electric Boat",
-                "probability": 0.2956,
-                "precision": 0.8042,
-                "recall": 0.5786,
-                "f1": 0.673
-            }
+            [
+                1.0,
+                {
+                    "guess": "General Dynamics Electric Boat",
+                    "probability": 0.2997
+                }
+            ],
+            [
+                0.7944,
+                {
+                    "guess": "Electric Boat",
+                    "probability": 0.2956
+                }
+            ]
         ]
     },
     {
         "question": "China Railways CRH380A is produced by [mask].",
         "answer": "CSR Corporation Limited",
         "guesses": [
-            {
-                "guess": "Siemens and CRRC",
-                "probability": 0.0413,
-                "precision": 0.4676,
-                "recall": 0.4717,
-                "f1": 0.4697
-            },
-            {
-                "guess": "Siemens and CSR S",
-                "probability": 0.0188,
-                "precision": 0.5765,
-                "recall": 0.6036,
-                "f1": 0.5897
-            }
+            [
+                0.4037,
+                {
+                    "guess": "Siemens and CRRC",
+                    "probability": 0.0413
+                }
+            ],
+            [
+                0.6118,
+                {
+                    "guess": "Siemens and CNR",
+                    "probability": 0.0305
+                },
+                {
+                    "guess": "Siemens and CSR S",
+                    "probability": 0.0188
+                }
+            ]
         ]
     },
     {
         "question": "HMS Talisman is produced by [mask].",
         "answer": "Cammell Laird",
         "guesses": [
-            {
-                "guess": "Yarrow Shipbuilders",
-                "probability": 0.0566,
-                "precision": 0.4176,
-                "recall": 0.4183,
-                "f1": 0.4179
-            },
-            {
-                "guess": "Vickers-Armstrong",
-                "probability": 0.0527,
-                "precision": 0.5505,
-                "recall": 0.4823,
-                "f1": 0.5142
-            }
+            [
+                0.3009,
+                {
+                    "guess": "Yarrow Shipbuilders",
+                    "probability": 0.0566
+                },
+                {
+                    "guess": "Yarrow Shipbuilding",
+                    "probability": 0.0006
+                }
+            ],
+            [
+                0.2538,
+                {
+                    "guess": "Vickers-Armstrong",
+                    "probability": 0.0527
+                }
+            ]
         ]
     },
     {
         "question": "Pentax *ist D is produced by [mask].",
         "answer": "Pentax",
         "guesses": [
-            {
-                "guess": "Pentax *ist",
-                "probability": 0.6286,
-                "precision": 0.6527,
-                "recall": 0.8132,
-                "f1": 0.7241
-            },
-            {
-                "guess": "Hoya",
-                "probability": 0.3389,
-                "precision": 0.3591,
-                "recall": 0.2979,
-                "f1": 0.3257
-            }
+            [
+                0.7368,
+                {
+                    "guess": "Pentax *ist",
+                    "probability": 0.6286
+                }
+            ],
+            [
+                0.2476,
+                {
+                    "guess": "Hoya",
+                    "probability": 0.3389
+                }
+            ]
         ]
     },
     {
         "question": "BMW 303 is produced by [mask].",
         "answer": "Arman Ansari",
         "guesses": [
-            {
-                "guess": "BMW",
-                "probability": 0.3872,
-                "precision": 0.4639,
-                "recall": 0.2942,
-                "f1": 0.3601
-            },
-            {
-                "guess": "BMW 303 is produced",
-                "probability": 0.3003,
-                "precision": 0.3178,
-                "recall": 0.2772,
-                "f1": 0.2961
-            }
+            [
+                0.1722,
+                {
+                    "guess": "BMW",
+                    "probability": 0.3872
+                }
+            ],
+            [
+                0.0562,
+                {
+                    "guess": "BMW 303 is produced",
+                    "probability": 0.3003
+                }
+            ]
         ]
     },
     {
         "question": "Vektor R4 is produced by [mask].",
         "answer": "Denel Land Systems",
         "guesses": [
-            {
-                "guess": "Matlab",
-                "probability": 0.0177,
-                "precision": 0.4364,
-                "recall": 0.3878,
-                "f1": 0.4107
-            },
-            {
-                "guess": "Vector R4 is produced",
-                "probability": 0.0169,
-                "precision": 0.4,
-                "recall": 0.3738,
-                "f1": 0.3865
-            }
+            [
+                0.11,
+                {
+                    "guess": "Matlab",
+                    "probability": 0.0177
+                }
+            ],
+            [
+                0.0769,
+                {
+                    "guess": "Vector R4 is produced",
+                    "probability": 0.0169
+                }
+            ]
         ]
     },
     {
         "question": "HMCS Chebogue is produced by [mask].",
         "answer": "Yarrow Shipbuilders",
         "guesses": [
-            {
-                "guess": "Vickers-Armstrong",
-                "probability": 0.0603,
-                "precision": 0.4326,
-                "recall": 0.3749,
-                "f1": 0.4017
-            },
-            {
-                "guess": "Halifax Shipyard",
-                "probability": 0.0565,
-                "precision": 0.5008,
-                "recall": 0.4025,
-                "f1": 0.4463
-            }
+            [
+                0.1685,
+                {
+                    "guess": "Vickers-Armstrong",
+                    "probability": 0.0603
+                }
+            ],
+            [
+                0.4902,
+                {
+                    "guess": "Halifax Shipyard",
+                    "probability": 0.0565
+                }
+            ]
         ]
     },
     {
         "question": "HMS Grafton is produced by [mask].",
         "answer": "Deptford Dockyard",
         "guesses": [
-            {
-                "guess": "Yarrow Shipbuilders",
-                "probability": 0.1758,
-                "precision": 0.4159,
-                "recall": 0.4359,
-                "f1": 0.4257
-            },
-            {
-                "guess": "Vickers-Armstrong",
-                "probability": 0.1321,
-                "precision": 0.4884,
-                "recall": 0.4875,
-                "f1": 0.488
-            }
+            [
+                0.4481,
+                {
+                    "guess": "Yarrow Shipbuilders",
+                    "probability": 0.1758
+                }
+            ],
+            [
+                0.2422,
+                {
+                    "guess": "Vickers-Armstrong",
+                    "probability": 0.1321
+                }
+            ]
         ]
     },
     {
         "question": "Panasonic Lumix DMC-LX3 is produced by [mask].",
         "answer": "Panasonic Corporation",
         "guesses": [
-            {
-                "guess": "Panasonic",
-                "probability": 0.9144,
-                "precision": 0.843,
-                "recall": 0.8019,
-                "f1": 0.8219
-            }
+            [
+                0.8421,
+                {
+                    "guess": "Panasonic",
+                    "probability": 0.9144
+                },
+                {
+                    "guess": "Panasonic.",
+                    "probability": 0.1281
+                }
+            ]
         ]
     },
     {
         "question": "Victor is produced by [mask].",
         "answer": "Handley Page",
         "guesses": [
-            {
-                "guess": "Victor is produced by",
-                "probability": 0.0557,
-                "precision": 0.2795,
-                "recall": 0.2377,
-                "f1": 0.2569
-            },
-            {
-                "guess": "Paramount Pictures",
-                "probability": 0.0271,
-                "precision": 0.4229,
-                "recall": 0.3881,
-                "f1": 0.4048
-            }
+            [
+                0.0367,
+                {
+                    "guess": "Victor is produced by",
+                    "probability": 0.0557
+                }
+            ],
+            [
+                0.0656,
+                {
+                    "guess": "Paramount Pictures",
+                    "probability": 0.0271
+                }
+            ]
         ]
     },
     {
         "question": "Yamaha AT1 is produced by [mask].",
         "answer": "Yamaha Motor Company",
         "guesses": [
-            {
-                "guess": "Yamaha",
-                "probability": 0.4584,
-                "precision": 0.5884,
-                "recall": 0.4566,
-                "f1": 0.5142
-            },
-            {
-                "guess": "Yamaha Motor Company",
-                "probability": 0.0801,
-                "precision": 1.0,
-                "recall": 1.0,
-                "f1": 1.0
-            }
+            [
+                0.7405,
+                {
+                    "guess": "Yamaha",
+                    "probability": 0.4584
+                },
+                {
+                    "guess": "Yamaha.",
+                    "probability": 0.0527
+                },
+                {
+                    "guess": "Yamaha \n\ncorrected",
+                    "probability": 0.0003
+                }
+            ],
+            [
+                0.9957,
+                {
+                    "guess": "Yamaha Motor Company",
+                    "probability": 0.0801
+                },
+                {
+                    "guess": "Yamaha Motor Company.",
+                    "probability": 0.0492
+                }
+            ]
         ]
     },
     {
         "question": "A-Rosa Aqua is produced by [mask].",
         "answer": "Neptun Werft",
         "guesses": [
-            {
-                "guess": "A-Rosa Aqua is",
-                "probability": 0.7115,
-                "precision": 0.4594,
-                "recall": 0.3437,
-                "f1": 0.3932
-            },
-            {
-                "guess": "A-Rosa River Cru",
-                "probability": 0.1514,
-                "precision": 0.3834,
-                "recall": 0.3487,
-                "f1": 0.3652
-            }
+            [
+                0.0858,
+                {
+                    "guess": "A-Rosa Aqua is",
+                    "probability": 0.7115
+                }
+            ],
+            [
+                0.068,
+                {
+                    "guess": "A-Rosa River Cru",
+                    "probability": 0.1514
+                }
+            ]
         ]
     },
     {
         "question": "Ferrari Mythos is produced by [mask].",
         "answer": "Ferrari",
         "guesses": [
-            {
-                "guess": "Pininfarina",
-                "probability": 0.2232,
-                "precision": 0.3072,
-                "recall": 0.5967,
-                "f1": 0.4056
-            },
-            {
-                "guess": "ItalDesign",
-                "probability": 0.1711,
-                "precision": 0.3117,
-                "recall": 0.5255,
-                "f1": 0.3913
-            }
+            [
+                0.2895,
+                {
+                    "guess": "Pininfarina",
+                    "probability": 0.2232
+                }
+            ],
+            [
+                0.2001,
+                {
+                    "guess": "ItalDesign",
+                    "probability": 0.1711
+                }
+            ]
         ]
     },
     {
         "question": "BMW X1 is produced by [mask].",
         "answer": "Arman Ansari",
         "guesses": [
-            {
-                "guess": "BMW",
-                "probability": 0.7503,
-                "precision": 0.4639,
-                "recall": 0.2942,
-                "f1": 0.3601
-            }
+            [
+                0.1722,
+                {
+                    "guess": "BMW",
+                    "probability": 0.7503
+                }
+            ]
         ]
     },
     {
         "question": "Alfa Romeo 1750 is produced by [mask].",
         "answer": "Alfa Romeo",
         "guesses": [
-            {
-                "guess": "Alfa Romeo",
-                "probability": 0.8029,
-                "precision": 1.0,
-                "recall": 1.0,
-                "f1": 1.0
-            }
+            [
+                1.0,
+                {
+                    "guess": "Alfa Romeo",
+                    "probability": 0.8029
+                }
+            ]
         ]
     },
     {
         "question": "Space Shuttle Solid Rocket Booster is produced by [mask].",
         "answer": "Alliant Techsystems",
         "guesses": [
-            {
-                "guess": "Morton Thiokol",
-                "probability": 0.4018,
-                "precision": 0.3805,
-                "recall": 0.3892,
-                "f1": 0.3848
-            },
-            {
-                "guess": "Alliant Techsystems",
-                "probability": 0.0977,
-                "precision": 1.0,
-                "recall": 1.0,
-                "f1": 1.0
-            }
+            [
+                0.1472,
+                {
+                    "guess": "Morton Thiokol",
+                    "probability": 0.4018
+                },
+                {
+                    "guess": "Morton Thiokol (",
+                    "probability": 0.1537
+                },
+                {
+                    "guess": "Morton Thiokol.",
+                    "probability": 0.1009
+                },
+                {
+                    "guess": "Morton Thiokol,",
+                    "probability": 0.0284
+                }
+            ],
+            [
+                0.9966,
+                {
+                    "guess": "Alliant Techsystems",
+                    "probability": 0.0977
+                },
+                {
+                    "guess": "Alliant Techsystems (",
+                    "probability": 0.0301
+                }
+            ]
         ]
     },
     {
         "question": "USS Wabash is produced by [mask].",
         "answer": "Fore River Shipyard",
         "guesses": [
-            {
-                "guess": "United States Navy",
-                "probability": 0.0478,
-                "precision": 0.414,
-                "recall": 0.4097,
-                "f1": 0.4119
-            },
-            {
-                "guess": "Fore River Shipyard",
-                "probability": 0.014,
-                "precision": 1.0,
-                "recall": 1.0,
-                "f1": 1.0
-            }
+            [
+                0.374,
+                {
+                    "guess": "United States Navy",
+                    "probability": 0.0478
+                },
+                {
+                    "guess": "United States Navy.",
+                    "probability": 0.0226
+                }
+            ],
+            [
+                1.0,
+                {
+                    "guess": "Fore River Shipyard",
+                    "probability": 0.014
+                }
+            ]
         ]
     },
     {
         "question": "Yamaha RX-Z is produced by [mask].",
         "answer": "Yamaha Motor Company",
         "guesses": [
-            {
-                "guess": "Yamaha",
-                "probability": 0.7485,
-                "precision": 0.5884,
-                "recall": 0.4566,
-                "f1": 0.5142
-            },
-            {
-                "guess": "Yamaha.",
-                "probability": 0.057,
-                "precision": 0.6801,
-                "recall": 0.5857,
-                "f1": 0.6294
-            }
+            [
+                0.7353,
+                {
+                    "guess": "Yamaha",
+                    "probability": 0.7485
+                },
+                {
+                    "guess": "Yamaha.",
+                    "probability": 0.057
+                },
+                {
+                    "guess": "Yamaha \n\n(Z,",
+                    "probability": 0.0
+                }
+            ]
         ]
     },
     {
         "question": "HMS Zetland is produced by [mask].",
         "answer": "Yarrow Shipbuilders",
         "guesses": [
-            {
-                "guess": "Vosper Thornyc",
-                "probability": 0.0766,
-                "precision": 0.396,
-                "recall": 0.345,
-                "f1": 0.3687
-            },
-            {
-                "guess": "ITV",
-                "probability": 0.0497,
-                "precision": 0.5022,
-                "recall": 0.2744,
-                "f1": 0.3549
-            }
+            [
+                0.1593,
+                {
+                    "guess": "Vosper Thornyc",
+                    "probability": 0.0766
+                }
+            ],
+            [
+                0.086,
+                {
+                    "guess": "ITV",
+                    "probability": 0.0497
+                }
+            ]
         ]
     },
     {
         "question": "Berliner-Joyce XF3J is produced by [mask].",
         "answer": "Berliner-Joyce",
         "guesses": [
-            {
-                "guess": "Berliner-Joyce",
-                "probability": 0.845,
-                "precision": 1.0,
-                "recall": 1.0,
-                "f1": 1.0
-            },
-            {
-                "guess": "Vultee",
-                "probability": 0.0004,
-                "precision": 0.411,
-                "recall": 0.4975,
-                "f1": 0.4501
-            }
+            [
+                1.0,
+                {
+                    "guess": "Berliner-Joyce",
+                    "probability": 0.845
+                }
+            ],
+            [
+                0.2409,
+                {
+                    "guess": "Vultee",
+                    "probability": 0.0004
+                }
+            ]
         ]
     },
     {
         "question": "Lincoln Continental is produced by [mask].",
         "answer": "Lincoln Motor Company",
         "guesses": [
-            {
-                "guess": "Ford",
-                "probability": 0.8988,
-                "precision": 0.5489,
-                "recall": 0.455,
-                "f1": 0.4975
-            }
+            [
+                0.5619,
+                {
+                    "guess": "Ford",
+                    "probability": 0.8988
+                }
+            ]
         ]
     },
     {
         "question": "Dewoitine D.371 is produced by [mask].",
         "answer": "Dewoitine",
         "guesses": [
-            {
-                "guess": "Dewoitine D",
-                "probability": 0.3138,
-                "precision": 0.84,
-                "recall": 0.9027,
-                "f1": 0.8703
-            },
-            {
-                "guess": "France",
-                "probability": 0.0734,
-                "precision": 0.5936,
-                "recall": 0.3664,
-                "f1": 0.4531
-            }
+            [
+                0.9777,
+                {
+                    "guess": "Dewoitine D",
+                    "probability": 0.3138
+                },
+                {
+                    "guess": "Dewoitine",
+                    "probability": 0.1148
+                }
+            ],
+            [
+                0.287,
+                {
+                    "guess": "France",
+                    "probability": 0.0734
+                }
+            ]
         ]
     },
     {
         "question": "Grumman AF Guardian is produced by [mask].",
         "answer": "Grumman",
         "guesses": [
-            {
-                "guess": "General Motors",
-                "probability": 0.3809,
-                "precision": 0.4663,
-                "recall": 0.3852,
-                "f1": 0.4219
-            },
-            {
-                "guess": "General Dynamics",
-                "probability": 0.2698,
-                "precision": 0.4806,
-                "recall": 0.3922,
-                "f1": 0.4319
-            }
+            [
+                0.2538,
+                {
+                    "guess": "General Motors",
+                    "probability": 0.3809
+                }
+            ],
+            [
+                0.2132,
+                {
+                    "guess": "General Dynamics",
+                    "probability": 0.2698
+                }
+            ]
         ]
     },
     {
         "question": "Yamaha DT200 is produced by [mask].",
         "answer": "Yamaha Motor Company",
         "guesses": [
-            {
-                "guess": "Yamaha",
-                "probability": 0.8256,
-                "precision": 0.5884,
-                "recall": 0.4566,
-                "f1": 0.5142
-            }
+            [
+                0.7526,
+                {
+                    "guess": "Yamaha",
+                    "probability": 0.8256
+                }
+            ]
         ]
     },
     {
         "question": "Suzuki GSV-R is produced by [mask].",
         "answer": "Suzuki",
         "guesses": [
-            {
-                "guess": "Suzuki",
-                "probability": 0.6364,
-                "precision": 1.0,
-                "recall": 1.0,
-                "f1": 1.0
-            },
-            {
-                "guess": "Suzuki GSV",
-                "probability": 0.0769,
-                "precision": 0.5068,
-                "recall": 0.6983,
-                "f1": 0.5874
-            }
+            [
+                0.9496,
+                {
+                    "guess": "Suzuki",
+                    "probability": 0.6364
+                },
+                {
+                    "guess": "Suzuki GSV",
+                    "probability": 0.0769
+                }
+            ],
+            [
+                0.7033,
+                {
+                    "guess": "Honda",
+                    "probability": 0.078
+                }
+            ]
         ]
     }
 ]

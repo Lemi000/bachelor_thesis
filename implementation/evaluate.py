@@ -1,5 +1,8 @@
 import json
 from bert_score import BERTScorer
+from sentence_transformers import SentenceTransformer
+from sklearn.metrics.pairwise import cosine_similarity
+import numpy as np
 
 
 #find prdictions exactly same as answer
@@ -100,3 +103,24 @@ def bertscore(num, path, format):
                         'guesses': xs}
                 output_data.append(data)
             json.dump(output_data, output_file, indent=4)
+
+def evaluate(num, path, format):
+    model = SentenceTransformer("implementation/hf_models/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/c9745ed1d9f207416be6d2e6f8de32d1f16199bf")
+
+    with open(f'outputs/P{num}.{path}.top2{format}.json', mode='r', encoding='utf-8') as input_file:
+        data = json.load(input_file)
+        for i, entry in enumerate(data):
+            guesses = entry['guesses']
+            for j, cluster in enumerate(guesses):
+                if len(cluster) > 1:
+                    words = [x['guess'] for x in cluster]
+                    embeddings = model.encode(words, normalize_embeddings=True)
+                    embeddings = np.array(embeddings)
+                    embedding = np.mean(embeddings, axis=0)
+                else:
+                    embedding = model.encode(cluster[0]['guess'])
+                answer_embedding = model.encode(entry['answer'])
+                cos_sim = round(float(cosine_similarity([answer_embedding],[embedding])[0][0]),4)
+                data[i]['guesses'][j].insert(0,cos_sim)
+        with open(f'evaluation/P{num}.{path}{format}.json', mode='w', encoding='utf-8') as output_file:
+            json.dump(data, output_file, indent=4)
