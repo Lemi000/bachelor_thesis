@@ -49,32 +49,6 @@ with open(f'evaluation/P{num}.{path}.json', mode='r', encoding='utf-8') as input
     df = pd.read_csv('plot/P26.llama_31_8b.csv')
     df.plot()
     plt.show()'''
-    
-
-#scatter plots of guess1 and guess2
-def top2Plot():
-    plt.scatter(range(1,51), list3, s=20, label="Top Prediction")
-    plt.scatter(range(1,51), list3_2, s=20, label="Second Prediction")
-    plt.xlabel("Question Index")
-    plt.ylabel("F1 Score")
-    plt.legend()
-    #plt.show()
-    plt.savefig(f'plot/top2/P{num}.llama_32_3b.x.png', dpi=300)
-
-
-#bar plots of guess1 and guess2 with f1 bertscore >=0.8
-def ratePlot():
-    count = []
-    for x in model_list:
-        x = list(filter(lambda y: y is not None and y >= 0.8, x))
-        count.append(len(x)/50)
-        
-    '''plt.bar(model_name_list, count, color = ['red', 'red', 'orange', 'orange', 'green', 'green', 'blue', 'blue'])
-    plt.xlabel("Model Name")
-    plt.ylabel("Proportion of Predictions")
-    plt.ylim(0,0.8)
-    plt.savefig(f'plot/rate/P{num}.x.png', dpi=300)'''
-    print(count)
 
 
 # scatter plot on the number of score >= 0.8 of guess1 depending on the gap of probabilities between guess1 and guess2
@@ -140,13 +114,23 @@ def gapPlot(num, path, format):
     plt.ylabel("Proportion of Predictions (score ≥ 0.8)")
     plt.savefig(f'plot/gap/P{num}.{path}{format}.png', dpi=300)'''
 
-def check():
-    for i in range(len(model_list)//2):
-        j = 1
-        for first, second in zip(model_list[i*2], model_list[i*2+1]):
-            if first is not None and first >= 0.8 and second is not None and second >= 0.8:
-                print(i," ", j, " ", first, " ", second)
-            j+=1
+def gapAlpha(num, path, format):
+    x = []
+    y = []
+    with open(f'score/P{num}.{path}{format}.json', mode='r', encoding='utf-8') as file:
+        data = json.load(file)
+        for entry in data:
+            if len(entry) == 2:
+                x.append(entry[0]['prob'] - entry[1]['prob'])
+            else:
+                x.append(entry[0]['prob'])
+            y.append(entry[0]['score'])
+    
+    plt.figure()
+    plt.scatter(x, y)
+    plt.xlabel("Gap between Top and Second Prediction")
+    plt.ylabel("score")
+    plt.savefig(f'plot/gap@/P{num}.{path}{format}.png', dpi=300)
 
 # how many of first guess are right
 def first(num, path, format):
@@ -157,6 +141,9 @@ def first(num, path, format):
             if entry[0]['score'] >= 0.8:
                 count+=1
     print(f'{num}',f'{path}',f'{format}', count/50)
+
+def secondBetter(num, path, format):
+    return
 
 #top2Plot()
 #ratePlot()
